@@ -60,18 +60,32 @@ const Projects = () => {
 
 export const project = [
     {
-        title:'Co People',
-        description:'Co People is a dynamic web application I crafted using React, Node JS and React. This project is a modern and engaging social platform that allows users to connect, share content and interact seamlessly.',
-        image: {vpn},
-        git:'https://github.com/nithingooud/CoPeople',
-        technologies:['MongoDb' ,'ReactJS' , 'NodeJS']
+        title: 'Beta-Lactam Resistance Analysis',
+        description: 'This project involved a comprehensive survey and statistical analysis of beta-lactam resistant bacteria in drinking water across Anantapur Urban. I utilized data analysis, statistics, and feature engineering to identify correlations between water sources and the presence of resistant bacteria.',
+        image: 'https://drive.google.com/file/d/1vdmulqHtfm19484JewUoOE5wnJrKgEA0/view?usp=drive_link',
+        git: 'https://github.com/Masterhazi/Beta-Lactam-Resistance-Analysis',
+        technologies: ['Python', 'Data Analysis', 'Statistics', 'Data Visualization']
     },
     {
-        title:'Snap Shot',
-        description:'SnapShot is a stunning portfolio that I exclusively designed using React JS and tailwind CSS.This Project serves as a representation of a photographer’s work, highlighting their portfolio and services.',
-        image: {copeople},
-        git:"https://github.com/nithingooud/vpn_studios",
-        technologies:[ 'React JS', 'tailwind CSS']
+        title: 'Phytochemical Composition Analysis',
+        description: 'In this project, I extracted and analyzed the phytochemical composition of Nelumbo Nucifera seeds. The project aimed to identify antioxidant compounds with potential medicinal value through rigorous data management and analysis.',
+        image: 'https://drive.google.com/file/d/1dSYtryI7zOQLc9ebpCY0fBcK6avSpLUp/view?usp=drive_link',
+        git: 'https://github.com/Masterhazi/Phytochemical-Composition-Analysis',
+        technologies: ['Python', 'Data Management', 'Data Analysis']
+    },
+    {
+        title: 'AIDS Survival Prediction',
+        description: 'This project focused on predicting AIDS patient survival based on their treatment regimens. Using Python and AutoML, I developed a model with a 92% accuracy rate, comparing the effectiveness of monotherapy versus combination therapy.',
+        image: 'https://drive.google.com/file/d/1iFTeBHI81is63vbMwBPTzxJKFYjmx5xX/view?usp=drive_link',
+        git: 'https://github.com/Masterhazi/AIDS-Survival-Prediction',
+        technologies: ['Python', 'Pandas', 'AutoML', 'Machine Learning']
+    },
+    {
+        title: 'Cirrhosis Patient Survival Prediction',
+        description: 'An ongoing project where I am predicting survival outcomes for cirrhosis patients using clinical data. I am employing feature engineering, outlier handling, and data scaling to build predictive models with Scikit-learn.',
+        image: 'https://drive.google.com/file/d/1IfsFDeSX1T7hVcr-qUpWx-6oNJ34QehQ/view?usp=drive_link',
+        git: 'https://github.com/Masterhazi/Liver-Cirrhosis-patient-survival-prediction',
+        technologies: ['Python', 'Scikit-learn', 'Feature Engineering', 'Data Scaling']
     }
 ]
 

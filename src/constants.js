@@ -1,46 +1,33 @@
 
 export const services = [
     {
+        title: "Data Scientist",
+        icon: 'https://csgeeek.github.io/web.png',
+    },
+    {
+        title: "Health Care Professional",
+        icon: 'https://csgeeek.github.io/web.png',
+    },
+    {
         title: "Technology Enthusiast",
-        icon: 'https://csgeeek.github.io/web.png',
-    },
-    {
-        title: "Software Engineer",
-        icon: 'https://csgeeek.github.io/web.png',
-    },
-    {
-        title: "Photographer",
         icon: 'https://csgeeek.github.io/web.png',
     },
 ];
 
-export const name = 'Nithin';
+export const name = 'Hazi Aafrid Baba';
 
 export const experiences = [
     {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
-        'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
+        'company': 'You can be the first one',
+        'role': 'Looking for Data Scientist roles',
+        'duration': 'Let us start right away',
+        'logo': 'https://www.stickergenius.com/wp-content/uploads/2013/10/open_circle_sheet.jpg',
         'points': [
-            'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
-            'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
+            'Need an opportunity to knead this section, isn’t it?',
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': 'https://www.linkedin.com/in/contacthazi/',
     },
-    {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
-        'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
-        'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
-        ],
-        'url': 'https://www.att.com/',
-    },
+    
 ]
 
 

@@ -4,24 +4,24 @@ import 'react-vertical-timeline-component/style.min.css';
 import { experiences } from '../constants';
 import Footer from './Footer';
 
-
 const Experience = () => {
   return (
-    <div className='experience bg-black w-screen text-white pt-4 pt-16 overflow-x-hidden' id='experience'>
-      <div className='pt-12 sm:px-16'>
+    <div className='experience bg-black w-screen text-white pt-4 pt-16 overflow-x-hidden flex flex-col min-h-screen' id='experience'>
+      <div className='pt-12 sm:px-16 flex-grow'>
         <p className='font-light'>MY JOURNEY SO FAR.</p>
         <h2 className='text-4xl sm:text-5xl font-extrabold mt-2'>Work Experience.</h2>
       </div>
-      <VerticalTimeline className='mt-9'>
+      <VerticalTimeline className='mt-9 flex-grow'>
         {experiences.map((experience) => (
           <VerticalTimelineElement
+            key={experience.company} // add key prop for better performance
             className="relative vertical-timeline-element--work"
-            contentStyle={{ background: "#1d1836", color: "#fff", }}
+            contentStyle={{ background: "#1d1836", color: "#fff" }}
             contentArrowStyle={{ borderRight: "7px solid  #232631" }}
             date={experience.duration}
             iconStyle={{ background: '#fff' }}
             icon={
-              <a className='flex justify-center items-center w-full h-full' href={experience.url} target='_blank'>
+              <a className='flex justify-center items-center w-full h-full' href={experience.url} target='_blank' rel="noopener noreferrer">
                 <img
                   src={experience.logo}
                   alt={experience.company}
@@ -53,9 +53,9 @@ const Experience = () => {
           </VerticalTimelineElement>
         ))}
       </VerticalTimeline>
-      <Footer/>
+      <Footer />
     </div>
-  )
+  );
 }
 
 export default Experience;
