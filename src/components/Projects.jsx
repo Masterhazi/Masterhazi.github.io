@@ -53,18 +53,11 @@ const Projects = () => {
 
 export const project = [
     {
-        title: 'Beta-Lactam Resistance Analysis',
-        description: 'This project involved a comprehensive survey and statistical analysis of beta-lactam resistant bacteria in drinking water across Anantapur Urban. I utilized data analysis, statistics, and feature engineering to identify correlations between water sources and the presence of resistant bacteria.',
-        image: 'https://drive.google.com/file/d/1vdmulqHtfm19484JewUoOE5wnJrKgEA0/view?usp=drive_link',
-        git: 'https://github.com/Masterhazi/Beta-Lactam-Resistance-Analysis',
-        technologies: ['Python', 'Data Analysis', 'Statistics', 'Data Visualization']
-    },
-    {
-        title: 'Phytochemical Composition Analysis',
-        description: 'In this project, I extracted and analyzed the phytochemical composition of Nelumbo Nucifera seeds. The project aimed to identify antioxidant compounds with potential medicinal value through rigorous data management and analysis.',
-        image: 'https://drive.google.com/file/d/1dSYtryI7zOQLc9ebpCY0fBcK6avSpLUp/view?usp=drive_link',
-        git: 'https://github.com/Masterhazi/Phytochemical-Composition-Analysis',
-        technologies: ['Python', 'Data Management', 'Data Analysis']
+        title: 'Cirrhosis Patient Survival Prediction',
+        description: 'This project focused on survival outcomes for cirrhosis patients using clinical data. Employing feature engineering, outlier handling, and data scaling to build predictive models with Scikit-learn an RMSE score of 0.2 was obtained.',
+        image: 'https://drive.google.com/file/d/1IfsFDeSX1T7hVcr-qUpWx-6oNJ34QehQ/view?usp=drive_link',
+        git: 'https://github.com/Masterhazi/Liver-Cirrhosis-patient-survival-prediction',
+        technologies: ['Python', 'Scikit-learn', 'Feature Engineering', 'Data Scaling']
     },
     {
         title: 'AIDS Survival Prediction',
@@ -74,11 +67,19 @@ export const project = [
         technologies: ['Python', 'Pandas', 'AutoML', 'Machine Learning']
     },
     {
-        title: 'Cirrhosis Patient Survival Prediction',
-        description: 'An ongoing project where I am predicting survival outcomes for cirrhosis patients using clinical data. I am employing feature engineering, outlier handling, and data scaling to build predictive models with Scikit-learn.',
-        image: 'https://drive.google.com/file/d/1IfsFDeSX1T7hVcr-qUpWx-6oNJ34QehQ/view?usp=drive_link',
-        git: 'https://github.com/Masterhazi/Liver-Cirrhosis-patient-survival-prediction',
-        technologies: ['Python', 'Scikit-learn', 'Feature Engineering', 'Data Scaling']
+        title: 'Phytochemical Composition Analysis',
+        description: 'In this project, I extracted and analyzed the phytochemical composition of Nelumbo Nucifera seeds. The project aimed to identify antioxidant compounds with potential medicinal value through rigorous data management and analysis.',
+        image: 'https://drive.google.com/file/d/1dSYtryI7zOQLc9ebpCY0fBcK6avSpLUp/view?usp=drive_link',
+        git: 'https://github.com/Masterhazi/Phytochemical-Composition-Analysis',
+        technologies: ['Python', 'Data Management', 'Data Analysis']
+    },
+    {
+        title: 'Beta-Lactam Resistance Analysis',
+        description: 'This project involved a comprehensive survey and statistical analysis of beta-lactam resistant bacteria in drinking water across Anantapur Urban. I utilized data analysis, statistics, and feature engineering to identify correlations between water sources and the presence of resistant bacteria.',
+        image: 'https://drive.google.com/file/d/1vdmulqHtfm19484JewUoOE5wnJrKgEA0/view?usp=drive_link',
+        git: 'https://github.com/Masterhazi/Beta-Lactam-Resistance-Analysis',
+        technologies: ['Python', 'Data Analysis', 'Statistics', 'Data Visualization']
+
     }
 ]
 
