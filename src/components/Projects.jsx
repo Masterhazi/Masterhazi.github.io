@@ -37,7 +37,7 @@ const ProjectCard = ({ image, title, description, git, technologies }) => {
 
 const Projects = () => {
     return (
-        <div className="bg-black pt-20"> 
+        <div className="bg-black mt-24"> {/* Added mt-24 for spacing */}
             <div className="container mx-auto p-12 sm:p-6">
                 <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7">
                     {project.map((item, index) => (
