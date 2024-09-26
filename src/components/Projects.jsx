@@ -66,7 +66,7 @@ export const project = [
         description: 'This project analyzes factors influencing student mental health using data science techniques. It explores correlations between academic performance, social media usage, sleep patterns, and mental well-being to identify potential risk factors.', 
         image: 'https://th.bing.com/th/id/R.3f3f03b154caa926a825ced641dd8ca7?rik=wt2xnUCgVA%2b5%2bA&riu=http%3a%2f%2fclipart-library.com%2fnewhp%2f360-3607349_ideas-14-cliparts-for-free-mental-health-png.png&ehk=DRIp6HeBpwTFjVM60aGcQqF5%2fh6DOfiA7ToIHhNGqmk%3d&risl=&pid=ImgRaw&r=0', 
         git: 'https://github.com/Masterhazi/Students-Mental-Health-analysis',
-        technologies: ['Python', 'Data Analysis', 'Mental Health', 'Data Visualization'] 
+        technologies: ['My SQL','Python', 'Data Analysis', 'Mental Health', 'Data Visualization'] 
     },
     {
         title: 'AIDS Survival Prediction',
