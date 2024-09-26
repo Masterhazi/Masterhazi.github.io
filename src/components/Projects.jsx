@@ -18,7 +18,7 @@ const ProjectCard = ({ image, title, description, git, technologies }) => {
                 </a>
                 <p className="font-normal text-sm sm:text-base md:text-lg text-gray-300 dark:text-gray-400">{description}</p>
             </div>
-            <div className='m-2 sm:m-4 lg:m-6 flex justify-between'>
+            <div className='m-2 sm:m-4 lg:m-6 flex justify-between items-center'> 
                 <div className='flex flex-wrap gap-2 pl-2'>
                     {technologies.map((tag, index) => (
                         <p
@@ -29,7 +29,9 @@ const ProjectCard = ({ image, title, description, git, technologies }) => {
                         </p>
                     ))}
                 </div>
-                <a href={git} className="text-red-300 border border-gray-200 rounded-lg shadow p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300">GitHub</a>
+                <div className="text-center"> 
+                    <a href={git} className="text-red-300 border border-gray-200 rounded-lg shadow p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300">GitHub</a>
+                </div> 
             </div>
         </div>
     );
@@ -37,7 +39,7 @@ const ProjectCard = ({ image, title, description, git, technologies }) => {
 
 const Projects = () => {
     return (
-        <div className="bg-black mt-24"> {/* Added mt-24 for spacing */}
+        <div className="bg-black mt-24"> 
             <div className="container mx-auto p-12 sm:p-6">
                 <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7">
                     {project.map((item, index) => (
@@ -58,6 +60,13 @@ export const project = [
         image: 'https://drive.google.com/file/d/1IfsFDeSX1T7hVcr-qUpWx-6oNJ34QehQ/view?usp=drive_link',
         git: 'https://github.com/Masterhazi/Liver-Cirrhosis-patient-survival-prediction',
         technologies: ['Python', 'Scikit-learn', 'Feature Engineering', 'Data Scaling']
+    },
+    {
+        title: 'Students Mental Health Analysis',
+        description: 'This project analyzes factors influencing student mental health using data science techniques. It explores correlations between academic performance, social media usage, sleep patterns, and mental well-being to identify potential risk factors.', 
+        image: 'https://th.bing.com/th/id/R.3f3f03b154caa926a825ced641dd8ca7?rik=wt2xnUCgVA%2b5%2bA&riu=http%3a%2f%2fclipart-library.com%2fnewhp%2f360-3607349_ideas-14-cliparts-for-free-mental-health-png.png&ehk=DRIp6HeBpwTFjVM60aGcQqF5%2fh6DOfiA7ToIHhNGqmk%3d&risl=&pid=ImgRaw&r=0', 
+        git: 'https://github.com/Masterhazi/Students-Mental-Health-analysis',
+        technologies: ['Python', 'Data Analysis', 'Mental Health', 'Data Visualization'] 
     },
     {
         title: 'AIDS Survival Prediction',
