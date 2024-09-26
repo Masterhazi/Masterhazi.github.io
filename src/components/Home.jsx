@@ -50,15 +50,14 @@ const Home = () => {
             <span className="text-yellow-200 font-extrabold">{text}</span>
           </h1>
           <p className="mt-3 text-xl">Believe Before Beginning.</p>
-        </div>
-
-        <button 
+          <button 
           onClick={handleAudioToggle} 
-          className="absolute bottom-10 left-10 p-3 rounded-full bg-white text-black"
+          className="mt-2 px-4 py-2 rounded-full bg-white text-black"
         >
           {audioPlaying ? 'Pause Audio ⏸️' : 'Play Audio ▶️'} 
         </button>
       </div>
+        </div>
 
       <audio ref={audioRef} src="/background.wav" /> 
       <Footer />
