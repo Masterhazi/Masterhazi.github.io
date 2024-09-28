@@ -38,7 +38,7 @@ const About = () => {
               Outside of tech, I have a keen interest in public speaking and leadership, as reflected in my national elocution awards. I also love exploring new challenges and bringing creative ideas to life.</p>
 
             <ButtonLink
-              url='https://drive.google.com/file/d/1cVS_J3Xq5v-h6vDRhK0tjhkQfq6fwlEr/view?usp=drive_link'
+              url='https://drive.google.com/file/d/1ZNQnjhY7-2hkYU19ucPidfFzr5fGzZ_x/view?usp=drive_link'
               text='View Resume →'
               padding={`p-3`}
             />
