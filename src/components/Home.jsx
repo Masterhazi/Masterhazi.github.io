@@ -17,8 +17,22 @@ const Home = () => {
         setText((prevText) => prevText + name[ref.current - 1]);
       }
     }, 500);
-    return () => clearInterval(interval);
-  }, [text]);
+
+    window.addEventListener('wheel', handleScroll);
+
+    return () => {
+      clearInterval(interval);
+      window.removeEventListener('wheel', handleScroll);
+    };
+  }, []); 
+
+  const handleScroll = (event) => {
+    if (window.scrollY === 0 && event.deltaY < 0) {
+      document.getElementById('about').scrollIntoView({
+        behavior: 'smooth' 
+      });
+    }
+  };
 
   const handleAudioToggle = () => {
     if (audioPlaying) {
@@ -51,13 +65,13 @@ const Home = () => {
           </h1>
           <p className="mt-3 text-xl">Believe Before Beginning.</p>
           <button 
-          onClick={handleAudioToggle} 
-          className="mt-2 px-4 py-2 rounded-full bg-white text-black"
-        >
-          {audioPlaying ? 'Pause Audio ⏸️' : 'Play Audio ▶️'} 
-        </button>
-      </div>
+            onClick={handleAudioToggle} 
+            className="mt-2 px-4 py-2 rounded-full bg-white text-black"
+          >
+            {audioPlaying ? 'Pause Audio ⏸️' : 'Play Audio ▶️'} 
+          </button>
         </div>
+      </div>
 
       <audio ref={audioRef} src="/background.wav" /> 
       <Footer />
