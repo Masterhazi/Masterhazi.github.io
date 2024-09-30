@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 import '../App.css';
 import { services } from '../constants';
 import ButtonLink from './ButtonLink';
@@ -28,9 +28,7 @@ const About = () => {
   return (
     <div>
 
-      <div 
-        id="about" 
-        className='bg-black h-full w-full text-white sm:flex sm:justify-around about py-12 mt-8 overflow-x-hidden'>
+      <div className='bg-black h-full w-full text-white sm:flex sm:justify-around about py-12 mt-8 overflow-x-hidden' id='about'>
         <div className='flex flex-col justify-around'>
           <div className='sm:px-16 px-2'>
             <h2 className='text-4xl sm:text-5xl font-extrabold mt-2'>Introduction</h2>
@@ -55,7 +53,7 @@ const About = () => {
       </div>
       <Footer />
     </div>
-  );
+  )
 }
 
 export default About;
