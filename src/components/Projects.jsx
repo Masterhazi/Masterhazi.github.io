@@ -71,8 +71,8 @@ export const project = [
     {
         title: 'Predicting Loan Defaulters - Spartan AI',
         description: 'Developed and deployed "Spartan AI," a machine learning model to predict loan defaulters for a home credit company, improving loan approval accuracy and minimizing financial risk.',
-        image: 'https://raw.githubusercontent.com/Masterhazi/Spartan-AI/refs/heads/main/WhatsApp%20Image%202024-10-05%20at%2000.04.48_96941b43.jpg'
-        git: 'https://github.com/Masterhazi', 
+        image: 'https://raw.githubusercontent.com/Masterhazi/Spartan-AI/refs/heads/main/WhatsApp%20Image%202024-10-05%20at%2000.04.48_96941b43.jpg',
+        Model_Tryout: 'https://huggingface.co/spaces/Masterhazi/spartanai', 
         liveDemo: 'https://hajiafridbaba.wixsite.com/spartan-ai',
         technologies: ['Data Cleaning', 'Feature Selection', 'Data Modeling', 'Data Visualization', 'Tableau', 'Seaborn', 'Matplotlib', 'PowerPoint Presentation', 'SQL', 'MLOps', 'Web Development']
     },
