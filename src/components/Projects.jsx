@@ -36,17 +36,19 @@ const ProjectCard = ({ image, title, description, git, liveDemo, technologies })
                         </p>
                     ))}
                 </div>
-                <div className="text-center"> 
-                    <a href={git} className="text-red-300 border border-gray-200 rounded-lg shadow p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300">GitHub</a>
-                    {liveDemo && ( 
-                        <a href={liveDemo} className="text-red-300 border border-gray-200 rounded-lg shadow ml-2 p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300">
-                            Live Demo
-                        </a>
-                    )}
-                </div> 
-            </div>
+        <div className="text-center">
+          <a href={git} className="text-red-300 border border-gray-200 rounded-lg shadow p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300 block">
+            GitHub
+          </a>
+          {liveDemo && (
+            <a href={liveDemo} className="text-red-300 border border-gray-200 rounded-lg shadow mt-2 p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300 block">
+              Live Demo
+            </a>
+          )}
         </div>
-    );
+      </div>
+    </div>
+  );
 };
 
 const Projects = () => {
