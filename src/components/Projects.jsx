@@ -5,65 +5,48 @@ import Footer from './Footer';
 import './Projects.css'; 
 
 const ProjectCard = ({ image, title, description, git, liveDemo, technologies }) => {
-  return (
-    <div className="bg-gray-900 border border-neutral-100 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 max-w-xs sm:max-w-md md:max-w-lg project-card">
-      {title === 'Snap Shot' && (
-        <a href="#">
-          <img className="w-full rounded-t-lg h-auto object-cover" src={vpn} alt="" />
-        </a>
-      )}
-      {title === 'Co People' && (
-        <a href="#">
-          <img className="w-full rounded-t-lg h-auto object-cover" src={copeople} alt="" />
-        </a>
-      )}
+    return (
+        <div className="bg-gray-900 border border-neutral-100 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 max-w-xs sm:max-w-md md:max-w-lg project-card"> 
+            {title === 'Snap Shot' && (
+                <a href="#">
+                    <img className="w-full rounded-t-lg h-auto object-cover" src={vpn} alt="" />
+                </a>
+            )}
+            {title === 'Co People' && (
+                <a href="#">
+                    <img className="w-full rounded-t-lg h-auto object-cover" src={copeople} alt="" />
+                </a>
+            )}
 
-      <div className="p-4 sm:p-6">
-        <a href={liveDemo || '#'}>
-          <h5 className="text-2xl sm:text-xl md:text-2xl lg:text-3xl font-bold tracking-tight text-white bg-clip-text text-transparent bg-gradient-to-r from-yellow-200 to-pink-500">
-            {title}
-          </h5>
-        </a>
-        <p className="font-normal text-sm sm:text-base md:text-lg text-gray-300 dark:text-gray-400">
-          {description}
-        </p>
-      </div>
-      <div className='m-2 sm:m-4 lg:m-6 flex justify-between items-center'>
-        <div className='flex flex-wrap gap-2 pl-2'>
-          {technologies.map((tag, index) => (
-            <p key={`${index}-${tag}`} className='text-[14px] text-blue-500'>
-              #{tag}
-            </p>
-          ))}
+            <div className="p-4 sm:p-6">
+                <a href={liveDemo || '#'}>
+                    <h5 className="text-2xl sm:text-xl md:text-2xl lg:text-3xl font-bold tracking-tight text-white bg-clip-text text-transparent bg-gradient-to-r from-yellow-200 to-pink-500">
+                        {title}
+                    </h5>
+                </a>
+                <p className="font-normal text-sm sm:text-base md:text-lg text-gray-300 dark:text-gray-400">
+                    {description}
+                </p>
+            </div>
+            <div className='m-2 sm:m-4 lg:m-6 flex justify-between items-center'> 
+                <div className='flex flex-wrap gap-2 pl-2'>
+                    {technologies.map((tag, index) => (
+                        <p key={`${index}-${tag}`} className='text-[14px] text-blue-500'>
+                            #{tag}
+                        </p>
+                    ))}
+                </div>
+                <div className="text-center"> 
+                    <a href={git} className="text-red-300 border border-gray-200 rounded-lg shadow p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300">GitHub</a>
+                    {liveDemo && ( 
+                        <a href={liveDemo} className="text-red-300 border border-gray-200 rounded-lg shadow ml-2 p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300">
+                            Live Demo
+                        </a>
+                    )}
+                </div> 
+            </div>
         </div>
-        <div className="text-center">
-          <a href={git} className="text-red-300 border border-gray-200 rounded-lg shadow p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300 block">
-            GitHub
-          </a>
-          {liveDemo && (
-            <a href={liveDemo} className="text-red-300 border border-gray-200 rounded-lg shadow mt-2 p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300 block">
-              Live Demo
-            </a>
-          )}
-        </div>
-      </div>
-    </div>
-  );
-};
-
-const Projects = () => {
-  return (
-    <div className="bg-black mt-24">
-      <div className="container mx-auto p-12 sm:p-6">
-        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7">
-          {project.map((item, index) => (
-            <ProjectCard key={index} {...item} />
-          ))}
-        </div>
-      </div>
-      <Footer />
-    </div>
-  );
+    );
 };
 
 const Projects = () => {
