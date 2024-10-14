@@ -1,0 +1,8 @@
+
+.project-card { /* Apply this class to your ProjectCard div */
+  transition: transform 0.2s ease; /* Add a smooth transition */
+}
+
+.project-card:hover {
+  transform: scale(1.05); /* Scale up slightly on hover */
+}
