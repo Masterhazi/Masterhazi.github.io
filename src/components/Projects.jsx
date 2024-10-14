@@ -1,36 +1,48 @@
 import React from "react";
-import vpn from '../assets/vpn.png'
-import copeople from '../assets/copeople.png'
-import Footer from './Footer'
+import vpn from '../assets/vpn.png';
+import copeople from '../assets/copeople.png';
+import Footer from './Footer';
+import './Projects.css'; 
 
-const ProjectCard = ({ image, title, description, git, technologies }) => {
+const ProjectCard = ({ image, title, description, git, liveDemo, technologies }) => {
     return (
-        <div className="bg-gray-900 border border-neutral-100 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 max-w-xs sm:max-w-md md:max-w-lg">
-            {title=='Snap Shot' && <a href="#">
-                <img className="w-full rounded-t-lg h-auto object-cover " src={vpn} alt="" />
-            </a>}
-            {title=='Co People' && <a href="#">
-                <img className="w-full rounded-t-lg h-auto object-cover " src={copeople} alt="" />
-            </a>}
-            <div className="p-4 sm:p-6">
+        <div className="bg-gray-900 border border-neutral-100 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 max-w-xs sm:max-w-md md:max-w-lg project-card"> 
+            {title === 'Snap Shot' && (
                 <a href="#">
-                    <h5 className="text-2xl sm:text-xl md:text-2xl lg:text-3xl font-bold tracking-tight text-white bg-clip-text text-transparent bg-gradient-to-r from-yellow-200 to-pink-500">{title}</h5>
+                    <img className="w-full rounded-t-lg h-auto object-cover" src={vpn} alt="" />
                 </a>
-                <p className="font-normal text-sm sm:text-base md:text-lg text-gray-300 dark:text-gray-400">{description}</p>
+            )}
+            {title === 'Co People' && (
+                <a href="#">
+                    <img className="w-full rounded-t-lg h-auto object-cover" src={copeople} alt="" />
+                </a>
+            )}
+
+            <div className="p-4 sm:p-6">
+                <a href={liveDemo || '#'}>
+                    <h5 className="text-2xl sm:text-xl md:text-2xl lg:text-3xl font-bold tracking-tight text-white bg-clip-text text-transparent bg-gradient-to-r from-yellow-200 to-pink-500">
+                        {title}
+                    </h5>
+                </a>
+                <p className="font-normal text-sm sm:text-base md:text-lg text-gray-300 dark:text-gray-400">
+                    {description}
+                </p>
             </div>
             <div className='m-2 sm:m-4 lg:m-6 flex justify-between items-center'> 
                 <div className='flex flex-wrap gap-2 pl-2'>
                     {technologies.map((tag, index) => (
-                        <p
-                            key={`${index}-${tag}`}
-                            className='text-[14px] text-blue-500'
-                        >
+                        <p key={`${index}-${tag}`} className='text-[14px] text-blue-500'>
                             #{tag}
                         </p>
                     ))}
                 </div>
                 <div className="text-center"> 
                     <a href={git} className="text-red-300 border border-gray-200 rounded-lg shadow p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300">GitHub</a>
+                    {liveDemo && ( 
+                        <a href={liveDemo} className="text-red-300 border border-gray-200 rounded-lg shadow ml-2 p-1 sm:p-2 lg:p-3 hover:text-green-500 duration-300">
+                            Live Demo
+                        </a>
+                    )}
                 </div> 
             </div>
         </div>
@@ -50,7 +62,7 @@ const Projects = () => {
             <Footer />
         </div>
     );
-}
+};
 
 
 export const project = [
@@ -89,7 +101,15 @@ export const project = [
         git: 'https://github.com/Masterhazi/Beta-Lactam-Resistance-Analysis',
         technologies: ['Python', 'Data Analysis', 'Statistics', 'Data Visualization']
 
+    },
+    {
+        title: 'Predicting Loan Defaulters - Spartan AI',
+        description: 'Developed and deployed "Spartan AI," a machine learning model to predict loan defaulters for a home credit company, improving loan approval accuracy and minimizing financial risk.',
+        image: '', // Add your project image here if you'd like
+        git: 'https://github.com/Masterhazi', 
+        liveDemo: 'https://hajiafridbaba.wixsite.com/spartan-ai',
+        technologies: ['Data Cleaning', 'Feature Selection', 'Data Modeling', 'Data Visualization', 'Tableau', 'Seaborn', 'Matplotlib', 'PowerPoint Presentation', 'SQL', 'MLOps', 'Web Development']
     }
-]
+];
 
-export default Projects
+export default Projects;
