@@ -1,8 +1,8 @@
-
-.project-card { /* Apply this class to your ProjectCard div */
-  transition: transform 0.2s ease; /* Add a smooth transition */
+.project-card {
+  transition: transform 0.2s ease, box-shadow 0.3s ease; /* Add box-shadow transition */
 }
 
 .project-card:hover {
-  transform: scale(1.05); /* Scale up slightly on hover */
+  transform: scale(1.05); 
+  box-shadow: 0 0 15px rgba(255, 255, 0, 0.5); /* Yellow blur on hover */
 }
