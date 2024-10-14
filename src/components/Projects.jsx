@@ -69,6 +69,15 @@ const Projects = () => {
 
 export const project = [
     {
+        title: 'Predicting Loan Defaulters - Spartan AI',
+        description: 'Developed and deployed "Spartan AI," a machine learning model to predict loan defaulters for a home credit company, improving loan approval accuracy and minimizing financial risk.',
+        image: 'https://raw.githubusercontent.com/Masterhazi/Spartan-AI/refs/heads/main/WhatsApp%20Image%202024-10-05%20at%2000.04.48_96941b43.jpg'
+        git: 'https://github.com/Masterhazi', 
+        liveDemo: 'https://hajiafridbaba.wixsite.com/spartan-ai',
+        technologies: ['Data Cleaning', 'Feature Selection', 'Data Modeling', 'Data Visualization', 'Tableau', 'Seaborn', 'Matplotlib', 'PowerPoint Presentation', 'SQL', 'MLOps', 'Web Development']
+    },
+    
+    {
         title: 'Cirrhosis Patient Survival Prediction',
         description: 'This project focused on survival outcomes for cirrhosis patients using clinical data. Employing feature engineering, outlier handling, and data scaling to build predictive models with Scikit-learn an RMSE score of 0.2 was obtained.',
         image: 'https://drive.google.com/file/d/1IfsFDeSX1T7hVcr-qUpWx-6oNJ34QehQ/view?usp=drive_link',
@@ -103,14 +112,6 @@ export const project = [
         git: 'https://github.com/Masterhazi/Beta-Lactam-Resistance-Analysis',
         technologies: ['Python', 'Data Analysis', 'Statistics', 'Data Visualization']
 
-    },
-    {
-        title: 'Predicting Loan Defaulters - Spartan AI',
-        description: 'Developed and deployed "Spartan AI," a machine learning model to predict loan defaulters for a home credit company, improving loan approval accuracy and minimizing financial risk.',
-        image: '', // Add your project image here if you'd like
-        git: 'https://github.com/Masterhazi', 
-        liveDemo: 'https://hajiafridbaba.wixsite.com/spartan-ai',
-        technologies: ['Data Cleaning', 'Feature Selection', 'Data Modeling', 'Data Visualization', 'Tableau', 'Seaborn', 'Matplotlib', 'PowerPoint Presentation', 'SQL', 'MLOps', 'Web Development']
     }
 ];
 
