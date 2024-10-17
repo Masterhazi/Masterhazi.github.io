@@ -1,6 +1,7 @@
 .hero {
   position: relative;
-  height: 100vh;
+  height: 100vh; 
+  padding: 5vw; /* Dynamic padding: 5% of viewport width on all sides */
 }
 
 .spline-container {
