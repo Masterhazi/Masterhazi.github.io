@@ -1,4 +1,4 @@
-this is my package json: {
+{
   "name": "portfolio-nithin",
   "version": "0.1.0",
   "private": true,
