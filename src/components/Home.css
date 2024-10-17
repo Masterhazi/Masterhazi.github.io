@@ -1,6 +1,6 @@
 .hero {
   position: relative;
-  height: 100vh; /* Make the hero take up full viewport height */
+  height: 100vh;
 }
 
 .spline-container {
