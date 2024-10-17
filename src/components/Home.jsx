@@ -82,7 +82,7 @@ const Home = () => {
           <p className="mt-3 text-xl">Believe Before Beginning.</p>
           <button
             onClick={handleAudioToggle}
-            className="mt-2 px-4 py-2 rounded-full bg-white text-black translucent-button"
+            className="mt-2 px-4 py-2 rounded-full bg-black text-white translucent-button"
           >
             {audioPlaying ? 'Pause Audio ⏸️' : 'Play Audio ▶️'}
           </button>
