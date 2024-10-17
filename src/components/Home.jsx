@@ -74,7 +74,7 @@ const Home = () => {
           {/* Botpress scripts will be loaded here by useEffect */}
         </div> 
 
-        <div className="pt-4 h-36 backdrop-blur-sm rounded-3xl">
+        <div className="pt-4 h-36 rounded-3xl">
           <h1 className="text-6xl sm:text-7xl font-extrabold mt-2">
             Hi, I'm{' '}
             <span className="text-yellow-200 font-extrabold">{text}</span>
