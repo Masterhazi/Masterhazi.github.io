@@ -1,5 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { name } from '../constants';
+import { motion } from "framer-motion";
+import Background from './Background';
 import Footer from './Footer';
 
 const Home = () => {
@@ -15,7 +17,6 @@ const Home = () => {
         setText((prevText) => prevText + name[ref.current - 1]);
       }
     }, 500);
-
 
     // --- Botpress Script Injection ---
     const loadBotpressScript = () => {
@@ -43,31 +44,6 @@ const Home = () => {
 
     return () => {
       clearInterval(interval); 
-    };
-  }, []); 
-
-  
-    const handleScroll = (event) => {
-      // Check if user is scrolling up and close to the bottom of the Home section
-      const isScrollingUp = event.deltaY < 0; // Upward scroll
-      const windowHeight = window.innerHeight;
-      const scrollPosition = window.scrollY + windowHeight;
-
-      // Change this value as needed to determine the "bottom" threshold
-      const bottomThreshold = document.getElementById('hero').offsetHeight;
-
-      if (isScrollingUp && scrollPosition >= bottomThreshold) {
-        document.getElementById('about').scrollIntoView({
-          behavior: 'smooth' 
-        });
-      }
-    };
-
-    window.addEventListener('wheel', handleScroll);
-
-    return () => {
-      clearInterval(interval);
-      window.removeEventListener('wheel', handleScroll);
     };
   }, []); 
 
