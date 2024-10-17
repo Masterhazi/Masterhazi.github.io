@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import Background from './Background';
 import Footer from './Footer';
 import './Home.css';
+import Spline from '@splinetool/react-spline/next'; 
 
 const Home = () => {
   const ref = useRef(0);
@@ -60,17 +61,16 @@ const Home = () => {
   };
 
   return (
-    <div className="area relative z-0 bg-black w-screen h-screen">
+    <div className="area relative z-0 bg-black w-screen h-screen"> 
       <div
         className="hero relative h-[calc(100vh)] flex justify-center items-center text-white"
         id="hero"
       >
         <div className="spline-container">
-          <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.31/build/spline-viewer.js"></script>
-          <spline-viewer url="https://prod.spline.design/oAi1vIcsBJ10XsVs/scene.splinecode"></spline-viewer>
+          <Spline scene="https://prod.spline.design/oAi1vIcsBJ10XsVs/scene.splinecode" />
         </div>
 
-        <div className="botpress-container">
+        <div className="botpress-container" id="botpress-widget-container">
           {/* Botpress scripts will be loaded here by useEffect */}
         </div> 
 
