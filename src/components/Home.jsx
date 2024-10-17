@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import Background from './Background';
 import Footer from './Footer';
 import './Home.css';
-import Spline from '@splinetool/react-spline/next'; 
+import Spline from '@splinetool/react-spline'; 
 
 const Home = () => {
   const ref = useRef(0);
