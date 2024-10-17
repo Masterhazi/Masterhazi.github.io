@@ -3,6 +3,7 @@ import { name } from '../constants';
 import { motion } from "framer-motion";
 import Background from './Background';
 import Footer from './Footer';
+import './Home.css'; // Import your Home-specific CSS
 
 const Home = () => {
   const ref = useRef(0);
@@ -71,6 +72,10 @@ const Home = () => {
         <li></li>
       </ul>
       <div className="hero relative h-[calc(100vh)] flex justify-center items-center text-white" id="hero">
+        <div className="spline-container"> 
+          <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.31/build/spline-viewer.js"></script>
+          <spline-viewer url="https://prod.spline.design/oAi1vIcsBJ10XsVs/scene.splinecode"></spline-viewer>
+        </div>
         <div className="pt-4 h-36 backdrop-blur-sm rounded-3xl">
           <h1 className="text-6xl sm:text-7xl font-extrabold mt-2">
             Hi, I'm 
@@ -79,7 +84,7 @@ const Home = () => {
           <p className="mt-3 text-xl">Believe Before Beginning.</p>
           <button 
             onClick={handleAudioToggle} 
-            className="mt-2 px-4 py-2 rounded-full bg-black text-white"
+            className="mt-2 px-4 py-2 rounded-full bg-white text-black translucent-button"
           >
             {audioPlaying ? 'Pause Audio ⏸️' : 'Play Audio ▶️'} 
           </button>
