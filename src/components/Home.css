@@ -1,5 +1,6 @@
 .hero {
-  position: relative; 
+  position: relative;
+  height: 100vh; /* Make the hero take up full viewport height */
 }
 
 .spline-container {
@@ -10,3 +11,12 @@
   height: 100%;
   z-index: -1; 
 }
+
+.botpress-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2; 
+} 
