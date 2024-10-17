@@ -16,6 +16,37 @@ const Home = () => {
       }
     }, 500);
 
+
+    // --- Botpress Script Injection ---
+    const loadBotpressScript = () => {
+      const script = document.createElement('script');
+      script.src = 'https://cdn.botpress.cloud/webchat/v2.2/inject.js';
+      script.async = true;
+      document.body.appendChild(script);
+
+      script.onload = () => {
+        const secondScript = document.createElement('script');
+        secondScript.src = 'https://files.bpcontent.cloud/2024/10/17/07/20241017075423-K2DOPNVU.js';
+        secondScript.async = true;
+        document.body.appendChild(secondScript);
+      };
+    };
+
+    loadBotpressScript();
+
+    // Cleanup 
+    return () => {
+      const scripts = document.querySelectorAll('script[src^="https://cdn.botpress.cloud"], script[src^="https://files.bpcontent.cloud"]');
+      scripts.forEach(script => script.remove());
+    };
+    // --- End Botpress Script Injection ---
+
+    return () => {
+      clearInterval(interval); 
+    };
+  }, []); 
+
+  
     const handleScroll = (event) => {
       // Check if user is scrolling up and close to the bottom of the Home section
       const isScrollingUp = event.deltaY < 0; // Upward scroll
