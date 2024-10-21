@@ -24,7 +24,11 @@
 
 /* Add this to your Home.css */
 .gradient-text {
-  transition: background 0.3s ease; /* Smooth transition for the background */
+  background: linear-gradient(90deg, #ea89aa, #aa87ea, #87eaea); /* Initial gradient */
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: background 0.5s ease; /* Smooth transition for the background */
 }
 
 
