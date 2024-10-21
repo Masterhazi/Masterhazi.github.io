@@ -24,9 +24,7 @@
 
 /* Add this to your Home.css */
 .gradient-text {
-  background: linear-gradient(90deg, #ea89aa, #aa87ea, #87eaea); /* Example gradient colors */
-  -webkit-background-clip: text; /* Clip background to text */
-  -webkit-text-fill-color: transparent; /* Make text color transparent */
-  transition: background 0.5s ease; /* Smooth transition for color change */
+  transition: background 0.3s ease; /* Smooth transition for the background */
 }
+
 
