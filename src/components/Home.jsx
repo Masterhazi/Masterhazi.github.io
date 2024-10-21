@@ -11,7 +11,6 @@ const Home = () => {
   const [text, setText] = useState('');
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
-  const [gradientColor, setGradientColor] = useState(''); // Default gradient color
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -61,18 +60,8 @@ const Home = () => {
     setAudioPlaying(!audioPlaying);
   };
 
-  // Function to update gradient color based on mouse position
-  const handleMouseMove = (e) => {
-    const { clientX, clientY } = e;
-    const x = Math.round((clientX / window.innerWidth) * 255);
-    const y = Math.round((clientY / window.innerHeight) * 255);
-    
-    // Set the gradient based on mouse position
-    setGradientColor(`linear-gradient(90deg, rgba(${x}, 137, 170, 0.7), rgba(170, ${y}, 234, 0.7))`);
-  };
-
   return (
-    <div className="area relative z-0 bg-black w-screen h-screen" onMouseMove={handleMouseMove}> 
+    <div className="area relative z-0 bg-black w-screen h-screen"> 
       <div
         className="hero relative h-[calc(100vh)] flex justify-center items-center text-white"
         id="hero"
@@ -92,16 +81,7 @@ const Home = () => {
             transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easing
           >
             Hi, I'm{' '}
-            <span 
-              className="font-extrabold" 
-              style={{ 
-                background: gradientColor, 
-                WebkitBackgroundClip: 'text', 
-                color: 'transparent',
-                display: 'inline', // Set to inline so the text doesn't turn into a block
-                transition: 'background 0.3s ease', // Smooth transition for color change
-              }} 
-            >
+            <span className="gradient-text font-extrabold">
               {text}
             </span>
           </motion.h1>
