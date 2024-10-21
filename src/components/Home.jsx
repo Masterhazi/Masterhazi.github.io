@@ -18,7 +18,7 @@ const Home = () => {
         ref.current++;
         setText((prevText) => prevText + name[ref.current - 1]);
       }
-    }, 50);
+    }, 150);
 
     // --- Botpress Script Injection ---
     const loadBotpressScript = () => {
