@@ -53,7 +53,7 @@ const Home = () => {
     return color;
   };
 
-  // Event handler to change the color on mouse move
+  // Event handler to change the color smoothly on mouse move
   const handleMouseMove = () => {
     setColor(getRandomColor());
   };
@@ -91,11 +91,13 @@ const Home = () => {
             transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easing
           >
             Hi, I'm{' '}
-            <motion.span 
-              className="font-extrabold" 
-              style={{ color: color }} // Set dynamic color for the text
-              animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for smoother animation
-              transition={{ duration: 0.5, ease: 'easeInOut' }} 
+            <motion.span
+              className="font-extrabold"
+              animate={{ color }} // Animate color change using framer-motion
+              transition={{
+                duration: 1.2, // Adjust the duration for smooth transitions
+                ease: 'easeInOut' // Make the transition smooth
+              }}
             >
               {text}
             </motion.span>
