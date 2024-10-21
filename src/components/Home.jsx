@@ -60,6 +60,24 @@ const Home = () => {
     setAudioPlaying(!audioPlaying);
   };
 
+  const handleMouseMove = (e) => {
+    const { clientX, clientY } = e;
+    const x = (clientX / window.innerWidth) * 100; // Get x percentage
+    const y = (clientY / window.innerHeight) * 100; // Get y percentage
+    
+    // Update gradient based on mouse position
+    const gradient = `linear-gradient(${x}deg, #ea89aa, #aa87ea, #87eaea)`;
+    document.querySelector('.gradient-text').style.background = gradient;
+  };
+
+  // Add event listener for mouse movement
+  useEffect(() => {
+    window.addEventListener('mousemove', handleMouseMove);
+    return () => {
+      window.removeEventListener('mousemove', handleMouseMove);
+    };
+  }, []);
+
   return (
     <div className="area relative z-0 bg-black w-screen h-screen"> 
       <div
@@ -82,8 +100,7 @@ const Home = () => {
           >
             Hi, I'm{' '}
             <motion.span 
-              className="font-extrabold" 
-              style={{ color: '#ea89aa' }}
+              className="font-extrabold gradient-text" // Updated class for gradient
               animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for a smoother animation
               transition={{ duration: 0.5, ease: 'easeInOut' }} 
             >
