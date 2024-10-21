@@ -104,7 +104,7 @@ const Home = () => {
                 WebkitBackgroundClip: 'text', 
                 WebkitTextFillColor: 'transparent' 
               }} // Use state for gradient
-              animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for a smoother animation
+              animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for a smoother
               transition={{ duration: 0.5, ease: 'easeInOut' }} 
             >
               {text}
