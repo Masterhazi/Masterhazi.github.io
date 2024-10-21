@@ -11,7 +11,7 @@ const Home = () => {
   const [text, setText] = useState('');
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
-  const [gradientColor, setGradientColor] = useState('linear-gradient(90deg, #ea89aa, #aa87ea, #87eaea)');
+  const [gradientStyle, setGradientStyle] = useState({});
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -61,12 +61,18 @@ const Home = () => {
     setAudioPlaying(!audioPlaying);
   };
 
-  // Function to update gradient color based on mouse position
+  // Function to update text shadow based on mouse position
   const handleMouseMove = (e) => {
     const { clientX, clientY } = e;
-    const x = (clientX / window.innerWidth) * 100;
-    const y = (clientY / window.innerHeight) * 100;
-    setGradientColor(`radial-gradient(circle at ${x}% ${y}%, #ea89aa, #aa87ea, #87eaea)`);
+    const x = (clientX / window.innerWidth) * 255; // Scale to 0-255 for RGB
+    const y = (clientY / window.innerHeight) * 255; // Scale to 0-255 for RGB
+    setGradientStyle({
+      textShadow: `
+        ${x}px ${y}px 0 rgba(234, 137, 170, 0.7),
+        ${x - 10}px ${y - 10}px 0 rgba(170, 135, 234, 0.7),
+        ${x - 20}px ${y - 20}px 0 rgba(135, 234, 234, 0.7)
+      `
+    });
   };
 
   return (
@@ -87,15 +93,15 @@ const Home = () => {
           <motion.h1 
             className="text-6xl sm:text-7xl font-extrabold mt-2"
             animate={{ opacity: [0, 1] }} // Smoother fade-in effect
-            transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easin
+            transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easing
           >
             Hi, I'm{' '}
-            <motion.span 
-              className="font-extrabold gradient-text" 
-              style={{ background: gradientColor, WebkitBackgroundClip: 'text', color: 'transparent' }} 
+            <span 
+              className="font-extrabold" 
+              style={gradientStyle} // Apply text shadow style here
             >
               {text}
-            </motion.span>
+            </span>
           </motion.h1>
           <p className="mt-3 text-xl">Believe Before Beginning.</p>
           <button
