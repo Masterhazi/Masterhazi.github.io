@@ -104,11 +104,7 @@ const Home = () => {
                 WebkitBackgroundClip: 'text',
                 backgroundClip: 'text',
                 color: 'transparent', // Make the text transparent to show the gradient
-              }}
-              onMouseEnter={() => setColor(getRandomGradient())} // Change gradient on hover
-              transition={{
-                duration: 0.5,
-                ease: 'easeInOut',
+                transition: 'background 0.5s ease-in-out', // Smooth transition for the background
               }}
             >
               {text}
