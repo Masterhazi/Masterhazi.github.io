@@ -11,7 +11,7 @@ const Home = () => {
   const [text, setText] = useState('');
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
-  const [gradientColor, setGradientColor] = useState('linear-gradient(90deg, #ea89aa, #aa87ea)'); // Default gradient
+  const [gradientColor, setGradientColor] = useState(''); // Default gradient color
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -94,7 +94,12 @@ const Home = () => {
             Hi, I'm{' '}
             <span 
               className="font-extrabold" 
-              style={{ background: gradientColor, WebkitBackgroundClip: 'text', color: 'transparent' }} // Apply gradient color
+              style={{ 
+                background: gradientColor, 
+                WebkitBackgroundClip: 'text', 
+                color: 'transparent',
+                display: 'inline-block' // Change this line to inline-block
+              }} 
             >
               {text}
             </span>
