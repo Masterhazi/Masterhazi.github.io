@@ -77,7 +77,7 @@ const Home = () => {
         <div className="pt-4 h-36 rounded-3xl">
           <motion.h1 
             className="text-6xl sm:text-7xl font-extrabold mt-2"
-            style={{ color: '#fefefe', marginTop: '-30px' }} //added margin
+            style={{ color: '#fefefe', marginTop: '-50px' }} //added margin
             animate={{ opacity: [0, 1] }} // Smoother fade-in effect
             transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easing
           >
