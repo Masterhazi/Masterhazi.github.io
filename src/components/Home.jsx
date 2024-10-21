@@ -1,19 +1,16 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { name } from '../constants';
 import { motion } from 'framer-motion';
-import Background from './Background';
 import Footer from './Footer';
 import './Home.css';
-import Spline from '@splinetool/react-spline';
 
 const Home = () => {
   const ref = useRef(0);
   const [text, setText] = useState('');
+  const [color, setColor] = useState('linear-gradient(90deg, #00BFFF, #1E90FF)'); // Initial gradient
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
-  const [color, setColor] = useState('linear-gradient(90deg, #00BFFF, #1E90FF)'); // Initial gradient
-  const [canChangeColor, setCanChangeColor] = useState(true); // Cooldown state
-
+  
   const gradients = [
     'linear-gradient(90deg, #FF5733, #FFC300)',
     'linear-gradient(90deg, #DAF7A6, #FF33FF)',
@@ -28,27 +25,9 @@ const Home = () => {
         ref.current++;
         setText((prevText) => prevText + name[ref.current - 1]);
       }
-    }, 100);
+    }, 100); // Adjusted interval for text rendering
 
-    const loadBotpressScript = () => {
-      const script = document.createElement('script');
-      script.src = 'https://cdn.botpress.cloud/webchat/v2.2/inject.js';
-      script.async = true;
-      document.body.appendChild(script);
-
-      script.onload = () => {
-        const secondScript = document.createElement('script');
-        secondScript.src = 'https://files.bpcontent.cloud/2024/10/17/07/20241017075423-K2DOPNVU.js';
-        secondScript.async = true;
-        document.body.appendChild(secondScript);
-      };
-    };
-
-    loadBotpressScript();
-
-    return () => {
-      clearInterval(interval);
-    };
+    return () => clearInterval(interval);
   }, []);
 
   const getRandomGradient = () => {
@@ -56,12 +35,7 @@ const Home = () => {
   };
 
   const handleMouseMove = () => {
-    if (canChangeColor) {
-      const newGradient = getRandomGradient();
-      setColor(newGradient); // Set to random gradient
-      setCanChangeColor(false);
-      setTimeout(() => setCanChangeColor(true), 500); // Reset cooldown
-    }
+    setColor(getRandomGradient()); // Update to random gradient on mouse move
   };
 
   const handleAudioToggle = () => {
@@ -78,18 +52,7 @@ const Home = () => {
       className="area relative z-0 bg-black w-screen h-screen"
       onMouseMove={handleMouseMove} // Track mouse movement
     >
-      <div
-        className="hero relative h-[calc(100vh)] flex justify-center items-center text-white"
-        id="hero"
-      >
-        <div className="spline-container">
-          <Spline scene="https://prod.spline.design/oAi1vIcsBJ10XsVs/scene.splinecode" />
-        </div>
-
-        <div className="botpress-container" id="botpress-widget-container">
-          {/* Botpress scripts will be loaded here by useEffect */}
-        </div>
-
+      <div className="hero relative h-full flex justify-center items-center text-white" id="hero">
         <div className="pt-4 h-36 rounded-3xl">
           <motion.h1
             className="text-6xl sm:text-7xl font-extrabold mt-2"
@@ -104,7 +67,11 @@ const Home = () => {
                 WebkitBackgroundClip: 'text',
                 backgroundClip: 'text',
                 color: 'transparent', // Make the text transparent to show the gradient
-                transition: 'background 0.5s ease-in-out', // Smooth transition for the background
+              }}
+              animate={{ background: color }} // Animate gradient change
+              transition={{
+                duration: 1.2,
+                ease: 'easeInOut',
               }}
             >
               {text}
