@@ -18,7 +18,7 @@ const Home = () => {
         ref.current++;
         setText((prevText) => prevText + name[ref.current - 1]);
       }
-    }, 150);
+    }, 100); // Reduced time interval for smoother feel
 
     // --- Botpress Script Injection ---
     const loadBotpressScript = () => {
@@ -75,10 +75,21 @@ const Home = () => {
         </div> 
 
         <div className="pt-4 h-36 rounded-3xl">
-          <h1 className="text-6xl sm:text-7xl font-extrabold mt-2">
+          <motion.h1 
+            className="text-6xl sm:text-7xl font-extrabold mt-2"
+            animate={{ opacity: [0, 1] }} // Smoother fade-in effect
+            transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easing
+          >
             Hi, I'm{' '}
-            <span className="font-extrabold" style={{ color: '#00BFFF' }}>{text}</span>
-          </h1>
+            <motion.span 
+              className="font-extrabold" 
+              style={{ color: '#00BFFF' }}
+              animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for a smoother animation
+              transition={{ duration: 0.5, ease: 'easeInOut' }} 
+            >
+              {text}
+            </motion.span>
+          </motion.h1>
           <p className="mt-3 text-xl">Believe Before Beginning.</p>
           <button
             onClick={handleAudioToggle}
