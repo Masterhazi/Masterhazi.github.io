@@ -105,7 +105,7 @@ const Home = () => {
                 backgroundClip: 'text',
                 color: 'transparent', // Make the text transparent to show the gradient
               }}
-              animate={{ background: color }} // Animate gradient change
+              onMouseEnter={() => setColor(getRandomGradient())} // Change gradient on hover
               transition={{
                 duration: 1.2,
                 ease: 'easeInOut',
