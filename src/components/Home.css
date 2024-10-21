@@ -22,13 +22,3 @@
   height: 100%;
   z-index: -2; 
 }
-
-.hero h1 {
-  position: relative; /* Ensures it is on top of the background */
-  z-index: 1; /* Higher z-index for visibility */
-}
-
-.hero h1 span {
-  position: relative; /* Position the span correctly */
-  z-index: 1; /* Higher z-index to ensure it's above other elements */
-}
