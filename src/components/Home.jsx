@@ -87,7 +87,7 @@ const Home = () => {
           <motion.h1 
             className="text-6xl sm:text-7xl font-extrabold mt-2"
             animate={{ opacity: [0, 1] }} // Smoother fade-in effect
-            transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easing
+            transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easin
           >
             Hi, I'm{' '}
             <motion.span 
