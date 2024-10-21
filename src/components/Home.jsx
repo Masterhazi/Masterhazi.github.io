@@ -98,7 +98,8 @@ const Home = () => {
                 background: gradientColor, 
                 WebkitBackgroundClip: 'text', 
                 color: 'transparent',
-                display: 'inline-block' // Change this line to inline-block
+                display: 'inline', // Set to inline so the text doesn't turn into a block
+                transition: 'background 0.3s ease', // Smooth transition for color change
               }} 
             >
               {text}
