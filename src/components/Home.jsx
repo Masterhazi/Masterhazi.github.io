@@ -11,6 +11,7 @@ const Home = () => {
   const [text, setText] = useState('');
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
+  const [gradientColor, setGradientColor] = useState('linear-gradient(90deg, #ea89aa, #aa87ea, #87eaea)');
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -60,8 +61,16 @@ const Home = () => {
     setAudioPlaying(!audioPlaying);
   };
 
+  // Function to update gradient color based on mouse position
+  const handleMouseMove = (e) => {
+    const { clientX, clientY } = e;
+    const x = (clientX / window.innerWidth) * 100;
+    const y = (clientY / window.innerHeight) * 100;
+    setGradientColor(`radial-gradient(circle at ${x}% ${y}%, #ea89aa, #aa87ea, #87eaea)`);
+  };
+
   return (
-    <div className="area relative z-0 bg-black w-screen h-screen"> 
+    <div className="area relative z-0 bg-black w-screen h-screen" onMouseMove={handleMouseMove}> 
       <div
         className="hero relative h-[calc(100vh)] flex justify-center items-center text-white"
         id="hero"
@@ -83,7 +92,7 @@ const Home = () => {
             Hi, I'm{' '}
             <motion.span 
               className="font-extrabold" 
-              data-text={text} // Added data-text attribute
+              style={{ background: gradientColor, WebkitBackgroundClip: 'text', color: 'transparent' }} 
             >
               {text}
             </motion.span>
