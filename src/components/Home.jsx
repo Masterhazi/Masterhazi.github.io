@@ -9,9 +9,18 @@ import Spline from '@splinetool/react-spline';
 const Home = () => {
   const ref = useRef(0);
   const [text, setText] = useState('');
-  const [color, setColor] = useState('#00BFFF'); // Initial color for the name
+  const [color, setColor] = useState('linear-gradient(90deg, #00BFFF, #1E90FF)'); // Initial gradient for the name
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
+  const [canChangeColor, setCanChangeColor] = useState(true); // Cooldown state
+
+  const gradients = [
+    'linear-gradient(90deg, #FF5733, #FFC300)',
+    'linear-gradient(90deg, #DAF7A6, #FF33FF)',
+    'linear-gradient(90deg, #FF33F6, #335CFF)',
+    'linear-gradient(90deg, #FF8C00, #FFD700)',
+    'linear-gradient(90deg, #00BFFF, #1E90FF)',
+  ];
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -21,7 +30,6 @@ const Home = () => {
       }
     }, 100);
 
-    // --- Botpress Script Injection ---
     const loadBotpressScript = () => {
       const script = document.createElement('script');
       script.src = 'https://cdn.botpress.cloud/webchat/v2.2/inject.js';
@@ -43,19 +51,16 @@ const Home = () => {
     };
   }, []);
 
-  // Function to generate random color
-  const getRandomColor = () => {
-    const letters = '0123456789ABCDEF';
-    let color = '#';
-    for (let i = 0; i < 6; i++) {
-      color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
+  const getRandomGradient = () => {
+    return gradients[Math.floor(Math.random() * gradients.length)];
   };
 
-  // Event handler to change the color smoothly on mouse move
   const handleMouseMove = () => {
-    setColor(getRandomColor());
+    if (canChangeColor) {
+      setColor(getRandomGradient()); // Set to random gradient
+      setCanChangeColor(false);
+      setTimeout(() => setCanChangeColor(true), 500); // Reset cooldown
+    }
   };
 
   const handleAudioToggle = () => {
@@ -71,7 +76,7 @@ const Home = () => {
     <div
       className="area relative z-0 bg-black w-screen h-screen"
       onMouseMove={handleMouseMove} // Track mouse movement
-    > 
+    >
       <div
         className="hero relative h-[calc(100vh)] flex justify-center items-center text-white"
         id="hero"
@@ -82,10 +87,10 @@ const Home = () => {
 
         <div className="botpress-container" id="botpress-widget-container">
           {/* Botpress scripts will be loaded here by useEffect */}
-        </div> 
+        </div>
 
         <div className="pt-4 h-36 rounded-3xl">
-          <motion.h1 
+          <motion.h1
             className="text-6xl sm:text-7xl font-extrabold mt-2"
             animate={{ opacity: [0, 1] }} // Smoother fade-in effect
             transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easing
@@ -93,10 +98,11 @@ const Home = () => {
             Hi, I'm{' '}
             <motion.span
               className="font-extrabold"
-              animate={{ color }} // Animate color change using framer-motion
+              style={{ background: color, WebkitBackgroundClip: 'text', color: 'transparent' }} // Apply gradient background
+              animate={{ background: color }} // Animate gradient change
               transition={{
-                duration: 1.2, // Adjust the duration for smooth transitions
-                ease: 'easeInOut' // Make the transition smooth
+                duration: 1.2,
+                ease: 'easeInOut'
               }}
             >
               {text}
