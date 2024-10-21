@@ -9,9 +9,9 @@ import Spline from '@splinetool/react-spline';
 const Home = () => {
   const ref = useRef(0);
   const [text, setText] = useState('');
-  const [color, setColor] = useState('linear-gradient(90deg, #00BFFF, #1E90FF)'); // Initial gradient for the name
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
+  const [color, setColor] = useState('linear-gradient(90deg, #00BFFF, #1E90FF)'); // Initial gradient
   const [canChangeColor, setCanChangeColor] = useState(true); // Cooldown state
 
   const gradients = [
@@ -107,7 +107,7 @@ const Home = () => {
               }}
               onMouseEnter={() => setColor(getRandomGradient())} // Change gradient on hover
               transition={{
-                duration: 1.2,
+                duration: 0.5,
                 ease: 'easeInOut',
               }}
             >
