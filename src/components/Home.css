@@ -20,15 +20,24 @@
   width: 100%;
   height: 100%;
   z-index: -2; 
-} 
-
-/* Add this to your Home.css */
-.gradient-text {
-  background: linear-gradient(90deg, #ea89aa, #aa87ea, #87eaea); /* Initial gradient */
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  transition: background 0.5s ease; /* Smooth transition for the background */
 }
 
+.font-extrabold {
+  position: relative; /* Position for the pseudo-element */
+  color: transparent; /* Make the text color transparent */
+  display: inline-block; /* Necessary for pseudo-elements to work properly */
+}
 
+.font-extrabold::before {
+  content: attr(data-text); /* Use the text as content */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, #ea89aa, #aa87ea, #87eaea);
+  -webkit-background-clip: text; /* Clip the background to text */
+  background-clip: text; /* Clip the background to text */
+  color: transparent; /* Hide the pseudo-element's text color */
+  transition: background 0.5s ease; /* Smooth transition */
+}
