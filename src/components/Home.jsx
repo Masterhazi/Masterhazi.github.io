@@ -98,7 +98,12 @@ const Home = () => {
             Hi, I'm{' '}
             <motion.span
               className="font-extrabold"
-              style={{ background: color, WebkitBackgroundClip: 'text', color: 'transparent' }} // Apply gradient background
+              style={{ 
+                background: color, // Apply the gradient here
+                WebkitBackgroundClip: 'text', 
+                backgroundClip: 'text', 
+                color: 'transparent' // Make the text transparent to show the gradient
+              }} 
               animate={{ background: color }} // Animate gradient change
               transition={{
                 duration: 1.2,
