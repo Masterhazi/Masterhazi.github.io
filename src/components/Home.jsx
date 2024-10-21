@@ -9,18 +9,10 @@ import Spline from '@splinetool/react-spline';
 const Home = () => {
   const ref = useRef(0);
   const [text, setText] = useState('');
-  const [color, setColor] = useState('linear-gradient(90deg, #00BFFF, #1E90FF)'); // Initial gradient for the name
+  const [color1, setColor1] = useState('#00BFFF'); // First color for gradient
+  const [color2, setColor2] = useState('#FF00FF'); // Second color for gradient
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
-  const [canChangeColor, setCanChangeColor] = useState(true); // Cooldown state
-
-  const gradients = [
-    'linear-gradient(90deg, #FF5733, #FFC300)',
-    'linear-gradient(90deg, #DAF7A6, #FF33FF)',
-    'linear-gradient(90deg, #FF33F6, #335CFF)',
-    'linear-gradient(90deg, #FF8C00, #FFD700)',
-    'linear-gradient(90deg, #00BFFF, #1E90FF)',
-  ];
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -30,6 +22,7 @@ const Home = () => {
       }
     }, 100);
 
+    // Load Botpress script
     const loadBotpressScript = () => {
       const script = document.createElement('script');
       script.src = 'https://cdn.botpress.cloud/webchat/v2.2/inject.js';
@@ -51,16 +44,16 @@ const Home = () => {
     };
   }, []);
 
-  const getRandomGradient = () => {
-    return gradients[Math.floor(Math.random() * gradients.length)];
+  // Function to generate random colors for the gradient
+  const getRandomGradientColors = () => {
+    const colors = ['#FF5733', '#33FF57', '#3357FF', '#F3FF33', '#FF33A1'];
+    setColor1(colors[Math.floor(Math.random() * colors.length)]);
+    setColor2(colors[Math.floor(Math.random() * colors.length)]);
   };
 
+  // Event handler to change the gradient colors on mouse move
   const handleMouseMove = () => {
-    if (canChangeColor) {
-      setColor(getRandomGradient()); // Set to random gradient
-      setCanChangeColor(false);
-      setTimeout(() => setCanChangeColor(true), 500); // Reset cooldown
-    }
+    getRandomGradientColors();
   };
 
   const handleAudioToggle = () => {
@@ -76,7 +69,7 @@ const Home = () => {
     <div
       className="area relative z-0 bg-black w-screen h-screen"
       onMouseMove={handleMouseMove} // Track mouse movement
-    >
+    > 
       <div
         className="hero relative h-[calc(100vh)] flex justify-center items-center text-white"
         id="hero"
@@ -87,10 +80,10 @@ const Home = () => {
 
         <div className="botpress-container" id="botpress-widget-container">
           {/* Botpress scripts will be loaded here by useEffect */}
-        </div>
+        </div> 
 
         <div className="pt-4 h-36 rounded-3xl">
-          <motion.h1
+          <motion.h1 
             className="text-6xl sm:text-7xl font-extrabold mt-2"
             animate={{ opacity: [0, 1] }} // Smoother fade-in effect
             transition={{ duration: 1.5, ease: 'easeInOut' }} // Adjust duration and easing
@@ -98,16 +91,15 @@ const Home = () => {
             Hi, I'm{' '}
             <motion.span
               className="font-extrabold"
-              style={{ 
-                background: color, // Apply the gradient here
-                WebkitBackgroundClip: 'text', 
-                backgroundClip: 'text', 
-                color: 'transparent' // Make the text transparent to show the gradient
-              }} 
-              animate={{ background: color }} // Animate gradient change
+              style={{
+                background: `linear-gradient(90deg, ${color1}, ${color2})`,
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}
+              animate={{ background: `linear-gradient(90deg, ${color1}, ${color2})` }} // Animate gradient colors
               transition={{
-                duration: 1.2,
-                ease: 'easeInOut'
+                duration: 1.5, // Adjust the duration for smooth transitions
+                ease: 'easeInOut', // Make the transition smooth
               }}
             >
               {text}
