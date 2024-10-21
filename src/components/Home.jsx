@@ -11,7 +11,6 @@ const Home = () => {
   const [text, setText] = useState('');
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
-  const [gradient, setGradient] = useState('linear-gradient(90deg, #ea89aa, #aa87ea, #87eaea)'); // Initial gradient
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -61,21 +60,6 @@ const Home = () => {
     setAudioPlaying(!audioPlaying);
   };
 
-  const handleMouseMove = (e) => {
-    const { clientX } = e;
-    const x = (clientX / window.innerWidth) * 360; // Get x percentage for gradient angle
-    const newGradient = `linear-gradient(${x}deg, #ea89aa, #aa87ea, #87eaea)`; // Define the gradient
-    setGradient(newGradient); // Update gradient state
-  };
-
-  // Add event listener for mouse movement
-  useEffect(() => {
-    window.addEventListener('mousemove', handleMouseMove);
-    return () => {
-      window.removeEventListener('mousemove', handleMouseMove);
-    };
-  }, []);
-
   return (
     <div className="area relative z-0 bg-black w-screen h-screen"> 
       <div
@@ -98,14 +82,8 @@ const Home = () => {
           >
             Hi, I'm{' '}
             <motion.span 
-              className="font-extrabold gradient-text" 
-              style={{ 
-                background: gradient, 
-                WebkitBackgroundClip: 'text', 
-                WebkitTextFillColor: 'transparent' 
-              }} // Use state for gradient
-              animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for a smoother
-              transition={{ duration: 0.5, ease: 'easeInOut' }} 
+              className="font-extrabold" 
+              data-text={text} // Added data-text attribute
             >
               {text}
             </motion.span>
