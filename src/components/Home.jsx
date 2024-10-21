@@ -9,18 +9,18 @@ import Spline from '@splinetool/react-spline';
 const Home = () => {
   const ref = useRef(0);
   const [text, setText] = useState('');
+  const [color, setColor] = useState('linear-gradient(90deg, #00BFFF, #1E90FF)'); // Initial gradient for the name
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
-  // const [color, setColor] = useState('linear-gradient(90deg, #00BFFF, #1E90FF)'); // Initial gradient for the name
-  // const [canChangeColor, setCanChangeColor] = useState(true); // Cooldown state
+  const [canChangeColor, setCanChangeColor] = useState(true); // Cooldown state
 
-  // const gradients = [
-  //   'linear-gradient(90deg, #FF5733, #FFC300)',
-  //   'linear-gradient(90deg, #DAF7A6, #FF33FF)',
-  //   'linear-gradient(90deg, #FF33F6, #335CFF)',
-  //   'linear-gradient(90deg, #FF8C00, #FFD700)',
-  //   'linear-gradient(90deg, #00BFFF, #1E90FF)',
-  // ];
+  const gradients = [
+    'linear-gradient(90deg, #FF5733, #FFC300)',
+    'linear-gradient(90deg, #DAF7A6, #FF33FF)',
+    'linear-gradient(90deg, #FF33F6, #335CFF)',
+    'linear-gradient(90deg, #FF8C00, #FFD700)',
+    'linear-gradient(90deg, #00BFFF, #1E90FF)',
+  ];
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -51,17 +51,18 @@ const Home = () => {
     };
   }, []);
 
-  // const getRandomGradient = () => {
-  //   return gradients[Math.floor(Math.random() * gradients.length)];
-  // };
+  const getRandomGradient = () => {
+    return gradients[Math.floor(Math.random() * gradients.length)];
+  };
 
-  // const handleMouseMove = () => {
-  //   if (canChangeColor) {
-  //     setColor(getRandomGradient()); // Set to random gradient
-  //     setCanChangeColor(false);
-  //     setTimeout(() => setCanChangeColor(true), 500); // Reset cooldown
-  //   }
-  // };
+  const handleMouseMove = () => {
+    if (canChangeColor) {
+      const newGradient = getRandomGradient();
+      setColor(newGradient); // Set to random gradient
+      setCanChangeColor(false);
+      setTimeout(() => setCanChangeColor(true), 500); // Reset cooldown
+    }
+  };
 
   const handleAudioToggle = () => {
     if (audioPlaying) {
@@ -75,7 +76,7 @@ const Home = () => {
   return (
     <div
       className="area relative z-0 bg-black w-screen h-screen"
-      // onMouseMove={handleMouseMove} // Track mouse movement
+      onMouseMove={handleMouseMove} // Track mouse movement
     >
       <div
         className="hero relative h-[calc(100vh)] flex justify-center items-center text-white"
@@ -98,18 +99,17 @@ const Home = () => {
             Hi, I'm{' '}
             <motion.span
               className="font-extrabold"
-              // style={{ 
-              //   background: color, // Apply the gradient here
-              //   WebkitBackgroundClip: 'text', 
-              //   backgroundClip: 'text', 
-              //   color: 'transparent' // Make the text transparent to show the gradient
-              // }} 
-              // animate={{ background: color }} // Animate gradient change
-              // transition={{
-              //   duration: 1.2,
-              //   ease: 'easeInOut'
-              // }}
-              style={{ color: '#ea89aa' }} // Set a static color for testing
+              style={{
+                background: color, // Apply the gradient here
+                WebkitBackgroundClip: 'text',
+                backgroundClip: 'text',
+                color: 'transparent', // Make the text transparent to show the gradient
+              }}
+              animate={{ background: color }} // Animate gradient change
+              transition={{
+                duration: 1.2,
+                ease: 'easeInOut',
+              }}
             >
               {text}
             </motion.span>
