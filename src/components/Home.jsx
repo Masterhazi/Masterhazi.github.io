@@ -11,7 +11,7 @@ const Home = () => {
   const [text, setText] = useState('');
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
-  const [gradientStyle, setGradientStyle] = useState({});
+  const [gradientColor, setGradientColor] = useState('linear-gradient(90deg, #ea89aa, #aa87ea)'); // Default gradient
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -61,18 +61,14 @@ const Home = () => {
     setAudioPlaying(!audioPlaying);
   };
 
-  // Function to update text shadow based on mouse position
+  // Function to update gradient color based on mouse position
   const handleMouseMove = (e) => {
     const { clientX, clientY } = e;
-    const x = (clientX / window.innerWidth) * 255; // Scale to 0-255 for RGB
-    const y = (clientY / window.innerHeight) * 255; // Scale to 0-255 for RGB
-    setGradientStyle({
-      textShadow: `
-        ${x}px ${y}px 0 rgba(234, 137, 170, 0.7),
-        ${x - 10}px ${y - 10}px 0 rgba(170, 135, 234, 0.7),
-        ${x - 20}px ${y - 20}px 0 rgba(135, 234, 234, 0.7)
-      `
-    });
+    const x = Math.round((clientX / window.innerWidth) * 255);
+    const y = Math.round((clientY / window.innerHeight) * 255);
+    
+    // Set the gradient based on mouse position
+    setGradientColor(`linear-gradient(90deg, rgba(${x}, 137, 170, 0.7), rgba(170, ${y}, 234, 0.7))`);
   };
 
   return (
@@ -98,7 +94,7 @@ const Home = () => {
             Hi, I'm{' '}
             <span 
               className="font-extrabold" 
-              style={gradientStyle} // Apply text shadow style here
+              style={{ background: gradientColor, WebkitBackgroundClip: 'text', color: 'transparent' }} // Apply gradient color
             >
               {text}
             </span>
