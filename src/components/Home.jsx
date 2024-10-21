@@ -9,6 +9,7 @@ import Spline from '@splinetool/react-spline';
 const Home = () => {
   const ref = useRef(0);
   const [text, setText] = useState('');
+  const [color, setColor] = useState('#00BFFF'); // Initial color for the name
   const [audioPlaying, setAudioPlaying] = useState(false);
   const audioRef = useRef(null);
 
@@ -18,7 +19,7 @@ const Home = () => {
         ref.current++;
         setText((prevText) => prevText + name[ref.current - 1]);
       }
-    }, 150); // Reduced time interval for smoother feel
+    }, 100);
 
     // --- Botpress Script Injection ---
     const loadBotpressScript = () => {
@@ -37,19 +38,25 @@ const Home = () => {
 
     loadBotpressScript();
 
-    // Cleanup 
-    return () => {
-      const scripts = document.querySelectorAll(
-        'script[src^="https://cdn.botpress.cloud"], script[src^="https://files.bpcontent.cloud"]'
-      );
-      scripts.forEach((script) => script.remove());
-    };
-    // --- End Botpress Script Injection ---
-
     return () => {
       clearInterval(interval);
     };
   }, []);
+
+  // Function to generate random color
+  const getRandomColor = () => {
+    const letters = '0123456789ABCDEF';
+    let color = '#';
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  };
+
+  // Event handler to change the color on mouse move
+  const handleMouseMove = () => {
+    setColor(getRandomColor());
+  };
 
   const handleAudioToggle = () => {
     if (audioPlaying) {
@@ -61,7 +68,10 @@ const Home = () => {
   };
 
   return (
-    <div className="area relative z-0 bg-black w-screen h-screen"> 
+    <div
+      className="area relative z-0 bg-black w-screen h-screen"
+      onMouseMove={handleMouseMove} // Track mouse movement
+    > 
       <div
         className="hero relative h-[calc(100vh)] flex justify-center items-center text-white"
         id="hero"
@@ -83,8 +93,8 @@ const Home = () => {
             Hi, I'm{' '}
             <motion.span 
               className="font-extrabold" 
-              style={{ color: '#ea89aa' }}
-              animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for a smoother animation
+              style={{ color: color }} // Set dynamic color for the text
+              animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for smoother animation
               transition={{ duration: 0.5, ease: 'easeInOut' }} 
             >
               {text}
