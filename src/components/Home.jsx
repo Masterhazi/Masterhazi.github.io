@@ -18,7 +18,7 @@ const Home = () => {
         ref.current++;
         setText((prevText) => prevText + name[ref.current - 1]);
       }
-    }, 100); // Reduced time interval for smoother feel
+    }, 150); // Reduced time interval for smoother feel
 
     // --- Botpress Script Injection ---
     const loadBotpressScript = () => {
@@ -83,7 +83,7 @@ const Home = () => {
             Hi, I'm{' '}
             <motion.span 
               className="font-extrabold" 
-              style={{ color: '#00BFFF' }}
+              style={{ color: '#ea89aa' }}
               animate={{ scale: [0.8, 1.2, 1] }} // Adding a scaling effect for a smoother animation
               transition={{ duration: 0.5, ease: 'easeInOut' }} 
             >
