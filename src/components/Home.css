@@ -29,3 +29,9 @@
   color: transparent;
   display: inline; /* Ensure text does not turn into a block */
 }
+
+.custom-heading {
+  color: #4c1149; /* Text color */
+  margin-top: 10px; /* Adjust margin to reposition */
+}
+
