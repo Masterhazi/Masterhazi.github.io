@@ -21,10 +21,3 @@
   height: 100%;
   z-index: -2; 
 }
-
-.gradient-text {
-  display: inline; /* Ensure the text remains inline */
-  background: linear-gradient(90deg, #ea89aa, #aa87ea, #87eaea); /* Default gradient */
-  -webkit-background-clip: text; /* Clip background to text */
-  color: transparent; /* Make text color transparent */
-}
