@@ -161,3 +161,9 @@
 		border-radius: 50%;
 	}
 }
+
+nav { /* Target the <nav> element */
+  background-color: rgba(0, 0, 0, 0.7); /* Black with 70% opacity */
+  backdrop-filter: blur(10px); /* Add a backdrop blur effect */
+  -webkit-backdrop-filter: blur(10px); /* For Safari compatibility */
+}
