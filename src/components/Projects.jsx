@@ -92,11 +92,45 @@ export const project = [
         technologies: ['My SQL','Python', 'Data Analysis', 'Mental Health', 'Data Visualization'] 
     },
     {
+        title: 'MARS: Movie Automated Recommender System',
+        description: 'An AI-powered movie recommendation engine built with Streamlit, Langchain, and Google Generative AI. Provides personalized movie suggestions based on synopsis similarity.',
+        image: 'https://github.com/user-attachments/assets/be9f4e8d-c0a9-41d0-9cf4-bf4a991b4a1f', // Consider replacing with a more specific project image
+        git: 'https://github.com/Masterhazi/Movie-Recommender-System', 
+        liveDemo: 'https://marsmymovie.streamlit.app/',  // Added the live demo link
+        technologies: ['Streamlit', 'Langchain', 'Google Generative AI', 'Python', 'Dotenv']
+    },
+    {
+        title: 'MICA: AI Caption Maker',
+        description: 'A visually appealing web app that uses Google\'s LLM to generate descriptive captions for uploaded or captured images. Offers feedback and poetic notes.',
+        image: 'https://github.com/user-attachments/assets/270bca3d-acd7-412d-9fe9-279bb28bb8bf', // Added the image link
+        git: 'https://github.com/Masterhazi/Image-captioning-model', // Updated GitHub link
+        liveDemo: 'https://micaptions.streamlit.app/', // Added live demo link
+        technologies: ['Streamlit', 'Google Generative AI', 'PIL', 'Python', 'dotenv']
+    },
+
+    {
+      title: 'ASaRI: Article Search and RIS File Generator',
+      description: 'A web application to search scholarly articles from Google Scholar and PubMed, and generate RIS files for citation management.  Includes AI-powered summaries.',
+      image: '', // Add an image URL or path here. A logo or screenshot would be good.
+      git: 'https://github.com/Masterhazi/asarii',
+      liveDemo: 'https://asar-ii.streamlit.app/',
+      technologies: ['Python', 'Streamlit', 'Google Generative AI', 'LangChain', 'Dotenv', 'Requests', 'Scholarly', 'PubMed API']
+    },
+    
+    {
         title: 'AIDS Survival Prediction',
         description: 'This project focused on predicting AIDS patient survival based on their treatment regimens. Using Python and AutoML, I developed a model with a 92% accuracy rate, comparing the effectiveness of monotherapy versus combination therapy.',
         image: 'https://drive.google.com/file/d/1iFTeBHI81is63vbMwBPTzxJKFYjmx5xX/view?usp=drive_link',
         git: 'https://github.com/Masterhazi/AIDS-Survival-Prediction',
         technologies: ['Python', 'Pandas', 'AutoML', 'Machine Learning']
+    },
+    {
+      title: 'svAIsthi: Personalized Health Guidance with AI',
+      description: 'An AI-powered web app that provides personalized guides for using medical devices based on user health history and medication. Uses Google\'s Generative AI.',
+      image: '', // Add an image URL or path here
+      git: 'https://github.com/Masterhazi/svAIsthi',
+      liveDemo: 'https://svaisthi.streamlit.app/',
+      technologies: ['Streamlit', 'Google Generative AI', 'PIL', 'Python']
     },
     {
         title: 'Phytochemical Composition Analysis',
