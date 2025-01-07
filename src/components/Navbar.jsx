@@ -30,6 +30,7 @@ const Navbar = () => {
           <a href="/">Haji Afrid</a>
         </div>
         <div className="hidden sm:flex space-x-4 items-center text-sm">
+          <Link to='/about'>About</Link>
           <Link to='/projects'>Projects</Link>
           <Link to='/experience'>Experience</Link>
           <Link to='/contact'>Contact</Link>
