@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import React, { useState, useEffect } from "react";
+import { Link, useLocation } from "react-router-dom";
 
 const Navbar = () => {
   const [isMobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -15,7 +15,7 @@ const Navbar = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    console.log('Navigated to:', pathname);
+    console.log("Navigated to:", pathname);
   }, [pathname]);
 
   useEffect(() => {
@@ -24,44 +24,51 @@ const Navbar = () => {
         setMobileMenuOpen(false);
       }
     };
-    window.addEventListener('resize', handleResize);
-    return () => window.removeEventListener('resize', handleResize);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   return (
-    <nav className="bg-white-1000 bg-opacity-50 backdrop-blur-lg p-4 text-white fixed w-full z-10 top-0" style={{ cursor: 'default' }}>
+    <nav className="bg-white bg-opacity-50 backdrop-blur-lg p-4 text-black fixed w-full z-10 top-0">
       <div className="mx-auto text-center flex w-5/6 justify-between">
         {/* Desktop Menu */}
         <div className="hidden sm:flex space-x-4 items-center text-sm">
-          <Link to="/">Home</Link>
-          <Link to="/about">About</Link>
+          <Link to="/" className="hover:text-gray-700">Home</Link>
+          <Link to="/about" className="hover:text-gray-700">About</Link>
         </div>
+
         <div className="text-3xl sm:text-2xl font-extrabold">
           <a href="/">Haji Afrid</a>
         </div>
+
         <div className="hidden sm:flex space-x-4 items-center text-sm">
-          <Link to="/projects">Projects</Link>
-          <Link to="/experience">Experience</Link>
-          <Link to="/contact">Contact</Link>
+          <Link to="/projects" className="hover:text-gray-700">Projects</Link>
+          <Link to="/experience" className="hover:text-gray-700">Experience</Link>
+          <Link to="/contact" className="hover:text-gray-700">Contact</Link>
         </div>
 
         {/* Mobile Menu Toggle */}
         <div className="sm:hidden">
-          <button onClick={toggleMobileMenu} className="text-xl focus:outline-none">
-            {isMobileMenuOpen ? '✕' : '☰'}
+          <button 
+            onClick={toggleMobileMenu} 
+            className="text-xl focus:outline-none" 
+            aria-label="Toggle Menu"
+          >
+            {isMobileMenuOpen ? "✕" : "☰"}
           </button>
         </div>
+      </div>
 
-        {/* Mobile Menu */}
-        <div
-          className={`sm:hidden fixed top-0 left-0 w-full h-full bg-gray-800 text-center z-50 ${
-            isMobileMenuOpen ? 'flex flex-col items-center justify-center' : 'hidden'
-          }`}
-        >
-          <button onClick={closeMobileMenu} className="text-xl absolute top-4 right-4 focus:outline-none">
+      {/* Mobile Menu */}
+      {isMobileMenuOpen && (
+        <div className="fixed inset-0 bg-gray-900 bg-opacity-90 text-white flex flex-col items-center justify-center z-50">
+          <button 
+            onClick={closeMobileMenu} 
+            className="text-2xl absolute top-5 right-5 focus:outline-none"
+          >
             ✕
           </button>
-          <ul className="font-medium text-2xl space-y-4">
+          <ul className="font-medium text-2xl space-y-6 text-center">
             <li><Link to="/" onClick={closeMobileMenu}>Home</Link></li>
             <li><Link to="/about" onClick={closeMobileMenu}>About</Link></li>
             <li><Link to="/projects" onClick={closeMobileMenu}>Projects</Link></li>
@@ -69,7 +76,7 @@ const Navbar = () => {
             <li><Link to="/contact" onClick={closeMobileMenu}>Contact</Link></li>
           </ul>
         </div>
-      </div>
+      )}
     </nav>
   );
 };
