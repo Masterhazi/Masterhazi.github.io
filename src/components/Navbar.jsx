@@ -29,7 +29,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav className="bg-white bg-opacity-50 backdrop-blur-lg p-4 text-black fixed w-full z-10 top-0">
+    <nav className="bg-black bg-opacity-50 backdrop-blur-lg p-4 text-white fixed w-full z-10 top-0">
       <div className="mx-auto text-center flex w-5/6 justify-between">
         {/* Desktop Menu */}
         <div className="hidden sm:flex space-x-4 items-center text-sm">
