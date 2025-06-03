@@ -146,6 +146,21 @@ export const project = [
         git: 'https://github.com/Masterhazi/Beta-Lactam-Resistance-Analysis',
         technologies: ['Python', 'Data Analysis', 'Statistics', 'Data Visualization']
 
+    },
+    {
+      title: 'WWE Player Performance Predictive Algorithm',
+      description: 'A predictive model to forecast WWE match winners by combining historical match data with real-time event scraping powered by LLMs. Achieved 61% accuracy on unseen matchups.',
+      image: '', // You'll need to find a good image for this project
+      git: 'https://github.com/Masterhazi/WWE-player-performance-predictive-analysis', // Please provide the correct GitHub repository link
+      technologies: ['Python', 'Pandas', 'Scikit-learn', 'Web Scraping', 'Hugging Face API', 'LLMs (Gemma)', 'BeautifulSoup', 'Data Wrangling']
+    },
+    {
+      title: 'QuickLearnkit',
+      description: 'A lightweight machine learning wrapper designed to simplify model imports and streamline workflows. Offers easy access to common supervised learning models.',
+      image: '', // You'll need to find a suitable image
+      git: 'https://github.com/Masterhazi/quicklearnkit', // Please provide the correct GitHub repository link
+      liveDemo: '', //If there is a Live Demo Provide here
+      technologies: ['Python', 'Machine Learning', 'Library Management']
     }
 ];
 
