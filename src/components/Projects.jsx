@@ -69,6 +69,30 @@ const Projects = () => {
 
 export const project = [
     {
+      title: 'WWE Player Performance Predictive Algorithm',
+      description: 'A predictive model to forecast WWE match winners by combining historical match data with real-time event scraping powered by LLMs. Achieved 61% accuracy on unseen matchups.',
+      image: '', // You'll need to find a good image for this project
+      git: 'https://github.com/Masterhazi/WWE-player-performance-predictive-analysis', // Please provide the correct GitHub repository link
+      technologies: ['Python', 'Pandas', 'Scikit-learn', 'Web Scraping', 'Hugging Face API', 'LLMs (Gemma)', 'BeautifulSoup', 'Data Wrangling']
+    },
+    {
+      title: 'QuickLearnkit',
+      description: 'A lightweight machine learning wrapper designed to simplify model imports and streamline workflows. Offers easy access to common supervised learning models.',
+      image: '', // You'll need to find a suitable image
+      git: 'https://github.com/Masterhazi/quicklearnkit', // Please provide the correct GitHub repository link
+      liveDemo: '', //If there is a Live Demo Provide here
+      technologies: ['Python', 'Machine Learning', 'Library Management']
+    },
+    {
+      title: 'svAIsthi: Personalized Health Guidance with AI',
+      description: 'An AI-powered web app that provides personalized guides for using medical devices based on user health history and medication. Uses Google\'s Generative AI.',
+      image: '', // Add an image URL or path here
+      git: 'https://github.com/Masterhazi/svAIsthi',
+      liveDemo: 'https://svaisthi.streamlit.app/',
+      technologies: ['Streamlit', 'Google Generative AI', 'PIL', 'Python']
+    },
+    
+    {
         title: 'Predicting Loan Defaulters - Spartan AI',
         description: 'Developed and deployed "Spartan AI," a machine learning model to predict loan defaulters for a home credit company, improving loan approval accuracy and minimizing financial risk.',
         image: 'https://raw.githubusercontent.com/Masterhazi/Spartan-AI/refs/heads/main/WhatsApp%20Image%202024-10-05%20at%2000.04.48_96941b43.jpg',
@@ -124,14 +148,7 @@ export const project = [
         git: 'https://github.com/Masterhazi/AIDS-Survival-Prediction',
         technologies: ['Python', 'Pandas', 'AutoML', 'Machine Learning']
     },
-    {
-      title: 'svAIsthi: Personalized Health Guidance with AI',
-      description: 'An AI-powered web app that provides personalized guides for using medical devices based on user health history and medication. Uses Google\'s Generative AI.',
-      image: '', // Add an image URL or path here
-      git: 'https://github.com/Masterhazi/svAIsthi',
-      liveDemo: 'https://svaisthi.streamlit.app/',
-      technologies: ['Streamlit', 'Google Generative AI', 'PIL', 'Python']
-    },
+    
     {
         title: 'Phytochemical Composition Analysis',
         description: 'In this project, I extracted and analyzed the phytochemical composition of Nelumbo Nucifera seeds. The project aimed to identify antioxidant compounds with potential medicinal value through rigorous data management and analysis.',
@@ -146,21 +163,6 @@ export const project = [
         git: 'https://github.com/Masterhazi/Beta-Lactam-Resistance-Analysis',
         technologies: ['Python', 'Data Analysis', 'Statistics', 'Data Visualization']
 
-    },
-    {
-      title: 'WWE Player Performance Predictive Algorithm',
-      description: 'A predictive model to forecast WWE match winners by combining historical match data with real-time event scraping powered by LLMs. Achieved 61% accuracy on unseen matchups.',
-      image: '', // You'll need to find a good image for this project
-      git: 'https://github.com/Masterhazi/WWE-player-performance-predictive-analysis', // Please provide the correct GitHub repository link
-      technologies: ['Python', 'Pandas', 'Scikit-learn', 'Web Scraping', 'Hugging Face API', 'LLMs (Gemma)', 'BeautifulSoup', 'Data Wrangling']
-    },
-    {
-      title: 'QuickLearnkit',
-      description: 'A lightweight machine learning wrapper designed to simplify model imports and streamline workflows. Offers easy access to common supervised learning models.',
-      image: '', // You'll need to find a suitable image
-      git: 'https://github.com/Masterhazi/quicklearnkit', // Please provide the correct GitHub repository link
-      liveDemo: '', //If there is a Live Demo Provide here
-      technologies: ['Python', 'Machine Learning', 'Library Management']
     }
 ];
 
