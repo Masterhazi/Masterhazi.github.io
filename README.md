@@ -40,7 +40,7 @@ Today, this project is less about showcasing my work...
 
 ### Then
 
-![Before](./docs/before.png)
+![Before](src\assets\before.png)
 
 Simple portfolio template.
 
@@ -54,7 +54,7 @@ Basic sections.
 
 ### Now
 
-![After](./docs/after.png)
+![After](src\assets\after.png)
 
 Complete redesign.
 
