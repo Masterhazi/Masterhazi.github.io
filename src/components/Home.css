@@ -1,0 +1,55 @@
+.hero {
+  position: relative;
+  height: 100svh; /* Small viewport height avoids mobile address-bar jump */
+  min-height: 100vh;
+  padding: 5vw;
+}
+
+.spline-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1; 
+}
+
+.botpress-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2; 
+}
+
+/* Gradient Text */
+.gradient-text {
+  background: linear-gradient(90deg, #ea89aa, #aaeaab);
+  -webkit-background-clip: text;
+  color: transparent;
+  display: inline; /* Ensure text does not turn into a block */
+}
+
+.custom-heading {
+  color: #4c1149; /* Text color */
+  margin-top: 10px; /* Adjust margin to reposition */
+}
+
+/* Fluid, no-overflow hero title across all screen widths */
+.hero-title {
+  font-size: clamp(1.9rem, 8vw, 4.5rem);
+  line-height: 1.15;
+  word-break: break-word;
+}
+
+.translucent-button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (max-width: 480px) {
+  .hero {
+    padding: 6vw 4vw;
+  }
+}
+

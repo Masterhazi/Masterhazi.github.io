@@ -1,0 +1,7 @@
+! DOCTYPE html>
+<html>
+body>
+<h1>He110 World</hl>
+p>l'm hosted with GitHub Pages.</p>
+/body>
+/html>
