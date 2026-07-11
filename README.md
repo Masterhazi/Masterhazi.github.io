@@ -40,7 +40,7 @@ Today, this project is less about showcasing my work...
 
 ### Then
 
-![Before](src\assets\before.png)
+![Before](./src/assets/before.png)
 
 Simple portfolio template.
 
