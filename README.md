@@ -54,7 +54,7 @@ Basic sections.
 
 ### Now
 
-![After](src\assets\after.png)
+![After](./src/assets/after.png)
 
 Complete redesign.
 
