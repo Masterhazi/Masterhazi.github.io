@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T14:58:37.680Z",
-  "summary": "This week in AI news, significant developments include Meta removing a controversial AI feature from Instagram, Apple suing OpenAI for alleged trade secret theft, and OpenAI launching its new family of models with GPT-5.6. Other notable stories involve advancements in open source AI, AI-powered hardware, and the integration of AI in various industries.",
-  "insight": "The increasing use of AI in different sectors raises important questions about data privacy, security, and the need for transparent AI practices, highlighting the necessity for responsible AI development and deployment.",
+  "generated_at": "2026-07-11T16:29:24.906Z",
+  "summary": "This week in AI, OpenAI made significant announcements with the launch of GPT-5.6 and ChatGPT Work, while facing legal challenges over trade secrets and copyright issues. Meta removed a controversial AI feature from Instagram and Google will now disclose AI-made ads. Apple sued OpenAI for alleged trade secret theft, and SK Hynix raised $26.5B in the biggest foreign IPO in US history.",
+  "insight": "The increasing integration of AI into various industries is raising important questions about accountability, transparency, and ethics, as seen in the controversies surrounding AI-generated content and the use of AI in decision-making processes.",
   "highlights": [
-    "Meta removes AI feature from Instagram due to backlash",
-    "OpenAI launches GPT-5.6, promising improvements in cybersecurity and performance",
-    "Apple sues OpenAI over alleged trade secret theft related to hardware plans"
+    "OpenAI launched GPT-5.6 and ChatGPT Work, expanding its capabilities in AI-powered productivity",
+    "Meta faced backlash over an AI feature that generated images based on public Instagram accounts, leading to its removal",
+    "Google announced it will disclose which ads are made with AI, enhancing transparency in online advertising"
   ],
   "articles": [
     {
@@ -16,7 +16,17 @@
       "pubDate": "2026-07-10T21:36:51.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Hardware"
+      "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
     },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
@@ -26,17 +36,17 @@
       "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Policy"
     },
     {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -49,14 +59,34 @@
       "category": "Open Source"
     },
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "description": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "pubDate": "Thu, 09 Jul 2026 21:25:55 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
     },
     {
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
@@ -69,6 +99,26 @@
       "category": "Robotics"
     },
     {
+      "title": "Google will now tell you if an ad was made with AI",
+      "description": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "pubDate": "2026-07-09T20:11:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "pubDate": "Thu, 09 Jul 2026 19:05:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
       "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
       "description": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has ",
       "readTime": "1 min read",
@@ -77,56 +127,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "LLMs"
-    },
-    {
-      "title": "Meta’s new AI chips will begin production in September",
-      "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "description": "AI cheating leads to \"a failed society,\" professor says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "pubDate": "Wed, 08 Jul 2026 21:42:44 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-      "description": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tu",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-      "pubDate": "Wed, 08 Jul 2026 15:00:27 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
     }
   ]
 }
