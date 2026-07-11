@@ -37,6 +37,8 @@ async function generate() {
     );
 
     console.log("✅ public/generated/news.json created successfully.");
+    console.log("Done. Exiting...");
+    process.exit(0);
 
   } catch (err) {
     console.error(err);
