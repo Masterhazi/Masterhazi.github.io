@@ -24,12 +24,17 @@ jobs:
           node-version: 20
 
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
 
       - name: Generate News
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: npm run generate-news
+        run: |
+          echo "Starting generation..."
+          date
+          npm run generate-news
+          echo "Finished generation..."
+          date
 
       - name: Commit Updated News
         run: |
