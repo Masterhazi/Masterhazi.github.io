@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { name } from '../constants';
-{/*import { isPresent } from '../constants';*/}
+//import { isPresent } from '../constants';
 import { motion } from 'framer-motion';
 import Footer from './Footer';
 import './Home.css';
