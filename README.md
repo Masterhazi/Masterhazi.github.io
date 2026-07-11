@@ -1,72 +1,208 @@
+<div align="center">
 
-**Cloning an React project and running locally**
+# Hazi Afrid
 
-### 
-### 
+### *Always Believe.*
 
-**Look at the files and folder of the project**
-**Delete node_modules folder and package-lock.json file if exists**
+Building software.
+Learning relentlessly.
+Improving every day.
 
-**Run this following commands**
-### `npm install` 
-this will create node_modules folder and package-lock.json
+<p>
+<a href="https://your-portfolio.vercel.app">Live Website</a> •
+<a href="https://linkedin.com/in/your-profile">LinkedIn</a> •
+<a href="mailto:you@email.com">Email</a>
+</p>
 
-### `npm start` 
-it will start your react app
+</div>
 
-Now go to http://localhost:3000/ to visit your app
+---
 
-### `npm test`
+# The Story
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Most portfolio websites are finished once they're deployed.
 
-### `npm run build`
+Mine wasn't.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+What started as an open-source portfolio slowly evolved into something completely different. Every feature I learned, every design principle I discovered, every bug I fixed, and every late-night refactor found its way into this repository.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Today, this project is less about showcasing my work...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+...and more about showcasing my growth.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Evolution
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<table>
+<tr>
+<td width="50%" align="center">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Then
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Before](./docs/before.png)
 
-## Learn More
+Simple portfolio template.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Minimal customization.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Basic sections.
 
-### Code Splitting
+</td>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<td width="50%" align="center">
 
-### Analyzing the Bundle Size
+### Now
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![After](./docs/after.png)
 
-### Making a Progressive Web App
+Complete redesign.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Modern architecture.
 
-### Advanced Configuration
+AI-powered features.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Custom branding.
 
-### Deployment
+Improved UX.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+</td>
+</tr>
+</table>
 
-### `npm run build` fails to minify
+> The goal was never to make it prettier.
+>
+> The goal was to make it mine.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+# Features
+
+### Design
+
+- Modern minimal interface
+- Custom visual identity
+- Responsive across all devices
+- Fluid animations using Framer Motion
+- Consistent design language
+
+### Engineering
+
+- React architecture
+- Component-driven development
+- Performance optimized
+- Modular codebase
+- Easy scalability
+
+### AI
+
+- Integrated AI chatbot
+- Dynamic interactions
+- Intelligent user assistance
+
+---
+
+# Tech Stack
+
+| Frontend | Backend / AI | Deployment |
+|-----------|--------------|------------|
+| React | JavaScript | Vercel |
+| Framer Motion | Botpress | GitHub |
+| CSS3 | REST APIs | |
+
+---
+
+# Project Structure
+
+```
+src
+├── assets
+├── components
+├── constants
+├── sections
+├── styles
+├── App.jsx
+└── main.jsx
+```
+
+Simple enough to understand.
+
+Flexible enough to grow.
+
+---
+
+# Philosophy
+
+I believe software should feel effortless.
+
+That means writing code that is easy to maintain, interfaces that feel intuitive, and experiences that people remember.
+
+Every animation should have a purpose.
+
+Every interaction should feel natural.
+
+Every pixel should earn its place.
+
+---
+
+# Running Locally
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run
+
+```bash
+npm start
+```
+
+Production build
+
+```bash
+npm run build
+```
+
+---
+
+# Continuous Evolution
+
+This repository doesn't have a final version.
+
+Whenever I learn something new—
+
+whether it's better architecture,
+cleaner animations,
+AI integrations,
+performance optimizations,
+or improved accessibility—
+
+it eventually finds its way here.
+
+---
+
+# Acknowledgements
+
+This project began as inspiration from an open-source portfolio.
+
+Over time it has been extensively redesigned, refactored, expanded, and rebuilt to reflect my own ideas, engineering practices, and design philosophy.
+
+Open source isn't about copying.
+
+It's about learning, improving, and giving ideas a new life.
+
+---
+
+<div align="center">
+
+### Always Believe.
+
+</div>
