@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T09:44:51.972Z",
-  "summary": "This week in AI news, OpenAI's GPT-5.6 model has been released, and the company is expanding its reach into households and workplaces. Meanwhile, Meta has faced backlash over its AI-powered features, and Apple has sued OpenAI for allegedly stealing hardware secrets. The use of AI in various industries, including healthcare and finance, is also on the rise.",
-  "insight": "The increasing use of AI in various industries is leading to a growing need for transparency and accountability, as seen in Google's decision to disclose which ads are made with AI and the controversy surrounding Meta's AI-powered features.",
+  "generated_at": "2026-07-12T13:00:45.183Z",
+  "summary": "This week in AI, significant developments include OpenAI's new family of models, Apple's lawsuit against OpenAI for alleged trade secret theft, and Meta's removal of a controversial AI feature from Instagram. Open source AI continues to grow, with Hugging Face's CEO emphasizing its importance. Regulatory actions, such as the EU's warning to Meta about autoplay and infinite scroll, also made headlines.",
+  "insight": "The intersection of AI and ethics is becoming increasingly prominent, with lawsuits over copyright infringement and concerns about AI-generated content, highlighting the need for clearer guidelines and regulations in the AI industry.",
   "highlights": [
-    "OpenAI's GPT-5.6 model has been released, promising improvements in cybersecurity and other areas",
-    "Meta has faced backlash over its AI-powered features, including the removal of a feature that allowed users to generate AI images based on public Instagram accounts",
-    "Apple has sued OpenAI for allegedly stealing hardware secrets, highlighting the growing competition in the AI industry"
+    "OpenAI launches new family of models with GPT-5.6, promising improvements in cybersecurity and other areas.",
+    "Apple sues OpenAI for allegedly stealing hardware secrets, escalating tensions between tech giants.",
+    "Meta removes AI feature from Instagram after backlash, demonstrating the challenges of integrating AI into social media platforms."
   ],
   "articles": [
     {
@@ -39,6 +39,16 @@
       "category": "Open Source"
     },
     {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
       "title": "OpenAI launches its new family of models with GPT-5.6",
       "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
       "readTime": "1 min read",
@@ -59,6 +69,46 @@
       "category": "Robotics"
     },
     {
+      "title": "The fight against AI data centers is just beginning",
+      "description": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsle",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "pubDate": "2026-07-12T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "description": "Digital Services Act may force Meta to make big changes on its platforms.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "pubDate": "Fri, 10 Jul 2026 15:46:18 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
+      "description": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think w",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "pubDate": "2026-07-10T13:45:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
       "title": "Google will now tell you if an ad was made with AI",
       "description": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The",
       "readTime": "1 min read",
@@ -66,66 +116,16 @@
       "pubDate": "2026-07-09T20:11:38.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "description": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "pubDate": "2026-07-09T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/gpt-5-6",
-      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "description": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "description": "AI cheating leads to \"a failed society,\" professor says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "pubDate": "Wed, 08 Jul 2026 21:42:44 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     },
     {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "description": "Android Bench is evolving, and developers can help guide that process.",
+      "title": "Meta’s new AI chips will begin production in September",
+      "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "pubDate": "Wed, 08 Jul 2026 16:39:48 +0000",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-      "description": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tu",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-      "pubDate": "Wed, 08 Jul 2026 15:00:27 +0000",
-      "image": "",
-      "source": "NVIDIA",
+      "source": "TechCrunch",
       "category": "Hardware"
     }
   ]
