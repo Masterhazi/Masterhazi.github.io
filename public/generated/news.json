@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T16:50:10.829Z",
-  "summary": "This week in AI news, significant developments include Apple's lawsuit against OpenAI for alleged trade secret theft, Meta's removal of a controversial AI feature on Instagram, and OpenAI's launch of its new family of models with GPT-5.6. The industry is also seeing advancements in AI chips, with Meta planning to begin production of its new AI chips in September. Furthermore, there is a growing focus on open-source AI, with Hugging Face's CEO emphasizing its importance.",
-  "insight": "The intersection of AI and human interaction is becoming increasingly prominent, with the development of more sophisticated voice models like GPT-Live and the integration of AI into various aspects of daily life, such as education and healthcare, highlighting the need for responsible AI use and public safety considerations.",
+  "generated_at": "2026-07-12T20:36:31.270Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including OpenAI's new family of models and Meta's AI-powered chips. However, concerns over AI ethics and regulation continue to grow, with lawsuits and sanctions looming over companies like OpenAI and Meta.",
+  "insight": "The increasing use of AI in various industries is leading to a growing need for transparency and accountability, as seen in the lawsuits against OpenAI and Meta, highlighting the importance of responsible AI development and deployment.",
   "highlights": [
-    "Apple sues OpenAI over alleged trade secret theft related to AI hardware development.",
-    "Meta removes a controversial AI feature from Instagram following user backlash, showcasing the challenges of balancing innovation with user concerns.",
-    "OpenAI launches its new family of models, including GPT-5.6, aiming to improve performance across various areas, including cybersecurity."
+    "OpenAI launches its new family of models with GPT-5.6, promising improvements in cybersecurity and other areas.",
+    "Meta is developing AI-powered chips, taking a modular approach to design, anticipating rapid changes in AI technology.",
+    "Lawsuits and sanctions are looming over OpenAI and Meta, highlighting concerns over AI ethics and regulation."
   ],
   "articles": [
     {
@@ -16,67 +16,7 @@
       "pubDate": "2026-07-10T21:36:51.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and d",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "Enterprise"
-    },
-    {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "pubDate": "2026-07-12T16:27:06.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-      "description": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-      "pubDate": "Thu, 09 Jul 2026 20:12:03 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
-    },
-    {
-      "title": "Google will now tell you if an ad was made with AI",
-      "description": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "pubDate": "2026-07-09T20:11:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
     },
     {
       "title": "OpenAI launches its new family of models with GPT-5.6",
@@ -84,6 +24,16 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
@@ -99,16 +49,6 @@
       "category": "Hardware"
     },
     {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and d",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
       "readTime": "1 min read",
@@ -116,17 +56,77 @@
       "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "LLMs"
     },
     {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry ",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "pubDate": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "pubDate": "Thu, 09 Jul 2026 19:05:58 +0000",
       "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "pubDate": "2026-07-12T16:27:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Hardware"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and d",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+      "description": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+      "pubDate": "Thu, 09 Jul 2026 20:12:03 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/gpt-5-6",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
+    },
+    {
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "description": "Digital Services Act may force Meta to make big changes on its platforms.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "pubDate": "Fri, 10 Jul 2026 15:46:18 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "description": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took s",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "pubDate": "2026-07-12T20:10:19.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     }
   ]
 }
