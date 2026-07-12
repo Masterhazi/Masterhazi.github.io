@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-12T01:56:40.916Z",
-  "summary": "This week in AI, OpenAI launched its new family of models with GPT-5.6, promising improvements in various areas. Meanwhile, Meta faced backlash over its AI feature on Instagram, and Apple sued OpenAI for allegedly stealing hardware secrets. Open source AI continues to grow, with Hugging Face's CEO emphasizing its importance.",
-  "insight": "The increasing use of AI in various industries raises concerns about accountability, transparency, and ethics, highlighting the need for responsible AI development and deployment.",
+  "generated_at": "2026-07-12T06:27:22.092Z",
+  "summary": "This week in AI news, OpenAI and Meta are making significant moves in the industry. OpenAI is expanding its reach into households and launching new models, while Meta is removing controversial AI features and entering the AI coding battle. Meanwhile, Apple is suing OpenAI over alleged trade secret theft, and Google is now disclosing which ads are made with AI.",
+  "insight": "The increasing use of AI in various industries is raising concerns about accountability, transparency, and ethics, highlighting the need for responsible AI development and deployment.",
   "highlights": [
-    "OpenAI's GPT-5.6 promises improvements in cybersecurity and other areas",
-    "Meta's AI feature on Instagram sparks controversy and is eventually removed",
-    "Apple sues OpenAI for allegedly stealing hardware secrets, escalating the tech giants' rivalry"
+    "OpenAI is hiring a dedicated product manager to build experiences for families, caregivers, and older adults.",
+    "Meta is turning off the Instagram feature that let users generate AI images based on public accounts.",
+    "Apple is suing OpenAI, alleging that engineers stole Apple secrets to advance OpenAI's hardware plans."
   ],
   "articles": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
     {
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "description": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Appl",
@@ -19,11 +29,21 @@
       "category": "Hardware"
     },
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and d",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
@@ -39,26 +59,6 @@
       "category": "LLMs"
     },
     {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and d",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"W",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
       "description": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
       "readTime": "1 min read",
@@ -67,6 +67,26 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Robotics"
+    },
+    {
+      "title": "Google will now tell you if an ad was made with AI",
+      "description": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "pubDate": "2026-07-09T20:11:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "pubDate": "Thu, 09 Jul 2026 18:34:35 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
       "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
@@ -79,34 +99,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Google will now tell you if an ad was made with AI",
-      "description": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "pubDate": "2026-07-09T20:11:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
+      "link": "https://openai.com/index/gpt-5-6",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "NHS AI blood test could reduce invasive womb cancer checks",
-      "description": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
-      "pubDate": "Thu, 09 Jul 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Research"
+      "source": "OpenAI",
+      "category": "LLMs"
     },
     {
       "title": "ChatGPT is now a partner for your most ambitious work",
