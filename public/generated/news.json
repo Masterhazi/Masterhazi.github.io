@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T14:11:42.293Z",
-  "summary": "This week in AI, significant developments include Apple's lawsuit against OpenAI for alleged trade secret theft, Meta's removal of a controversial AI feature on Instagram, and OpenAI's launch of its new family of models with GPT-5.6. Other notable stories cover the integration of AI into various industries, such as telecommunications and healthcare, as well as concerns over AI-generated content and data privacy.",
-  "insight": "The increasing presence of AI in daily life is raising important questions about data privacy, intellectual property, and the potential for AI-generated content to be used in harmful ways, highlighting the need for clear regulations and guidelines to ensure the responsible development and use of AI technologies.",
+  "generated_at": "2026-07-13T17:49:35.314Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including OpenAI's new family of models and Apple's lawsuit against OpenAI. Other notable stories include the integration of AI into various industries, such as healthcare and finance, and concerns over AI ethics and regulation.",
+  "insight": "The increasing use of AI in various industries raises important questions about the need for effective regulation and ethical considerations to ensure that AI is developed and used responsibly.",
   "highlights": [
-    "Apple sues OpenAI over alleged trade secret theft related to hardware plans.",
-    "Meta removes AI feature from Instagram after backlash over potential misuse.",
-    "OpenAI launches new family of models, including GPT-5.6, promising improved performance and capabilities."
+    "OpenAI launches its new family of models with GPT-5.6, promising improvements in cybersecurity and other areas",
+    "Apple sues OpenAI for allegedly stealing hardware secrets, highlighting the intense competition in the AI industry",
+    "Deutsche Telekom is rewiring telecommunications with AI, demonstrating the potential for AI to transform traditional industries"
   ],
   "articles": [
     {
@@ -16,26 +16,16 @@
       "pubDate": "2026-07-10T21:36:51.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "LLMs"
     },
     {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "description": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unre",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "pubDate": "2026-07-13T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "LLMs"
     },
     {
@@ -49,6 +39,46 @@
       "category": "Hardware"
     },
     {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "description": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positio",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+      "description": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+      "pubDate": "Thu, 09 Jul 2026 20:12:03 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and d",
       "readTime": "1 min read",
@@ -57,16 +87,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Open Source"
-    },
-    {
-      "title": "AI agent crawlers now need permission. Here’s how to get it",
-      "description": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. C",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
-      "pubDate": "Mon, 13 Jul 2026 11:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Policy"
     },
     {
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
@@ -79,34 +99,24 @@
       "category": "Enterprise"
     },
     {
-      "title": "Meta’s new AI chips will begin production in September",
-      "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "title": "Google will now disclose which ads are made with AI",
+      "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google o",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "pubDate": "Thu, 09 Jul 2026 18:40:51 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Hardware"
+      "category": "Policy"
     },
     {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+      "description": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously ",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+      "pubDate": "Thu, 09 Jul 2026 15:43:09 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
+      "source": "AI News",
+      "category": "Research"
     },
     {
       "title": "NHS AI blood test could reduce invasive womb cancer checks",
@@ -117,16 +127,6 @@
       "image": "",
       "source": "AI News",
       "category": "Research"
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/gpt-5-6",
-      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
     }
   ]
 }
