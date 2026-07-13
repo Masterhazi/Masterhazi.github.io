@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T20:36:31.270Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including OpenAI's new family of models and Meta's AI-powered chips. However, concerns over AI ethics and regulation continue to grow, with lawsuits and sanctions looming over companies like OpenAI and Meta.",
-  "insight": "The increasing use of AI in various industries is leading to a growing need for transparency and accountability, as seen in the lawsuits against OpenAI and Meta, highlighting the importance of responsible AI development and deployment.",
+  "generated_at": "2026-07-13T01:58:56.315Z",
+  "summary": "This week in AI, significant developments include OpenAI's new family of models, Apple's lawsuit against OpenAI for alleged trade secret theft, and Meta's removal of a controversial AI feature from Instagram. Open source AI continues to grow, with Hugging Face's CEO emphasizing its importance. Regulatory pressures are mounting, with the EU warning Meta about autoplay and infinite scroll.",
+  "insight": "The intersection of AI and ethics is becoming increasingly prominent, as seen in the backlash against Meta's AI-powered feature on Instagram and the lawsuit against OpenAI for allegedly hiding evidence in a copyright trial.",
   "highlights": [
     "OpenAI launches its new family of models with GPT-5.6, promising improvements in cybersecurity and other areas.",
-    "Meta is developing AI-powered chips, taking a modular approach to design, anticipating rapid changes in AI technology.",
-    "Lawsuits and sanctions are looming over OpenAI and Meta, highlighting concerns over AI ethics and regulation."
+    "Apple sues OpenAI for allegedly stealing hardware secrets, highlighting the intense competition in the AI hardware space.",
+    "Meta removes a controversial AI feature from Instagram after user backlash, demonstrating the challenges of balancing innovation with user concerns."
   ],
   "articles": [
     {
@@ -16,7 +16,7 @@
       "pubDate": "2026-07-10T21:36:51.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Enterprise"
+      "category": "Hardware"
     },
     {
       "title": "OpenAI launches its new family of models with GPT-5.6",
@@ -29,6 +29,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "pubDate": "2026-07-12T16:27:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Hardware"
+    },
+    {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
       "readTime": "1 min read",
@@ -39,44 +49,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Meta’s new AI chips will begin production in September",
-      "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "description": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tag",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "pubDate": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "pubDate": "2026-07-12T16:27:06.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "pubDate": "2026-07-10T23:49:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Hardware"
+      "category": "Policy"
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -89,26 +69,6 @@
       "category": "Open Source"
     },
     {
-      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-      "description": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-      "pubDate": "Thu, 09 Jul 2026 20:12:03 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/gpt-5-6",
-      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
       "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
       "description": "Digital Services Act may force Meta to make big changes on its platforms.",
       "readTime": "1 min read",
@@ -119,14 +79,54 @@
       "category": "Policy"
     },
     {
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "description": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took s",
+      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
+      "description": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think w",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "pubDate": "2026-07-12T20:10:19.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "pubDate": "2026-07-10T13:45:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+      "description": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+      "pubDate": "Thu, 09 Jul 2026 20:12:03 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
+    },
+    {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Meta’s new AI chips will begin production in September",
+      "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
     }
   ]
 }
