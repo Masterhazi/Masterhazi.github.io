@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T01:58:56.315Z",
-  "summary": "This week in AI, significant developments include OpenAI's new family of models, Apple's lawsuit against OpenAI for alleged trade secret theft, and Meta's removal of a controversial AI feature from Instagram. Open source AI continues to grow, with Hugging Face's CEO emphasizing its importance. Regulatory pressures are mounting, with the EU warning Meta about autoplay and infinite scroll.",
-  "insight": "The intersection of AI and ethics is becoming increasingly prominent, as seen in the backlash against Meta's AI-powered feature on Instagram and the lawsuit against OpenAI for allegedly hiding evidence in a copyright trial.",
+  "generated_at": "2026-07-13T06:46:56.935Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including OpenAI's new family of models and Meta's AI-powered chips. However, concerns over AI ethics and regulation continue to grow, with lawsuits and controversies surrounding AI-generated content and data privacy.",
+  "insight": "The increasing use of AI in various industries is leading to a growing need for transparency and accountability in AI development and deployment, with companies like OpenAI and Meta taking steps to address these concerns.",
   "highlights": [
     "OpenAI launches its new family of models with GPT-5.6, promising improvements in cybersecurity and other areas.",
-    "Apple sues OpenAI for allegedly stealing hardware secrets, highlighting the intense competition in the AI hardware space.",
-    "Meta removes a controversial AI feature from Instagram after user backlash, demonstrating the challenges of balancing innovation with user concerns."
+    "Meta removes controversial AI feature on Instagram after backlash, highlighting the need for responsible AI development.",
+    "Apple sues OpenAI for allegedly stealing hardware secrets, showcasing the intense competition in the AI industry."
   ],
   "articles": [
     {
@@ -19,16 +19,6 @@
       "category": "Hardware"
     },
     {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
       "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
       "readTime": "1 min read",
@@ -37,6 +27,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Hardware"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
     },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -59,16 +59,6 @@
       "category": "Policy"
     },
     {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and d",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
       "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
       "description": "Digital Services Act may force Meta to make big changes on its platforms.",
       "readTime": "1 min read",
@@ -77,26 +67,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Policy"
-    },
-    {
-      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-      "description": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think w",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "pubDate": "2026-07-10T13:45:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
@@ -109,16 +79,6 @@
       "category": "Robotics"
     },
     {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
       "title": "Meta’s new AI chips will begin production in September",
       "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
       "readTime": "1 min read",
@@ -127,6 +87,46 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Hardware"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and d",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry ",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "pubDate": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
+    {
+      "title": "NHS AI blood test could reduce invasive womb cancer checks",
+      "description": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
     }
   ]
 }
