@@ -1,32 +1,42 @@
 {
-  "generated_at": "2026-07-14T01:45:40.930Z",
-  "summary": "This week in AI, significant advancements and controversies emerged. Uber's product chief discussed robotaxis, while Apple sued OpenAI over alleged trade secret theft. Anthropic's latest AI discovery and OpenAI's new family of models also made headlines.",
-  "insight": "The increasing integration of AI in various industries, such as transportation and healthcare, highlights the need for responsible AI development and deployment.",
+  "generated_at": "2026-07-14T06:05:16.811Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, with a focus on large language models, robotics, and AI-powered features. Companies like OpenAI, Apple, and Google are making major strides in AI development, while also facing challenges and controversies. The use of AI in various industries, including healthcare and education, is also on the rise.",
+  "insight": "The increasing use of AI in various industries is leading to a growing need for transparency and accountability in AI development, as seen in the recent lawsuits and controversies surrounding AI-powered technologies.",
   "highlights": [
-    "Uber's product chief discusses the company's ambitions in robotaxis and financial services",
-    "Apple sues OpenAI over alleged trade secret theft, escalating tensions between the two companies",
-    "Anthropic's latest AI discovery provides insights into the inner workings of large language models"
+    "OpenAI launches new family of models with GPT-5.6, promising improvements in cybersecurity and other areas.",
+    "Apple sues OpenAI for allegedly stealing hardware secrets, highlighting the growing competition in the AI industry.",
+    "Google updates Android Bench with new LLMs, but Gemini still lags behind, showing the ongoing development of AI-powered technologies."
   ],
   "articles": [
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs ",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lo",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "pubDate": "Tue, 14 Jul 2026 00:45:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs tha",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "pubDate": "Mon, 13 Jul 2026 20:59:00 +0000",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "pubDate": "Tue, 14 Jul 2026 02:46:42 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "description": "Siri AI in iOS 27.\t\n\niOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for qui",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "pubDate": "2026-07-13T20:43:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
     },
     {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
@@ -56,17 +66,17 @@
       "pubDate": "Mon, 13 Jul 2026 15:34:59 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "description": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positio",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
+      "source": "Google DeepMind",
+      "category": "Open Source"
     },
     {
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
@@ -87,16 +97,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
