@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-07-13T20:52:01.851Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including Apple's lawsuit against OpenAI for allegedly stealing trade secrets and the launch of new AI-powered features in various apps. The use of AI in healthcare and education is also on the rise, with AI-powered blood tests and AI-assisted learning tools being developed.",
-  "insight": "The increasing use of AI in various industries is leading to a rise in concerns about AI cheating and the need for more effective methods to detect and prevent it, as seen in the case of the Ivy League professor who ordered an in-person final exam due to suspicions of AI cheating.",
+  "generated_at": "2026-07-14T01:45:40.930Z",
+  "summary": "This week in AI, significant advancements and controversies emerged. Uber's product chief discussed robotaxis, while Apple sued OpenAI over alleged trade secret theft. Anthropic's latest AI discovery and OpenAI's new family of models also made headlines.",
+  "insight": "The increasing integration of AI in various industries, such as transportation and healthcare, highlights the need for responsible AI development and deployment.",
   "highlights": [
-    "Apple sues OpenAI for allegedly stealing trade secrets, highlighting the growing competition in the AI industry.",
-    "New AI-powered features are being launched in various apps, including Waze and Instagram, to improve user experience and provide more personalized services.",
-    "The use of AI in healthcare is on the rise, with AI-powered blood tests being developed to help diagnose diseases such as womb cancer."
+    "Uber's product chief discusses the company's ambitions in robotaxis and financial services",
+    "Apple sues OpenAI over alleged trade secret theft, escalating tensions between the two companies",
+    "Anthropic's latest AI discovery provides insights into the inner workings of large language models"
   ],
   "articles": [
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "pubDate": "Tue, 14 Jul 2026 00:45:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs tha",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "pubDate": "Mon, 13 Jul 2026 20:59:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
       "description": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
@@ -16,7 +36,7 @@
       "pubDate": "Mon, 13 Jul 2026 19:17:51 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "LLMs"
+      "category": "Policy"
     },
     {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
@@ -36,7 +56,7 @@
       "pubDate": "Mon, 13 Jul 2026 15:34:59 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "LLMs"
     },
     {
       "title": "Waze adds new AI-powered features and customization updates",
@@ -46,7 +66,7 @@
       "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "Hardware"
     },
     {
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
@@ -59,13 +79,23 @@
       "category": "Hardware"
     },
     {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "description": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Appl",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "pubDate": "2026-07-10T21:36:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Policy"
     },
     {
@@ -79,34 +109,14 @@
       "category": "Open Source"
     },
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-      "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry ",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "pubDate": "Thu, 09 Jul 2026 20:22:28 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
     },
     {
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
@@ -117,16 +127,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Robotics"
-    },
-    {
-      "title": "NHS AI blood test could reduce invasive womb cancer checks",
-      "description": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
-      "pubDate": "Thu, 09 Jul 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
     }
   ]
 }
