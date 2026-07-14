@@ -1,42 +1,52 @@
 {
-  "generated_at": "2026-07-14T09:49:00.563Z",
-  "summary": "This week in AI, significant advancements were made in LLMs, with OpenAI launching its new family of models, including GPT-5.6. Apple sued OpenAI over alleged trade secret theft, while Anthropic started localizing Claude pricing for India. The industry also saw the rise of open-source AI, with Hugging Face's CEO emphasizing its importance.",
-  "insight": "The increasing focus on open-source AI and the launch of new LLMs indicate a shift towards more collaborative and accessible AI development, which could lead to faster innovation and broader adoption.",
+  "generated_at": "2026-07-14T13:14:03.268Z",
+  "summary": "This week in AI, significant developments include the call for a global AI watchdog, advancements in AI-powered features, and concerns over data center expansion. Apple's lawsuit against OpenAI for alleged trade secret theft also made headlines.",
+  "insight": "The increasing integration of AI into various industries and aspects of life underscores the need for regulatory frameworks and ethical considerations to ensure responsible AI development and deployment.",
   "highlights": [
-    "OpenAI launches GPT-5.6, promising improvements in cybersecurity and other areas",
-    "Apple sues OpenAI over alleged trade secret theft, highlighting the intense competition in the AI industry",
-    "Anthropic starts localizing Claude pricing for India, its biggest market after the US, indicating growing interest in AI adoption globally"
+    "Demis Hassabis advocates for a global AI watchdog led by the US",
+    "New York enacts the first statewide moratorium on new data centers",
+    "Apple sues OpenAI over alleged theft of trade secrets"
   ],
   "articles": [
     {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "description": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\t\n\nDemis Hassabis thinks the world needs an AI watchdog",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "pubDate": "2026-07-14T11:43:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "description": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "pubDate": "2026-07-14T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Hardware"
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
+      "source": "OpenAI",
       "category": "LLMs"
     },
     {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "title": "Siri AI is already changing how I use my iPhone",
+      "description": "Siri AI in iOS 27.\t\n\niOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for qui",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "pubDate": "Mon, 13 Jul 2026 15:34:59 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "pubDate": "2026-07-13T20:43:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     },
     {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
@@ -46,6 +56,56 @@
       "pubDate": "Mon, 13 Jul 2026 19:17:51 +0000",
       "image": "",
       "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valua",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "pubDate": "Mon, 13 Jul 2026 18:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "pubDate": "Mon, 13 Jul 2026 15:34:59 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Robotics"
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "pubDate": "2026-07-12T16:27:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Hardware"
+    },
+    {
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "description": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Appl",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "pubDate": "2026-07-10T21:36:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Policy"
     },
     {
@@ -67,66 +127,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Robotics"
-    },
-    {
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valua",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "pubDate": "Mon, 13 Jul 2026 18:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
-    },
-    {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "pubDate": "2026-07-12T16:27:06.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry ",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "pubDate": "Thu, 09 Jul 2026 20:22:28 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
     }
   ]
 }
