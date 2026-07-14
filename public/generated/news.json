@@ -1,52 +1,82 @@
 {
-  "generated_at": "2026-07-14T17:05:33.834Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including improved language models, increased adoption of AI in various industries, and growing concerns about AI's impact on society. Key developments include Google's revamped image search, Spotify's new AI-powered chat feature, and New York's moratorium on data center construction.",
-  "insight": "The increasing focus on open models and customizable AI solutions suggests a shift towards more transparent and controllable AI technologies, addressing concerns about trust, ownership, and accountability.",
+  "generated_at": "2026-07-14T20:52:20.237Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, ethics, and regulation. Major companies like Meta, Apple, and Google are investing heavily in AI, while also facing lawsuits and criticism over their use of AI. The US military has deployed AI-powered drone boats, and New York has become the first state to halt construction of new data centers.",
+  "insight": "The increasing use of AI in various industries is raising concerns about job displacement, bias, and accountability, highlighting the need for more transparent and regulated AI development and deployment.",
   "highlights": [
-    "Google's new image search uses AI to create personalized galleries based on user interests",
-    "Spotify's AI-powered chat feature allows users to discover music and podcasts through conversational interactions",
-    "New York's data center moratorium highlights growing concerns about the environmental impact of AI infrastructure"
+    "Meta faces lawsuit over alleged use of AI in layoff decisions",
+    "Apple releases iOS 27 public beta with revamped Siri AI",
+    "Google announces changes to image search with more AI-powered features"
   ],
   "articles": [
     {
-      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-      "description": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, t",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "description": "Meta denies using AI to terminate workers with disabilities and medical problems.",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-      "pubDate": "Tue, 14 Jul 2026 16:45:13 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Open Source"
-    },
-    {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "description": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "pubDate": "Tue, 14 Jul 2026 16:28:14 +0000",
+      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "pubDate": "Tue, 14 Jul 2026 20:05:53 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
+      "category": "Policy"
     },
     {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "description": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners e",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "pubDate": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "pubDate": "Tue, 14 Jul 2026 19:42:27 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "LLMs"
     },
     {
-      "title": "Spotify is now an AI chatbot, too",
-      "description": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\t\n\nSpotify is experimenting with a new AI feature that allows Premium subscribers to p",
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "description": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "pubDate": "2026-07-14T15:47:36.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "pubDate": "Tue, 14 Jul 2026 18:33:31 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "pubDate": "Tue, 14 Jul 2026 17:45:55 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "description": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "pubDate": "2026-07-14T17:18:11.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
+      "category": "Policy"
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engine",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "pubDate": "Tue, 14 Jul 2026 16:22:15 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "AWS and Bluesight build AI for hospital 340B compliance",
+      "description": "AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+      "pubDate": "Tue, 14 Jul 2026 15:54:39 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Hardware"
     },
     {
       "title": "New York State halts construction of all new data centers",
@@ -59,26 +89,6 @@
       "category": "Policy"
     },
     {
-      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-      "description": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of thi",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-      "pubDate": "Tue, 14 Jul 2026 15:00:20 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "pubDate": "Tue, 14 Jul 2026 14:37:48 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
       "title": "The real AI race may no longer be at the frontier",
       "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends",
       "readTime": "1 min read",
@@ -86,17 +96,7 @@
       "pubDate": "Tue, 14 Jul 2026 14:24:53 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "description": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "pubDate": "Tue, 14 Jul 2026 14:06:47 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
+      "category": "Open Source"
     },
     {
       "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
@@ -106,27 +106,27 @@
       "pubDate": "2026-07-14T11:43:29.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "Research"
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "description": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "pubDate": "2026-07-14T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Policy"
     },
     {
-      "title": "How sales teams use ChatGPT Work",
-      "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "description": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
       "readTime": "1 min read",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-      "description": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-      "pubDate": "Thu, 09 Jul 2026 20:12:03 +0000",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "pubDate": "Mon, 13 Jul 2026 19:17:51 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Robotics"
+      "category": "LLMs"
     }
   ]
 }
