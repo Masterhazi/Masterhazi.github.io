@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-14T06:05:16.811Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, with a focus on large language models, robotics, and AI-powered features. Companies like OpenAI, Apple, and Google are making major strides in AI development, while also facing challenges and controversies. The use of AI in various industries, including healthcare and education, is also on the rise.",
-  "insight": "The increasing use of AI in various industries is leading to a growing need for transparency and accountability in AI development, as seen in the recent lawsuits and controversies surrounding AI-powered technologies.",
+  "generated_at": "2026-07-14T09:49:00.563Z",
+  "summary": "This week in AI, significant advancements were made in LLMs, with OpenAI launching its new family of models, including GPT-5.6. Apple sued OpenAI over alleged trade secret theft, while Anthropic started localizing Claude pricing for India. The industry also saw the rise of open-source AI, with Hugging Face's CEO emphasizing its importance.",
+  "insight": "The increasing focus on open-source AI and the launch of new LLMs indicate a shift towards more collaborative and accessible AI development, which could lead to faster innovation and broader adoption.",
   "highlights": [
-    "OpenAI launches new family of models with GPT-5.6, promising improvements in cybersecurity and other areas.",
-    "Apple sues OpenAI for allegedly stealing hardware secrets, highlighting the growing competition in the AI industry.",
-    "Google updates Android Bench with new LLMs, but Gemini still lags behind, showing the ongoing development of AI-powered technologies."
+    "OpenAI launches GPT-5.6, promising improvements in cybersecurity and other areas",
+    "Apple sues OpenAI over alleged trade secret theft, highlighting the intense competition in the AI industry",
+    "Anthropic starts localizing Claude pricing for India, its biggest market after the US, indicating growing interest in AI adoption globally"
   ],
   "articles": [
     {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lo",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "pubDate": "Tue, 14 Jul 2026 02:46:42 +0000",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "LLMs"
     },
     {
       "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
@@ -26,37 +26,7 @@
       "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "description": "Siri AI in iOS 27.\t\n\niOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for qui",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "pubDate": "2026-07-13T20:43:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "description": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "pubDate": "Mon, 13 Jul 2026 19:17:51 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valua",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "pubDate": "Mon, 13 Jul 2026 18:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
+      "category": "Enterprise"
     },
     {
       "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
@@ -69,34 +39,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "description": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
       "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "pubDate": "Mon, 13 Jul 2026 19:17:51 +0000",
       "image": "",
-      "source": "Google DeepMind",
-      "category": "Open Source"
-    },
-    {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "pubDate": "2026-07-12T16:27:06.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
+      "source": "Ars Technica",
+      "category": "Policy"
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -109,16 +59,6 @@
       "category": "Open Source"
     },
     {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
       "description": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
       "readTime": "1 min read",
@@ -127,6 +67,66 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Robotics"
+    },
+    {
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valua",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "pubDate": "Mon, 13 Jul 2026 18:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development o",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "pubDate": "2026-07-12T16:27:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Hardware"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry ",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "pubDate": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
     }
   ]
 }
