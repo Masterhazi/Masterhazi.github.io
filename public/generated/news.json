@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T01:41:59.228Z",
-  "summary": "This week in AI news, OpenAI is reportedly launching a screenless speaker and faces a trade secret lawsuit from Apple. Meanwhile, Anthropic's latest AI discovery is making waves, and Google is revamping its image search with more AI. New York has become the first state to halt construction of new data centers, citing concerns over the environmental impact of the AI-driven building boom.",
-  "insight": "The increasing use of AI in various industries is leading to a surge in demand for AI infrastructure, with companies like Reflection AI signing $1 billion compute deals to access more computing power.",
+  "generated_at": "2026-07-15T06:08:48.538Z",
+  "summary": "This week in AI, significant advancements and investments have been made in various sectors, including healthcare, education, and technology. OpenAI's potential launch of a $2B AI drug discovery startup and Apple's lawsuit against OpenAI have made headlines.",
+  "insight": "The increasing trend of AI adoption in diverse industries highlights the need for standardized regulations and ethical considerations to ensure responsible AI development and deployment.",
   "highlights": [
-    "OpenAI researcher Miles Wang is in talks to launch an AI drug discovery startup valued at $2B",
-    "Google is facing another AI training lawsuit from major publishers over copyrighted works",
-    "New York has halted construction of new data centers for a year, citing environmental concerns"
+    "OpenAI researcher Miles Wang is in talks to launch a $2B AI drug discovery startup, indicating growing investor interest in AI applications in life sciences.",
+    "Apple has sued OpenAI over alleged trade secret theft, raising concerns about intellectual property protection in the AI industry.",
+    "New York has become the first state to impose a moratorium on new data center construction, citing environmental and energy consumption concerns related to AI infrastructure."
   ],
   "articles": [
     {
@@ -19,16 +19,6 @@
       "category": "LLMs"
     },
     {
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
       "title": "OpenAI pushes back on Apple trade secret lawsuit",
       "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
       "readTime": "1 min read",
@@ -36,17 +26,7 @@
       "pubDate": "Tue, 14 Jul 2026 22:07:42 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "description": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "pubDate": "2026-07-14T21:26:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Hardware"
+      "category": "LLMs"
     },
     {
       "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
@@ -66,7 +46,7 @@
       "pubDate": "Tue, 14 Jul 2026 18:33:31 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Robotics"
+      "category": "Hardware"
     },
     {
       "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
@@ -79,34 +59,44 @@
       "category": "Research"
     },
     {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "description": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the ",
+      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+      "description": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, t",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "pubDate": "2026-07-14T17:18:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "description": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\t\n\nSpotify is experimenting with a new AI feature that allows Premium subscribers to p",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "pubDate": "2026-07-14T15:47:36.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "description": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "pubDate": "Tue, 14 Jul 2026 15:06:28 +0000",
+      "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+      "pubDate": "Tue, 14 Jul 2026 16:45:13 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "NVIDIA",
+      "category": "Enterprise"
+    },
+    {
+      "title": "AWS and Bluesight build AI for hospital 340B compliance",
+      "description": "AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+      "pubDate": "Tue, 14 Jul 2026 15:54:39 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Enterprise"
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "description": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of hig",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "pubDate": "Tue, 14 Jul 2026 15:17:59 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Policy"
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "pubDate": "Tue, 14 Jul 2026 14:37:48 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
     },
     {
       "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
@@ -126,7 +116,17 @@
       "pubDate": "Mon, 13 Jul 2026 19:17:51 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Policy"
+      "category": "LLMs"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
     }
   ]
 }
