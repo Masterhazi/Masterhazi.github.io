@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T06:08:48.538Z",
-  "summary": "This week in AI, significant advancements and investments have been made in various sectors, including healthcare, education, and technology. OpenAI's potential launch of a $2B AI drug discovery startup and Apple's lawsuit against OpenAI have made headlines.",
-  "insight": "The increasing trend of AI adoption in diverse industries highlights the need for standardized regulations and ethical considerations to ensure responsible AI development and deployment.",
+  "generated_at": "2026-07-15T09:53:28.181Z",
+  "summary": "This week in AI news, major developments include OpenAI's potential launch of a ChatGPT smart speaker, Apple's lawsuit against OpenAI for alleged trade secret theft, and New York's moratorium on new data center construction. These stories highlight the rapid evolution of AI technology and its increasing impact on various industries.",
+  "insight": "The intersection of AI and hardware is becoming increasingly significant, with companies like OpenAI and Apple investing heavily in AI-powered devices and technologies, which could revolutionize the way we interact with information and each other.",
   "highlights": [
-    "OpenAI researcher Miles Wang is in talks to launch a $2B AI drug discovery startup, indicating growing investor interest in AI applications in life sciences.",
-    "Apple has sued OpenAI over alleged trade secret theft, raising concerns about intellectual property protection in the AI industry.",
-    "New York has become the first state to impose a moratorium on new data center construction, citing environmental and energy consumption concerns related to AI infrastructure."
+    "OpenAI's potential ChatGPT smart speaker could change the smart home landscape",
+    "Apple's lawsuit against OpenAI raises questions about trade secret protection in the AI era",
+    "New York's data center moratorium could have far-reaching implications for the AI industry's growth and environmental impact"
   ],
   "articles": [
     {
@@ -19,24 +19,24 @@
       "category": "LLMs"
     },
     {
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "pubDate": "Tue, 14 Jul 2026 22:07:42 +0000",
+      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Hardware"
     },
     {
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "description": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "description": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a ",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "pubDate": "Tue, 14 Jul 2026 20:05:53 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "pubDate": "2026-07-14T21:26:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Hardware"
     },
     {
       "title": "Google faces another AI training lawsuit from major publishers",
@@ -46,7 +46,7 @@
       "pubDate": "Tue, 14 Jul 2026 18:33:31 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Hardware"
+      "category": "Policy"
     },
     {
       "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
@@ -56,7 +56,7 @@
       "pubDate": "Tue, 14 Jul 2026 17:45:55 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
+      "category": "Policy"
     },
     {
       "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
@@ -69,14 +69,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "AWS and Bluesight build AI for hospital 340B compliance",
-      "description": "AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for",
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "description": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepag",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
-      "pubDate": "Tue, 14 Jul 2026 15:54:39 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
+      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "pubDate": "2026-07-14T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     },
     {
       "title": "New York State halts construction of all new data centers",
@@ -106,7 +106,7 @@
       "pubDate": "2026-07-14T11:43:29.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Research"
+      "category": "Policy"
     },
     {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
@@ -116,17 +116,17 @@
       "pubDate": "Mon, 13 Jul 2026 19:17:51 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "LLMs"
+      "category": "Policy"
     },
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
+      "description": "Nokia’s AI-RAN platform arrived on July 15 with a claim worth examining: that it is the industry’s first. The vendor says the platform, built on its anyRAN software and NVIDIA’s Ae",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "link": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
+      "pubDate": "Wed, 15 Jul 2026 08:30:00 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
+      "source": "AI News",
+      "category": "Hardware"
     }
   ]
 }
