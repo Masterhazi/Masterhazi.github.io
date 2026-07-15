@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-15T17:08:17.934Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new hardware devices and the integration of AI into various industries. However, concerns about AI safety, data privacy, and job displacement also emerged. Overall, the AI landscape is rapidly evolving, with both opportunities and challenges on the horizon.",
-  "insight": "The increasing use of AI in various industries is leading to a new era of innovation, but it also raises important questions about the need for regulations and standards to ensure that AI is developed and used responsibly.",
+  "generated_at": "2026-07-15T20:51:39.458Z",
+  "summary": "This week's AI news highlights significant advancements in LLMs, robotics, and AI safety. OpenAI's new flagship model and hardware device have garnered attention, while Anthropic's latest AI discovery has sparked interest. Regulatory efforts and AI applications in various industries are also on the rise.",
+  "insight": "The increasing focus on AI safety and regulation may lead to a shift in the development of more transparent and accountable AI models, potentially changing the landscape of the AI industry.",
   "highlights": [
-    "OpenAI launches its first hardware device, a screenless speaker that can move and interact with users.",
-    "Apple announces a new partnership with Alibaba to bring Apple Intelligence to China, marking a significant expansion of AI services in the region.",
-    "Microsoft patches a record number of security vulnerabilities, citing the use of AI in its discovery process."
+    "OpenAI's new flagship model and hardware device have been announced, with a focus on AI safety and usability.",
+    "Anthropic's latest AI discovery has shown promising results, but its implications are still being debated.",
+    "Regulatory efforts, such as New York's data center moratorium, may impact the growth of the AI industry and lead to increased scrutiny of AI development."
   ],
   "articles": [
     {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "pubDate": "Wed, 15 Jul 2026 16:20:18 +0000",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "source": "MIT Technology Review",
+      "category": "LLMs"
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "description": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding a",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Hardware"
     },
     {
       "title": "The US is advancing AI safety through state and federal action",
@@ -39,11 +39,11 @@
       "category": "Policy"
     },
     {
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "description": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "pubDate": "Wed, 15 Jul 2026 16:20:18 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
@@ -59,53 +59,23 @@
       "category": "Robotics"
     },
     {
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "description": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "pubDate": "Wed, 15 Jul 2026 00:27:04 +0000",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
+      "source": "OpenAI",
       "category": "Research"
     },
     {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "description": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a ",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "description": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engine",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "pubDate": "2026-07-14T21:26:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "description": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners e",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "pubDate": "Tue, 14 Jul 2026 19:42:27 +0000",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "pubDate": "Tue, 14 Jul 2026 17:45:55 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-      "description": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, t",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-      "pubDate": "Tue, 14 Jul 2026 16:45:13 +0000",
-      "image": "",
-      "source": "NVIDIA",
       "category": "Enterprise"
     },
     {
@@ -126,7 +96,37 @@
       "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
       "image": "",
       "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "description": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "pubDate": "Wed, 15 Jul 2026 00:27:04 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "description": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "pubDate": "Tue, 14 Jul 2026 16:28:14 +0000",
+      "image": "",
+      "source": "Ars Technica",
       "category": "General"
+    },
+    {
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "description": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "pubDate": "Tue, 14 Jul 2026 15:06:28 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
     }
   ]
 }
