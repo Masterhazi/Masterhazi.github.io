@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-07-16T10:00:21.341Z",
-  "summary": "This week's AI news highlights significant advancements in various sectors, including the introduction of new hardware and models. OpenAI's GPT-Red and NVIDIA's Jetson Thor are notable examples. The industry is also seeing increased focus on AI safety, ethics, and governance.",
-  "insight": "The development of AI models like GPT-Red, which can test and improve the robustness of other models, demonstrates the growing importance of AI safety and security in the industry.",
+  "generated_at": "2026-07-16T13:25:29.770Z",
+  "summary": "This week's AI news highlights significant advancements in various sectors, including Apple's approval for launch in China, Google's order to open Android and Search to rivals in Europe, and NVIDIA's introduction of new Jetson Thor computers for mainstream robotics and edge AI. These developments demonstrate the growing importance of AI in shaping the future of technology and industry.",
+  "insight": "The increasing adoption of AI in various industries is leading to a shift towards more specialized and customized AI solutions, with companies like Anthropic and OpenAI focusing on implementation and deployment of AI models rather than just developing them.",
   "highlights": [
-    "OpenAI introduces GPT-Red, an LLM super-hacker to improve model safety",
-    "NVIDIA launches Jetson Thor for mainstream robotics and edge AI",
-    "Applied Computing raises $20M to build a foundation AI model for the oil and gas industry"
+    "Apple's AI ambitions in China have taken a significant step forward with the approval for launch in the country.",
+    "Google has been ordered to open Android and Google Search to rival AI assistants and search engines in Europe, promoting competition and innovation.",
+    "NVIDIA's new Jetson Thor computers are set to advance mainstream robotics and edge AI, enabling more efficient and powerful AI processing in various industries."
   ],
   "articles": [
     {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "pubDate": "Thu, 16 Jul 2026 13:17:59 +0000",
       "image": "",
-      "source": "MIT Technology Review",
-      "category": "LLMs"
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
@@ -26,27 +36,47 @@
       "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Robotics"
+      "category": "Hardware"
     },
     {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "title": "Claude can now use your 1Password credentials for you",
+      "description": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for ",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "pubDate": "2026-07-16T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "Google DeepMind",
+      "category": "Research"
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying mo",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat",
       "category": "Enterprise"
     },
     {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding a",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "description": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engine",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Hardware"
+      "category": "Enterprise"
     },
     {
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
@@ -57,6 +87,16 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Policy"
     },
     {
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
@@ -79,26 +119,6 @@
       "category": "Research"
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the fu",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "pubDate": "Wed, 15 Jul 2026 10:51:37 +0000",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/warpage_0713-2.mp4",
-      "source": "NVIDIA",
-      "category": "Robotics"
-    },
-    {
       "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
       "description": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, t",
       "readTime": "1 min read",
@@ -107,26 +127,6 @@
       "image": "",
       "source": "NVIDIA",
       "category": "Enterprise"
-    },
-    {
-      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-      "description": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of thi",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-      "pubDate": "Tue, 14 Jul 2026 15:00:20 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Policy"
     }
   ]
 }
