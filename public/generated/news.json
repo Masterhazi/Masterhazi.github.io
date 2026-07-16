@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-07-15T20:51:39.458Z",
-  "summary": "This week's AI news highlights significant advancements in LLMs, robotics, and AI safety. OpenAI's new flagship model and hardware device have garnered attention, while Anthropic's latest AI discovery has sparked interest. Regulatory efforts and AI applications in various industries are also on the rise.",
-  "insight": "The increasing focus on AI safety and regulation may lead to a shift in the development of more transparent and accountable AI models, potentially changing the landscape of the AI industry.",
+  "generated_at": "2026-07-16T01:52:00.333Z",
+  "summary": "This week in AI, major advancements were made in various sectors, including robotics, LLMs, and enterprise AI. OpenAI released its first branded hardware, a light-up keyboard, while NVIDIA introduced new Jetson Thor computers for mainstream robotics and edge AI. Microsoft is training salespeople to promote its in-house AI models, and Anthropic is betting on AI services as the future of enterprise.",
+  "insight": "The increasing focus on AI safety and governance is a key trend, with OpenAI outlining a 'reverse federalism' approach and the US advancing AI safety through state and federal action, highlighting the need for a balanced approach to AI development and deployment.",
   "highlights": [
-    "OpenAI's new flagship model and hardware device have been announced, with a focus on AI safety and usability.",
-    "Anthropic's latest AI discovery has shown promising results, but its implications are still being debated.",
-    "Regulatory efforts, such as New York's data center moratorium, may impact the growth of the AI industry and lead to increased scrutiny of AI development."
+    "OpenAI releases its first branded hardware, a light-up keyboard for Codex",
+    "NVIDIA introduces new Jetson Thor computers for mainstream robotics and edge AI",
+    "Microsoft trains salespeople to promote its in-house AI models as more efficient and cost-effective"
   ],
   "articles": [
+    {
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Robotics"
+    },
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
     {
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
@@ -26,7 +46,37 @@
       "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Hardware"
+      "category": "Open Source"
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying mo",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "Enterprise"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
+    },
+    {
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the fu",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "pubDate": "Wed, 15 Jul 2026 10:51:37 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/warpage_0713-2.mp4",
+      "source": "NVIDIA",
+      "category": "Robotics"
     },
     {
       "title": "The US is advancing AI safety through state and federal action",
@@ -46,56 +96,16 @@
       "pubDate": "Wed, 15 Jul 2026 16:20:18 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Hardware"
     },
     {
-      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the fu",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "pubDate": "Wed, 15 Jul 2026 10:51:37 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Robotics"
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Research"
-    },
-    {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "description": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engine",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-      "description": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\t\n\nDemis Hassabis thinks the world needs an AI watchdog",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-      "pubDate": "2026-07-14T11:43:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "Enterprise"
     },
     {
@@ -109,24 +119,14 @@
       "category": "Research"
     },
     {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "description": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
+      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+      "description": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of thi",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "pubDate": "Tue, 14 Jul 2026 16:28:14 +0000",
+      "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+      "pubDate": "Tue, 14 Jul 2026 15:00:20 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "description": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "pubDate": "Tue, 14 Jul 2026 15:06:28 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
+      "source": "NVIDIA",
+      "category": "Hardware"
     }
   ]
 }
