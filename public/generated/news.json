@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-16T06:11:30.081Z",
-  "summary": "This week in AI news, significant advancements were made in various sectors, including the introduction of new AI models, hardware, and applications. OpenAI released a light-up keyboard for Codex, while NVIDIA introduced new Jetson Thor computers for mainstream robotics and edge AI. Several companies, such as Applied Computing and Emergent, secured funding to further develop their AI technologies.",
-  "insight": "The increasing focus on AI safety and security is a common thread throughout the news, with companies like OpenAI and NVIDIA working to improve the robustness and reliability of their models, and governments taking steps to regulate the use of AI.",
+  "generated_at": "2026-07-16T10:00:21.341Z",
+  "summary": "This week's AI news highlights significant advancements in various sectors, including the introduction of new hardware and models. OpenAI's GPT-Red and NVIDIA's Jetson Thor are notable examples. The industry is also seeing increased focus on AI safety, ethics, and governance.",
+  "insight": "The development of AI models like GPT-Red, which can test and improve the robustness of other models, demonstrates the growing importance of AI safety and security in the industry.",
   "highlights": [
-    "OpenAI released a light-up keyboard for Codex, designed to monitor multiple agentic threads at a glance.",
-    "NVIDIA introduced new Jetson Thor computers to advance mainstream robotics and edge AI.",
-    "Applied Computing raised $20M to build a foundation AI model for the oil, gas, and petrochemical industry."
+    "OpenAI introduces GPT-Red, an LLM super-hacker to improve model safety",
+    "NVIDIA launches Jetson Thor for mainstream robotics and edge AI",
+    "Applied Computing raises $20M to build a foundation AI model for the oil and gas industry"
   ],
   "articles": [
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "LLMs"
+    },
     {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
       "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
@@ -16,7 +26,7 @@
       "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Hardware"
+      "category": "Robotics"
     },
     {
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
@@ -39,16 +49,6 @@
       "category": "Hardware"
     },
     {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "LLMs"
-    },
-    {
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
       "readTime": "1 min read",
@@ -57,16 +57,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the fu",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "pubDate": "Wed, 15 Jul 2026 10:51:37 +0000",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/warpage_0713-2.mp4",
-      "source": "NVIDIA",
-      "category": "Robotics"
     },
     {
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
@@ -89,24 +79,44 @@
       "category": "Research"
     },
     {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the fu",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "pubDate": "Wed, 15 Jul 2026 10:51:37 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/warpage_0713-2.mp4",
+      "source": "NVIDIA",
+      "category": "Robotics"
+    },
+    {
+      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+      "description": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, t",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+      "pubDate": "Tue, 14 Jul 2026 16:45:13 +0000",
+      "image": "",
+      "source": "NVIDIA",
       "category": "Enterprise"
     },
     {
-      "title": "What building Shippy taught us about building agents",
-      "description": "",
+      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+      "description": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of thi",
       "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "pubDate": "Wed, 15 Jul 2026 17:29:41 GMT",
+      "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+      "pubDate": "Tue, 14 Jul 2026 15:00:20 +0000",
       "image": "",
-      "source": "Hugging Face",
-      "category": "General"
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "The US is advancing AI safety through state and federal action",
@@ -117,16 +127,6 @@
       "image": "",
       "source": "OpenAI",
       "category": "Policy"
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
     }
   ]
 }
