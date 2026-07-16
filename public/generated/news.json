@@ -1,22 +1,62 @@
 {
-  "generated_at": "2026-07-16T13:25:29.770Z",
-  "summary": "This week's AI news highlights significant advancements in various sectors, including Apple's approval for launch in China, Google's order to open Android and Search to rivals in Europe, and NVIDIA's introduction of new Jetson Thor computers for mainstream robotics and edge AI. These developments demonstrate the growing importance of AI in shaping the future of technology and industry.",
-  "insight": "The increasing adoption of AI in various industries is leading to a shift towards more specialized and customized AI solutions, with companies like Anthropic and OpenAI focusing on implementation and deployment of AI models rather than just developing them.",
+  "generated_at": "2026-07-16T17:06:15.620Z",
+  "summary": "Today's AI news highlights significant advancements in enterprise AI, bioresilience, and AI safety. Companies like Google DeepMind, OpenAI, and NVIDIA are making strides in developing more robust and trustworthy AI models. The integration of AI in various industries, including healthcare and education, is also on the rise.",
+  "insight": "The increasing focus on AI safety and bioresilience suggests a growing recognition of the potential risks associated with AI development, and the need for more responsible and transparent AI practices.",
   "highlights": [
-    "Apple's AI ambitions in China have taken a significant step forward with the approval for launch in the country.",
-    "Google has been ordered to open Android and Google Search to rival AI assistants and search engines in Europe, promoting competition and innovation.",
-    "NVIDIA's new Jetson Thor computers are set to advance mainstream robotics and edge AI, enabling more efficient and powerful AI processing in various industries."
+    "Google DeepMind and Isomorphic Labs outline a bioresilience program to curb AI misuse in biology",
+    "OpenAI releases a light-up keyboard for Codex, its agentic coding assistant",
+    "NVIDIA introduces new Jetson Thor computers to advance mainstream robotics and edge AI"
   ],
   "articles": [
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "title": "Examining Google DeepMind’s AI bioresilience push",
+      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "pubDate": "Thu, 16 Jul 2026 13:17:59 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Research"
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the d",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "pubDate": "Thu, 16 Jul 2026 17:06:08 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Open Source"
+    },
+    {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai exp",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "pubDate": "Thu, 16 Jul 2026 15:02:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Research"
+    },
+    {
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
     },
     {
       "title": "Google ordered to open Android and Search to rivals in Europe",
@@ -29,26 +69,6 @@
       "category": "Policy"
     },
     {
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "Claude can now use your 1Password credentials for you",
-      "description": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "pubDate": "2026-07-16T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
       "title": "Our approach to bioresilience",
       "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
       "readTime": "1 min read",
@@ -57,6 +77,16 @@
       "image": "",
       "source": "Google DeepMind",
       "category": "Research"
+    },
+    {
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
@@ -69,6 +99,16 @@
       "category": "Enterprise"
     },
     {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "LLMs"
+    },
+    {
       "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
       "description": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engine",
       "readTime": "1 min read",
@@ -79,26 +119,6 @@
       "category": "Enterprise"
     },
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Policy"
-    },
-    {
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "readTime": "1 min read",
@@ -107,26 +127,6 @@
       "image": "",
       "source": "OpenAI",
       "category": "Research"
-    },
-    {
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "description": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "pubDate": "Wed, 15 Jul 2026 00:27:04 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-      "description": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, t",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-      "pubDate": "Tue, 14 Jul 2026 16:45:13 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Enterprise"
     }
   ]
 }
