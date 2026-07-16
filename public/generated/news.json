@@ -1,13 +1,103 @@
 {
-  "generated_at": "2026-07-16T17:06:15.620Z",
-  "summary": "Today's AI news highlights significant advancements in enterprise AI, bioresilience, and AI safety. Companies like Google DeepMind, OpenAI, and NVIDIA are making strides in developing more robust and trustworthy AI models. The integration of AI in various industries, including healthcare and education, is also on the rise.",
-  "insight": "The increasing focus on AI safety and bioresilience suggests a growing recognition of the potential risks associated with AI development, and the need for more responsible and transparent AI practices.",
+  "generated_at": "2026-07-16T20:48:44.366Z",
+  "summary": "The EU has ordered Google to open up Android and Search to rivals, while xAI is suing users for generating CSAM with its Grok AI chatbot. Meanwhile, companies like NVIDIA and Applied Computing are advancing AI technologies in areas like robotics and oil and gas operations.",
+  "insight": "The increasing use of AI in various industries is raising concerns about privacy, security, and ethics, highlighting the need for regulations and guidelines to ensure responsible AI development and deployment.",
   "highlights": [
-    "Google DeepMind and Isomorphic Labs outline a bioresilience program to curb AI misuse in biology",
-    "OpenAI releases a light-up keyboard for Codex, its agentic coding assistant",
-    "NVIDIA introduces new Jetson Thor computers to advance mainstream robotics and edge AI"
+    "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search",
+    "xAI is suing a user for generating CSAM with its Grok AI chatbot, sparking concerns about AI safety and regulation",
+    "NVIDIA is introducing new Jetson Thor computers to advance mainstream robotics and edge AI"
   ],
   "articles": [
+    {
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "description": "Google says these changes could endanger user privacy and security.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "description": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "pubDate": "Thu, 16 Jul 2026 20:26:23 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
+    },
+    {
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "description": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "pubDate": "Thu, 16 Jul 2026 19:18:23 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Open Source"
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "Enterprise"
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed a",
+      "readTime": "14 min read",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "pubDate": "Thu, 16 Jul 2026 19:02:38 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editi",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "pubDate": "2026-07-16T17:58:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
     {
       "title": "Examining Google DeepMind’s AI bioresilience push",
       "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
@@ -17,46 +107,6 @@
       "image": "",
       "source": "AI News",
       "category": "Research"
-    },
-    {
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the d",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "pubDate": "Thu, 16 Jul 2026 17:06:08 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Why teens deserve access to safe AI",
-      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Open Source"
-    },
-    {
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai exp",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "pubDate": "Thu, 16 Jul 2026 15:02:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "Google ordered to open Android and Search to rivals in Europe",
@@ -69,16 +119,6 @@
       "category": "Policy"
     },
     {
-      "title": "Our approach to bioresilience",
-      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
-    },
-    {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
       "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
       "readTime": "1 min read",
@@ -87,46 +127,6 @@
       "image": "",
       "source": "NVIDIA",
       "category": "Hardware"
-    },
-    {
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying mo",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "LLMs"
-    },
-    {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "description": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engine",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Research"
     }
   ]
 }
