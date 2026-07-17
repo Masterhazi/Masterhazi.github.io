@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T09:49:33.807Z",
-  "summary": "This week in AI news, significant developments include the EU forcing Google to share search data, xAI suing users for generating CSAM, and advancements in AI-powered game creation. Enterprise AI organizations face challenges in trust, retrieval, and deployment. Google expands AI Mode, and NVIDIA introduces new Jetson Thor computers for mainstream robotics and edge AI.",
-  "insight": "The increasing use of AI in various industries, such as weather forecasting, robotics, and healthcare, highlights the need for robust security measures to prevent data sabotage and ensure user privacy and safety.",
+  "generated_at": "2026-07-17T13:09:41.127Z",
+  "summary": "This week's AI news highlights significant developments in AI infrastructure, policy, and applications. The EU has ordered Google to open Android and Search to rivals, while NVIDIA has introduced new Jetson Thor computers for mainstream robotics and edge AI. OpenAI has launched a light-up keyboard for Codex, and Microsoft has patched a record number of security vulnerabilities using AI.",
+  "insight": "The increasing use of AI in various industries has led to a growing need for specialized hardware and infrastructure, driving innovation and investment in this area.",
   "highlights": [
-    "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search in Europe.",
-    "xAI files lawsuit against Grok user accused of making child sex images, raising concerns about AI-generated CSAM.",
-    "NVIDIA introduces new Jetson Thor computers to advance mainstream robotics and edge AI, enabling more efficient and compact AI supercomputers."
+    "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search",
+    "NVIDIA has introduced new Jetson Thor computers for mainstream robotics and edge AI",
+    "OpenAI has launched a light-up keyboard for Codex, its agentic coding assistant"
   ],
   "articles": [
     {
@@ -19,24 +19,24 @@
       "category": "Policy"
     },
     {
-      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-      "description": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-      "pubDate": "Thu, 16 Jul 2026 20:26:23 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
+      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
@@ -59,16 +59,6 @@
       "category": "Enterprise"
     },
     {
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
       "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the d",
       "readTime": "12 min read",
@@ -89,44 +79,54 @@
       "category": "Enterprise"
     },
     {
-      "title": "Why teens deserve access to safe AI",
-      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "pubDate": "Fri, 17 Jul 2026 12:00:00 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Our approach to bioresilience",
-      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
-    },
-    {
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
-      "image": "",
-      "source": "NVIDIA",
+      "source": "TechCrunch",
       "category": "Hardware"
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editi",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding a",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "LLMs"
     }
   ]
 }
