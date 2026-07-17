@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T06:10:07.859Z",
-  "summary": "The EU is forcing Google to share search data and open up AI on Android, while xAI is suing users for generating CSAM with its Grok chatbot. Hyundai workers are striking over humanoid robots, and Linus Torvalds is ignoring critics of AI coding in Linux. Enterprises are struggling with AI security and compute gaps, and New York's governor is using AI to analyze state rules.",
-  "insight": "The increasing use of AI in various industries is leading to a rise in concerns over security, privacy, and job displacement, highlighting the need for responsible AI development and deployment.",
+  "generated_at": "2026-07-17T09:49:33.807Z",
+  "summary": "This week in AI news, significant developments include the EU forcing Google to share search data, xAI suing users for generating CSAM, and advancements in AI-powered game creation. Enterprise AI organizations face challenges in trust, retrieval, and deployment. Google expands AI Mode, and NVIDIA introduces new Jetson Thor computers for mainstream robotics and edge AI.",
+  "insight": "The increasing use of AI in various industries, such as weather forecasting, robotics, and healthcare, highlights the need for robust security measures to prevent data sabotage and ensure user privacy and safety.",
   "highlights": [
-    "Google faces EU regulations on search data and AI on Android",
-    "xAI sues users for generating CSAM with its Grok chatbot",
-    "Hyundai workers strike over humanoid robots in US factories"
+    "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search in Europe.",
+    "xAI files lawsuit against Grok user accused of making child sex images, raising concerns about AI-generated CSAM.",
+    "NVIDIA introduces new Jetson Thor computers to advance mainstream robotics and edge AI, enabling more efficient and compact AI supercomputers."
   ],
   "articles": [
     {
@@ -39,16 +39,6 @@
       "category": "Robotics"
     },
     {
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "description": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "pubDate": "Thu, 16 Jul 2026 19:18:23 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Open Source"
-    },
-    {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
       "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
       "readTime": "12 min read",
@@ -59,54 +49,54 @@
       "category": "Enterprise"
     },
     {
-      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "pubDate": "2026-07-16T17:58:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed a",
+      "readTime": "14 min read",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "pubDate": "Thu, 16 Jul 2026 19:02:38 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "Enterprise"
     },
     {
-      "title": "Examining Google DeepMind’s AI bioresilience push",
-      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Research"
-    },
-    {
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "pubDate": "Thu, 16 Jul 2026 16:01:21 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Hardware"
-    },
-    {
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "Open Source"
     },
     {
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "description": "Companies coming to market are raising money at fastest pace this century.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-      "pubDate": "Thu, 16 Jul 2026 15:48:21 +0000",
-      "image": "",
-      "source": "Ars Technica",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the d",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "pubDate": "Thu, 16 Jul 2026 17:06:08 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
       "category": "Enterprise"
+    },
+    {
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that ",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "pubDate": "Thu, 16 Jul 2026 16:40:48 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
     },
     {
       "title": "Google ordered to open Android and Search to rivals in Europe",
@@ -117,6 +107,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Policy"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Research"
     },
     {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
