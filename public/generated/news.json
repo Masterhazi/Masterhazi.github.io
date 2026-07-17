@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T20:48:44.366Z",
-  "summary": "The EU has ordered Google to open up Android and Search to rivals, while xAI is suing users for generating CSAM with its Grok AI chatbot. Meanwhile, companies like NVIDIA and Applied Computing are advancing AI technologies in areas like robotics and oil and gas operations.",
-  "insight": "The increasing use of AI in various industries is raising concerns about privacy, security, and ethics, highlighting the need for regulations and guidelines to ensure responsible AI development and deployment.",
+  "generated_at": "2026-07-17T01:55:46.058Z",
+  "summary": "The EU is forcing Google to share search data and open up AI on Android, while xAI is suing users for generating CSAM. Hyundai workers are striking over humanoid robots, and Linus Torvalds is ignoring critics of AI coding in Linux. Enterprises are struggling with AI security and compute gaps.",
+  "insight": "The increasing use of AI is leading to a rise in security incidents and concerns over user privacy, highlighting the need for more robust regulations and safeguards.",
   "highlights": [
     "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search",
-    "xAI is suing a user for generating CSAM with its Grok AI chatbot, sparking concerns about AI safety and regulation",
-    "NVIDIA is introducing new Jetson Thor computers to advance mainstream robotics and edge AI"
+    "xAI is suing a user for generating CSAM using its Grok AI chatbot",
+    "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028"
   ],
   "articles": [
     {
@@ -69,36 +69,6 @@
       "category": "Enterprise"
     },
     {
-      "title": "Google Vids now lets you star in your own AI videos",
-      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editi",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "pubDate": "2026-07-16T17:58:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
       "title": "Examining Google DeepMind’s AI bioresilience push",
       "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
       "readTime": "1 min read",
@@ -107,6 +77,26 @@
       "image": "",
       "source": "AI News",
       "category": "Research"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "pubDate": "Thu, 16 Jul 2026 16:01:21 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "Hardware"
+    },
+    {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "description": "Companies coming to market are raising money at fastest pace this century.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "pubDate": "Thu, 16 Jul 2026 15:48:21 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
     },
     {
       "title": "Google ordered to open Android and Search to rivals in Europe",
@@ -119,14 +109,24 @@
       "category": "Policy"
     },
     {
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
+      "title": "Our approach to bioresilience",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
       "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
+      "source": "Google DeepMind",
+      "category": "Research"
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "LLMs"
     }
   ]
 }
