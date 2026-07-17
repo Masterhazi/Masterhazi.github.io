@@ -1,32 +1,62 @@
 {
-  "generated_at": "2026-07-17T17:02:59.896Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, regulation, and adoption. Key stories include the EU's order for Google to open Android and Search to rivals, NVIDIA's introduction of new Jetson Thor computers, and the growing concern over AI-generated child sexual abuse material. Meanwhile, companies like OpenAI and Anthropic continue to innovate and expand their offerings.",
-  "insight": "The increasing use of AI in various industries and applications has led to a growing need for regulation and oversight, as evidenced by the EU's recent orders and the rising concerns over AI-generated CSAM.",
+  "generated_at": "2026-07-17T20:44:15.909Z",
+  "summary": "The AI landscape is rapidly evolving with significant developments in robotics, research, and enterprise applications. Companies like Apple and Google are making strategic moves, while startups are raising substantial funds to advance AI technologies.",
+  "insight": "The increasing adoption of AI is leading to a convergence of technologies, with companies like NVIDIA and Google DeepMind pushing the boundaries of AI capabilities, from robotics to bioresilience.",
   "highlights": [
-    "Google ordered to open Android and Search to rivals in Europe",
-    "NVIDIA introduces new Jetson Thor computers for mainstream robotics and edge AI",
-    "OpenAI and Anthropic continue to innovate and expand their AI offerings"
+    "Agility Robotics opens a new training center for its Digit robots in California.",
+    "Apple files a trade secrets lawsuit against OpenAI, potentially disrupting its IPO plans.",
+    "NVIDIA introduces new Jetson Thor computers to advance mainstream robotics and edge AI."
   ],
   "articles": [
     {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "description": "Google says these changes could endanger user privacy and security.",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "TechCrunch",
       "category": "Policy"
     },
     {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
+      "title": "Apple’s plot to crush OpenAI",
+      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "pubDate": "2026-07-17T17:41:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Policy"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Robotics"
+    },
+    {
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "description": "The FireSat program can spot wildfires that other satellites miss.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "pubDate": "Fri, 17 Jul 2026 15:00:14 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
@@ -39,26 +69,6 @@
       "category": "Robotics"
     },
     {
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "description": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Research"
-    },
-    {
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
       "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed a",
       "readTime": "14 min read",
@@ -69,64 +79,54 @@
       "category": "Enterprise"
     },
     {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "Enterprise"
-    },
-    {
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the d",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "pubDate": "Thu, 16 Jul 2026 17:06:08 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "source": "VentureBeat",
+      "title": "Examining Google DeepMind’s AI bioresilience push",
+      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
+      "image": "",
+      "source": "AI News",
       "category": "Research"
     },
     {
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that ",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "pubDate": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-      "source": "VentureBeat",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
+      "image": "",
+      "source": "Google DeepMind",
       "category": "Research"
     },
     {
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a sh",
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "pubDate": "Fri, 17 Jul 2026 15:21:17 +0000",
+      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding a",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "image": "",
-      "source": "TechCrunch",
+      "source": "NVIDIA",
       "category": "Hardware"
     },
     {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company rel",
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "pubDate": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
       "image": "",
-      "source": "MIT Technology Review",
-      "category": "LLMs"
+      "source": "TechCrunch",
+      "category": "General"
     }
   ]
 }
