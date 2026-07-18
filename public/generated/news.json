@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T01:45:45.835Z",
-  "summary": "This week's AI news highlights significant advancements in various fields, including robotics, AI research, and enterprise applications. Notable stories include Apple's lawsuit against OpenAI, the launch of new AI-powered features by Google, and the growing adoption of AI in industries such as healthcare and finance.",
-  "insight": "The increasing use of AI in various industries is driving innovation and growth, but also raises concerns about data privacy, security, and the need for responsible AI development.",
+  "generated_at": "2026-07-18T05:58:40.189Z",
+  "summary": "The AI landscape is rapidly evolving with significant investments and innovations in various sectors. Companies like Databricks, Bunkerhill, and Neko Health are making strides in AI adoption, while regulatory bodies are taking steps to ensure responsible AI development and deployment.",
+  "insight": "The increasing adoption of AI in industries such as healthcare, finance, and education is driving the need for more efficient and secure AI infrastructure, creating opportunities for companies that can provide scalable and reliable AI solutions.",
   "highlights": [
-    "Apple sues OpenAI over trade secrets, potentially disrupting OpenAI's IPO plans",
-    "Google launches new AI-powered features, including personalized avatars and improved search capabilities",
-    "NVIDIA introduces new Jetson Thor computers to advance mainstream robotics and edge AI"
+    "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "Neko Health raises $700 million to expand AI body scans in the US",
+    "Google ordered to open Android and Search to rivals in Europe"
   ],
   "articles": [
     {
@@ -19,6 +19,36 @@
       "category": "Enterprise"
     },
     {
+      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participatio",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Healthcare"
+    },
+    {
+      "title": "Neko Health raises $700 million to expand AI body scans in the US",
+      "description": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medica",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+      "pubDate": "Thu, 16 Jul 2026 09:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Healthcare"
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or invo",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
       "readTime": "1 min read",
@@ -26,6 +56,26 @@
       "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "description": "Google says these changes could endanger user privacy and security.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Policy"
     },
     {
@@ -39,46 +89,6 @@
       "category": "Robotics"
     },
     {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "description": "The FireSat program can spot wildfires that other satellites miss.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participatio",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-      "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a sh",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "pubDate": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "pubDate": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
       "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
       "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
       "readTime": "1 min read",
@@ -89,14 +99,24 @@
       "category": "Robotics"
     },
     {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "Enterprise"
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
+    {
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "Open Source"
     },
     {
       "title": "Examining Google DeepMind’s AI bioresilience push",
@@ -107,26 +127,6 @@
       "image": "",
       "source": "AI News",
       "category": "Research"
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
     }
   ]
 }
