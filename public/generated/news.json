@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-18T09:17:06.640Z",
-  "summary": "This week in AI, significant developments include Apple's lawsuit against OpenAI, the launch of new AI-powered features by Google and NVIDIA, and advancements in AI research and applications. Key themes include AI ethics, regulatory challenges, and the growing importance of AI in various industries.",
-  "insight": "The increasing focus on AI ethics and regulatory challenges highlights the need for responsible AI development and deployment, as seen in Apple's lawsuit against OpenAI and the EU's order for Google to open Android and Search to rivals.",
+  "generated_at": "2026-07-18T12:56:08.811Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including the development of new AI models, improved AI-powered tools, and increased adoption of AI in various industries. However, concerns about AI safety, security, and ethics continue to grow.",
+  "insight": "The increasing use of AI in various industries is creating new opportunities for innovation and growth, but it also raises important questions about the potential risks and consequences of relying on AI systems.",
   "highlights": [
-    "Apple sues OpenAI over trade secrets, potentially disrupting OpenAI's IPO plans",
-    "Google expands AI Mode to interact with select apps, enhancing user experience",
-    "NVIDIA introduces new Jetson Thor computers for mainstream robotics and edge AI"
+    "Google is expanding its AI Mode to let users link and interact with select apps",
+    "OpenAI is making ChatGPT safer for teens with age-appropriate protections and learning tools",
+    "NVIDIA is introducing new Jetson Thor computers to advance mainstream robotics and edge AI"
   ],
   "articles": [
     {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "Ars Technica",
       "category": "Policy"
     },
     {
@@ -29,14 +29,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "Apple’s plot to crush OpenAI",
-      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "pubDate": "2026-07-17T17:41:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Robotics"
     },
     {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
@@ -46,16 +46,36 @@
       "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Research"
+      "category": "Hardware"
     },
     {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "description": "Official estimates Google and Apple likely made millions in nudify app fees.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "pubDate": "Fri, 17 Jul 2026 16:10:05 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Policy"
     },
     {
@@ -69,6 +89,36 @@
       "category": "Policy"
     },
     {
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editi",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
       "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
       "readTime": "1 min read",
@@ -77,56 +127,6 @@
       "image": "",
       "source": "NVIDIA",
       "category": "Hardware"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Open Source"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "Examining Google DeepMind’s AI bioresilience push",
-      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Research"
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or invo",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
     }
   ]
 }
