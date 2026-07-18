@@ -22,34 +22,34 @@ const Home = () => {
     }, 150); // Reduced time interval for smoother feel
 
     // --- Botpress Script Injection ---
-    const loadBotpressScript = () => {
-      const script = document.createElement('script');
-      script.src = 'https://cdn.botpress.cloud/webchat/v2.2/inject.js';
-      script.async = true;
-      document.body.appendChild(script);
-
-      script.onload = () => {
-        const secondScript = document.createElement('script');
-        secondScript.src = 'https://files.bpcontent.cloud/2024/10/17/07/20241017075423-K2DOPNVU.js';
-        secondScript.async = true;
-        document.body.appendChild(secondScript);
-      };
-    };
-
-    loadBotpressScript();
-    // --- End Botpress Script Injection ---
-
-    // Single combined cleanup: clears the typing interval AND removes the
-    // injected Botpress scripts. (Previously these were two separate
-    // `return` statements in the same effect, so only the first one ever
-    // ran and the typing interval was never actually cleared.)
-    return () => {
-      clearInterval(interval);
-      const scripts = document.querySelectorAll(
-        'script[src^="https://cdn.botpress.cloud"], script[src^="https://files.bpcontent.cloud"]'
-      );
-      scripts.forEach((script) => script.remove());
-    };
+    // --- Botpress v3 Script Injection ---
+  const loadBotpressScript = () => {
+    const injectScript = document.createElement('script');
+    injectScript.src = 'https://cdn.botpress.cloud/webchat/v3.6/inject.js';
+    injectScript.defer = true;
+  
+    const botScript = document.createElement('script');
+    botScript.src =
+      'https://files.bpcontent.cloud/2024/10/17/07/20241017075423-K2DOPNVU.js';
+    botScript.defer = true;
+  
+    document.body.appendChild(injectScript);
+    document.body.appendChild(botScript);
+  };
+  
+  loadBotpressScript();
+  // --- End Botpress Script Injection ---
+  
+  // Cleanup
+  return () => {
+    clearInterval(interval);
+  
+    const scripts = document.querySelectorAll(
+      'script[src^="https://cdn.botpress.cloud"], script[src^="https://files.bpcontent.cloud"]'
+    );
+  
+    scripts.forEach((script) => script.remove());
+  };
   }, []);
 
   const handleAudioToggle = () => {
