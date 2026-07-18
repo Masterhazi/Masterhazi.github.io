@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-17T20:44:15.909Z",
-  "summary": "The AI landscape is rapidly evolving with significant developments in robotics, research, and enterprise applications. Companies like Apple and Google are making strategic moves, while startups are raising substantial funds to advance AI technologies.",
-  "insight": "The increasing adoption of AI is leading to a convergence of technologies, with companies like NVIDIA and Google DeepMind pushing the boundaries of AI capabilities, from robotics to bioresilience.",
+  "generated_at": "2026-07-18T01:45:45.835Z",
+  "summary": "This week's AI news highlights significant advancements in various fields, including robotics, AI research, and enterprise applications. Notable stories include Apple's lawsuit against OpenAI, the launch of new AI-powered features by Google, and the growing adoption of AI in industries such as healthcare and finance.",
+  "insight": "The increasing use of AI in various industries is driving innovation and growth, but also raises concerns about data privacy, security, and the need for responsible AI development.",
   "highlights": [
-    "Agility Robotics opens a new training center for its Digit robots in California.",
-    "Apple files a trade secrets lawsuit against OpenAI, potentially disrupting its IPO plans.",
-    "NVIDIA introduces new Jetson Thor computers to advance mainstream robotics and edge AI."
+    "Apple sues OpenAI over trade secrets, potentially disrupting OpenAI's IPO plans",
+    "Google launches new AI-powered features, including personalized avatars and improved search capabilities",
+    "NVIDIA introduces new Jetson Thor computers to advance mainstream robotics and edge AI"
   ],
   "articles": [
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
@@ -16,16 +26,6 @@
       "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "pubDate": "2026-07-17T17:41:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "Policy"
     },
     {
@@ -49,13 +49,33 @@
       "category": "Research"
     },
     {
-      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-      "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participatio",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "pubDate": "Fri, 17 Jul 2026 15:00:14 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
       "image": "",
-      "source": "NVIDIA",
+      "source": "AI News",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a sh",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "pubDate": "Fri, 17 Jul 2026 15:21:17 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "pubDate": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Hardware"
     },
     {
@@ -69,12 +89,12 @@
       "category": "Robotics"
     },
     {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed a",
-      "readTime": "14 min read",
-      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "pubDate": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
       "source": "VentureBeat",
       "category": "Enterprise"
     },
@@ -99,16 +119,6 @@
       "category": "Policy"
     },
     {
-      "title": "Our approach to bioresilience",
-      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
-    },
-    {
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
       "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
       "readTime": "1 min read",
@@ -117,16 +127,6 @@
       "image": "",
       "source": "NVIDIA",
       "category": "Hardware"
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
     }
   ]
 }
