@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-07-18T12:56:08.811Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including the development of new AI models, improved AI-powered tools, and increased adoption of AI in various industries. However, concerns about AI safety, security, and ethics continue to grow.",
-  "insight": "The increasing use of AI in various industries is creating new opportunities for innovation and growth, but it also raises important questions about the potential risks and consequences of relying on AI systems.",
+  "generated_at": "2026-07-18T16:46:52.854Z",
+  "summary": "The AI landscape is rapidly evolving with significant advancements in various sectors. OpenAI faces a lawsuit from Apple, while Google is expanding its AI Mode. Other notable developments include the launch of AI-powered game creation features and the use of AI in bioresilience programs.",
+  "insight": "The increasing integration of AI in different industries is leading to a surge in investments and innovations, with companies like Neko Health raising $700 million to expand AI body scans in the US.",
   "highlights": [
-    "Google is expanding its AI Mode to let users link and interact with select apps",
-    "OpenAI is making ChatGPT safer for teens with age-appropriate protections and learning tools",
-    "NVIDIA is introducing new Jetson Thor computers to advance mainstream robotics and edge AI"
+    "Apple files a trade secrets lawsuit against OpenAI, potentially disrupting its IPO plans.",
+    "Google expands its AI Mode, allowing users to link and interact with select apps.",
+    "Neko Health raises $700 million to expand its AI body scans in the US, starting with a clinic in New York."
   ],
   "articles": [
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "pubDate": "2026-07-17T17:41:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
     {
       "title": "Will AI fix prior authorization—or make it worse?",
       "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
@@ -16,7 +36,7 @@
       "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Policy"
+      "category": "Enterprise"
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
@@ -49,16 +69,6 @@
       "category": "Hardware"
     },
     {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
       "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
       "description": "Official estimates Google and Apple likely made millions in nudify app fees.",
       "readTime": "1 min read",
@@ -69,64 +79,54 @@
       "category": "Policy"
     },
     {
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
       "image": "",
-      "source": "TechCrunch",
+      "source": "Hugging Face",
+      "category": "Open Source"
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Research"
+    },
+    {
+      "title": "Examining Google DeepMind’s AI bioresilience push",
+      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Research"
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Policy"
     },
     {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "description": "Google says these changes could endanger user privacy and security.",
+      "title": "Neko Health raises $700 million to expand AI body scans in the US",
+      "description": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medica",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+      "pubDate": "Thu, 16 Jul 2026 09:00:00 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
-    },
-    {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "source": "VentureBeat",
+      "source": "AI News",
       "category": "Enterprise"
-    },
-    {
-      "title": "Google Vids now lets you star in your own AI videos",
-      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editi",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers ca",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "pubDate": "Wed, 15 Jul 2026 23:00:54 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
     }
   ]
 }
