@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-07-18T16:46:52.854Z",
-  "summary": "The AI landscape is rapidly evolving with significant advancements in various sectors. OpenAI faces a lawsuit from Apple, while Google is expanding its AI Mode. Other notable developments include the launch of AI-powered game creation features and the use of AI in bioresilience programs.",
-  "insight": "The increasing integration of AI in different industries is leading to a surge in investments and innovations, with companies like Neko Health raising $700 million to expand AI body scans in the US.",
+  "generated_at": "2026-07-18T20:39:03.750Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including the release of new AI models and tools. Apple's lawsuit against OpenAI and the EU's order for Google to open Android and Search to rivals are major developments. AI adoption in various industries, such as healthcare and policing, is also on the rise.",
+  "insight": "The increasing use of AI in various industries raises important questions about data privacy, security, and ethics, highlighting the need for robust regulations and guidelines to ensure responsible AI development and deployment.",
   "highlights": [
-    "Apple files a trade secrets lawsuit against OpenAI, potentially disrupting its IPO plans.",
-    "Google expands its AI Mode, allowing users to link and interact with select apps.",
-    "Neko Health raises $700 million to expand its AI body scans in the US, starting with a clinic in New York."
+    "Apple's lawsuit against OpenAI alleges trade secret misappropriation and could impact OpenAI's IPO plans.",
+    "The EU has ordered Google to give rival AI assistants and search engines greater access to Android and Google Search.",
+    "New AI models and tools, such as Kimi 3 and Gemini Notebook, are being released, showcasing rapid progress in AI technology."
   ],
   "articles": [
+    {
+      "title": "Kimi: Threat or menace?",
+      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
@@ -29,64 +59,24 @@
       "category": "Policy"
     },
     {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participatio",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Enterprise"
+      "source": "AI News",
+      "category": "Healthcare"
     },
     {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "description": "The FireSat program can spot wildfires that other satellites miss.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Hardware"
-    },
-    {
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "description": "Official estimates Google and Apple likely made millions in nudify app fees.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "pubDate": "Fri, 17 Jul 2026 16:10:05 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "Policy"
-    },
-    {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Open Source"
     },
     {
       "title": "A scorecard for the AI age",
@@ -99,34 +89,44 @@
       "category": "Research"
     },
     {
-      "title": "Examining Google DeepMind’s AI bioresilience push",
-      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "description": "Google says these changes could endanger user privacy and security.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Research"
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "source": "Ars Technica",
       "category": "Policy"
     },
     {
-      "title": "Neko Health raises $700 million to expand AI body scans in the US",
-      "description": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medica",
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
-      "pubDate": "Thu, 16 Jul 2026 09:00:00 +0000",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
       "image": "",
-      "source": "AI News",
+      "source": "Ars Technica",
+      "category": "Robotics"
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
       "category": "Enterprise"
+    },
+    {
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
     }
   ]
 }
