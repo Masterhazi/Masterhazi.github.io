@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T06:24:17.312Z",
-  "summary": "This week's AI news highlights significant advancements and challenges in the field, from Apple's lawsuit against OpenAI to the growing importance of AI in various industries.",
-  "insight": "The increasing use of AI in industries such as healthcare, finance, and education is driving innovation, but also raises concerns about data privacy and security.",
+  "generated_at": "2026-07-19T09:46:00.768Z",
+  "summary": "This week in AI, significant developments include Apple's lawsuit against OpenAI, the launch of new AI models, and advancements in AI applications. The industry is seeing increased investment and innovation, with companies like Databricks and NVIDIA making notable strides.",
+  "insight": "The intersection of AI and human creativity is becoming increasingly prominent, with tools like AI-powered game creation and personalized AI avatars emerging, highlighting the potential for AI to augment human capabilities.",
   "highlights": [
     "Apple files a trade secrets lawsuit against OpenAI, potentially disrupting its IPO plans.",
-    "Google is expanding its AI Mode to let users link and interact with select apps, enhancing user experience.",
-    "The EU orders Google to open Android and Search to rivals, promoting competition in the AI market."
+    "Databricks achieves a $188B valuation, solidifying its position in the AI market.",
+    "Google expands AI Mode, allowing users to interact with select apps, demonstrating the growing integration of AI into daily life."
   ],
   "articles": [
     {
@@ -16,37 +16,7 @@
       "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "pubDate": "2026-07-17T17:41:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "pubDate": "2026-07-18T20:54:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
@@ -59,6 +29,56 @@
       "category": "Enterprise"
     },
     {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "pubDate": "2026-07-18T20:54:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "pubDate": "2026-07-17T17:41:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
       "readTime": "1 min read",
@@ -69,6 +89,16 @@
       "category": "Robotics"
     },
     {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "description": "The FireSat program can spot wildfires that other satellites miss.",
       "readTime": "1 min read",
@@ -76,57 +106,27 @@
       "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Hardware"
+      "category": "Research"
     },
     {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "description": "",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is",
       "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
-      "image": "",
-      "source": "Hugging Face",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "pubDate": "2026-07-17T19:34:30.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Open Source"
     },
     {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "description": "Google says these changes could endanger user privacy and security.",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
-    },
-    {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "source": "TechCrunch",
+      "category": "LLMs"
     }
   ]
 }
