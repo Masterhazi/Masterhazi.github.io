@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T12:58:40.207Z",
-  "summary": "This week's AI news highlights significant developments in the industry, including Apple's lawsuit against OpenAI, the launch of new AI models, and advancements in AI-powered tools. The stories cover various categories, such as LLMs, Robotics, and Policy, showcasing the diverse applications and implications of AI.",
-  "insight": "The increasing presence of AI in various sectors, from technology and healthcare to education and governance, underscores the need for responsible AI development and deployment, emphasizing the importance of addressing concerns around data privacy, security, and ethics.",
+  "generated_at": "2026-07-19T16:48:10.134Z",
+  "summary": "This week's AI news highlights significant advancements and concerns in the field, from Apple's lawsuit against OpenAI to the growing use of AI in various industries, including healthcare and education.",
+  "insight": "The increasing integration of AI in different sectors raises important questions about data privacy, security, and the need for responsible AI development and deployment.",
   "highlights": [
-    "Apple's lawsuit against OpenAI could impact the company's IPO plans.",
-    "New AI models, such as Kimi 3, are expected to close the gap with existing models like Anthropic's Opus 4.8.",
-    "Google's AI Mode now allows users to link and interact with select apps, expanding its capabilities beyond answering questions."
+    "Apple's lawsuit against OpenAI could disrupt the company's IPO plans.",
+    "The use of AI in healthcare is expanding, with companies like Bunkerhill raising funds to scale their AI platforms.",
+    "Google is opening up its Android and Search platforms to rival AI assistants and search engines in Europe."
   ],
   "articles": [
     {
@@ -19,14 +19,14 @@
       "category": "Policy"
     },
     {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers ",
+      "title": "Apple’s plot to crush OpenAI",
+      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "pubDate": "2026-07-18T20:54:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "pubDate": "2026-07-17T17:41:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "Policy"
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
@@ -39,14 +39,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
+      "source": "TechCrunch",
+      "category": "Open Source"
     },
     {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
@@ -59,64 +59,44 @@
       "category": "Robotics"
     },
     {
-      "title": "Apple’s plot to crush OpenAI",
-      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "pubDate": "2026-07-17T17:41:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "description": "The FireSat program can spot wildfires that other satellites miss.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Hardware"
+    },
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "description": "Google says these changes could endanger user privacy and security.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "image": "",
+      "source": "Ars Technica",
       "category": "Policy"
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "pubDate": "2026-07-16T17:58:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "Google ordered to open Android and Search to rivals in Europe",
@@ -127,6 +107,26 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Policy"
+    },
+    {
+      "title": "Examining Google DeepMind’s AI bioresilience push",
+      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Research"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Research"
     }
   ]
 }
