@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-19T16:48:10.134Z",
-  "summary": "This week's AI news highlights significant advancements and concerns in the field, from Apple's lawsuit against OpenAI to the growing use of AI in various industries, including healthcare and education.",
-  "insight": "The increasing integration of AI in different sectors raises important questions about data privacy, security, and the need for responsible AI development and deployment.",
+  "generated_at": "2026-07-19T20:39:07.713Z",
+  "summary": "This week's AI news highlights significant developments in OpenAI, Apple, and Google. OpenAI faces a lawsuit from Apple, while Google expands its AI capabilities and faces EU regulations. The AI industry continues to grow, with new investments and innovations emerging.",
+  "insight": "The increasing competition between tech giants like Apple, Google, and OpenAI is driving innovation in the AI industry, but also raises concerns about data privacy, security, and regulation.",
   "highlights": [
-    "Apple's lawsuit against OpenAI could disrupt the company's IPO plans.",
-    "The use of AI in healthcare is expanding, with companies like Bunkerhill raising funds to scale their AI platforms.",
-    "Google is opening up its Android and Search platforms to rival AI assistants and search engines in Europe."
+    "OpenAI faces a lawsuit from Apple over trade secrets, potentially disrupting its IPO plans.",
+    "Google expands its AI capabilities, including a new AI note-taking app and personalized AI avatars.",
+    "The EU orders Google to open Android and Search to rival AI assistants and search engines."
   ],
   "articles": [
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
@@ -29,6 +39,26 @@
       "category": "Policy"
     },
     {
+      "title": "I hate that I don’t hate this song made with Suno",
+      "description": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram\t\n\nI would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all).",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "pubDate": "2026-07-19T17:35:54.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "pubDate": "2026-07-18T20:54:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
       "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
       "readTime": "1 min read",
@@ -37,16 +67,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
     },
     {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
@@ -59,24 +79,14 @@
       "category": "Robotics"
     },
     {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "description": "The FireSat program can spot wildfires that other satellites miss.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Hardware"
+      "category": "Open Source"
     },
     {
       "title": "Will AI fix prior authorization—or make it worse?",
@@ -86,7 +96,7 @@
       "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
+      "category": "Policy"
     },
     {
       "title": "It's official: EU will force Google to share search data and open up AI on Android",
@@ -116,16 +126,6 @@
       "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Research"
-    },
-    {
-      "title": "Our approach to bioresilience",
-      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
-      "image": "",
-      "source": "Google DeepMind",
       "category": "Research"
     }
   ]
