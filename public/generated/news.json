@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T09:46:00.768Z",
-  "summary": "This week in AI, significant developments include Apple's lawsuit against OpenAI, the launch of new AI models, and advancements in AI applications. The industry is seeing increased investment and innovation, with companies like Databricks and NVIDIA making notable strides.",
-  "insight": "The intersection of AI and human creativity is becoming increasingly prominent, with tools like AI-powered game creation and personalized AI avatars emerging, highlighting the potential for AI to augment human capabilities.",
+  "generated_at": "2026-07-19T12:58:40.207Z",
+  "summary": "This week's AI news highlights significant developments in the industry, including Apple's lawsuit against OpenAI, the launch of new AI models, and advancements in AI-powered tools. The stories cover various categories, such as LLMs, Robotics, and Policy, showcasing the diverse applications and implications of AI.",
+  "insight": "The increasing presence of AI in various sectors, from technology and healthcare to education and governance, underscores the need for responsible AI development and deployment, emphasizing the importance of addressing concerns around data privacy, security, and ethics.",
   "highlights": [
-    "Apple files a trade secrets lawsuit against OpenAI, potentially disrupting its IPO plans.",
-    "Databricks achieves a $188B valuation, solidifying its position in the AI market.",
-    "Google expands AI Mode, allowing users to interact with select apps, demonstrating the growing integration of AI into daily life."
+    "Apple's lawsuit against OpenAI could impact the company's IPO plans.",
+    "New AI models, such as Kimi 3, are expected to close the gap with existing models like Anthropic's Opus 4.8.",
+    "Google's AI Mode now allows users to link and interact with select apps, expanding its capabilities beyond answering questions."
   ],
   "articles": [
     {
@@ -16,17 +16,7 @@
       "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Policy"
     },
     {
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
@@ -39,6 +29,36 @@
       "category": "LLMs"
     },
     {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Robotics"
+    },
+    {
       "title": "Apple’s plot to crush OpenAI",
       "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
       "readTime": "1 min read",
@@ -46,16 +66,6 @@
       "pubDate": "2026-07-17T17:41:32.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "Policy"
     },
     {
@@ -69,6 +79,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
       "readTime": "1 min read",
@@ -76,47 +96,17 @@
       "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Hardware"
+      "category": "Enterprise"
     },
     {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "description": "The FireSat program can spot wildfires that other satellites miss.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "pubDate": "2026-07-17T19:34:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "pubDate": "2026-07-16T17:58:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Open Source"
+      "category": "Policy"
     },
     {
       "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
@@ -127,6 +117,16 @@
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     }
   ]
 }
