@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-07-20T17:26:24.931Z",
-  "summary": "This week in AI, significant advancements were made in various sectors, including graphics and simulation, with NVIDIA's Agentic and Physical AI. OpenAI shared lessons from deploying long-running AI models, highlighting new safety risks and improved safeguards. Meanwhile, Apple's lawsuit against OpenAI could disrupt the latter's IPO plans.",
-  "insight": "The increasing presence of AI in multiple industries underscores the need for a balanced approach to innovation and regulation, ensuring that technological advancements serve the greater good without compromising safety and ethics.",
+  "generated_at": "2026-07-20T21:03:13.184Z",
+  "summary": "This week in AI, significant advancements have been made in various sectors. China's leading AI companies are ramping up pressure on Silicon Valley, while OpenAI faces challenges from Apple's lawsuit. NVIDIA is maximizing intelligence per dollar for post-training workloads, and enterprises are struggling to measure AI infrastructure costs.",
+  "insight": "The increasing competition between the US and China in the AI sector is driving innovation, but also raises concerns about data security and the potential for AI models to be used for malicious purposes.",
   "highlights": [
-    "NVIDIA advances graphics and simulation with Agentic and Physical AI, transforming media and content creation.",
-    "OpenAI shares critical lessons from deploying long-horizon models, emphasizing safety and alignment in AI development.",
-    "Apple's lawsuit against OpenAI could have significant implications for the future of AI development and deployment."
+    "China's Moonshot AI releases Kimi K3, a 2.8 trillion parameter open-weight model, challenging US AI dominance.",
+    "OpenAI faces a trade secrets lawsuit from Apple, potentially disrupting its IPO plans.",
+    "NVIDIA's Vera Rubin maximizes intelligence per dollar for post-training workloads, a key metric for agentic AI."
   ],
   "articles": [
     {
-      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-      "description": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthr",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "pubDate": "Mon, 20 Jul 2026 15:00:53 +0000",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Affinity-by-Canva-MCP.mp4",
-      "source": "NVIDIA",
-      "category": "Research"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "pubDate": "2026-07-20T10:16:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
     },
     {
       "title": "Safety and alignment in an era of long-horizon models",
@@ -29,104 +39,94 @@
       "category": "Research"
     },
     {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthr",
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "description": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "pubDate": "2026-07-20T10:16:33.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
+      "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "pubDate": "Mon, 20 Jul 2026 15:00:53 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Affinity-by-Canva-MCP.mp4",
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
-      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
-      "description": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe\t\n\nAdobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provid",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the pl",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "pubDate": "2026-07-20T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "LLMs"
     },
     {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "pubDate": "Fri, 17 Jul 2026 12:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Hardware"
     },
     {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "description": "Google says these changes could endanger user privacy and security.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "pubDate": "2026-07-17T17:41:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "pubDate": "Mon, 20 Jul 2026 15:23:06 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-      "description": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "pubDate": "Mon, 20 Jul 2026 10:59:23 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Robotics"
+      "category": "Policy"
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
+      "readTime": "12 min read",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "Enterprise"
+    },
+    {
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "pubDate": "Fri, 17 Jul 2026 15:00:14 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Research"
+    },
+    {
+      "title": "Introducing Cosmos 3 Edge",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "pubDate": "Mon, 20 Jul 2026 15:58:51 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "Open Source"
+    },
+    {
+      "title": "US public health agencies to test OpenAI and Anthropic AI models",
+      "description": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+      "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
     }
   ]
 }
