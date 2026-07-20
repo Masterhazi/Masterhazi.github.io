@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T02:12:03.296Z",
-  "summary": "This week's AI news highlights significant developments in the industry, including Apple's lawsuit against OpenAI, advancements in AI-powered hardware, and growing concerns over AI safety and regulation. Key players like Google, NVIDIA, and Databricks are making strides in AI innovation, while policymakers are taking steps to address the technology's implications.",
-  "insight": "The intersection of AI and human creativity is becoming increasingly prominent, with AI-generated content raising questions about authorship and ownership, and sparking debates over the role of AI in artistic expression.",
+  "generated_at": "2026-07-20T06:39:43.842Z",
+  "summary": "This week's AI news highlights significant developments in the industry, including Apple's lawsuit against OpenAI, advancements in AI-powered hardware, and growing concerns about AI misuse. Key players like Google, NVIDIA, and Databricks are making strides in AI research and applications.",
+  "insight": "The increasing focus on AI regulation and ethics underscores the need for responsible AI development and deployment, as seen in Apple's lawsuit against OpenAI and the EU's order for Google to open Android and Search to rivals.",
   "highlights": [
-    "Apple's lawsuit against OpenAI could disrupt the company's IPO plans and impact the broader AI industry.",
-    "Databricks has achieved a $188B valuation, solidifying its position as a leader in AI and data analytics.",
-    "Google is expanding its AI capabilities, including the introduction of personalized AI avatars and AI-powered game creation features."
+    "Apple's lawsuit against OpenAI could disrupt the latter's IPO plans",
+    "Databricks hits $188B valuation, extending its run as AI's favorite second act",
+    "Google ordered to open Android and Search to rivals in Europe"
   ],
   "articles": [
     {
@@ -49,6 +49,16 @@
       "category": "Policy"
     },
     {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "pubDate": "2026-07-16T12:06:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
       "title": "What to watch for after Jensen Huang’s Japan visit",
       "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
       "readTime": "1 min read",
@@ -59,24 +69,14 @@
       "category": "Hardware"
     },
     {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or invo",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Hardware"
     },
     {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
@@ -89,16 +89,6 @@
       "category": "Robotics"
     },
     {
-      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participatio",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-      "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Healthcare"
-    },
-    {
       "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
       "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
       "readTime": "1 min read",
@@ -109,14 +99,24 @@
       "category": "Robotics"
     },
     {
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "description": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "pubDate": "Thu, 16 Jul 2026 19:18:23 +0000",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "TechCrunch",
       "category": "Open Source"
+    },
+    {
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "Research"
     },
     {
       "title": "Examining Google DeepMind’s AI bioresilience push",
