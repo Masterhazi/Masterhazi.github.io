@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T20:39:07.713Z",
-  "summary": "This week's AI news highlights significant developments in OpenAI, Apple, and Google. OpenAI faces a lawsuit from Apple, while Google expands its AI capabilities and faces EU regulations. The AI industry continues to grow, with new investments and innovations emerging.",
-  "insight": "The increasing competition between tech giants like Apple, Google, and OpenAI is driving innovation in the AI industry, but also raises concerns about data privacy, security, and regulation.",
+  "generated_at": "2026-07-20T02:12:03.296Z",
+  "summary": "This week's AI news highlights significant developments in the industry, including Apple's lawsuit against OpenAI, advancements in AI-powered hardware, and growing concerns over AI safety and regulation. Key players like Google, NVIDIA, and Databricks are making strides in AI innovation, while policymakers are taking steps to address the technology's implications.",
+  "insight": "The intersection of AI and human creativity is becoming increasingly prominent, with AI-generated content raising questions about authorship and ownership, and sparking debates over the role of AI in artistic expression.",
   "highlights": [
-    "OpenAI faces a lawsuit from Apple over trade secrets, potentially disrupting its IPO plans.",
-    "Google expands its AI capabilities, including a new AI note-taking app and personalized AI avatars.",
-    "The EU orders Google to open Android and Search to rival AI assistants and search engines."
+    "Apple's lawsuit against OpenAI could disrupt the company's IPO plans and impact the broader AI industry.",
+    "Databricks has achieved a $188B valuation, solidifying its position as a leader in AI and data analytics.",
+    "Google is expanding its AI capabilities, including the introduction of personalized AI avatars and AI-powered game creation features."
   ],
   "articles": [
     {
@@ -16,7 +16,17 @@
       "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
+      "category": "Enterprise"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
@@ -29,41 +39,41 @@
       "category": "Policy"
     },
     {
-      "title": "Apple’s plot to crush OpenAI",
-      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "description": "Google says these changes could endanger user privacy and security.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "pubDate": "2026-07-17T17:41:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "image": "",
+      "source": "Ars Technica",
       "category": "Policy"
     },
     {
-      "title": "I hate that I don’t hate this song made with Suno",
-      "description": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram\t\n\nI would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all).",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "pubDate": "2026-07-19T17:35:54.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
     },
     {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers ",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "pubDate": "2026-07-18T20:54:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
     },
     {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or invo",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
@@ -79,44 +89,34 @@
       "category": "Robotics"
     },
     {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participatio",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "AI News",
+      "category": "Healthcare"
+    },
+    {
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
+    },
+    {
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "description": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "pubDate": "Thu, 16 Jul 2026 19:18:23 +0000",
+      "image": "",
+      "source": "Ars Technica",
       "category": "Open Source"
-    },
-    {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "description": "Google says these changes could endanger user privacy and security.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
     },
     {
       "title": "Examining Google DeepMind’s AI bioresilience push",
