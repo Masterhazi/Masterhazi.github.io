@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T10:43:32.137Z",
-  "summary": "Today's AI news highlights China's growing presence in the AI industry, with companies like Moonshot and Alibaba unveiling models that rival those of OpenAI and Anthropic. Meanwhile, US public health agencies are testing AI models, and Apple's lawsuit against OpenAI may disrupt its IPO plans.",
-  "insight": "The increasing competition in the AI industry is driving innovation, but also raises concerns about bias, job displacement, and the need for responsible AI development.",
+  "generated_at": "2026-07-20T13:51:14.577Z",
+  "summary": "This week in AI, significant advancements were made in various sectors. China's AI companies are challenging US dominance, while OpenAI faces a lawsuit from Apple. AI models are being tested for use in public health and coding. The industry is also seeing a surge in AI-focused IPOs and investments.",
+  "insight": "The increasing use of AI in different industries is leading to a rise in concerns about bias, job displacement, and data privacy, highlighting the need for responsible AI development and regulation.",
   "highlights": [
-    "China's Moonshot AI unveils Kimi K3 open-weight model, rivaling OpenAI and Anthropic",
-    "US public health agencies test OpenAI and Anthropic AI models",
-    "Apple's lawsuit against OpenAI may disrupt its IPO plans"
+    "China's Moonshot AI releases Kimi K3, a 2.8 trillion parameter open-weight model, challenging US AI dominance.",
+    "OpenAI faces a lawsuit from Apple, potentially disrupting its IPO plans and highlighting concerns about data privacy and security.",
+    "US public health agencies to test OpenAI and Anthropic AI models, exploring the potential of AI in healthcare."
   ],
   "articles": [
     {
@@ -19,6 +19,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "description": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "pubDate": "Mon, 20 Jul 2026 10:59:23 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Enterprise"
+    },
+    {
       "title": "US public health agencies to test OpenAI and Anthropic AI models",
       "description": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The ",
       "readTime": "1 min read",
@@ -29,13 +39,13 @@
       "category": "Policy"
     },
     {
-      "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-      "description": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-we",
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "description": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-      "pubDate": "Mon, 20 Jul 2026 09:00:00 +0000",
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "pubDate": "Mon, 20 Jul 2026 11:20:10 +0000",
       "image": "",
-      "source": "AI News",
+      "source": "Ars Technica",
       "category": "LLMs"
     },
     {
@@ -49,14 +59,34 @@
       "category": "Research"
     },
     {
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
+    },
+    {
+      "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
+      "description": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-we",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+      "pubDate": "Mon, 20 Jul 2026 09:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "LLMs"
     },
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
@@ -66,17 +96,27 @@
       "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "Open Source"
     },
     {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers ",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "pubDate": "2026-07-18T20:54:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or invo",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
@@ -87,46 +127,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "pubDate": "2026-07-17T19:34:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participatio",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-      "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Healthcare"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Research"
-    },
-    {
-      "title": "Examining Google DeepMind’s AI bioresilience push",
-      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joi",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Research"
     }
   ]
 }
