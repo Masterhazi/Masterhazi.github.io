@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-07-20T06:39:43.842Z",
-  "summary": "This week's AI news highlights significant developments in the industry, including Apple's lawsuit against OpenAI, advancements in AI-powered hardware, and growing concerns about AI misuse. Key players like Google, NVIDIA, and Databricks are making strides in AI research and applications.",
-  "insight": "The increasing focus on AI regulation and ethics underscores the need for responsible AI development and deployment, as seen in Apple's lawsuit against OpenAI and the EU's order for Google to open Android and Search to rivals.",
+  "generated_at": "2026-07-20T10:43:32.137Z",
+  "summary": "Today's AI news highlights China's growing presence in the AI industry, with companies like Moonshot and Alibaba unveiling models that rival those of OpenAI and Anthropic. Meanwhile, US public health agencies are testing AI models, and Apple's lawsuit against OpenAI may disrupt its IPO plans.",
+  "insight": "The increasing competition in the AI industry is driving innovation, but also raises concerns about bias, job displacement, and the need for responsible AI development.",
   "highlights": [
-    "Apple's lawsuit against OpenAI could disrupt the latter's IPO plans",
-    "Databricks hits $188B valuation, extending its run as AI's favorite second act",
-    "Google ordered to open Android and Search to rivals in Europe"
+    "China's Moonshot AI unveils Kimi K3 open-weight model, rivaling OpenAI and Anthropic",
+    "US public health agencies test OpenAI and Anthropic AI models",
+    "Apple's lawsuit against OpenAI may disrupt its IPO plans"
   ],
   "articles": [
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthr",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "pubDate": "2026-07-20T10:16:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "US public health agencies to test OpenAI and Anthropic AI models",
+      "description": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+      "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Policy"
+    },
+    {
+      "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
+      "description": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-we",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+      "pubDate": "Mon, 20 Jul 2026 09:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "LLMs"
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "description": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already kno",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "pubDate": "Mon, 20 Jul 2026 08:39:01 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
@@ -17,6 +57,26 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "pubDate": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
     },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
@@ -29,93 +89,33 @@
       "category": "Enterprise"
     },
     {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "description": "Google says these changes could endanger user privacy and security.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "pubDate": "2026-07-16T12:06:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "pubDate": "2026-07-17T19:34:30.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Policy"
+      "category": "General"
     },
     {
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participatio",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
+      "source": "AI News",
+      "category": "Healthcare"
     },
     {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "title": "A scorecard for the AI age",
+      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
-    },
-    {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
-      "image": "",
-      "source": "Hugging Face",
+      "source": "OpenAI",
       "category": "Research"
     },
     {
