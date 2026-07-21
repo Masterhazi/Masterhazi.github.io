@@ -1,13 +1,63 @@
 {
-  "generated_at": "2026-07-21T13:20:54.511Z",
-  "summary": "This week in AI, significant advancements were made in various sectors, including hardware, open-source models, and policy. Notable developments include Google working on a new AI chip, China's growing presence in the AI landscape, and ongoing discussions about AI regulation. ",
-  "insight": "The increasing presence of Chinese AI companies, such as Moonshot, is forcing the US to reevaluate its stance on AI development and regulation, highlighting the complex geopolitical landscape of AI innovation.",
+  "generated_at": "2026-07-21T17:08:15.641Z",
+  "summary": "This week in AI news, major advancements were made in AI models, hardware, and applications. OpenAI launched the ChatGPT for Small Businesses program, while NVIDIA introduced the Vera Rubin for gigascale AI. Google revealed faster and cheaper Gemini models, and Anthropic's $1.5 billion copyright settlement was approved.",
+  "insight": "The increasing use of AI in various industries, such as music and construction, highlights the need for addressing copyright and IP theft concerns, as seen in Anthropic's settlement and the US threatening sanctions against Chinese AI models.",
   "highlights": [
-    "Google is developing a new AI chip to improve the efficiency of its Gemini models.",
-    "China's Moonshot AI has unveiled its Kimi K3 open-weight model, posing a challenge to US AI dominance.",
-    "The US is considering regulations on Chinese open-weight models, sparking debate about the future of AI development."
+    "OpenAI's ChatGPT for Small Businesses program aims to help entrepreneurs build AI skills and automate work.",
+    "NVIDIA's Vera Rubin is designed to maximize intelligence per dollar for post-training workloads, a key metric for agentic AI.",
+    "Google's new Gemini models offer faster and cheaper alternatives to large AI security models."
   ],
   "articles": [
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "pubDate": "Tue, 21 Jul 2026 17:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
+    },
+    {
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "description": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "pubDate": "2026-07-21T16:53:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "description": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cl",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "pubDate": "Tue, 21 Jul 2026 15:36:43 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
+    {
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "description": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "pubDate": "Tue, 21 Jul 2026 15:00:20 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
+    {
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "pubDate": "Tue, 21 Jul 2026 13:27:42 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "America needs to stop getting shocked by Chinese AI",
       "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Featu",
@@ -19,14 +69,24 @@
       "category": "Policy"
     },
     {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthr",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "pubDate": "2026-07-20T10:16:33.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "pubDate": "Tue, 21 Jul 2026 10:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Robotics"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/grabette",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "Open Source"
     },
     {
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
@@ -39,44 +99,14 @@
       "category": "Hardware"
     },
     {
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
-      "description": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "pubDate": "Tue, 21 Jul 2026 10:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-      "description": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-we",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-      "pubDate": "Mon, 20 Jul 2026 09:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "LLMs"
-    },
-    {
-      "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
-      "description": "Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker’s Vera Rubin architecture to support artificial intelligence use across its drug discovery and deve",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
-      "pubDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-      "description": "California and XPRIZE competition tests whether drones can stop wildfires early.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-      "pubDate": "Mon, 20 Jul 2026 21:55:52 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
+      "category": "Policy"
     },
     {
       "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
@@ -87,36 +117,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Affinity-by-Canva-MCP.mp4",
       "source": "NVIDIA",
       "category": "Research"
-    },
-    {
-      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-      "description": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "pubDate": "Mon, 20 Jul 2026 10:59:23 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
-      "description": "Enterprises evaluating Chinese open-weight models this month face a question that has nothing to do with benchmarks: whether using one will still be straightforward in a year. Moon",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
-      "pubDate": "Tue, 21 Jul 2026 08:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Policy"
     },
     {
       "title": "Safety and alignment in an era of long-horizon models",
