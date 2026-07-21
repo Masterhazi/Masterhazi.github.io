@@ -1,22 +1,42 @@
 {
-  "generated_at": "2026-07-20T21:03:13.184Z",
-  "summary": "This week in AI, significant advancements have been made in various sectors. China's leading AI companies are ramping up pressure on Silicon Valley, while OpenAI faces challenges from Apple's lawsuit. NVIDIA is maximizing intelligence per dollar for post-training workloads, and enterprises are struggling to measure AI infrastructure costs.",
-  "insight": "The increasing competition between the US and China in the AI sector is driving innovation, but also raises concerns about data security and the potential for AI models to be used for malicious purposes.",
+  "generated_at": "2026-07-21T01:53:51.042Z",
+  "summary": "This week's AI news highlights significant developments in AI regulations, advancements in AI models, and growing concerns over AI's impact on various industries. Anthropic's $1.5B copyright settlement and Apple's lawsuit against OpenAI are major stories, while China's AI companies are ramping up pressure on Silicon Valley.",
+  "insight": "The increasing presence of AI in various industries is leading to a rise in concerns over job displacement, bias, and copyright issues, highlighting the need for more comprehensive regulations and guidelines for AI development and deployment.",
   "highlights": [
-    "China's Moonshot AI releases Kimi K3, a 2.8 trillion parameter open-weight model, challenging US AI dominance.",
-    "OpenAI faces a trade secrets lawsuit from Apple, potentially disrupting its IPO plans.",
-    "NVIDIA's Vera Rubin maximizes intelligence per dollar for post-training workloads, a key metric for agentic AI."
+    "Anthropic's $1.5B copyright settlement approved, settling one case but not resolving broader issues of using copyrighted works to train AI models.",
+    "China's leading AI companies are ramping up pressure on Silicon Valley, with Moonshot and Alibaba unveiling models claimed to rival those from OpenAI and Anthropic.",
+    "Apple's lawsuit against OpenAI could disrupt the latter's IPO plans, alleging a pattern of misconduct and trade secrets theft."
   ],
   "articles": [
     {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthr",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "pubDate": "2026-07-20T10:16:33.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "pubDate": "Tue, 21 Jul 2026 00:12:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+      "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Pr",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "pubDate": "2026-07-20T22:19:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
+      "category": "LLMs"
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
     },
     {
       "title": "OpenAI is scared of open-weight models. Should the US be?",
@@ -26,17 +46,17 @@
       "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "LLMs"
     },
     {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Research"
+      "source": "TechCrunch",
+      "category": "General"
     },
     {
       "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
@@ -46,77 +66,17 @@
       "pubDate": "Mon, 20 Jul 2026 15:00:53 +0000",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Affinity-by-Canva-MCP.mp4",
       "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the pl",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "pubDate": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "description": "Google says these changes could endanger user privacy and security.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy",
-      "readTime": "12 min read",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "Enterprise"
-    },
-    {
-      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-      "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "pubDate": "Fri, 17 Jul 2026 15:00:14 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "Research"
     },
     {
-      "title": "Introducing Cosmos 3 Edge",
-      "description": "",
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthr",
       "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "pubDate": "Mon, 20 Jul 2026 15:58:51 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Open Source"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "pubDate": "2026-07-20T10:16:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Enterprise"
     },
     {
       "title": "US public health agencies to test OpenAI and Anthropic AI models",
@@ -126,7 +86,47 @@
       "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
       "image": "",
       "source": "AI News",
+      "category": "Policy"
+    },
+    {
+      "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
+      "description": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-we",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+      "pubDate": "Mon, 20 Jul 2026 09:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "LLMs"
+    },
+    {
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "description": "\"Everybody knows the Greeks are inside.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "pubDate": "Sun, 19 Jul 2026 14:52:08 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "General"
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or invo",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
     }
   ]
 }
