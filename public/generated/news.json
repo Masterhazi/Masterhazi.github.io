@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T01:53:51.042Z",
-  "summary": "This week's AI news highlights significant developments in AI regulations, advancements in AI models, and growing concerns over AI's impact on various industries. Anthropic's $1.5B copyright settlement and Apple's lawsuit against OpenAI are major stories, while China's AI companies are ramping up pressure on Silicon Valley.",
-  "insight": "The increasing presence of AI in various industries is leading to a rise in concerns over job displacement, bias, and copyright issues, highlighting the need for more comprehensive regulations and guidelines for AI development and deployment.",
+  "generated_at": "2026-07-21T06:23:09.624Z",
+  "summary": "This week in AI, major developments include Anthropic's $1.5B copyright settlement, advancements in firefighting drones, and Google's new AI chip for Gemini. OpenAI and Anthropic models are being tested by US public health agencies, while China's AI companies are ramping up pressure on Silicon Valley.",
+  "insight": "The increasing use of AI in various industries is raising concerns about job displacement, bias, and copyright infringement, highlighting the need for responsible AI development and regulation.",
   "highlights": [
-    "Anthropic's $1.5B copyright settlement approved, settling one case but not resolving broader issues of using copyrighted works to train AI models.",
-    "China's leading AI companies are ramping up pressure on Silicon Valley, with Moonshot and Alibaba unveiling models claimed to rival those from OpenAI and Anthropic.",
-    "Apple's lawsuit against OpenAI could disrupt the latter's IPO plans, alleging a pattern of misconduct and trade secrets theft."
+    "Anthropic's landmark $1.5B copyright settlement sets a precedent for AI model training",
+    "Google is working on a new AI chip to make Gemini models more efficient",
+    "China's AI companies are challenging US dominance with new models and technologies"
   ],
   "articles": [
     {
@@ -19,14 +19,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
-      "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Pr",
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "description": "California and XPRIZE competition tests whether drones can stop wildfires early.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "pubDate": "2026-07-20T22:19:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "pubDate": "Mon, 20 Jul 2026 21:55:52 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
     },
     {
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
@@ -36,7 +36,7 @@
       "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Hardware"
+      "category": "General"
     },
     {
       "title": "OpenAI is scared of open-weight models. Should the US be?",
@@ -47,6 +47,16 @@
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
+    },
+    {
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "description": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe\t\n\nAdobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provid",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "pubDate": "2026-07-20T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     },
     {
       "title": "Adobe camera app’s new feature will critique your photos using AI",
@@ -66,7 +76,7 @@
       "pubDate": "Mon, 20 Jul 2026 15:00:53 +0000",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Affinity-by-Canva-MCP.mp4",
       "source": "NVIDIA",
-      "category": "Research"
+      "category": "Hardware"
     },
     {
       "title": "China delivers a one-two punch to America’s AI dominance",
@@ -76,7 +86,7 @@
       "pubDate": "2026-07-20T10:16:33.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Enterprise"
+      "category": "LLMs"
     },
     {
       "title": "US public health agencies to test OpenAI and Anthropic AI models",
@@ -86,7 +96,7 @@
       "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Policy"
+      "category": "Research"
     },
     {
       "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
@@ -99,34 +109,24 @@
       "category": "LLMs"
     },
     {
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "description": "\"Everybody knows the Greeks are inside.\"",
+      "title": "Kimi: Threat or menace?",
+      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "pubDate": "Sun, 19 Jul 2026 14:52:08 +0000",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "LLMs"
     },
     {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or invo",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
     }
   ]
 }
