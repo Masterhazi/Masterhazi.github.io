@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T06:23:09.624Z",
-  "summary": "This week in AI, major developments include Anthropic's $1.5B copyright settlement, advancements in firefighting drones, and Google's new AI chip for Gemini. OpenAI and Anthropic models are being tested by US public health agencies, while China's AI companies are ramping up pressure on Silicon Valley.",
-  "insight": "The increasing use of AI in various industries is raising concerns about job displacement, bias, and copyright infringement, highlighting the need for responsible AI development and regulation.",
+  "generated_at": "2026-07-21T10:18:01.482Z",
+  "summary": "This week's AI news highlights significant developments in AI regulations, advancements in AI technology, and growing concerns over AI safety and ethics. Major companies like Google, Apple, and NVIDIA are making strides in AI innovation, while governments and organizations are working to establish guidelines and standards for AI use.",
+  "insight": "The increasing use of AI in various industries is leading to a rise in AI-related incidents, emphasizing the need for robust security measures and regulations to ensure responsible AI development and deployment.",
   "highlights": [
-    "Anthropic's landmark $1.5B copyright settlement sets a precedent for AI model training",
-    "Google is working on a new AI chip to make Gemini models more efficient",
-    "China's AI companies are challenging US dominance with new models and technologies"
+    "Anthropic's $1.5B copyright settlement has been approved, setting a precedent for AI copyright issues.",
+    "Google is working on a new AI chip to improve the efficiency of its Gemini models.",
+    "China's AI companies are gaining ground, with Moonshot and Alibaba unveiling models that rival those of OpenAI and Anthropic."
   ],
   "articles": [
     {
@@ -19,14 +19,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-      "description": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+      "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Pr",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-      "pubDate": "Mon, 20 Jul 2026 21:55:52 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "pubDate": "2026-07-20T22:19:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
     },
     {
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
@@ -36,7 +36,7 @@
       "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "Hardware"
     },
     {
       "title": "OpenAI is scared of open-weight models. Should the US be?",
@@ -49,34 +49,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
-      "description": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe\t\n\nAdobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provid",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and form",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "pubDate": "2026-07-20T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
+      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "pubDate": "Mon, 20 Jul 2026 18:00:00 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-      "description": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "pubDate": "Mon, 20 Jul 2026 15:00:53 +0000",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Affinity-by-Canva-MCP.mp4",
-      "source": "NVIDIA",
-      "category": "Hardware"
+      "source": "MIT Technology Review",
+      "category": "Policy"
     },
     {
       "title": "China delivers a one-two punch to America’s AI dominance",
@@ -89,44 +69,64 @@
       "category": "LLMs"
     },
     {
-      "title": "US public health agencies to test OpenAI and Anthropic AI models",
-      "description": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The ",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
-      "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
       "image": "",
-      "source": "AI News",
+      "source": "OpenAI",
       "category": "Research"
     },
     {
-      "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-      "description": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-we",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-      "pubDate": "Mon, 20 Jul 2026 09:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "LLMs"
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "description": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "pubDate": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "pubDate": "Fri, 17 Jul 2026 15:00:14 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
+    {
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "description": "Google says these changes could endanger user privacy and security.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
     }
   ]
 }
