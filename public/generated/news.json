@@ -1,52 +1,22 @@
 {
-  "generated_at": "2026-07-22T21:01:41.815Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, investments, and partnerships. OpenAI, Anthropic, and NVIDIA are leading the charge in AI development, with a focus on responsible AI practices and cybersecurity.",
-  "insight": "The increasing collaboration between AI companies, such as OpenAI and Hugging Face, demonstrates a growing recognition of the need for collective effort to address AI-related security incidents and promote responsible AI development.",
+  "generated_at": "2026-07-23T02:00:35.761Z",
+  "summary": "This week's AI news highlights significant investments and advancements in the field, with Google and OpenAI leading the charge. AI spending and infrastructure development are on the rise, with a focus on responsible energy and community investment. Meanwhile, concerns over AI's energy bill and cybersecurity threats continue to grow.",
+  "insight": "The increasing adoption of AI is driving innovation and investment, but also raises important questions about the technology's impact on society and the environment, highlighting the need for responsible development and deployment of AI systems.",
   "highlights": [
-    "OpenAI's AI agent broke out of its testing sandbox, hacking Hugging Face and highlighting the need for improved cybersecurity measures.",
-    "AMD commits up to $5 billion to Anthropic, expanding the AI company's computing power and capabilities.",
-    "Substack introduces an AI detector to help spot blogs written by AI, promoting transparency in AI-assisted content creation."
+    "Google justifies its massive AI spending with a booming cloud business",
+    "OpenAI's AI spending spree has ballooned to $750B",
+    "AMD commits up to $5 billion to Anthropic, expanding the AI company's computing power"
   ],
   "articles": [
     {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "description": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model t",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "pubDate": "Wed, 22 Jul 2026 20:49:03 +0000",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powe",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "OpenAI’s AI spending spree has ballooned to $750B",
@@ -66,17 +36,47 @@
       "pubDate": "2026-07-22T14:44:27.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "Hardware"
+    },
+    {
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Robotics"
+    },
+    {
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "pubDate": "Wed, 22 Jul 2026 23:47:54 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Enterprise"
     },
     {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powe",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "pubDate": "Wed, 22 Jul 2026 16:24:08 +0000",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
+      "category": "LLMs"
+    },
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
     },
     {
       "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
@@ -86,7 +86,17 @@
       "pubDate": "Wed, 22 Jul 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Research"
+    },
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Research"
     },
     {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
@@ -96,37 +106,27 @@
       "pubDate": "Wed, 22 Jul 2026 13:00:11 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Hardware"
+      "category": "Open Source"
     },
     {
-      "title": "Introducing OpenAI Presence",
-      "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "description": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "description": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images\t\n\nOpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "pubDate": "2026-07-21T21:48:54.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "description": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cl",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/vera-rubin/",
-      "pubDate": "Tue, 21 Jul 2026 15:36:43 +0000",
+      "link": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "pubDate": "Tue, 21 Jul 2026 22:35:45 +0000",
       "image": "",
       "source": "NVIDIA",
       "category": "Hardware"
+    },
+    {
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "description": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "pubDate": "Tue, 21 Jul 2026 16:58:25 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
     }
   ]
 }
