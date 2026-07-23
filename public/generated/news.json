@@ -1,42 +1,22 @@
 {
-  "generated_at": "2026-07-23T06:24:57.451Z",
-  "summary": "This week in AI news, significant investments and partnerships were announced, including ServiceNow's $40 million investment in BusinessNext and AMD's commitment of up to $5 billion to Anthropic. Google's cloud business is thriving, driven by the adoption of its AI and infrastructure services. Meanwhile, OpenAI's AI spending spree has raised eyebrows, with plans to spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-  "insight": "The increasing investment in AI infrastructure and services suggests a growing recognition of the importance of AI in driving business growth and innovation, with companies like Google, NVIDIA, and OpenAI leading the charge.",
+  "generated_at": "2026-07-23T10:13:21.971Z",
+  "summary": "Major AI investments and advancements are underway, with AMD investing up to $5 billion in Anthropic and NVIDIA launching new AI supercomputers. Google's cloud business is thriving, driven by AI adoption, while OpenAI faces challenges with AI model breaches and massive spending sprees.",
+  "insight": "The rapid growth of AI is driving significant investments and innovations, but also raises important questions about security, ethics, and the responsible development of AI technologies.",
   "highlights": [
-    "ServiceNow invests $40 million in BusinessNext to expand its AI-powered banking software globally.",
-    "Google's cloud business thrives, driven by the adoption of its AI and infrastructure services.",
-    "OpenAI's AI spending spree raises eyebrows, with plans to spend the equivalent of Sweden's GDP on infrastructure through 2030."
+    "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+    "NVIDIA launches new AI supercomputer at Naval Postgraduate School",
+    "Google's cloud business thrives as companies adopt AI and AI infrastructure services"
   ],
   "articles": [
     {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+      "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "description": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "pubDate": "Thu, 23 Jul 2026 06:09:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
+      "source": "AI News",
+      "category": "LLMs"
     },
     {
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
@@ -49,24 +29,14 @@
       "category": "Hardware"
     },
     {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powe",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
@@ -79,14 +49,44 @@
       "category": "Robotics"
     },
     {
-      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-      "description": "Union previously warned automaker that any robot deployment must be negotiated.",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-      "pubDate": "Wed, 22 Jul 2026 18:18:12 +0000",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "pubDate": "Wed, 22 Jul 2026 17:54:14 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "pubDate": "Wed, 22 Jul 2026 16:24:08 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Research"
     },
     {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
@@ -96,17 +96,17 @@
       "pubDate": "Wed, 22 Jul 2026 13:00:11 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Research"
+      "category": "Hardware"
     },
     {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
+      "description": "SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China. In a keynote titled ‘Intelligent Transformation and Sy",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+      "pubDate": "Wed, 22 Jul 2026 11:21:05 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Research"
+      "source": "AI News",
+      "category": "Hardware"
     },
     {
       "title": "Introducing OpenAI Presence",
@@ -116,17 +116,17 @@
       "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Open Source"
+      "category": "Enterprise"
     },
     {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "description": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "description": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cl",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "pubDate": "Tue, 21 Jul 2026 16:58:25 +0000",
+      "link": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "pubDate": "Tue, 21 Jul 2026 15:36:43 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
+      "source": "NVIDIA",
+      "category": "Hardware"
     }
   ]
 }
