@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-07-23T13:28:34.999Z",
-  "summary": "This week in AI news, significant advancements were made in various sectors. NVIDIA and Google announced new AI infrastructure and models, while OpenAI and Anthropic made headlines with their AI spending and settlements. The use of AI in medicine, robotics, and cybersecurity also saw notable developments.",
-  "insight": "The increasing investment in AI infrastructure and the growing adoption of AI models across industries signal a significant shift towards AI-driven technologies, with companies like NVIDIA, Google, and OpenAI leading the charge.",
+  "generated_at": "2026-07-23T17:11:42.756Z",
+  "summary": "This week's AI news highlights significant advancements in AI infrastructure, healthcare, and robotics. OpenAI's ChatGPT Health is now available to all US users, while Nvidia is sending GPUs to the moon. Google's massive AI spending has sparked concerns, and lawmakers are preparing an 'AI Kill Switch Act'.",
+  "insight": "The increasing investment in AI infrastructure and research is driving innovation, but also raises concerns about energy consumption, data privacy, and job displacement, highlighting the need for responsible AI development and regulation.",
   "highlights": [
-    "NVIDIA's new AI supercomputer and GeForce NOW updates",
-    "OpenAI's $750B AI spending spree and its impact on the industry",
-    "Google's Gemini 3.6 Flash and cybersecurity AI announcements"
+    "OpenAI's ChatGPT Health is now available to all US users, allowing for personalized health insights and medical record integration.",
+    "Nvidia is expanding its presence in space with the launch of GPUs on the moon, marking a new frontier for AI-powered space exploration.",
+    "Google's AI spending has reached unprecedented levels, with the company justifying the investment as necessary for its booming cloud business."
   ],
   "articles": [
+    {
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "description": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "description": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "pubDate": "Thu, 23 Jul 2026 16:04:19 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Nvidia is sending GPUs to the moon",
+      "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "pubDate": "Thu, 23 Jul 2026 14:45:05 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Securi",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "pubDate": "2026-07-23T14:13:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
     {
       "title": "How AI helps scientists design the next generation of medicines",
       "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
@@ -17,6 +87,26 @@
       "image": "",
       "source": "MIT Technology Review",
       "category": "Research"
+    },
+    {
+      "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
+      "description": "Nvidia’s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvi",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+      "pubDate": "Thu, 23 Jul 2026 11:38:55 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Robotics"
+    },
+    {
+      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+      "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Enterprise"
     },
     {
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
@@ -29,104 +119,14 @@
       "category": "Hardware"
     },
     {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "link": "https://huggingface.co/blog/nunchaku-diffusers",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powe",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "pubDate": "Wed, 22 Jul 2026 17:54:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-      "description": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-      "pubDate": "Wed, 22 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "description": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissu",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "pubDate": "Wed, 22 Jul 2026 13:00:11 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "description": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge\t\n\nIIn March, Meta's Oversight Board called on the company to \"meet its p",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "pubDate": "2026-07-22T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-      "description": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "pubDate": "Tue, 21 Jul 2026 22:35:45 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "description": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "pubDate": "Tue, 21 Jul 2026 16:58:25 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
+      "source": "Hugging Face",
+      "category": "Open Source"
     }
   ]
 }
