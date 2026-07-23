@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T02:00:35.761Z",
-  "summary": "This week's AI news highlights significant investments and advancements in the field, with Google and OpenAI leading the charge. AI spending and infrastructure development are on the rise, with a focus on responsible energy and community investment. Meanwhile, concerns over AI's energy bill and cybersecurity threats continue to grow.",
-  "insight": "The increasing adoption of AI is driving innovation and investment, but also raises important questions about the technology's impact on society and the environment, highlighting the need for responsible development and deployment of AI systems.",
+  "generated_at": "2026-07-23T06:24:57.451Z",
+  "summary": "This week in AI news, significant investments and partnerships were announced, including ServiceNow's $40 million investment in BusinessNext and AMD's commitment of up to $5 billion to Anthropic. Google's cloud business is thriving, driven by the adoption of its AI and infrastructure services. Meanwhile, OpenAI's AI spending spree has raised eyebrows, with plans to spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+  "insight": "The increasing investment in AI infrastructure and services suggests a growing recognition of the importance of AI in driving business growth and innovation, with companies like Google, NVIDIA, and OpenAI leading the charge.",
   "highlights": [
-    "Google justifies its massive AI spending with a booming cloud business",
-    "OpenAI's AI spending spree has ballooned to $750B",
-    "AMD commits up to $5 billion to Anthropic, expanding the AI company's computing power"
+    "ServiceNow invests $40 million in BusinessNext to expand its AI-powered banking software globally.",
+    "Google's cloud business thrives, driven by the adoption of its AI and infrastructure services.",
+    "OpenAI's AI spending spree raises eyebrows, with plans to spend the equivalent of Sweden's GDP on infrastructure through 2030."
   ],
   "articles": [
     {
@@ -19,6 +19,16 @@
       "category": "Enterprise"
     },
     {
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "description": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "pubDate": "Thu, 23 Jul 2026 06:09:13 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "OpenAI’s AI spending spree has ballooned to $750B",
       "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
       "readTime": "1 min read",
@@ -26,37 +36,17 @@
       "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "AMD commits up to $5 billion to  Anthropic",
-      "description": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "pubDate": "2026-07-22T14:44:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "Hardware"
     },
     {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "description": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
+      "link": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "pubDate": "Thu, 23 Jul 2026 02:00:46 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "pubDate": "Wed, 22 Jul 2026 23:47:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -79,24 +69,24 @@
       "category": "LLMs"
     },
     {
-      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-      "description": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-      "pubDate": "Wed, 22 Jul 2026 14:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
+      "category": "Robotics"
     },
     {
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+      "description": "Union previously warned automaker that any robot deployment must be negotiated.",
       "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
+      "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "pubDate": "Wed, 22 Jul 2026 18:18:12 +0000",
       "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
+      "source": "Ars Technica",
+      "category": "Robotics"
     },
     {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
@@ -106,17 +96,27 @@
       "pubDate": "Wed, 22 Jul 2026 13:00:11 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Open Source"
+      "category": "Research"
     },
     {
-      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-      "description": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "pubDate": "Tue, 21 Jul 2026 22:35:45 +0000",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
       "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
+      "source": "OpenAI",
+      "category": "Research"
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Open Source"
     },
     {
       "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
@@ -126,7 +126,7 @@
       "pubDate": "Tue, 21 Jul 2026 16:58:25 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Research"
+      "category": "Policy"
     }
   ]
 }
