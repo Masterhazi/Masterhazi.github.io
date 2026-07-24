@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T10:09:31.558Z",
-  "summary": "This week in AI, significant advancements were made in enterprise AI solutions, AI-powered healthcare, and robotics. OpenAI introduced its Presence platform, while AMD and NVIDIA made notable announcements in AI infrastructure and hardware.",
-  "insight": "The increasing integration of AI in various industries highlights the need for robust cybersecurity measures, as seen in the recent hacking incidents involving OpenAI and Hugging Face.",
+  "generated_at": "2026-07-24T13:20:57.718Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, infrastructure, and applications. OpenAI's Presence and ChatGPT Health are making waves in the enterprise and healthcare sectors. Meanwhile, NVIDIA and AMD are investing heavily in AI infrastructure, and lawmakers are considering regulations for AI development.",
+  "insight": "The increasing focus on AI infrastructure and applications suggests a shift towards more practical and widespread adoption of AI technologies, with companies and governments investing in AI development and regulation.",
   "highlights": [
-    "OpenAI's Presence platform offers managed enterprise AI solutions with dedicated engineers.",
-    "NVIDIA and AMD are investing heavily in AI infrastructure, including GPU-accelerated medical physics simulations and rack-scale systems.",
-    "The development of AI-powered healthcare solutions, such as ChatGPT Health, is gaining momentum."
+    "OpenAI launches Presence, a managed AI product for enterprises",
+    "NVIDIA and AMD invest in AI infrastructure, including GPU-accelerated systems",
+    "Lawmakers consider AI regulations, including a proposed 'AI Kill Switch Act'"
   ],
   "articles": [
     {
@@ -69,14 +69,14 @@
       "category": "Hardware"
     },
     {
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Securi",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "pubDate": "Thu, 23 Jul 2026 14:45:05 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "pubDate": "2026-07-23T14:13:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
       "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
@@ -87,16 +87,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Enterprise"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
     },
     {
       "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
@@ -116,7 +106,7 @@
       "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Enterprise"
+      "category": "Hardware"
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -127,6 +117,16 @@
       "image": "",
       "source": "OpenAI",
       "category": "LLMs"
+    },
+    {
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "description": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissu",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "pubDate": "Wed, 22 Jul 2026 13:00:11 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Research"
     }
   ]
 }
