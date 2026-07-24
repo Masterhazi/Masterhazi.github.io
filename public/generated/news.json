@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T20:53:28.731Z",
-  "summary": "This week in AI news, major advancements were made in AI infrastructure, with AMD and Nvidia making significant announcements. OpenAI expanded its ChatGPT Health feature, while lawmakers proposed an AI 'kill switch' bill. AI applications in healthcare and robotics also saw notable developments.",
-  "insight": "The increasing focus on AI infrastructure and applications highlights the industry's shift towards practical implementations, with companies and governments investing heavily in AI research and development.",
+  "generated_at": "2026-07-24T01:55:54.285Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including updates to Alexa Plus and Claude's voice mode. Companies like AMD and NVIDIA are investing heavily in AI, while lawmakers are considering regulations to mitigate potential risks.",
+  "insight": "The increasing investment in AI by major companies like AMD and NVIDIA underscores the growing importance of AI in various industries, from smart home devices to cloud computing.",
   "highlights": [
-    "AMD unveiled its Helios AI rack scale system, challenging Nvidia's dominance",
-    "OpenAI expanded its ChatGPT Health feature, allowing users to connect medical records and health-tracking information",
-    "Lawmakers proposed an AI 'kill switch' bill, sparking debate on AI regulation and safety"
+    "AMD is challenging NVIDIA with its Helios AI rack-scale system",
+    "OpenAI is making ChatGPT Health available to all US users",
+    "Google's massive AI spending has led to a negative cash flow quarter"
   ],
   "articles": [
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
@@ -19,46 +19,6 @@
       "category": "Hardware"
     },
     {
-      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-      "description": "Bill would let Homeland Security chief decide when an AI should be shut down.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-      "pubDate": "Thu, 23 Jul 2026 19:08:01 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catc",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
       "title": "OpenAI makes ChatGPT Health available to all US users",
       "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
       "readTime": "1 min read",
@@ -66,6 +26,16 @@
       "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plu",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "pubDate": "2026-07-23T21:15:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "LLMs"
     },
     {
@@ -79,6 +49,26 @@
       "category": "Hardware"
     },
     {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "description": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "pubDate": "Thu, 23 Jul 2026 19:08:01 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
       "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
       "readTime": "1 min read",
@@ -89,14 +79,34 @@
       "category": "Hardware"
     },
     {
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "title": "AMD commits up to $5 billion to  Anthropic",
+      "description": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "pubDate": "Thu, 23 Jul 2026 14:45:05 +0000",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "pubDate": "2026-07-22T14:44:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Enterprise"
+    },
+    {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catc",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Robotics"
     },
     {
       "title": "How AI helps scientists design the next generation of medicines",
@@ -109,24 +119,14 @@
       "category": "Research"
     },
     {
-      "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
-      "description": "Nvidia’s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvi",
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "description": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissu",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
-      "pubDate": "Thu, 23 Jul 2026 11:38:55 +0000",
+      "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "pubDate": "Wed, 22 Jul 2026 13:00:11 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Robotics"
-    },
-    {
-      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
-      "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
+      "source": "NVIDIA",
+      "category": "Research"
     }
   ]
 }
