@@ -1,52 +1,82 @@
 {
-  "generated_at": "2026-07-24T17:22:01.815Z",
-  "summary": "This week in AI, Anthropic launched Opus 5, a cheaper and less restrictive alternative to Fable. OpenAI expanded ChatGPT Health, allowing users to connect medical records and health data. Companies like Meta, Microsoft, and Nvidia backed open-weight AI models, urging policymakers to protect them.",
-  "insight": "The increasing adoption of AI in various industries is driving innovation, but also raises concerns about data privacy, security, and the need for regulations to ensure responsible AI development and deployment.",
+  "generated_at": "2026-07-24T20:56:12.884Z",
+  "summary": "This week in AI, significant advancements were made in various fields. Companies like Midjourney and Anthropic expanded their capabilities, while others like OpenAI and NVIDIA made notable announcements. The US government is also taking steps to regulate AI, with proposed bills and investments in AI research.",
+  "insight": "The increasing adoption of AI in various industries is driving innovation and growth, but also raises concerns about regulation, security, and ethics, highlighting the need for a balanced approach to AI development and deployment.",
   "highlights": [
-    "Anthropic's Opus 5 launch marks a significant step in making AI more accessible and affordable.",
-    "OpenAI's ChatGPT Health expansion enables users to integrate their medical records and health data, potentially revolutionizing healthcare.",
-    "Major companies are backing open-weight AI models, highlighting the importance of collaboration and standardization in the AI industry."
+    "Midjourney acquired the astrology app Co-Star, marking a new direction for the company",
+    "Anthropic launched Opus 5, a more affordable and less restrictive alternative to Fable",
+    "OpenAI made ChatGPT Health available to all US users, allowing for more personalized health insights"
   ],
   "articles": [
     {
-      "title": "Anthropic launches Opus 5",
-      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+      "title": "Midjourney bought the astrology app Co-Star",
+      "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acq",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "pubDate": "2026-07-24T19:06:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s convers",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
     },
     {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Open Source"
+      "source": "Ars Technica",
+      "category": "Research"
     },
     {
-      "title": "OpenAI pushes ChatGPT into patient health records",
-      "description": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can ",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday release",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
-      "pubDate": "Fri, 24 Jul 2026 14:58:17 +0000",
-      "image": "",
-      "source": "AI News",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "LLMs"
     },
     {
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
-      "image": "",
-      "source": "NVIDIA",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476",
+      "source": "The Verge",
       "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "pubDate": "Fri, 24 Jul 2026 13:36:42 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
     },
     {
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
@@ -59,6 +89,16 @@
       "category": "Hardware"
     },
     {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catc",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "OpenAI makes ChatGPT Health available to all US users",
       "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
       "readTime": "1 min read",
@@ -69,64 +109,24 @@
       "category": "LLMs"
     },
     {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "description": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "pubDate": "Thu, 23 Jul 2026 16:04:19 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "Ars Technica",
       "category": "Hardware"
     },
     {
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Securi",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "pubDate": "2026-07-23T14:13:35.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
-      "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
+      "source": "MIT Technology Review",
+      "category": "Research"
     }
   ]
 }
