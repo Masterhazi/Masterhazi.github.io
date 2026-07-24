@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-24T06:19:51.793Z",
-  "summary": "This week's AI news highlights significant advancements in AI infrastructure, robotics, and healthcare. NVIDIA and AMD are investing heavily in AI systems, while OpenAI is expanding its ChatGPT Health service. Lawmakers are also preparing to introduce an AI Kill Switch Act, sparking debates on AI regulation.",
-  "insight": "The increasing investment in AI infrastructure and the expansion of AI services in healthcare suggest a growing trend towards AI adoption in various industries, which may lead to increased scrutiny and regulation of AI development and deployment.",
+  "generated_at": "2026-07-24T10:09:31.558Z",
+  "summary": "This week in AI, significant advancements were made in enterprise AI solutions, AI-powered healthcare, and robotics. OpenAI introduced its Presence platform, while AMD and NVIDIA made notable announcements in AI infrastructure and hardware.",
+  "insight": "The increasing integration of AI in various industries highlights the need for robust cybersecurity measures, as seen in the recent hacking incidents involving OpenAI and Hugging Face.",
   "highlights": [
-    "NVIDIA and AMD are investing in AI systems, with NVIDIA launching a new Medical Physics Simulation framework and AMD investing up to $5 billion in Anthropic.",
-    "OpenAI is expanding its ChatGPT Health service, allowing users to connect their medical records and health-tracking information to the chatbot.",
-    "Lawmakers are preparing to introduce an AI Kill Switch Act, which would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security."
+    "OpenAI's Presence platform offers managed enterprise AI solutions with dedicated engineers.",
+    "NVIDIA and AMD are investing heavily in AI infrastructure, including GPU-accelerated medical physics simulations and rack-scale systems.",
+    "The development of AI-powered healthcare solutions, such as ChatGPT Health, is gaining momentum."
   ],
   "articles": [
+    {
+      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+      "description": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limi",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "pubDate": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Enterprise"
+    },
     {
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
       "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem",
@@ -16,7 +26,7 @@
       "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "LLMs"
+      "category": "Policy"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -29,16 +39,6 @@
       "category": "Research"
     },
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
       "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
       "description": "Bill would let Homeland Security chief decide when an AI should be shut down.",
       "readTime": "1 min read",
@@ -47,16 +47,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Policy"
-    },
-    {
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "OpenAI makes ChatGPT Health available to all US users",
@@ -79,16 +69,6 @@
       "category": "Hardware"
     },
     {
-      "title": "Nvidia is sending GPUs to the moon",
-      "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
       "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
       "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
       "readTime": "1 min read",
@@ -96,7 +76,17 @@
       "pubDate": "Thu, 23 Jul 2026 14:45:05 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Policy"
+      "category": "Research"
+    },
+    {
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "description": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’",
+      "readTime": "36 min read",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "pubDate": "2026-07-23T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Enterprise"
     },
     {
       "title": "How AI helps scientists design the next generation of medicines",
@@ -127,6 +117,16 @@
       "image": "",
       "source": "AI News",
       "category": "Enterprise"
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
     }
   ]
 }
