@@ -1,22 +1,42 @@
 {
-  "generated_at": "2026-07-24T13:20:57.718Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, infrastructure, and applications. OpenAI's Presence and ChatGPT Health are making waves in the enterprise and healthcare sectors. Meanwhile, NVIDIA and AMD are investing heavily in AI infrastructure, and lawmakers are considering regulations for AI development.",
-  "insight": "The increasing focus on AI infrastructure and applications suggests a shift towards more practical and widespread adoption of AI technologies, with companies and governments investing in AI development and regulation.",
+  "generated_at": "2026-07-24T17:22:01.815Z",
+  "summary": "This week in AI, Anthropic launched Opus 5, a cheaper and less restrictive alternative to Fable. OpenAI expanded ChatGPT Health, allowing users to connect medical records and health data. Companies like Meta, Microsoft, and Nvidia backed open-weight AI models, urging policymakers to protect them.",
+  "insight": "The increasing adoption of AI in various industries is driving innovation, but also raises concerns about data privacy, security, and the need for regulations to ensure responsible AI development and deployment.",
   "highlights": [
-    "OpenAI launches Presence, a managed AI product for enterprises",
-    "NVIDIA and AMD invest in AI infrastructure, including GPU-accelerated systems",
-    "Lawmakers consider AI regulations, including a proposed 'AI Kill Switch Act'"
+    "Anthropic's Opus 5 launch marks a significant step in making AI more accessible and affordable.",
+    "OpenAI's ChatGPT Health expansion enables users to integrate their medical records and health data, potentially revolutionizing healthcare.",
+    "Major companies are backing open-weight AI models, highlighting the importance of collaboration and standardization in the AI industry."
   ],
   "articles": [
     {
-      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
-      "description": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limi",
+      "title": "Anthropic launches Opus 5",
+      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
-      "pubDate": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Enterprise"
+      "category": "Open Source"
+    },
+    {
+      "title": "OpenAI pushes ChatGPT into patient health records",
+      "description": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+      "pubDate": "Fri, 24 Jul 2026 14:58:17 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "LLMs"
     },
     {
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
@@ -26,27 +46,17 @@
       "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Policy"
+      "category": "Enterprise"
     },
     {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their ",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-      "description": "Bill would let Homeland Security chief decide when an AI should be shut down.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-      "pubDate": "Thu, 23 Jul 2026 19:08:01 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
+      "category": "Hardware"
     },
     {
       "title": "OpenAI makes ChatGPT Health available to all US users",
@@ -59,13 +69,13 @@
       "category": "LLMs"
     },
     {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "description": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "pubDate": "Thu, 23 Jul 2026 16:04:19 +0000",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "TechCrunch",
       "category": "Hardware"
     },
     {
@@ -79,26 +89,6 @@
       "category": "Policy"
     },
     {
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "description": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’",
-      "readTime": "36 min read",
-      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "pubDate": "2026-07-23T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
-      "description": "Nvidia’s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvi",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
-      "pubDate": "Thu, 23 Jul 2026 11:38:55 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Robotics"
-    },
-    {
       "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
       "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
       "readTime": "1 min read",
@@ -106,7 +96,7 @@
       "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Hardware"
+      "category": "Enterprise"
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -119,14 +109,24 @@
       "category": "LLMs"
     },
     {
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "description": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissu",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "pubDate": "Wed, 22 Jul 2026 13:00:11 +0000",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
       "image": "",
-      "source": "NVIDIA",
-      "category": "Research"
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
     }
   ]
 }
