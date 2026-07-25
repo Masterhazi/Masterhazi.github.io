@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-07-25T06:11:04.269Z",
-  "summary": "This week's AI news highlights significant advancements in LLMs, robotics, and healthcare. OpenAI's new AI keypad and Anthropic's Opus 5 launch demonstrate improved efficiency and capabilities. Meanwhile, policymakers and industry leaders discuss the importance of open-weight AI models and potential regulations.",
-  "insight": "The increasing focus on AI safety and regulations may lead to a shift in the development of more transparent and explainable AI models, potentially changing the landscape of the AI industry.",
+  "generated_at": "2026-07-25T09:30:40.487Z",
+  "summary": "This week in AI, significant advancements were made in various sectors, including healthcare, robotics, and open-source models. Companies like OpenAI, Anthropic, and Nvidia are leading the charge with innovative products and partnerships.",
+  "insight": "The increasing collaboration between tech giants and researchers is driving AI innovation, with a focus on responsible AI development and deployment.",
   "highlights": [
-    "OpenAI launches AI keypad for coders",
-    "Anthropic releases Opus 5 with improved efficiency",
-    "Policymakers discuss open-weight AI model regulations"
+    "OpenAI's new AI keypad and ChatGPT Health feature are expanding the possibilities of AI-assisted healthcare and productivity.",
+    "Anthropic's Opus 5 model is poised to revolutionize the field of natural language processing with its efficient and capable architecture.",
+    "Nvidia's investments in AI infrastructure and robotics are paving the way for significant breakthroughs in fields like healthcare and scientific research."
   ],
   "articles": [
-    {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
     {
       "title": "Anthropic launches Opus 5",
       "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
@@ -29,16 +19,6 @@
       "category": "LLMs"
     },
     {
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday release",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "pubDate": "2026-07-24T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
       "title": "Meta is making its AI chatbot more like an assistant",
       "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
       "readTime": "1 min read",
@@ -47,26 +27,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476",
       "source": "The Verge",
       "category": "Enterprise"
-    },
-    {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Policy"
-    },
-    {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model d",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
     },
     {
       "title": "OpenAI pushes ChatGPT into patient health records",
@@ -99,6 +59,16 @@
       "category": "Hardware"
     },
     {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
       "title": "OpenAI makes ChatGPT Health available to all US users",
       "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
       "readTime": "1 min read",
@@ -109,6 +79,26 @@
       "category": "General"
     },
     {
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "pubDate": "Thu, 23 Jul 2026 14:45:05 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
+    {
       "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
       "description": "Nvidia’s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvi",
       "readTime": "1 min read",
@@ -116,7 +106,7 @@
       "pubDate": "Thu, 23 Jul 2026 11:38:55 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Research"
+      "category": "Robotics"
     },
     {
       "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
@@ -127,6 +117,16 @@
       "image": "",
       "source": "AI News",
       "category": "Enterprise"
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
     }
   ]
 }
