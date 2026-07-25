@@ -1,33 +1,13 @@
 {
-  "generated_at": "2026-07-25T13:05:48.709Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new AI models and tools. Companies like OpenAI, Anthropic, and Nvidia are leading the charge in AI innovation, with a focus on improving efficiency, productivity, and accessibility. However, concerns about AI safety and regulation continue to grow, with lawmakers proposing new bills to address these issues.",
-  "insight": "The increasing adoption of AI in various industries is driving demand for more efficient and specialized AI models, leading to a surge in innovation and investment in the field.",
+  "generated_at": "2026-07-25T16:48:06.122Z",
+  "summary": "This week in AI, significant advancements were made in various sectors, including healthcare, robotics, and data centers. OpenAI's new AI keypad and Anthropic's Opus 5 model were released, while Meta upgraded its AI chatbot with new productivity features.",
+  "insight": "The increasing integration of AI in various industries highlights the need for responsible AI development and deployment, with a focus on addressing potential risks and ensuring benefits for all stakeholders.",
   "highlights": [
-    "OpenAI launches new AI keypad and ChatGPT Health feature",
-    "Anthropic releases Opus 5, a more efficient and capable AI model",
-    "Nvidia and AMD invest in AI infrastructure and research"
+    "OpenAI's ChatGPT Health is now available to all US users, allowing for personalized health insights and medical record integration.",
+    "Anthropic's Opus 5 model offers a cheaper and less restrictive alternative to Fable, making it preferable for most use cases.",
+    "Meta's AI chatbot upgrade enables new productivity features, enhancing its capabilities beyond just answering questions and generating images."
   ],
   "articles": [
-    {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
     {
       "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
       "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
@@ -36,27 +16,7 @@
       "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Midjourney bought the astrology app Co-Star",
-      "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acq",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "pubDate": "2026-07-24T19:06:58.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Open Source"
-    },
-    {
-      "title": "You can’t ignore Google Zero anymore",
-      "description": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "pubDate": "2026-07-24T17:29:48.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "category": "LLMs"
     },
     {
       "title": "Anthropic launches Opus 5",
@@ -69,6 +29,56 @@
       "category": "LLMs"
     },
     {
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday release",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
       "title": "Meta is making its AI chatbot more like an assistant",
       "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
       "readTime": "1 min read",
@@ -79,34 +89,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model d",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Open Source"
-    },
-    {
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "pubDate": "Fri, 24 Jul 2026 15:13:57 +0000",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
-      "description": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limi",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
-      "pubDate": "Fri, 24 Jul 2026 08:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
+      "category": "Policy"
     },
     {
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
@@ -119,14 +109,24 @@
       "category": "Hardware"
     },
     {
-      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
-      "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Hardware"
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
     }
   ]
 }
