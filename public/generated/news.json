@@ -1,13 +1,63 @@
 {
-  "generated_at": "2026-07-25T09:30:40.487Z",
-  "summary": "This week in AI, significant advancements were made in various sectors, including healthcare, robotics, and open-source models. Companies like OpenAI, Anthropic, and Nvidia are leading the charge with innovative products and partnerships.",
-  "insight": "The increasing collaboration between tech giants and researchers is driving AI innovation, with a focus on responsible AI development and deployment.",
+  "generated_at": "2026-07-25T13:05:48.709Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new AI models and tools. Companies like OpenAI, Anthropic, and Nvidia are leading the charge in AI innovation, with a focus on improving efficiency, productivity, and accessibility. However, concerns about AI safety and regulation continue to grow, with lawmakers proposing new bills to address these issues.",
+  "insight": "The increasing adoption of AI in various industries is driving demand for more efficient and specialized AI models, leading to a surge in innovation and investment in the field.",
   "highlights": [
-    "OpenAI's new AI keypad and ChatGPT Health feature are expanding the possibilities of AI-assisted healthcare and productivity.",
-    "Anthropic's Opus 5 model is poised to revolutionize the field of natural language processing with its efficient and capable architecture.",
-    "Nvidia's investments in AI infrastructure and robotics are paving the way for significant breakthroughs in fields like healthcare and scientific research."
+    "OpenAI launches new AI keypad and ChatGPT Health feature",
+    "Anthropic releases Opus 5, a more efficient and capable AI model",
+    "Nvidia and AMD invest in AI infrastructure and research"
   ],
   "articles": [
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "Midjourney bought the astrology app Co-Star",
+      "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acq",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "pubDate": "2026-07-24T19:06:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Open Source"
+    },
+    {
+      "title": "You can’t ignore Google Zero anymore",
+      "description": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "pubDate": "2026-07-24T17:29:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
     {
       "title": "Anthropic launches Opus 5",
       "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
@@ -29,24 +79,34 @@
       "category": "Enterprise"
     },
     {
-      "title": "OpenAI pushes ChatGPT into patient health records",
-      "description": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can ",
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
-      "pubDate": "Fri, 24 Jul 2026 14:58:17 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
       "image": "",
       "source": "AI News",
       "category": "Open Source"
     },
     {
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem",
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "pubDate": "Fri, 24 Jul 2026 15:13:57 +0000",
       "image": "",
-      "source": "NVIDIA",
-      "category": "Research"
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+      "description": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limi",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "pubDate": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Enterprise"
     },
     {
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
@@ -59,56 +119,6 @@
       "category": "Hardware"
     },
     {
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "pubDate": "Thu, 23 Jul 2026 14:45:05 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
-    },
-    {
-      "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
-      "description": "Nvidia’s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvi",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
-      "pubDate": "Thu, 23 Jul 2026 11:38:55 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Robotics"
-    },
-    {
       "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
       "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
       "readTime": "1 min read",
@@ -116,17 +126,7 @@
       "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
+      "category": "Hardware"
     }
   ]
 }
