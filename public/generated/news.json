@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T01:55:54.707Z",
-  "summary": "This week's AI news highlights significant advancements in AI research, applications, and investments. OpenAI and Anthropic have made notable updates to their models, while companies like Meta and Nvidia are exploring new AI-powered features and technologies.",
-  "insight": "The increasing collaboration between tech giants and research institutions is driving innovation in AI, with a focus on developing more efficient, secure, and accessible models.",
+  "generated_at": "2026-07-25T06:11:04.269Z",
+  "summary": "This week's AI news highlights significant advancements in LLMs, robotics, and healthcare. OpenAI's new AI keypad and Anthropic's Opus 5 launch demonstrate improved efficiency and capabilities. Meanwhile, policymakers and industry leaders discuss the importance of open-weight AI models and potential regulations.",
+  "insight": "The increasing focus on AI safety and regulations may lead to a shift in the development of more transparent and explainable AI models, potentially changing the landscape of the AI industry.",
   "highlights": [
-    "OpenAI's new AI keypad and ChatGPT Health feature are expanding the possibilities for AI-assisted coding and healthcare.",
-    "Anthropic's Opus 5 model offers a cheaper and less restrictive alternative to Fable, making it a preferable choice for many use cases.",
-    "Nvidia's investments in AI infrastructure and research are poised to revolutionize industries such as healthcare and robotics."
+    "OpenAI launches AI keypad for coders",
+    "Anthropic releases Opus 5 with improved efficiency",
+    "Policymakers discuss open-weight AI model regulations"
   ],
   "articles": [
     {
@@ -16,7 +16,7 @@
       "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
+      "category": "LLMs"
     },
     {
       "title": "Anthropic launches Opus 5",
@@ -109,13 +109,13 @@
       "category": "General"
     },
     {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
+      "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
+      "description": "Nvidia’s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvi",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+      "pubDate": "Thu, 23 Jul 2026 11:38:55 +0000",
       "image": "",
-      "source": "MIT Technology Review",
+      "source": "AI News",
       "category": "Research"
     },
     {
