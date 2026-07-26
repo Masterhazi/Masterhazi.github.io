@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T09:52:32.020Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new AI models and tools, as well as growing concerns over AI safety and regulation. Several major tech companies have announced layoffs, citing AI as a factor, while others are investing heavily in AI research and development.",
-  "insight": "The increasing use of AI in various industries is leading to a growing need for AI safety and regulation, as evidenced by the recent hacking incident at OpenAI and the introduction of the AI Kill Switch Act",
+  "generated_at": "2026-07-26T13:02:48.671Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including new models and tools. However, concerns about AI safety and regulation are also growing, with lawmakers proposing an 'AI Kill Switch Act'.",
+  "insight": "The increasing use of AI in various industries is leading to a rise in concerns about job displacement and the need for responsible AI development.",
   "highlights": [
-    "OpenAI launches ChatGPT Health, allowing users to connect their medical records and health-tracking information to the chatbot",
-    "Anthropic releases Opus 5, a new AI model that is cheaper and less restrictive than its predecessor",
-    "Google reports its first negative cash flow quarter due to massive AI spending"
+    "OpenAI's new AI keypad is designed for coders and offers a unique way to interact with AI models.",
+    "Anthropic's Opus 5 model is focused on token efficiency, making it a more cost-effective option for developers.",
+    "The proposed 'AI Kill Switch Act' aims to give the government the power to shut down rogue AI systems, sparking debate about AI regulation."
   ],
   "articles": [
     {
@@ -14,36 +14,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
@@ -59,16 +29,6 @@
       "category": "LLMs"
     },
     {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
       "title": "Anthropic launches Opus 5",
       "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
       "readTime": "1 min read",
@@ -79,14 +39,64 @@
       "category": "LLMs"
     },
     {
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "pubDate": "2026-07-24T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476",
-      "source": "The Verge",
-      "category": "Enterprise"
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Nvidia is sending GPUs to the moon",
+      "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
     },
     {
       "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
@@ -99,34 +109,24 @@
       "category": "Policy"
     },
     {
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem",
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Securi",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "pubDate": "2026-07-23T14:13:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "description": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "pubDate": "Thu, 23 Jul 2026 16:04:19 +0000",
+      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
       "image": "",
       "source": "Ars Technica",
       "category": "Enterprise"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
     }
   ]
 }
