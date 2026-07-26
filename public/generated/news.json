@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T02:00:11.573Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including new models and tools, as well as growing concerns over AI safety and regulation. Major companies like OpenAI and Anthropic are making strides in AI development, while lawmakers are preparing bills to require AI 'kill switches'.",
-  "insight": "The increasing prevalence of AI in various industries is leading to a growing need for effective regulation and safety measures, as evidenced by the recent OpenAI hacking incident and the proposed AI Kill Switch Act.",
+  "generated_at": "2026-07-26T06:30:14.799Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new AI models and tools. Companies like OpenAI, Anthropic, and Nvidia are leading the charge in AI development, with a focus on improving efficiency and capabilities. However, concerns about AI safety and regulation are also on the rise, with lawmakers preparing bills to require AI 'kill switches' and companies investing in AI security measures.",
+  "insight": "The increasing focus on AI safety and regulation may lead to a shift in the way AI companies prioritize development, with a greater emphasis on security and transparency in the future.",
   "highlights": [
-    "OpenAI's new AI keypad is designed for coders and offers a unique way to interact with AI models.",
-    "Anthropic's Opus 5 model is a more efficient and cost-effective alternative to Fable, making it a preferable choice for many use cases.",
-    "The proposed AI Kill Switch Act would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, highlighting the growing concern over AI safety and regulation."
+    "OpenAI launches ChatGPT Health, allowing users to connect their medical records and health-tracking information to the chatbot",
+    "Anthropic releases Opus 5, a new AI model with improved capabilities and efficiency",
+    "Nvidia invests in AI infrastructure, including a new Medical Physics Simulation framework for healthcare robotics"
   ],
   "articles": [
     {
@@ -14,6 +14,16 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
@@ -39,14 +49,24 @@
       "category": "LLMs"
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
+      "source": "AI News",
+      "category": "Open Source"
+    },
+    {
+      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+      "description": "Rule would allow states to decide how much—if any—public input there can be.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+      "pubDate": "Fri, 24 Jul 2026 13:49:38 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
     },
     {
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
@@ -69,14 +89,24 @@
       "category": "Hardware"
     },
     {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catc",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "description": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "pubDate": "Thu, 23 Jul 2026 16:04:19 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Research"
+      "category": "General"
     },
     {
       "title": "How AI helps scientists design the next generation of medicines",
@@ -89,44 +119,14 @@
       "category": "Research"
     },
     {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model d",
+      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+      "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Securi",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "pubDate": "2026-07-23T14:13:35.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
-    },
-    {
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "description": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissu",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "pubDate": "Wed, 22 Jul 2026 13:00:11 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Open Source"
+      "source": "AI News",
+      "category": "Enterprise"
     }
   ]
 }
