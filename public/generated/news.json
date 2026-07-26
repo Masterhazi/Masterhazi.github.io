@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T06:30:14.799Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new AI models and tools. Companies like OpenAI, Anthropic, and Nvidia are leading the charge in AI development, with a focus on improving efficiency and capabilities. However, concerns about AI safety and regulation are also on the rise, with lawmakers preparing bills to require AI 'kill switches' and companies investing in AI security measures.",
-  "insight": "The increasing focus on AI safety and regulation may lead to a shift in the way AI companies prioritize development, with a greater emphasis on security and transparency in the future.",
+  "generated_at": "2026-07-26T09:52:32.020Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new AI models and tools, as well as growing concerns over AI safety and regulation. Several major tech companies have announced layoffs, citing AI as a factor, while others are investing heavily in AI research and development.",
+  "insight": "The increasing use of AI in various industries is leading to a growing need for AI safety and regulation, as evidenced by the recent hacking incident at OpenAI and the introduction of the AI Kill Switch Act",
   "highlights": [
     "OpenAI launches ChatGPT Health, allowing users to connect their medical records and health-tracking information to the chatbot",
-    "Anthropic releases Opus 5, a new AI model with improved capabilities and efficiency",
-    "Nvidia invests in AI infrastructure, including a new Medical Physics Simulation framework for healthcare robotics"
+    "Anthropic releases Opus 5, a new AI model that is cheaper and less restrictive than its predecessor",
+    "Google reports its first negative cash flow quarter due to massive AI spending"
   ],
   "articles": [
     {
@@ -16,7 +16,27 @@
       "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Enterprise"
+    },
+    {
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
     },
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -39,6 +59,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
       "title": "Anthropic launches Opus 5",
       "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
       "readTime": "1 min read",
@@ -49,23 +79,23 @@
       "category": "LLMs"
     },
     {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Open Source"
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476",
+      "source": "The Verge",
+      "category": "Enterprise"
     },
     {
-      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-      "description": "Rule would allow states to decide how much—if any—public input there can be.",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model d",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-      "pubDate": "Fri, 24 Jul 2026 13:49:38 +0000",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "TechCrunch",
       "category": "Policy"
     },
     {
@@ -76,27 +106,7 @@
       "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Enterprise"
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catc",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "General"
     },
     {
       "title": "Google just had its first negative cash flow quarter due to massive AI spending",
@@ -106,7 +116,7 @@
       "pubDate": "Thu, 23 Jul 2026 16:04:19 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
+      "category": "Enterprise"
     },
     {
       "title": "How AI helps scientists design the next generation of medicines",
@@ -117,16 +127,6 @@
       "image": "",
       "source": "MIT Technology Review",
       "category": "Research"
-    },
-    {
-      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
-      "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
     }
   ]
 }
