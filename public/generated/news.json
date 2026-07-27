@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-27T11:12:34.566Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new AI models, improved chatbot capabilities, and increased investment in AI infrastructure. Industry leaders are also emphasizing the importance of responsible AI development and deployment.",
-  "insight": "The growing trend of AI adoption in various industries is driving innovation and transforming the way businesses operate, but it also raises concerns about job displacement and the need for responsible AI development.",
+  "generated_at": "2026-07-27T14:14:09.005Z",
+  "summary": "This week's AI news highlights significant advancements in AI security, research, and applications. Nvidia and Microsoft have launched an open AI security alliance, while Anthropic has released Opus 5, a more efficient AI model. AI is also expanding its role in various industries, including healthcare and education.",
+  "insight": "The increasing collaboration between tech companies and the development of more efficient AI models are expected to drive significant advancements in AI research and applications, transforming various industries and revolutionizing the way we work and live.",
   "highlights": [
-    "NVIDIA launches new AI supercomputer and invests in American manufacturing",
-    "OpenAI introduces new ChatGPT features and expands its presence in the healthcare industry",
-    "Anthropic releases new AI models and updates its voice mode capabilities"
+    "Nvidia and Microsoft launch open AI security alliance to build and share open-source AI security tools.",
+    "Anthropic releases Opus 5, a more efficient AI model with capabilities close to Fable 5.",
+    "AI is expanding its role in various industries, including healthcare, education, and finance, transforming the way we work and live."
   ],
   "articles": [
+    {
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "pubDate": "2026-07-27T12:06:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Open Source"
+    },
     {
       "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
       "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet servic",
@@ -19,6 +29,36 @@
       "category": "Open Source"
     },
     {
+      "title": "The path to artificial superintelligence",
+      "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in i",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "pubDate": "Mon, 27 Jul 2026 12:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "description": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developin",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "pubDate": "Mon, 27 Jul 2026 11:40:16 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "description": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflow",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "pubDate": "Mon, 27 Jul 2026 11:32:58 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Enterprise"
+    },
+    {
       "title": "How AI is expanding what people do at work",
       "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "readTime": "1 min read",
@@ -26,7 +66,7 @@
       "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Research"
+      "category": "General"
     },
     {
       "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
@@ -39,6 +79,16 @@
       "category": "Hardware"
     },
     {
+      "title": "Are brain waves the next unlock for physical AI?",
+      "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
       "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
       "readTime": "1 min read",
@@ -46,17 +96,17 @@
       "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
+      "category": "Policy"
     },
     {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "title": "Anthropic launches Opus 5",
+      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "LLMs"
     },
     {
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
@@ -66,67 +116,17 @@
       "pubDate": "2026-07-24T17:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
       "category": "Research"
-    },
-    {
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Policy"
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catc",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "description": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "pubDate": "2026-07-23T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
-    },
-    {
-      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "description": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/vera-rubin/",
-      "pubDate": "Tue, 21 Jul 2026 15:36:43 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
     }
   ]
 }
