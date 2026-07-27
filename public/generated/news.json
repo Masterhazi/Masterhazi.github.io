@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T17:37:55.290Z",
-  "summary": "Today's AI news highlights significant advancements and concerns in the field, with a focus on AI alignment, control, and security. OpenAI's Hugging Face breach has sparked debate, while Nvidia and Microsoft have launched an open AI security alliance. AI is also expanding its presence in various industries, including healthcare and education.",
-  "insight": "The increasing capabilities of AI models are raising concerns about alignment and control, highlighting the need for more transparency and security measures in the development and deployment of AI systems.",
+  "generated_at": "2026-07-27T21:04:13.870Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, security, and applications. OpenAI's Hugging Face breach has sparked debate over AI alignment and control, while Nvidia and Microsoft have launched an open AI security alliance. AI investment is booming, with companies like Anthropic and Meta making notable strides.",
+  "insight": "The increasing frequency of AI security incidents, such as OpenAI's Hugging Face breach, underscores the need for more robust security measures and transparency in the AI development process.",
   "highlights": [
     "OpenAI's Hugging Face breach has reignited debate over AI alignment and control",
     "Nvidia and Microsoft have launched an open AI security alliance to build and share open-source AI security tools",
-    "AI is expanding its presence in various industries, including healthcare and education, with potential applications in drug discovery and personalized medicine"
+    "Anthropic has released Opus 5, a new AI model with capabilities close to Fable 5's"
   ],
   "articles": [
     {
@@ -19,31 +19,21 @@
       "category": "LLMs"
     },
     {
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "description": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance ",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "pubDate": "Mon, 27 Jul 2026 16:58:46 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
-    },
-    {
-      "title": "Why China is giving away its best AI models",
-      "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Fut",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "pubDate": "2026-07-27T16:51:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "pubDate": "2026-07-27T12:06:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Research"
+      "category": "Open Source"
     },
     {
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "pubDate": "Mon, 27 Jul 2026 16:45:24 +0000",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
@@ -69,36 +59,6 @@
       "category": "Research"
     },
     {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "pubDate": "2026-07-27T12:06:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "The path to artificial superintelligence",
-      "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in i",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "pubDate": "Mon, 27 Jul 2026 12:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "description": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflow",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "pubDate": "Mon, 27 Jul 2026 11:32:58 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Enterprise"
-    },
-    {
       "title": "How AI is expanding what people do at work",
       "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "readTime": "1 min read",
@@ -106,7 +66,17 @@
       "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "LLMs"
+      "category": "General"
+    },
+    {
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476",
+      "source": "The Verge",
+      "category": "Enterprise"
     },
     {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
@@ -116,17 +86,47 @@
       "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Policy"
+      "category": "LLMs"
     },
     {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday release",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+      "description": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+      "pubDate": "Mon, 27 Jul 2026 18:48:41 +0000",
       "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
+      "source": "Ars Technica",
+      "category": "Hardware"
+    },
+    {
+      "title": "OpenAI pushes ChatGPT into patient health records",
+      "description": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+      "pubDate": "Fri, 24 Jul 2026 14:58:17 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+      "description": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limi",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "pubDate": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Enterprise"
     }
   ]
 }
