@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-26T20:48:14.710Z",
-  "summary": "This week in AI, significant advancements and concerns have emerged. From Anthropic's Opus 5 launch to OpenAI's security incident, the industry is navigating rapid growth and potential risks. Companies like AMD and NVIDIA are investing heavily in AI infrastructure, while policymakers consider regulations such as the AI Kill Switch Act.",
-  "insight": "The recent OpenAI hack highlights the need for 'radical transparency' in AI development, as emphasized by Hugging Face's CEO, underscoring the importance of cybersecurity in the age of autonomous agents.",
+  "generated_at": "2026-07-27T02:07:52.632Z",
+  "summary": "This week in AI, significant advancements were made in chip design, AI-powered medicine, and cybersecurity. NVIDIA harnessed the Vera CPU to speed up design, while Google committed $40M to the Genesis Mission. OpenAI's new voice mode and Anthropic's Opus 5 launch showcased AI's growing capabilities.",
+  "insight": "The intersection of AI and cybersecurity is becoming increasingly critical, as evidenced by the proposed AI Kill Switch Act and the hacking incident involving OpenAI and Hugging Face, highlighting the need for robust security measures in AI development.",
   "highlights": [
-    "Anthropic launches Opus 5, a cheaper and less restrictive AI model",
-    "OpenAI's ChatGPT Health feature now available to all US users, allowing integration of medical records and health data",
-    "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal, marking a significant commitment to AI development"
+    "NVIDIA's use of Vera CPU to accelerate chip design",
+    "OpenAI's launch of ChatGPT Health, allowing users to connect medical records",
+    "Anthropic's release of Opus 5, offering cheaper and less restrictive AI capabilities"
   ],
   "articles": [
+    {
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "description": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDI",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "pubDate": "Mon, 27 Jul 2026 00:45:42 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
     {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
       "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
@@ -17,6 +27,16 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Open Source"
+    },
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
       "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
@@ -29,6 +49,26 @@
       "category": "Research"
     },
     {
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "description": "\"Here’s a more natural, flowing version of that section...\"",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "pubDate": "Fri, 24 Jul 2026 21:25:15 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users i",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
       "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
       "readTime": "1 min read",
@@ -39,13 +79,23 @@
       "category": "Research"
     },
     {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
+      "title": "Anthropic launches Opus 5",
+      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
       "image": "",
-      "source": "AI News",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model d",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Policy"
     },
     {
@@ -56,37 +106,17 @@
       "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Enterprise"
+      "category": "Research"
     },
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "description": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice m",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "pubDate": "Thu, 23 Jul 2026 14:45:05 +0000",
-      "image": "",
-      "source": "Ars Technica",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "pubDate": "2026-07-23T19:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "LLMs"
-    },
-    {
-      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
-      "description": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -96,37 +126,7 @@
       "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "description": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
-    },
-    {
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Securi",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "pubDate": "2026-07-23T14:13:35.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
     }
   ]
 }
