@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-07-28T13:45:09.495Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including Recursive Superintelligence's $410 million compute deal with Amazon and Perplexity's Personal Computer tool. Companies like Microsoft and Nvidia are also making strides in AI security and infrastructure.",
-  "insight": "The increasing use of AI in various industries is leading to a growing need for AI security and infrastructure, with companies like Microsoft and Nvidia investing heavily in these areas.",
+  "generated_at": "2026-07-28T17:21:03.337Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including the use of AI coding agents in scientific computing and the development of new AI security tools. However, concerns over AI safety and security also emerged, with reports of AI models being used to create deepfakes and the potential for AI to displace human workers.",
+  "insight": "The increasing capability of AI models to perform complex tasks is leading to a shift in the way businesses and individuals approach work, with many turning to AI to automate tasks and improve efficiency, but also raising important questions about the need for transparency and accountability in AI development",
   "highlights": [
-    "Recursive Superintelligence signs $410 million compute deal with Amazon",
-    "Perplexity's Personal Computer tool turns Windows PCs into AI agents",
-    "Microsoft launches its first cybersecurity model and a new agentic cybersecurity system"
+    "OpenAI's Hugging Face breach has reignited debate over AI alignment and control",
+    "NVIDIA and Microsoft have launched an open AI security alliance to build and share open-source AI security tools",
+    "New research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries"
   ],
   "articles": [
     {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-      "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "title": "Scientific computing in the age of agentic AI",
+      "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "pubDate": "Tue, 28 Jul 2026 13:19:17 +0000",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
+      "source": "OpenAI",
       "category": "LLMs"
+    },
+    {
+      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "description": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent vi",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "pubDate": "Tue, 28 Jul 2026 15:00:19 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson01_captions.mp4",
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
@@ -29,6 +39,16 @@
       "category": "General"
     },
     {
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "description": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s ",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "pubDate": "Tue, 28 Jul 2026 09:18:57 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Hardware"
+    },
+    {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
       "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
       "readTime": "1 min read",
@@ -36,17 +56,17 @@
       "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
+      "category": "Enterprise"
     },
     {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Enterprise"
+      "source": "TechCrunch",
+      "category": "Policy"
     },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
@@ -66,17 +86,17 @@
       "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Policy"
+      "category": "Research"
     },
     {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "title": "Why China is giving away its best AI models",
+      "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Fut",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "pubDate": "Mon, 27 Jul 2026 15:57:12 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "pubDate": "2026-07-27T16:51:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
       "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
@@ -96,37 +116,17 @@
       "pubDate": "2026-07-27T12:06:22.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Open Source"
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "description": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflow",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "pubDate": "Mon, 27 Jul 2026 11:32:58 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
       "category": "Enterprise"
     },
     {
-      "title": "How AI is shortening drug discovery timelines in China",
-      "description": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, ",
+      "title": "How AI is expanding what people do at work",
+      "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
-      "pubDate": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
       "image": "",
-      "source": "AI News",
+      "source": "OpenAI",
       "category": "Research"
-    },
-    {
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet servic",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "pubDate": "Mon, 27 Jul 2026 09:00:07 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Open Source"
     }
   ]
 }
