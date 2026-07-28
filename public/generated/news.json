@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-07-27T21:04:13.870Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, security, and applications. OpenAI's Hugging Face breach has sparked debate over AI alignment and control, while Nvidia and Microsoft have launched an open AI security alliance. AI investment is booming, with companies like Anthropic and Meta making notable strides.",
-  "insight": "The increasing frequency of AI security incidents, such as OpenAI's Hugging Face breach, underscores the need for more robust security measures and transparency in the AI development process.",
+  "generated_at": "2026-07-28T01:49:15.991Z",
+  "summary": "This week's AI news highlights significant advancements in AI security, open-source models, and enterprise adoption. Companies like Microsoft and Nvidia are launching new AI security tools and forming alliances to promote AI safety. Meanwhile, OpenAI and Anthropic are making strides in AI research and development, with a focus on transparency and control.",
+  "insight": "The increasing importance of AI security is a common thread throughout this week's news, with multiple companies and organizations emphasizing the need for secure and transparent AI systems.",
   "highlights": [
-    "OpenAI's Hugging Face breach has reignited debate over AI alignment and control",
-    "Nvidia and Microsoft have launched an open AI security alliance to build and share open-source AI security tools",
-    "Anthropic has released Opus 5, a new AI model with capabilities close to Fable 5's"
+    "Microsoft unveils AI security tools that outperform competing platforms",
+    "Nvidia and Microsoft launch open AI security alliance",
+    "OpenAI and Anthropic make significant advancements in AI research and development"
   ],
   "articles": [
     {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contai",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
@@ -29,14 +39,34 @@
       "category": "Open Source"
     },
     {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "title": "Why China is giving away its best AI models",
+      "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Fut",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "pubDate": "2026-07-27T16:51:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "LLMs"
+    },
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contai",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
     },
     {
       "title": "Google’s AI search is rapidly becoming the default, new data shows",
@@ -59,6 +89,26 @@
       "category": "Research"
     },
     {
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Robotics"
+    },
+    {
+      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet servic",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "pubDate": "Mon, 27 Jul 2026 09:00:07 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Open Source"
+    },
+    {
       "title": "How AI is expanding what people do at work",
       "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "readTime": "1 min read",
@@ -66,67 +116,17 @@
       "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
+      "category": "Research"
     },
     {
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "pubDate": "2026-07-24T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476",
-      "source": "The Verge",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday release",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "pubDate": "2026-07-24T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "description": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-      "pubDate": "Mon, 27 Jul 2026 18:48:41 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Hardware"
-    },
-    {
-      "title": "OpenAI pushes ChatGPT into patient health records",
-      "description": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
-      "pubDate": "Fri, 24 Jul 2026 14:58:17 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
-      "description": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limi",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
-      "pubDate": "Fri, 24 Jul 2026 08:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Enterprise"
+      "category": "Policy"
     }
   ]
 }
