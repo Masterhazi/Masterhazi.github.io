@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T01:49:15.991Z",
-  "summary": "This week's AI news highlights significant advancements in AI security, open-source models, and enterprise adoption. Companies like Microsoft and Nvidia are launching new AI security tools and forming alliances to promote AI safety. Meanwhile, OpenAI and Anthropic are making strides in AI research and development, with a focus on transparency and control.",
-  "insight": "The increasing importance of AI security is a common thread throughout this week's news, with multiple companies and organizations emphasizing the need for secure and transparent AI systems.",
+  "generated_at": "2026-07-28T06:20:29.961Z",
+  "summary": "This week's AI news highlights significant advancements in AI security, with Microsoft and Nvidia launching new security tools and alliances. Meanwhile, OpenAI's Hugging Face breach has reignited debates over AI alignment and control. Other notable developments include Google's expanding AI search capabilities and China's growing AI presence.",
+  "insight": "The increasing frequency of AI security breaches and concerns over AI alignment highlight the need for more robust and transparent AI development practices, underscoring the importance of collaboration between industry leaders and regulatory bodies to establish standards for AI safety and security.",
   "highlights": [
-    "Microsoft unveils AI security tools that outperform competing platforms",
-    "Nvidia and Microsoft launch open AI security alliance",
-    "OpenAI and Anthropic make significant advancements in AI research and development"
+    "Microsoft and Nvidia launch new AI security tools and alliances to enhance AI safety and security.",
+    "OpenAI's Hugging Face breach sparks debate over AI alignment and control, highlighting the need for more transparent AI development practices.",
+    "Google's AI search capabilities continue to expand, with AI-generated answers becoming the default for an increasing number of searches."
   ],
   "articles": [
     {
@@ -39,16 +39,6 @@
       "category": "Open Source"
     },
     {
-      "title": "Why China is giving away its best AI models",
-      "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Fut",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "pubDate": "2026-07-27T16:51:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
       "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
       "readTime": "1 min read",
@@ -66,7 +56,7 @@
       "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
+      "category": "LLMs"
     },
     {
       "title": "Google’s AI search is rapidly becoming the default, new data shows",
@@ -89,26 +79,6 @@
       "category": "Research"
     },
     {
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Robotics"
-    },
-    {
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet servic",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "pubDate": "Mon, 27 Jul 2026 09:00:07 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Open Source"
-    },
-    {
       "title": "How AI is expanding what people do at work",
       "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "readTime": "1 min read",
@@ -116,17 +86,47 @@
       "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
       "image": "",
       "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
+      "image": "",
+      "source": "Ars Technica",
       "category": "Research"
     },
     {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "description": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a li",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-      "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Policy"
+      "source": "NVIDIA",
+      "category": "Enterprise"
     }
   ]
 }
