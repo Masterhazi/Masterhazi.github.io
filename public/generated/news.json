@@ -1,82 +1,42 @@
 {
-  "generated_at": "2026-07-28T17:21:03.337Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including the use of AI coding agents in scientific computing and the development of new AI security tools. However, concerns over AI safety and security also emerged, with reports of AI models being used to create deepfakes and the potential for AI to displace human workers.",
-  "insight": "The increasing capability of AI models to perform complex tasks is leading to a shift in the way businesses and individuals approach work, with many turning to AI to automate tasks and improve efficiency, but also raising important questions about the need for transparency and accountability in AI development",
+  "generated_at": "2026-07-28T21:01:25.408Z",
+  "summary": "This week's AI news highlights significant advancements in the field, with a focus on AI security, agentic AI, and the growing importance of compute sovereignty. Major players like Microsoft, NVIDIA, and OpenAI are making strides in AI development, while concerns over AI alignment and control continue to spark debate.",
+  "insight": "The increasing emphasis on AI security and compute sovereignty underscores the need for a more nuanced understanding of AI's role in shaping the future of technology and society.",
   "highlights": [
-    "OpenAI's Hugging Face breach has reignited debate over AI alignment and control",
-    "NVIDIA and Microsoft have launched an open AI security alliance to build and share open-source AI security tools",
-    "New research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries"
+    "Microsoft launches its first cybersecurity model and a new agentic cybersecurity system",
+    "NVIDIA partners with Microsoft and other tech companies to build and share open-source AI security tools",
+    "OpenAI's Hugging Face breach reignites debate over AI alignment and control"
   ],
   "articles": [
     {
-      "title": "Scientific computing in the age of agentic AI",
-      "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/scientific-computing-agentic-ai",
-      "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
+      "source": "Ars Technica",
+      "category": "Enterprise"
     },
     {
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "description": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent vi",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance ",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "pubDate": "Tue, 28 Jul 2026 15:00:19 +0000",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson01_captions.mp4",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac ve",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "pubDate": "2026-07-28T12:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "pubDate": "2026-07-27T12:06:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
+      "category": "Open Source"
     },
     {
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "description": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s ",
+      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporti",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "pubDate": "Tue, 28 Jul 2026 09:18:57 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Hardware"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "pubDate": "2026-07-28T19:46:43.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Policy"
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
     },
     {
       "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
@@ -89,33 +49,53 @@
       "category": "Research"
     },
     {
-      "title": "Why China is giving away its best AI models",
-      "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Fut",
+      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "description": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent vi",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "pubDate": "2026-07-27T16:51:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "pubDate": "Tue, 28 Jul 2026 15:00:19 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson01_captions.mp4",
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "description": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "pubDate": "Mon, 27 Jul 2026 15:01:50 +0000",
+      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "pubDate": "Tue, 28 Jul 2026 20:20:20 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "Research"
     },
     {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance ",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how ",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "pubDate": "2026-07-27T12:06:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "pubDate": "Mon, 27 Jul 2026 18:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "description": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflow",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "pubDate": "Mon, 27 Jul 2026 11:32:58 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
       "category": "Enterprise"
     },
     {
@@ -127,6 +107,26 @@
       "image": "",
       "source": "OpenAI",
       "category": "Research"
+    },
+    {
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "description": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "pubDate": "Mon, 27 Jul 2026 16:58:46 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
+      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet servic",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "pubDate": "Mon, 27 Jul 2026 09:00:07 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Open Source"
     }
   ]
 }
