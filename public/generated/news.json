@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-28T06:20:29.961Z",
-  "summary": "This week's AI news highlights significant advancements in AI security, with Microsoft and Nvidia launching new security tools and alliances. Meanwhile, OpenAI's Hugging Face breach has reignited debates over AI alignment and control. Other notable developments include Google's expanding AI search capabilities and China's growing AI presence.",
-  "insight": "The increasing frequency of AI security breaches and concerns over AI alignment highlight the need for more robust and transparent AI development practices, underscoring the importance of collaboration between industry leaders and regulatory bodies to establish standards for AI safety and security.",
+  "generated_at": "2026-07-28T10:27:27.909Z",
+  "summary": "This week's AI news highlights significant advancements in AI security, robotics, and LLMs. Companies like Microsoft and Nvidia are launching new AI security tools and partnerships, while others like Anthropic and OpenAI are releasing new models and features.",
+  "insight": "The increasing use of AI in various industries is leading to a growing need for AI security and regulation, with companies and governments starting to take steps to address these concerns.",
   "highlights": [
-    "Microsoft and Nvidia launch new AI security tools and alliances to enhance AI safety and security.",
-    "OpenAI's Hugging Face breach sparks debate over AI alignment and control, highlighting the need for more transparent AI development practices.",
-    "Google's AI search capabilities continue to expand, with AI-generated answers becoming the default for an increasing number of searches."
+    "Microsoft launches new AI security tools and partnerships",
+    "Anthropic releases Opus 5 with capabilities close to Fable 5",
+    "Nvidia partners with Microsoft and others to build open-source AI security tools"
   ],
   "articles": [
     {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "TechCrunch",
       "category": "Enterprise"
     },
     {
@@ -39,6 +39,16 @@
       "category": "Open Source"
     },
     {
+      "title": "Hugging Face is being used to easily undress women and children",
+      "description": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images\t\n\nHugging Face",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "pubDate": "2026-07-28T09:07:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
       "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
       "readTime": "1 min read",
@@ -59,14 +69,34 @@
       "category": "LLMs"
     },
     {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday release",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "pubDate": "Mon, 27 Jul 2026 15:57:12 +0000",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "General"
+      "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+      "description": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+      "pubDate": "Mon, 27 Jul 2026 18:48:41 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Hardware"
     },
     {
       "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
@@ -79,6 +109,16 @@
       "category": "Research"
     },
     {
+      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet servic",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "pubDate": "Mon, 27 Jul 2026 09:00:07 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Open Source"
+    },
+    {
       "title": "How AI is expanding what people do at work",
       "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "readTime": "1 min read",
@@ -87,46 +127,6 @@
       "image": "",
       "source": "OpenAI",
       "category": "General"
-    },
-    {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "pubDate": "2026-07-24T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "pubDate": "Fri, 24 Jul 2026 04:34:27 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Enterprise"
     }
   ]
 }
