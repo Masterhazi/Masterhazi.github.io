@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T01:51:21.428Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including acquisitions, partnerships, and innovations. Companies like Cyera, OpenAI, and NVIDIA are making strides in AI development, while others are raising concerns about AI safety and security.",
-  "insight": "The increasing collaboration between tech giants and startups is driving AI innovation, but also raises concerns about the potential risks and consequences of advanced AI systems.",
+  "generated_at": "2026-07-29T06:25:51.547Z",
+  "summary": "This week's AI news highlights significant advancements and investments in the field, with a focus on AI security, agentic AI, and the expanding role of AI in various industries. Notable developments include the launch of new AI security tools and alliances, as well as breakthroughs in AI-driven drug discovery and robotics.",
+  "insight": "The increasing emphasis on AI security and safety underscores the growing recognition of the need for responsible AI development and deployment, as the technology becomes more pervasive and powerful.",
   "highlights": [
-    "Cyera acquires Oasis Security for $1B to enhance AI agent security",
-    "OpenAI and Anthropic employees sign statement calling for government action on automated AI",
-    "NVIDIA partners with Microsoft to launch open AI security alliance"
+    "Cyera agrees to acquire Oasis Security for $1B to safeguard AI agents",
+    "OpenAI's Hugging Face breach reignites debate over AI alignment and control",
+    "Nvidia and Microsoft launch Open Secure AI Alliance for AI safety and security"
   ],
   "articles": [
     {
@@ -19,26 +19,6 @@
       "category": "Enterprise"
     },
     {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporti",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "pubDate": "2026-07-28T19:46:43.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "description": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent vi",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "pubDate": "Tue, 28 Jul 2026 15:00:19 +0000",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson01_captions.mp4",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "description": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
       "readTime": "1 min read",
@@ -47,6 +27,16 @@
       "image": "",
       "source": "Ars Technica",
       "category": "LLMs"
+    },
+    {
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporti",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "pubDate": "2026-07-28T19:46:43.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
       "title": "Scientific computing in the age of agentic AI",
@@ -59,6 +49,16 @@
       "category": "Research"
     },
     {
+      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "description": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent vi",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "pubDate": "Tue, 28 Jul 2026 15:00:19 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson01_captions.mp4",
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
+    {
       "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
       "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company ",
       "readTime": "1 min read",
@@ -69,12 +69,12 @@
       "category": "Enterprise"
     },
     {
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac ve",
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "description": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technol",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "pubDate": "2026-07-28T12:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "pubDate": "2026-07-28T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     },
@@ -126,7 +126,7 @@
       "pubDate": "2026-07-27T12:06:22.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Open Source"
+      "category": "Enterprise"
     }
   ]
 }
