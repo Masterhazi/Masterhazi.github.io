@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:21:43.606Z",
-  "summary": "Major AI companies are investing heavily in AI development, with Microsoft and Meta leading the charge. AI safety and regulation are becoming increasingly important concerns, with experts warning of potential risks and calling for government action.",
-  "insight": "The rise of personal AI agents is expected to revolutionize the way people interact with technology, with companies like Meta and Microsoft working to develop AI-powered tools that can perform tasks on behalf of users.",
+  "generated_at": "2026-07-30T10:15:21.334Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, with major players like Microsoft and Meta investing heavily in AI infrastructure and agents. The development of personal AI agents and AI-powered chatbots is on the rise, with potential applications in various industries.",
+  "insight": "The increasing focus on AI safety and security is a crucial aspect of the industry's growth, as companies like OpenAI and Anthropic work to address concerns around AI-generated content and automated AI systems.",
   "highlights": [
-    "Microsoft is openly competing with OpenAI and Anthropic in the AI market.",
-    "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years.",
-    "AI safety and regulation are becoming major concerns, with experts warning of potential risks and calling for government action."
+    "Microsoft and Meta are competing in the AI market with significant investments in AI infrastructure and agents.",
+    "The development of personal AI agents and AI-powered chatbots is gaining momentum, with potential applications in various industries.",
+    "AI safety and security are becoming major concerns, with companies working to address issues around AI-generated content and automated AI systems."
   ],
   "articles": [
     {
@@ -29,26 +29,6 @@
       "category": "General"
     },
     {
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the tw",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal softwar",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
       "title": "Microsoft confirms Copilot ‘super app’ coming this year",
       "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the",
       "readTime": "1 min read",
@@ -56,7 +36,7 @@
       "pubDate": "2026-07-29T22:17:38.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "Mark Zuckerberg is planning a big push into personal AI agents",
@@ -67,16 +47,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
-    },
-    {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "pubDate": "Wed, 29 Jul 2026 21:07:48 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
     },
     {
       "title": "Who wins and who loses after US bans foreign robots?",
@@ -96,7 +66,7 @@
       "pubDate": "2026-07-29T18:15:02.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Hardware"
+      "category": "LLMs"
     },
     {
       "title": "Anthropic is finding bugs faster than Microsoft can fix them",
@@ -119,12 +89,42 @@
       "category": "Research"
     },
     {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the s",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "pubDate": "2026-07-29T11:54:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
       "title": "We’re running out of reasons to ignore AI safety",
       "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment",
       "readTime": "1 min read",
       "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
       "pubDate": "2026-07-29T11:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Research"
+    },
+    {
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporti",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "pubDate": "2026-07-28T19:46:43.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Policy"
     }
