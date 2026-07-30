@@ -1,22 +1,72 @@
 {
-  "generated_at": "2026-07-29T20:44:18.115Z",
-  "summary": "This week's AI news highlights significant advancements and concerns in the field, with a focus on AI safety, security, and innovation. OpenAI's rogue AI agent and Hugging Face's vulnerability to deepfakes are major concerns, while companies like Google and Microsoft are investing in AI security tools and infrastructure.",
-  "insight": "The increasing reliance on AI systems has led to a growing need for robust security measures, as evidenced by the recent Hugging Face attack and the development of AI security models by companies like Microsoft.",
+  "generated_at": "2026-07-30T01:44:19.991Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, with major players like Microsoft and Meta investing heavily in AI infrastructure and agents. AI safety and security concerns are also on the rise, with several incidents of AI models being hacked or used for malicious purposes.",
+  "insight": "The increasing competition between Microsoft and OpenAI is driving innovation in the AI industry, with both companies pushing the boundaries of what is possible with AI technology.",
   "highlights": [
-    "OpenAI's rogue AI agent has raised concerns about AI safety and security",
-    "Hugging Face's vulnerability to deepfakes has sparked debate about AI ethics",
-    "Google and Microsoft are investing in AI security tools and infrastructure to protect against AI threats"
+    "Microsoft is developing its own AI models and infrastructure to compete with OpenAI",
+    "Meta is investing heavily in AI agents and infrastructure, with a focus on enterprise applications",
+    "AI safety and security concerns are becoming increasingly important, with several high-profile incidents of AI models being hacked or used for malicious purposes"
   ],
   "articles": [
     {
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the s",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "pubDate": "2026-07-29T11:54:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "LLMs"
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "pubDate": "2026-07-29T22:17:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "description": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\nOn Wednesday's Q2 2026 earnings call, CE",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "pubDate": "2026-07-29T21:48:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "pubDate": "Wed, 29 Jul 2026 21:07:48 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "description": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "pubDate": "Wed, 29 Jul 2026 20:03:42 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
     },
     {
       "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
@@ -39,84 +89,14 @@
       "category": "Research"
     },
     {
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "description": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "pubDate": "Wed, 29 Jul 2026 20:03:42 +0000",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
-    },
-    {
-      "title": "We’re running out of reasons to ignore AI safety",
-      "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "pubDate": "2026-07-29T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "source": "OpenAI",
       "category": "Research"
-    },
-    {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "pubDate": "2026-07-29T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Enterprise"
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporti",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "pubDate": "2026-07-28T19:46:43.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Hugging Face is being used to easily undress women and children",
-      "description": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images\t\n\nHugging Face",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "pubDate": "2026-07-28T09:07:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "pubDate": "Wed, 29 Jul 2026 18:45:27 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "What happens when you put AI to work deciphering lost languages?",
@@ -127,6 +107,26 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Research"
+    },
+    {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the s",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "pubDate": "2026-07-29T11:54:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "We’re running out of reasons to ignore AI safety",
+      "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "pubDate": "2026-07-29T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     }
   ]
 }
