@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-30T10:15:21.334Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, with major players like Microsoft and Meta investing heavily in AI infrastructure and agents. The development of personal AI agents and AI-powered chatbots is on the rise, with potential applications in various industries.",
-  "insight": "The increasing focus on AI safety and security is a crucial aspect of the industry's growth, as companies like OpenAI and Anthropic work to address concerns around AI-generated content and automated AI systems.",
+  "generated_at": "2026-07-30T13:41:04.181Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, with a focus on personal AI agents, AI safety, and the increasing importance of AI in various industries. Mark Zuckerberg predicts billions of people will have personal AI agents in five years, while OpenAI and Anthropic continue to develop and improve their AI models.",
+  "insight": "The development of personal AI agents is becoming a key area of focus for major tech companies, with potential applications in areas such as customer service, healthcare, and education.",
   "highlights": [
-    "Microsoft and Meta are competing in the AI market with significant investments in AI infrastructure and agents.",
-    "The development of personal AI agents and AI-powered chatbots is gaining momentum, with potential applications in various industries.",
-    "AI safety and security are becoming major concerns, with companies working to address issues around AI-generated content and automated AI systems."
+    "Mark Zuckerberg predicts billions of people will have personal AI agents in five years",
+    "OpenAI and Anthropic continue to develop and improve their AI models, with a focus on AI safety and security",
+    "The use of AI in various industries is becoming increasingly important, with applications in areas such as customer service, healthcare, and education"
   ],
   "articles": [
     {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
+      "description": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statemen",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+      "pubDate": "Thu, 30 Jul 2026 11:12:11 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "AI News",
       "category": "LLMs"
     },
     {
@@ -26,7 +26,37 @@
       "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "LLMs"
+    },
+    {
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "description": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\nOn Wednesday's Q2 2026 earnings call, CE",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "pubDate": "2026-07-29T21:48:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal softwar",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
       "title": "Microsoft confirms Copilot ‘super app’ coming this year",
@@ -39,34 +69,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "description": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\nOn Wednesday's Q2 2026 earnings call, CE",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the In",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "pubDate": "2026-07-29T21:48:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "description": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "pubDate": "Wed, 29 Jul 2026 20:03:42 +0000",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "pubDate": "Thu, 30 Jul 2026 10:15:19 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
-    },
-    {
-      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
-      "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "pubDate": "2026-07-29T18:15:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
+      "source": "MIT Technology Review",
+      "category": "Research"
     },
     {
       "title": "Anthropic is finding bugs faster than Microsoft can fix them",
@@ -79,16 +89,6 @@
       "category": "Research"
     },
     {
-      "title": "What happens when you put AI to work deciphering lost languages?",
-      "description": "AI is fantastic at spotting patterns, but human insight is the key.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-      "pubDate": "Wed, 29 Jul 2026 13:23:31 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
       "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
       "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the s",
       "readTime": "1 min read",
@@ -96,37 +96,37 @@
       "pubDate": "2026-07-29T11:54:29.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "We’re running out of reasons to ignore AI safety",
-      "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "pubDate": "2026-07-29T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "Research"
     },
     {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporti",
+      "title": "OpenAI report links coding agents to faster science software builds",
+      "description": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in fi",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "pubDate": "2026-07-28T19:46:43.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+      "pubDate": "Wed, 29 Jul 2026 10:53:39 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Research"
+    },
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Open Source"
     }
   ]
 }
