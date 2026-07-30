@@ -1,22 +1,62 @@
 {
-  "generated_at": "2026-07-30T13:41:04.181Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, with a focus on personal AI agents, AI safety, and the increasing importance of AI in various industries. Mark Zuckerberg predicts billions of people will have personal AI agents in five years, while OpenAI and Anthropic continue to develop and improve their AI models.",
-  "insight": "The development of personal AI agents is becoming a key area of focus for major tech companies, with potential applications in areas such as customer service, healthcare, and education.",
+  "generated_at": "2026-07-30T17:18:18.538Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, with a focus on personal AI agents, AI safety, and the increasing importance of AI in various industries. Major companies like Meta, Microsoft, and OpenAI are investing heavily in AI research and development, with a emphasis on creating more efficient and secure AI models.",
+  "insight": "The growing trend of companies developing personal AI agents, such as Meta's plans to create AI agents that can perform tasks on behalf of users, highlights the potential for AI to become an integral part of daily life, transforming the way we interact with technology and each other.",
   "highlights": [
-    "Mark Zuckerberg predicts billions of people will have personal AI agents in five years",
-    "OpenAI and Anthropic continue to develop and improve their AI models, with a focus on AI safety and security",
-    "The use of AI in various industries is becoming increasingly important, with applications in areas such as customer service, healthcare, and education"
+    "Meta's plans to create personal AI agents that can perform tasks on behalf of users",
+    "OpenAI's development of a 'family of devices' for interacting with its AI chatbots",
+    "The increasing importance of AI safety, with companies like OpenAI and Anthropic working to address concerns around AI security and disinformation"
   ],
   "articles": [
     {
-      "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
-      "description": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statemen",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the In",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-      "pubDate": "Thu, 30 Jul 2026 11:12:11 +0000",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "pubDate": "Thu, 30 Jul 2026 10:15:19 +0000",
       "image": "",
-      "source": "AI News",
+      "source": "MIT Technology Review",
       "category": "LLMs"
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the wa",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "pubDate": "Thu, 30 Jul 2026 15:41:16 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collabora",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:59 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Robotics"
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "description": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
     },
     {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -26,7 +66,7 @@
       "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "General"
     },
     {
       "title": "Mark Zuckerberg is planning a big push into personal AI agents",
@@ -36,57 +76,17 @@
       "pubDate": "2026-07-29T21:48:07.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "General"
     },
     {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+      "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal softwar",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "pubDate": "2026-07-29T22:17:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "pubDate": "2026-07-29T18:15:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Enterprise"
-    },
-    {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the In",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "pubDate": "Thu, 30 Jul 2026 10:15:19 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
-    },
-    {
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "description": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "pubDate": "Wed, 29 Jul 2026 15:52:48 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
+      "category": "Hardware"
     },
     {
       "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
@@ -96,37 +96,37 @@
       "pubDate": "2026-07-29T11:54:29.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Research"
+      "category": "Policy"
     },
     {
-      "title": "OpenAI report links coding agents to faster science software builds",
-      "description": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in fi",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-      "pubDate": "Wed, 29 Jul 2026 10:53:39 +0000",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
       "image": "",
-      "source": "AI News",
+      "source": "OpenAI",
       "category": "Research"
     },
     {
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "description": "The deal is Cyera's third acquisition this year.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
+      "category": "Enterprise"
     },
     {
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "description": "",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporti",
       "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "Open Source"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "pubDate": "2026-07-28T19:46:43.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     }
   ]
 }
