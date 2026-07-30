@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T01:44:19.991Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, with major players like Microsoft and Meta investing heavily in AI infrastructure and agents. AI safety and security concerns are also on the rise, with several incidents of AI models being hacked or used for malicious purposes.",
-  "insight": "The increasing competition between Microsoft and OpenAI is driving innovation in the AI industry, with both companies pushing the boundaries of what is possible with AI technology.",
+  "generated_at": "2026-07-30T06:21:43.606Z",
+  "summary": "Major AI companies are investing heavily in AI development, with Microsoft and Meta leading the charge. AI safety and regulation are becoming increasingly important concerns, with experts warning of potential risks and calling for government action.",
+  "insight": "The rise of personal AI agents is expected to revolutionize the way people interact with technology, with companies like Meta and Microsoft working to develop AI-powered tools that can perform tasks on behalf of users.",
   "highlights": [
-    "Microsoft is developing its own AI models and infrastructure to compete with OpenAI",
-    "Meta is investing heavily in AI agents and infrastructure, with a focus on enterprise applications",
-    "AI safety and security concerns are becoming increasingly important, with several high-profile incidents of AI models being hacked or used for malicious purposes"
+    "Microsoft is openly competing with OpenAI and Anthropic in the AI market.",
+    "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years.",
+    "AI safety and regulation are becoming major concerns, with experts warning of potential risks and calling for government action."
   ],
   "articles": [
     {
@@ -29,6 +29,26 @@
       "category": "General"
     },
     {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the tw",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal softwar",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "Microsoft confirms Copilot ‘super app’ coming this year",
       "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the",
       "readTime": "1 min read",
@@ -36,7 +56,7 @@
       "pubDate": "2026-07-29T22:17:38.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Enterprise"
+      "category": "LLMs"
     },
     {
       "title": "Mark Zuckerberg is planning a big push into personal AI agents",
@@ -56,7 +76,7 @@
       "pubDate": "Wed, 29 Jul 2026 21:07:48 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Research"
     },
     {
       "title": "Who wins and who loses after US bans foreign robots?",
@@ -76,7 +96,7 @@
       "pubDate": "2026-07-29T18:15:02.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "Hardware"
     },
     {
       "title": "Anthropic is finding bugs faster than Microsoft can fix them",
@@ -89,16 +109,6 @@
       "category": "Research"
     },
     {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Research"
-    },
-    {
       "title": "What happens when you put AI to work deciphering lost languages?",
       "description": "AI is fantastic at spotting patterns, but human insight is the key.",
       "readTime": "1 min read",
@@ -107,16 +117,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Research"
-    },
-    {
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the s",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "pubDate": "2026-07-29T11:54:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
     },
     {
       "title": "We’re running out of reasons to ignore AI safety",
