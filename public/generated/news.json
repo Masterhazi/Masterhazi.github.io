@@ -1,21 +1,31 @@
 {
-  "generated_at": "2026-07-31T10:30:44.915Z",
-  "summary": "This week's AI news highlights significant advancements in responsible AI governance, AI-powered workforce transformation, and robotics. OpenAI and Anthropic are making strides in AI safety and security, while Google DeepMind is pushing the boundaries of robotics and AI model control. Meanwhile, Meta is investing heavily in personal AI agents, and Microsoft is working on an AI 'super app'.",
-  "insight": "The increasing focus on responsible AI governance and safety is driving innovation in the industry, with companies like OpenAI and Anthropic leading the charge. This shift is expected to have a profound impact on the future of AI development and deployment.",
+  "generated_at": "2026-07-31T13:45:20.579Z",
+  "summary": "This week in AI, major advancements were seen in robotics and LLMs. Companies like Google and Meta are investing heavily in AI infrastructure, while others like Anthropic are dealing with security breaches. The industry is also seeing a rise in personal AI agents and AI-powered devices.",
+  "insight": "The increasing use of AI in various industries is leading to a rise in security concerns, with many companies struggling to keep up with the latest threats and vulnerabilities.",
   "highlights": [
-    "OpenAI shares its safety, security, transparency, and provenance practices to support responsible AI governance in Europe.",
-    "Google DeepMind's new AI model can control a robot's entire body, marking a significant breakthrough in robotics.",
-    "Meta is investing heavily in personal AI agents, with Mark Zuckerberg predicting that billions of people will have personal AI agents in five years."
+    "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+    "Anthropic says its own AI models breached three companies during security tests",
+    "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years"
   ],
   "articles": [
     {
-      "title": "Advancing responsible AI across Europe",
-      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "description": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire huma",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "pubDate": "2026-07-30T17:18:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Robotics"
+    },
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticin",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "pubDate": "2026-07-31T13:41:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "LLMs"
     },
     {
@@ -39,24 +49,34 @@
       "category": "Robotics"
     },
     {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "description": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire huma",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "pubDate": "2026-07-30T17:18:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Robotics"
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
     },
     {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intellig",
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "pubDate": "2026-07-30T22:29:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "pubDate": "2026-07-29T22:17:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Enterprise"
+    },
+    {
+      "title": "Advancing responsible AI across Europe",
+      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Policy"
     },
     {
       "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
@@ -69,24 +89,14 @@
       "category": "Policy"
     },
     {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the In",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "pubDate": "Thu, 30 Jul 2026 10:15:19 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
-      "description": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statemen",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-      "pubDate": "Thu, 30 Jul 2026 11:12:11 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
+      "source": "MIT Technology Review",
+      "category": "Research"
     },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -96,7 +106,7 @@
       "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
@@ -106,17 +116,7 @@
       "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "pubDate": "2026-07-29T22:17:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
+      "category": "Research"
     },
     {
       "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
@@ -126,7 +126,7 @@
       "pubDate": "2026-07-29T18:15:02.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
+      "category": "Hardware"
     }
   ]
 }
