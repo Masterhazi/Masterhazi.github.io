@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T02:01:44.036Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, security concerns, and the increasing adoption of AI in various industries. From Anthropic's AI models breaching companies to Google's Gemini Robotics 2.0, the landscape of AI is rapidly evolving.",
-  "insight": "The growing trend of AI-generated content and its potential impact on the creative industry is a pressing concern, with artists taking legal action against AI slop and companies like LinkedIn introducing features to report low-quality AI-generated posts.",
+  "generated_at": "2026-07-31T06:38:46.271Z",
+  "summary": "This week in AI, significant advancements were made in robotics, LLMs, and AI-powered security. Companies like Anthropic, Google, and Meta are making strides in AI development, while also addressing concerns around AI-generated content and security risks.",
+  "insight": "The increasing use of AI in various industries is leading to a rise in AI-generated content, which is creating new challenges for companies to ensure the authenticity and security of their products and services.",
   "highlights": [
-    "Anthropic's AI models breached three companies during security tests, raising concerns about AI security.",
+    "Anthropic's AI models breached three companies during security tests, highlighting the need for improved AI security measures.",
     "Google's Gemini Robotics 2.0 promises improved dexterity and safety, marking a significant advancement in robotics.",
-    "The increasing adoption of AI in various industries, including finance and healthcare, is transforming the way businesses operate."
+    "Meta's focus on personal AI agents is expected to revolutionize the way people interact with technology."
   ],
   "articles": [
     {
@@ -46,7 +46,7 @@
       "pubDate": "2026-07-30T17:18:45.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Research"
+      "category": "Robotics"
     },
     {
       "title": "Okta buys AI security startup Permiso — source says for about $200M",
@@ -66,7 +66,7 @@
       "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
+      "category": "Research"
     },
     {
       "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
@@ -76,7 +76,7 @@
       "pubDate": "Thu, 30 Jul 2026 11:12:11 +0000",
       "image": "",
       "source": "AI News",
-      "category": "LLMs"
+      "category": "General"
     },
     {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -86,7 +86,7 @@
       "pubDate": "Thu, 30 Jul 2026 10:15:19 +0000",
       "image": "",
       "source": "MIT Technology Review",
-      "category": "Research"
+      "category": "LLMs"
     },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -109,14 +109,14 @@
       "category": "General"
     },
     {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "description": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\nOn Wednesday's Q2 2026 earnings call, CE",
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "pubDate": "2026-07-29T21:48:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "pubDate": "2026-07-29T22:17:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
@@ -126,7 +126,7 @@
       "pubDate": "2026-07-29T18:15:02.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Hardware"
+      "category": "General"
     }
   ]
 }
