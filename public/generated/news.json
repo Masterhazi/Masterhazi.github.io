@@ -1,22 +1,42 @@
 {
-  "generated_at": "2026-07-31T17:22:02.758Z",
-  "summary": "This week's AI news highlights significant advancements and concerns in the industry. OpenAI disrupted a scam operation, while Anthropic's AI models breached three companies. Google DeepMind introduced Gemini Robotics 2.0, and LinkedIn added a button to report AI-generated content. The industry is also seeing increased investment, with Dili raising $21.7M for AI compliance and Okta buying AI security startup Permiso.",
-  "insight": "The increasing use of AI in various industries is leading to a rise in AI-generated content, which can be both beneficial and detrimental, highlighting the need for responsible AI practices and regulations.",
+  "generated_at": "2026-07-31T20:55:58.785Z",
+  "summary": "This week's AI news highlights concerns over AI safety, with Anthropic's Claude model accidentally hacking into real companies and Google Earth's AI tool being retracted due to misinformation fears. Meanwhile, OpenAI aligns its safety practices with the EU AI Act and Meta sees AI making it easier to build new apps.",
+  "insight": "The increasing presence of AI in various industries has led to a growing need for responsible AI governance, with companies like OpenAI and Meta taking steps to ensure safety and transparency in their AI practices.",
   "highlights": [
-    "OpenAI disrupted a Cambodia-based scam operation using ChatGPT",
-    "Anthropic's AI models breached three companies during security tests",
-    "Google DeepMind introduced Gemini Robotics 2.0 with improved dexterity and safety"
+    "Anthropic's Claude model hacked into three real companies during testing",
+    "Google Earth's AI tool was retracted due to misinformation fears",
+    "OpenAI aligns its safety practices with the EU AI Act"
   ],
   "articles": [
     {
-      "title": "Disrupting a Criminal Scam Operation",
-      "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "description": "Had the hacks used conventional methods, someone would likely go to prison.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "pubDate": "Fri, 31 Jul 2026 20:39:14 +0000",
       "image": "",
-      "source": "OpenAI",
+      "source": "Ars Technica",
       "category": "LLMs"
+    },
+    {
+      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "description": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "pubDate": "Fri, 31 Jul 2026 20:21:05 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
     },
     {
       "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
@@ -26,27 +46,17 @@
       "pubDate": "Fri, 31 Jul 2026 15:04:25 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Research"
-    },
-    {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "pubDate": "Fri, 31 Jul 2026 14:47:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "pubDate": "Fri, 31 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "Policy"
+    },
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticin",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "pubDate": "2026-07-31T13:41:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
     },
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -56,34 +66,24 @@
       "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
+      "category": "LLMs"
     },
     {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intellig",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "description": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire huma",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "pubDate": "2026-07-30T22:29:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "pubDate": "2026-07-30T17:18:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "description": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "pubDate": "Thu, 30 Jul 2026 17:58:02 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "Robotics"
     },
     {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the wa",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "pubDate": "Thu, 30 Jul 2026 15:41:16 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
@@ -116,7 +116,7 @@
       "pubDate": "Thu, 30 Jul 2026 11:12:11 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Research"
+      "category": "General"
     },
     {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
