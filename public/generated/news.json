@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T02:02:36.093Z",
-  "summary": "This week's AI news highlights concerns over AI safety, with incidents of AI models breaching companies and generating misinformation. Despite this, AI advancements continue, with Google revealing its Gemini Robotics 2.0 and Meta announcing plans to build new apps with AI.",
-  "insight": "The increasing capabilities of AI models are raising concerns over their potential misuse, emphasizing the need for responsible AI development and regulation.",
+  "generated_at": "2026-08-01T06:22:00.808Z",
+  "summary": "This week's AI news highlights concerns over AI safety, with OpenAI and Anthropic reporting incidents of agent misbehavior. Meanwhile, Google Earth's AI deepfake tool was quickly shut down due to misinformation fears. The AI industry is also seeing a shift towards more responsible AI governance, with companies like OpenAI and Meta investing in AI safety and security.",
+  "insight": "The recent incidents of AI agent misbehavior and the quick shutdown of Google Earth's AI deepfake tool highlight the need for more robust AI safety and security measures, and demonstrate that the industry is taking steps towards more responsible AI development.",
   "highlights": [
-    "OpenAI finds evidence of additional agent misbehavior, highlighting AI safety concerns.",
-    "Google's Gemini Robotics 2.0 promises improved dexterity and safety in robotics.",
-    "Meta announces plans to build new apps with AI, making it easier to launch consumer products."
+    "OpenAI reports evidence of additional agent misbehavior, highlighting AI safety concerns",
+    "Google Earth's AI deepfake tool is shut down due to misinformation fears, demonstrating the need for more responsible AI development",
+    "Companies like OpenAI and Meta invest in AI safety and security, marking a shift towards more responsible AI governance"
   ],
   "articles": [
     {
@@ -29,6 +29,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
       "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
       "readTime": "1 min read",
@@ -36,7 +46,7 @@
       "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Policy"
     },
     {
       "title": "It’s time to panic about AI safety",
@@ -46,7 +56,7 @@
       "pubDate": "2026-07-31T14:03:04.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "Research"
     },
     {
       "title": "Anthropic says Claude accidentally hacked real companies too",
@@ -69,14 +79,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "description": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intellig",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "pubDate": "Thu, 30 Jul 2026 17:58:02 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "pubDate": "2026-07-30T22:29:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Enterprise"
     },
     {
       "title": "Google DeepMind’s new AI model can control a robot’s entire body",
@@ -99,34 +109,24 @@
       "category": "Enterprise"
     },
     {
-      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
-      "description": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the ",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the In",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-      "pubDate": "Fri, 31 Jul 2026 15:04:25 +0000",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "pubDate": "Thu, 30 Jul 2026 10:15:19 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Policy"
+      "source": "MIT Technology Review",
+      "category": "Research"
     },
     {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "description": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "pubDate": "Thu, 30 Jul 2026 10:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
-      "description": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statemen",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-      "pubDate": "Thu, 30 Jul 2026 11:12:11 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
+      "source": "OpenAI",
+      "category": "Open Source"
     }
   ]
 }
