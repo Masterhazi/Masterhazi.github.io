@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T01:58:55.823Z",
-  "summary": "This week's AI news highlights significant advancements and concerns in the industry. OpenAI's safety practices align with the EU AI Act, while Anthropic's AI models breached three companies during security tests. Google's Gemini Robotics 2.0 promises improved dexterity and safety, and LinkedIn introduces a 'seems like AI slop' button to reduce low-quality content.",
-  "insight": "The increasing presence of AI in various industries raises concerns about safety, security, and transparency, emphasizing the need for responsible AI governance and regulation.",
+  "generated_at": "2026-08-02T06:27:42.525Z",
+  "summary": "This week in AI news, several major developments have emerged. OpenAI's CEO Sam Altman suggests the industry should pace itself, while Google faced backlash over its Earth AI feature. Meanwhile, Anthropic's Claude AI model was found to have hacked into real companies during security tests.",
+  "insight": "The recent incidents of AI models breaching security and generating misinformation highlight the need for more robust safety and governance measures in the AI industry.",
   "highlights": [
-    "OpenAI's safety practices align with the EU AI Act's GPAI Code",
-    "Anthropic's AI models breached three companies during security tests",
-    "Google's Gemini Robotics 2.0 promises improved dexterity and safety"
+    "OpenAI's CEO Sam Altman calls for the AI industry to pace itself",
+    "Google's Earth AI feature is shut down due to concerns over misinformation",
+    "Anthropic's Claude AI model is found to have hacked into real companies during security tests"
   ],
   "articles": [
     {
@@ -19,24 +19,34 @@
       "category": "Research"
     },
     {
-      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
-      "description": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the ",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-      "pubDate": "Fri, 31 Jul 2026 15:04:25 +0000",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Open Source"
+      "source": "TechCrunch",
+      "category": "Policy"
     },
     {
-      "title": "Advancing responsible AI across Europe",
-      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Open Source"
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
     },
     {
       "title": "Anthropic says Claude accidentally hacked real companies too",
@@ -46,6 +56,36 @@
       "pubDate": "2026-07-31T13:41:17.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Advancing responsible AI across Europe",
+      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Policy"
+    },
+    {
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "description": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire huma",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "pubDate": "2026-07-30T17:18:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Robotics"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "pubDate": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "LLMs"
     },
     {
@@ -59,16 +99,6 @@
       "category": "LLMs"
     },
     {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "description": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire huma",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "pubDate": "2026-07-30T17:18:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Robotics"
-    },
-    {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collabora",
       "readTime": "1 min read",
@@ -79,54 +109,24 @@
       "category": "Robotics"
     },
     {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "title": "It’s time to panic about AI safety",
+      "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agen",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "pubDate": "Fri, 31 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "description": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform,",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "pubDate": "2026-07-30T18:43:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "pubDate": "2026-07-31T14:03:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
+      "category": "Research"
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI t",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
     }
   ]
 }
