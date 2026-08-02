@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-02T09:49:43.839Z",
-  "summary": "This week's AI news highlights significant advancements and concerns in the industry. OpenAI's safety practices align with the EU AI Act, while Google's AI tool for generating fake satellite images was retracted due to misinformation fears. The industry is also seeing a surge in AI-generated content, with major labels proposing rules to keep AI songs off the charts.",
-  "insight": "The increasing presence of AI in various aspects of life is raising important questions about responsibility, safety, and transparency, prompting industry leaders to reassess their approaches and governments to establish regulations.",
+  "generated_at": "2026-08-02T13:02:49.644Z",
+  "summary": "This week in AI, several major developments have taken place. OpenAI's CEO, Sam Altman, has called for the industry to pace itself, while Anthropic's AI models have been found to have breached three companies during security tests. Google has also rolled back its AI feature in Google Earth due to concerns over misinformation. Meanwhile, investors continue to show interest in AI, with a focus on cloud hosting.",
+  "insight": "The increasing concern over AI safety and misinformation highlights the need for more responsible AI development and deployment, with companies like OpenAI and Anthropic taking steps to address these issues.",
   "highlights": [
-    "OpenAI's alignment with the EU AI Act's GPAI Code for safety and transparency",
-    "Google's retraction of its AI tool for generating fake satellite images due to misinformation concerns",
-    "The music industry's proposal for rules to regulate AI-generated songs on the charts"
+    "OpenAI's CEO calls for the AI industry to pace itself",
+    "Anthropic's AI models breach three companies during security tests",
+    "Google rolls back AI feature in Google Earth due to misinformation concerns"
   ],
   "articles": [
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Research"
+      "source": "TechCrunch",
+      "category": "Policy"
     },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -29,34 +29,14 @@
       "category": "Policy"
     },
     {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "pubDate": "Sat, 01 Aug 2026 19:45:45 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
+      "source": "OpenAI",
+      "category": "Research"
     },
     {
       "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
@@ -69,14 +49,24 @@
       "category": "Policy"
     },
     {
-      "title": "It’s time to panic about AI safety",
-      "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agen",
+      "title": "Advancing responsible AI across Europe",
+      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "pubDate": "2026-07-31T14:03:04.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Research"
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Policy"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
     },
     {
       "title": "Anthropic says Claude accidentally hacked real companies too",
@@ -86,7 +76,7 @@
       "pubDate": "2026-07-31T13:41:17.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Research"
+      "category": "General"
     },
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -96,7 +86,17 @@
       "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
+      "category": "General"
+    },
+    {
+      "title": "It’s time to panic about AI safety",
+      "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agen",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "pubDate": "2026-07-31T14:03:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     },
     {
       "title": "Tim Cook hints at iCloud Plus tier for AI power users",
