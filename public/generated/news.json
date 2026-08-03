@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-08-03T14:19:54.480Z",
-  "summary": "This week in AI, major players like Alibaba and Google are making significant moves, while concerns over AI safety and ethics continue to grow. OpenAI's CEO Sam Altman is calling for the industry to pace itself, and there are signs that the market is responding.",
-  "insight": "The increasing presence of AI in various industries is leading to a shift in how companies approach innovation, with a focus on responsible AI development and deployment becoming more prominent.",
+  "generated_at": "2026-08-03T17:46:08.336Z",
+  "summary": "The EU's AI labeling and transparency rules have taken effect, while Congress is increasingly relying on ChatGPT. Meanwhile, Alibaba is challenging America's AI supremacy, and there are concerns about AI safety and the impact of AI on various industries.",
+  "insight": "The increasing use of AI in various industries and governments highlights the need for transparency and regulation to ensure that AI is developed and used responsibly.",
   "highlights": [
-    "Alibaba takes on US AI supremacy with new releases",
-    "Google Earth's AI feature is shut down due to misinformation concerns",
-    "OpenAI's CEO calls for the industry to pace itself amid safety concerns"
+    "The EU's AI labeling and transparency rules are now in effect, aiming to increase trust in AI systems.",
+    "Congress is increasingly relying on ChatGPT, with House spending records showing significant paid AI use on Capitol Hill.",
+    "Alibaba is challenging America's AI supremacy, releasing new AI technologies to compete with US companies."
   ],
   "articles": [
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "description": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional r",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "pubDate": "2026-08-03T17:38:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and ass",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
     {
       "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
       "description": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says ",
@@ -19,14 +39,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "title": "Why biological data matters more in AI drug discovery",
+      "description": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assist",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
       "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "source": "AI News",
+      "category": "Research"
     },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -39,6 +59,16 @@
       "category": "Research"
     },
     {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
       "title": "Ten advances in mathematics and theoretical computer science",
       "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "readTime": "1 min read",
@@ -49,24 +79,34 @@
       "category": "Research"
     },
     {
-      "title": "Advancing responsible AI across Europe",
-      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "description": "Had the hacks used conventional methods, someone would likely go to prison.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "pubDate": "Fri, 31 Jul 2026 20:39:14 +0000",
       "image": "",
-      "source": "OpenAI",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Policy"
     },
     {
-      "title": "It’s time to panic about AI safety",
-      "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agen",
+      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+      "description": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the ",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "pubDate": "2026-07-31T14:03:04.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Research"
+      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+      "pubDate": "Fri, 31 Jul 2026 15:04:25 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Policy"
     },
     {
       "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
@@ -76,46 +116,6 @@
       "pubDate": "Fri, 31 Jul 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticin",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "pubDate": "2026-07-31T13:41:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Research"
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intellig",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "pubDate": "2026-07-30T22:29:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "Enterprise"
     },
     {
