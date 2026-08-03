@@ -1,62 +1,72 @@
 {
-  "generated_at": "2026-08-03T17:46:08.336Z",
-  "summary": "The EU's AI labeling and transparency rules have taken effect, while Congress is increasingly relying on ChatGPT. Meanwhile, Alibaba is challenging America's AI supremacy, and there are concerns about AI safety and the impact of AI on various industries.",
-  "insight": "The increasing use of AI in various industries and governments highlights the need for transparency and regulation to ensure that AI is developed and used responsibly.",
+  "generated_at": "2026-08-03T20:56:59.659Z",
+  "summary": "This week in AI news, significant developments include AWS embedding vibe-coding tool Superblocks, OpenAI's influencer trip sparking backlash, and Apple overhauling Siri. Other notable stories cover AI deployment, robotics, and policy changes.",
+  "insight": "The increasing integration of AI into various industries and aspects of life is raising concerns about safety, ethics, and governance, prompting calls for the industry to 'pace' itself and consider the implications of rapid AI development.",
   "highlights": [
-    "The EU's AI labeling and transparency rules are now in effect, aiming to increase trust in AI systems.",
-    "Congress is increasingly relying on ChatGPT, with House spending records showing significant paid AI use on Capitol Hill.",
-    "Alibaba is challenging America's AI supremacy, releasing new AI technologies to compete with US companies."
+    "AWS partners with Superblocks to embed vibe-coding tools into private clouds.",
+    "OpenAI faces criticism for its first luxury influencer trip.",
+    "Apple's Siri overhaul aims to make it a more competent assistant."
   ],
   "articles": [
     {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "description": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional r",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "description": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "pubDate": "2026-08-03T17:38:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "pubDate": "Mon, 03 Aug 2026 20:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "pubDate": "Mon, 03 Aug 2026 19:09:56 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Policy"
     },
     {
-      "title": "Congress’s favorite AI tool? ChatGPT",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have e",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "pubDate": "Mon, 03 Aug 2026 18:43:43 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Congress’ favorite AI tool? ChatGPT",
       "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and ass",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
       "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Policy"
     },
     {
-      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-      "description": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says ",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "pubDate": "2026-08-03T11:01:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Why biological data matters more in AI drug discovery",
-      "description": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assist",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
-      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
       "image": "",
-      "source": "AI News",
+      "source": "OpenAI",
       "category": "Research"
     },
     {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. W",
+      "title": "Sam Altman and AI’s decel debate",
+      "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "pubDate": "Mon, 03 Aug 2026 08:30:05 +0000",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
       "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
+      "source": "TechCrunch",
+      "category": "Policy"
     },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -79,14 +89,14 @@
       "category": "Research"
     },
     {
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "description": "Had the hacks used conventional methods, someone would likely go to prison.",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "pubDate": "Fri, 31 Jul 2026 20:39:14 +0000",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "General"
+      "source": "TechCrunch",
+      "category": "Policy"
     },
     {
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
@@ -99,14 +109,14 @@
       "category": "Policy"
     },
     {
-      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
-      "description": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the ",
+      "title": "Advancing responsible AI across Europe",
+      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-      "pubDate": "Fri, 31 Jul 2026 15:04:25 +0000",
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
       "image": "",
-      "source": "AI News",
-      "category": "Policy"
+      "source": "OpenAI",
+      "category": "Research"
     },
     {
       "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
@@ -117,16 +127,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "description": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "pubDate": "Thu, 30 Jul 2026 17:58:02 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
     }
   ]
 }
