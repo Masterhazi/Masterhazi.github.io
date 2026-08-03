@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T11:14:27.533Z",
-  "summary": "This week in AI, concerns over AI safety and regulation continue to grow, with OpenAI's CEO calling for the industry to 'pace' itself. Meanwhile, advancements in AI research and development are being made, with new models and tools being released.",
-  "insight": "The increasing use of AI in various industries is leading to a rise in concerns over AI safety and regulation, highlighting the need for responsible AI development and deployment.",
+  "generated_at": "2026-08-03T14:19:54.480Z",
+  "summary": "This week in AI, major players like Alibaba and Google are making significant moves, while concerns over AI safety and ethics continue to grow. OpenAI's CEO Sam Altman is calling for the industry to pace itself, and there are signs that the market is responding.",
+  "insight": "The increasing presence of AI in various industries is leading to a shift in how companies approach innovation, with a focus on responsible AI development and deployment becoming more prominent.",
   "highlights": [
-    "Alibaba takes on US AI supremacy with new release",
-    "Google Earth's AI tool for generating fake satellite images sparks controversy",
-    "Sam Altman calls for the AI industry to 'pace' itself amid safety concerns"
+    "Alibaba takes on US AI supremacy with new releases",
+    "Google Earth's AI feature is shut down due to misinformation concerns",
+    "OpenAI's CEO calls for the industry to pace itself amid safety concerns"
   ],
   "articles": [
     {
@@ -16,7 +16,17 @@
       "pubDate": "2026-08-03T11:01:11.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "Enterprise"
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -29,16 +39,6 @@
       "category": "Research"
     },
     {
-      "title": "Sam Altman and AI’s decel debate",
-      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
       "title": "Ten advances in mathematics and theoretical computer science",
       "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "readTime": "1 min read",
@@ -49,36 +49,6 @@
       "category": "Research"
     },
     {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-      "description": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-      "pubDate": "Fri, 31 Jul 2026 20:21:05 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Hardware"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
       "title": "Advancing responsible AI across Europe",
       "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "readTime": "1 min read",
@@ -86,7 +56,7 @@
       "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Enterprise"
+      "category": "Policy"
     },
     {
       "title": "It’s time to panic about AI safety",
@@ -99,6 +69,16 @@
       "category": "Research"
     },
     {
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "pubDate": "Fri, 31 Jul 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "Anthropic says Claude accidentally hacked real companies too",
       "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticin",
       "readTime": "1 min read",
@@ -106,7 +86,7 @@
       "pubDate": "2026-07-31T13:41:17.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "Research"
     },
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -119,6 +99,16 @@
       "category": "Research"
     },
     {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "Tim Cook hints at iCloud Plus tier for AI power users",
       "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intellig",
       "readTime": "1 min read",
@@ -127,6 +117,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Enterprise"
+    },
+    {
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "description": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "pubDate": "Thu, 30 Jul 2026 17:58:02 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Robotics"
     }
   ]
 }
