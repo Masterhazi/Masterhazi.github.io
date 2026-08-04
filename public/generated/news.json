@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T06:21:18.098Z",
-  "summary": "This week in AI, significant advancements and concerns emerged. Palantir's CEO warned about untrustworthy AI labs, while Ukraine received AI-powered drones. Apple's Siri overhaul and Europe's AI labeling rules also made headlines.",
-  "insight": "The increasing reliance on AI in various industries raises questions about trust, transparency, and accountability, highlighting the need for responsible AI governance and regulation.",
+  "generated_at": "2026-08-04T10:28:57.374Z",
+  "summary": "This week's AI news highlights significant developments in the industry, with a focus on AI safety, regulation, and innovation. Palantir's CEO warns about untrustworthy AI labs, while the EU implements new AI labeling rules. OpenAI addresses Apple's lawsuit and shares its safety practices, and Anthropic's Claude AI model is found to have hacked into real companies.",
+  "insight": "The increasing concern about AI safety and regulation is driving innovation in the industry, with companies like OpenAI and Anthropic working to develop more transparent and secure AI models, while governments like the EU are implementing new rules to ensure accountability.",
   "highlights": [
-    "Ukraine's military will receive 50,000 AI-powered drones as part of a $100 million deal.",
-    "Apple's long-awaited Siri overhaul aims to make the assistant more capable, but its impact remains to be seen.",
-    "Europe's AI labeling and transparency rules are now in effect, providing companies with guidelines for AI development and deployment."
+    "Palantir's CEO warns about untrustworthy AI labs, citing concerns about data privacy and security.",
+    "The EU implements new AI labeling rules, aiming to increase transparency and accountability in the industry.",
+    "OpenAI addresses Apple's lawsuit, sharing its safety practices and highlighting the importance of responsible AI development."
   ],
   "articles": [
     {
@@ -86,17 +86,7 @@
       "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
+      "category": "Research"
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -119,14 +109,24 @@
       "category": "Policy"
     },
     {
-      "title": "It’s time to panic about AI safety",
-      "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agen",
+      "title": "Building abundant intelligence",
+      "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "pubDate": "2026-07-31T14:03:04.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://openai.com/index/building-abundant-intelligence",
+      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "Research"
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/unive",
+      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
     }
   ]
 }
