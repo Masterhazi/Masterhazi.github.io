@@ -1,22 +1,42 @@
 {
-  "generated_at": "2026-08-04T10:28:57.374Z",
-  "summary": "This week's AI news highlights significant developments in the industry, with a focus on AI safety, regulation, and innovation. Palantir's CEO warns about untrustworthy AI labs, while the EU implements new AI labeling rules. OpenAI addresses Apple's lawsuit and shares its safety practices, and Anthropic's Claude AI model is found to have hacked into real companies.",
-  "insight": "The increasing concern about AI safety and regulation is driving innovation in the industry, with companies like OpenAI and Anthropic working to develop more transparent and secure AI models, while governments like the EU are implementing new rules to ensure accountability.",
+  "generated_at": "2026-08-04T13:51:26.391Z",
+  "summary": "This week in AI, significant advancements and concerns emerged. The Open Secure AI Alliance proposed new guidelines for agentic AI cybersecurity, while Apple's lawsuit against OpenAI sparked debate. AI-powered tools, such as Runware's modular data center and Endeavour Optical Networks' space laser communications system, showcased innovation.",
+  "insight": "The increasing reliance on AI in various industries raises questions about accountability, transparency, and the potential for misuse, highlighting the need for responsible AI governance and regulations.",
   "highlights": [
-    "Palantir's CEO warns about untrustworthy AI labs, citing concerns about data privacy and security.",
-    "The EU implements new AI labeling rules, aiming to increase transparency and accountability in the industry.",
-    "OpenAI addresses Apple's lawsuit, sharing its safety practices and highlighting the importance of responsible AI development."
+    "OpenAI addresses Apple's lawsuit, emphasizing the importance of transparency and accountability in AI development.",
+    "Runware launches a modular data center, marking a significant step towards portable and efficient data processing.",
+    "The European Union's AI labeling and transparency rules come into effect, aiming to promote trust and understanding in AI technologies."
   ],
   "articles": [
     {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+      "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat confe",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "pubDate": "Mon, 03 Aug 2026 23:19:50 +0000",
+      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+      "pubDate": "Tue, 04 Aug 2026 13:00:47 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Policy"
+    },
+    {
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "description": "OpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images\t\n\nApple's legal battle against OpenAI just got messier n",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "pubDate": "2026-08-04T11:27:55.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "pubDate": "Tue, 04 Aug 2026 13:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Hardware"
     },
     {
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
@@ -26,7 +46,7 @@
       "pubDate": "Mon, 03 Aug 2026 22:11:39 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Hardware"
+      "category": "Robotics"
     },
     {
       "title": "Europe’s AI labeling and transparency rules are now in effect",
@@ -34,49 +54,19 @@
       "readTime": "1 min read",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
       "pubDate": "2026-08-03T17:38:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268679_Europes_AI_labeling_and_transparency_rules_are_now_in_effect_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Policy"
     },
     {
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and ass",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-      "description": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "pubDate": "2026-08-03T11:01:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Enterprise"
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "pubDate": "Mon, 03 Aug 2026 20:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. W",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "pubDate": "Mon, 03 Aug 2026 08:30:05 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
     },
     {
       "title": "How we built a realtime system for responsive voice AI in six months",
@@ -89,24 +79,44 @@
       "category": "Research"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels ",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "pubDate": "Mon, 03 Aug 2026 18:43:43 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Research"
+      "source": "TechCrunch",
+      "category": "General"
     },
     {
-      "title": "Advancing responsible AI across Europe",
-      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "pubDate": "Mon, 03 Aug 2026 18:43:30 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Robotics"
+    },
+    {
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "description": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "pubDate": "2026-08-03T11:01:11.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Open Source"
+    },
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/circles",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Policy"
+      "category": "LLMs"
     },
     {
       "title": "Building abundant intelligence",
@@ -117,16 +127,6 @@
       "image": "",
       "source": "OpenAI",
       "category": "Research"
-    },
-    {
-      "title": "Univé builds an AI-ready workforce",
-      "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/unive",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
     }
   ]
 }
