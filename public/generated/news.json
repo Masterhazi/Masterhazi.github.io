@@ -1,42 +1,62 @@
 {
-  "generated_at": "2026-08-03T20:56:59.659Z",
-  "summary": "This week in AI news, significant developments include AWS embedding vibe-coding tool Superblocks, OpenAI's influencer trip sparking backlash, and Apple overhauling Siri. Other notable stories cover AI deployment, robotics, and policy changes.",
-  "insight": "The increasing integration of AI into various industries and aspects of life is raising concerns about safety, ethics, and governance, prompting calls for the industry to 'pace' itself and consider the implications of rapid AI development.",
+  "generated_at": "2026-08-04T01:46:57.718Z",
+  "summary": "This week's AI news highlights significant advancements and concerns in the industry, with a focus on AI safety, transparency, and ethics. From the EU's AI labeling rules to OpenAI's efforts to align with the EU AI Act, the industry is shifting towards more responsible AI development.",
+  "insight": "The increasing use of AI in various industries has led to a growing need for transparency and accountability, with many companies and governments taking steps to regulate and ensure the safe development of AI technologies.",
   "highlights": [
-    "AWS partners with Superblocks to embed vibe-coding tools into private clouds.",
-    "OpenAI faces criticism for its first luxury influencer trip.",
-    "Apple's Siri overhaul aims to make it a more competent assistant."
+    "The EU's AI labeling rules have come into effect, aiming to increase transparency in AI development",
+    "OpenAI has announced efforts to align its safety practices with the EU AI Act's GPAI Code",
+    "Concerns over AI safety have grown, with reports of AI models hacking into company systems and creating exploitable trust"
   ],
   "articles": [
     {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "description": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional r",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "pubDate": "2026-08-03T17:38:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "EU AI Act Article 50 transparency rules enter force",
+      "description": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI too",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+      "pubDate": "Mon, 03 Aug 2026 16:09:25 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Policy"
+    },
+    {
+      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+      "description": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+      "pubDate": "Fri, 31 Jul 2026 15:04:25 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Policy"
+    },
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "pubDate": "Mon, 03 Aug 2026 23:19:50 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "description": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
       "pubDate": "Mon, 03 Aug 2026 20:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "pubDate": "Mon, 03 Aug 2026 19:09:56 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have e",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "pubDate": "Mon, 03 Aug 2026 18:43:43 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "Congress’ favorite AI tool? ChatGPT",
@@ -46,7 +66,37 @@
       "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Policy"
+      "category": "Enterprise"
+    },
+    {
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "description": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "pubDate": "Mon, 03 Aug 2026 22:11:39 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Hardware"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "pubDate": "Fri, 31 Jul 2026 14:47:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "pubDate": "Mon, 03 Aug 2026 18:43:43 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
     },
     {
       "title": "How we built a realtime system for responsive voice AI in six months",
@@ -56,27 +106,7 @@
       "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Research"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
+      "category": "LLMs"
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -89,44 +119,14 @@
       "category": "Research"
     },
     {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "title": "It’s time to panic about AI safety",
+      "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agen",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Advancing responsible AI across Europe",
-      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "pubDate": "2026-07-31T14:03:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Research"
-    },
-    {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s ow",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "pubDate": "Fri, 31 Jul 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
     }
   ]
 }
