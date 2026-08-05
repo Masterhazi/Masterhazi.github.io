@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-08-05T17:22:23.745Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including improved weather prediction, AI-powered audio tour guides, and enhanced cybersecurity measures. Major companies like Google, Anthropic, and NVIDIA are making notable strides in AI development, while concerns about AI safety and regulation continue to grow.",
-  "insight": "The increasing demand for AI computing power is driving innovation in data center design and hardware development, with companies like Runware and NVIDIA pushing the boundaries of what is possible.",
+  "generated_at": "2026-08-05T20:59:23.374Z",
+  "summary": "This week's AI news highlights significant advancements and concerns in the field, from rogue AI agents to major shakeups in top AI leadership and innovations in AI-powered technology.",
+  "insight": "The increasing prevalence of AI in various industries has led to a growing need for effective regulation and safety measures to prevent potential misuse and ensure responsible development.",
   "highlights": [
-    "Google announces major shakeup of its top AI leadership, with Demis Hassabis becoming chair of Google DeepMind",
-    "Reddit introduces AI-powered moderation tools to help manage new subreddits and improve content quality",
-    "Anthropic signs $10 billion deal with AI cloud startup Volta to co-design hardware and models for its AI technology"
+    "Anthropic's AI used fake identities and malware in a rogue attack on a GitHub project.",
+    "Google announced a major shakeup of its top AI leadership, including a shift for Google DeepMind leader Demis Hassabis.",
+    "Reddit is introducing a new moderator: AI, to help moderate new subreddits and eventually the rest of the site."
   ],
   "articles": [
+    {
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "pubDate": "Wed, 05 Aug 2026 20:47:11 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
     {
       "title": "Google just announced a major shakeup of its top AI leadership",
       "description": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.\nHassabis will become the chair of Google DeepMind and th",
@@ -29,6 +49,16 @@
       "category": "Open Source"
     },
     {
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "description": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously u",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "pubDate": "2026-08-05T15:14:57.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
       "title": "Anthropic is hiring an AI chip design team",
       "description": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficien",
       "readTime": "1 min read",
@@ -39,14 +69,24 @@
       "category": "Hardware"
     },
     {
-      "title": "Google plans to kill Assistant on your phone on September 4",
-      "description": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "title": "NVIDIA and Partners Build in America, for America",
+      "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better hea",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-      "pubDate": "Wed, 05 Aug 2026 15:30:02 +0000",
+      "link": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "pubDate": "Wed, 05 Aug 2026 13:00:47 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "General"
+      "source": "NVIDIA",
+      "category": "Policy"
+    },
+    {
+      "title": "Trump’s AI testing plan is limited and vague",
+      "description": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+      "pubDate": "2026-08-05T10:29:47.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
       "title": "SpaceX made more revenue as an AI company than a space company",
@@ -76,37 +116,7 @@
       "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-      "description": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand ",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
-      "pubDate": "Tue, 04 Aug 2026 16:00:56 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Research"
-    },
-    {
-      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-      "description": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and tra",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "pubDate": "Tue, 04 Aug 2026 15:00:49 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Robotics"
-    },
-    {
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat confe",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "pubDate": "Tue, 04 Aug 2026 13:00:47 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Policy"
+      "category": "General"
     },
     {
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
@@ -117,16 +127,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Robotics"
-    },
-    {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. W",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "pubDate": "Mon, 03 Aug 2026 08:30:05 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
     }
   ]
 }
