@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T06:21:05.384Z",
-  "summary": "This week in AI news, significant developments emerged in the fields of AI research, policy, and enterprise applications. Notably, SpaceX's AI revenue surpassed its space revenue, while AMD's data center business boomed driven by AI demand. Texas halted new data center connections due to overwhelming demand, and OpenAI addressed Apple's lawsuit, calling it 'careless, aggressive, and oddly personal.'",
-  "insight": "The interconnectedness of Elon Musk's companies is highlighted by SpaceX's purchase of Tesla Megapacks, illustrating the growing synergy between AI, space, and automotive industries.",
+  "generated_at": "2026-08-05T10:27:53.011Z",
+  "summary": "This week's AI news highlights significant advancements in the field, with a focus on AI adoption, cybersecurity, and innovation. Major companies like SpaceX, AMD, and NVIDIA are investing heavily in AI, while concerns over safety and transparency remain.",
+  "insight": "The increasing demand for AI capacity is driving growth in the data center industry, but also raises concerns about energy consumption and cybersecurity, highlighting the need for sustainable and secure AI solutions.",
   "highlights": [
-    "SpaceX's AI revenue grew more than three times to $2.6 billion, driven by compute deals with other AI companies.",
-    "AMD's data center revenue more than doubled year-over-year to $6.7 billion, driven by AI capacity demand.",
-    "Texas halted new data center connections to the power grid amid overwhelming demand, citing the need for audits."
+    "SpaceX's AI revenue grew more than three times to $2.6 billion, driven by deals to provide compute to other AI companies.",
+    "AMD's data center revenue more than doubled year-over-year, reaching $6.7 billion, driven by demand for AI capacity.",
+    "NVIDIA is participating in the U.S. National Science Foundation's State and Regional Artificial Intelligence Infrastructure Hubs program to expand AI research and education."
   ],
   "articles": [
     {
@@ -66,7 +66,7 @@
       "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
+      "category": "Research"
     },
     {
       "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
@@ -79,16 +79,6 @@
       "category": "Research"
     },
     {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "description": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "pubDate": "Tue, 04 Aug 2026 15:20:06 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
       "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
       "description": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and tra",
       "readTime": "1 min read",
@@ -97,6 +87,16 @@
       "image": "",
       "source": "NVIDIA",
       "category": "Robotics"
+    },
+    {
+      "title": "As AI Increases Demands on Memory, Storage Steps Up",
+      "description": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.  But rising needs aren’t met by simply adding more s",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+      "pubDate": "Tue, 04 Aug 2026 15:00:47 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
@@ -109,16 +109,6 @@
       "category": "Policy"
     },
     {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "pubDate": "Mon, 03 Aug 2026 23:19:50 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
       "description": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
       "readTime": "1 min read",
@@ -127,6 +117,16 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Hardware"
+    },
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "description": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional r",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "pubDate": "2026-08-03T17:38:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268679_Europes_AI_labeling_and_transparency_rules_are_now_in_effect_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     }
   ]
 }
