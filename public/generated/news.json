@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-08-06T06:23:39.947Z",
-  "summary": "This week in AI, significant developments include Google's AI leadership shakeup, Meta's launch of Muse Code, and Anthropic's hiring of an AI chip design team. Other notable stories involve AI-generated music, AI-powered moderation on Reddit, and advancements in weather prediction.",
-  "insight": "The increasing intersection of AI and various industries is leading to innovative applications and significant investments, but also raises concerns about safety, transparency, and the potential for misuse.",
+  "generated_at": "2026-08-06T10:31:02.139Z",
+  "summary": "This week in AI news, significant developments include OpenAI's response to Apple's trade secrets lawsuit, Meta's launch of Muse Code, and Anthropic's AI chip design team. Other notable stories involve Reddit's introduction of AI moderation, Shopify's success with AI-driven search, and NVIDIA's progress with the Open Secure AI Alliance.",
+  "insight": "The increasing use of AI in various industries is leading to a growing need for AI-specific hardware, with companies like Anthropic and NVIDIA investing in custom AI chips and data center infrastructure.",
   "highlights": [
-    "Google announces major AI leadership changes, including a new role for Demis Hassabis",
-    "Meta launches Muse Code, an AI agent for handling complex coding tasks",
-    "Anthropic hires a team to design custom AI chips, aiming to improve efficiency and speed"
+    "OpenAI asks federal judge to dismiss Apple's trade secrets lawsuit",
+    "Meta launches Muse Code, an AI agent for large code bases",
+    "Reddit introduces AI moderation tools for new subreddits"
   ],
   "articles": [
+    {
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "description": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion f",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "pubDate": "2026-08-06T09:33:11.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "pubDate": "Wed, 05 Aug 2026 20:47:11 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
     {
       "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
       "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
@@ -29,13 +59,13 @@
       "category": "Enterprise"
     },
     {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "title": "Reddit is introducing a new moderator: AI",
+      "description": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manag",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
+      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "pubDate": "2026-08-05T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "LLMs"
     },
     {
@@ -49,34 +79,14 @@
       "category": "Hardware"
     },
     {
-      "title": "Reddit is introducing a new moderator: AI",
-      "description": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manag",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could ou",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "pubDate": "2026-08-05T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "description": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "pubDate": "Wed, 05 Aug 2026 11:00:00 +0000",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "pubDate": "Tue, 04 Aug 2026 20:05:26 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Research"
-    },
-    {
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "description": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, accordi",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "pubDate": "2026-08-04T20:47:55.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Enterprise"
     },
     {
       "title": "Anthropic signs $10B deal with AI cloud startup Volta",
@@ -99,33 +109,23 @@
       "category": "Open Source"
     },
     {
-      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-      "description": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential informati",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-      "pubDate": "Mon, 03 Aug 2026 22:11:39 +0000",
+      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "pubDate": "Tue, 04 Aug 2026 14:03:01 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
+      "source": "TechCrunch",
+      "category": "Policy"
     },
     {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "description": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "pubDate": "Wed, 05 Aug 2026 20:47:11 +0000",
+      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
       "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
-    },
-    {
-      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
-      "description": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated sin",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-      "pubDate": "2026-08-06T00:25:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "source": "OpenAI",
       "category": "General"
     }
   ]
