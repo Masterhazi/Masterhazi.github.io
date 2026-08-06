@@ -1,42 +1,32 @@
 {
-  "generated_at": "2026-08-06T10:31:02.139Z",
-  "summary": "This week in AI news, significant developments include OpenAI's response to Apple's trade secrets lawsuit, Meta's launch of Muse Code, and Anthropic's AI chip design team. Other notable stories involve Reddit's introduction of AI moderation, Shopify's success with AI-driven search, and NVIDIA's progress with the Open Secure AI Alliance.",
-  "insight": "The increasing use of AI in various industries is leading to a growing need for AI-specific hardware, with companies like Anthropic and NVIDIA investing in custom AI chips and data center infrastructure.",
+  "generated_at": "2026-08-06T13:45:09.293Z",
+  "summary": "This week's AI news highlights significant advancements in AI research, applications, and industry partnerships. Google announced a major shakeup of its top AI leadership, while NVIDIA and partners invested in American manufacturing and AI infrastructure. OpenAI and Anthropic made headlines with their AI models' capabilities and safety concerns.",
+  "insight": "The increasing demand for AI-driven solutions is driving innovation and investment in the field, but also raises concerns about safety, transparency, and accountability, highlighting the need for responsible AI development and deployment.",
   "highlights": [
-    "OpenAI asks federal judge to dismiss Apple's trade secrets lawsuit",
-    "Meta launches Muse Code, an AI agent for large code bases",
-    "Reddit introduces AI moderation tools for new subreddits"
+    "Google announced a major shakeup of its top AI leadership, with Demis Hassabis becoming the chair of Google DeepMind.",
+    "NVIDIA and partners invested in American manufacturing and AI infrastructure, aiming to expand AI research and education across the US.",
+    "OpenAI and Anthropic's AI models demonstrated impressive capabilities, but also raised concerns about safety and transparency."
   ],
   "articles": [
     {
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "description": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion f",
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "description": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup y",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "pubDate": "2026-08-06T09:33:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
+      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "pubDate": "2026-08-06T13:26:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "General"
     },
     {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scien",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "pubDate": "Wed, 05 Aug 2026 20:47:11 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
       "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
@@ -56,7 +46,7 @@
       "pubDate": "2026-08-05T16:47:23.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Enterprise"
+      "category": "General"
     },
     {
       "title": "Reddit is introducing a new moderator: AI",
@@ -79,16 +69,6 @@
       "category": "Hardware"
     },
     {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could ou",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "pubDate": "Tue, 04 Aug 2026 20:05:26 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
       "title": "Anthropic signs $10B deal with AI cloud startup Volta",
       "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
       "readTime": "1 min read",
@@ -106,27 +86,47 @@
       "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
+      "category": "General"
     },
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential informati",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers pro",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "pubDate": "Tue, 04 Aug 2026 14:03:01 +0000",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "pubDate": "Tue, 04 Aug 2026 15:50:06 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+      "description": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and tra",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "pubDate": "Tue, 04 Aug 2026 15:00:49 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Robotics"
+    },
+    {
+      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+      "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat confe",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+      "pubDate": "Tue, 04 Aug 2026 13:00:47 +0000",
+      "image": "",
+      "source": "NVIDIA",
       "category": "Policy"
     },
     {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "description": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "description": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "pubDate": "Mon, 03 Aug 2026 22:11:39 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "General"
+      "source": "Ars Technica",
+      "category": "Robotics"
     }
   ]
 }
