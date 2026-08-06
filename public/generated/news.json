@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T01:48:57.566Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including the launch of new AI agents and the development of custom AI chips. However, concerns about AI safety and cybersecurity continue to grow, with reports of rogue AI agents and data breaches.",
-  "insight": "The increasing demand for AI computing power is driving innovation in the field, but also raises important questions about the potential risks and consequences of advanced AI systems.",
+  "generated_at": "2026-08-06T06:23:39.947Z",
+  "summary": "This week in AI, significant developments include Google's AI leadership shakeup, Meta's launch of Muse Code, and Anthropic's hiring of an AI chip design team. Other notable stories involve AI-generated music, AI-powered moderation on Reddit, and advancements in weather prediction.",
+  "insight": "The increasing intersection of AI and various industries is leading to innovative applications and significant investments, but also raises concerns about safety, transparency, and the potential for misuse.",
   "highlights": [
-    "Meta launches Muse Code, an AI agent for large code bases",
-    "Anthropic signs $10B deal with AI cloud startup Volta",
-    "NVIDIA and partners invest in American manufacturing and AI infrastructure"
+    "Google announces major AI leadership changes, including a new role for Demis Hassabis",
+    "Meta launches Muse Code, an AI agent for handling complex coding tasks",
+    "Anthropic hires a team to design custom AI chips, aiming to improve efficiency and speed"
   ],
   "articles": [
     {
@@ -17,6 +17,16 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Research"
+    },
+    {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "description": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.\nHassabis will become the chair of Google DeepMind and th",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "pubDate": "2026-08-05T16:47:23.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Enterprise"
     },
     {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -49,34 +59,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "description": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "pubDate": "Tue, 04 Aug 2026 19:48:40 +0000",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "pubDate": "Wed, 05 Aug 2026 11:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "description": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.\nHassabis will become the chair of Google DeepMind and th",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "pubDate": "2026-08-05T16:47:23.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "Research"
-    },
-    {
-      "title": "NVIDIA and Partners Build in America, for America",
-      "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better hea",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "pubDate": "Wed, 05 Aug 2026 13:00:47 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
     },
     {
       "title": "SpaceX made more revenue as an AI company than a space company",
@@ -89,6 +79,16 @@
       "category": "Enterprise"
     },
     {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "pubDate": "Tue, 04 Aug 2026 19:48:40 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
       "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
       "readTime": "1 min read",
@@ -96,27 +96,7 @@
       "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-      "description": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and tra",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "pubDate": "Tue, 04 Aug 2026 15:00:49 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Robotics"
-    },
-    {
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat confe",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "pubDate": "Tue, 04 Aug 2026 13:00:47 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Policy"
+      "category": "Open Source"
     },
     {
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
@@ -127,6 +107,26 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Robotics"
+    },
+    {
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "pubDate": "Wed, 05 Aug 2026 20:47:11 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
+      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+      "description": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated sin",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "pubDate": "2026-08-06T00:25:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     }
   ]
 }
