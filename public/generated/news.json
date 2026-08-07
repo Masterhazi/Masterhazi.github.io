@@ -1,22 +1,82 @@
 {
-  "generated_at": "2026-08-07T12:43:15.299Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including Meta's $942 million fine for child safety issues, Alibaba's new business model for Qwen open-source AI, and OpenAI's new AI smart speaker. Other notable developments include Anthropic's plans to design its own hardware, Suno's efforts to combat AI-generated music spam, and Google's ambitions to transform Google Maps into a comprehensive assistant.",
-  "insight": "The increasing focus on AI-generated content, such as music and text, raises important questions about authorship, ownership, and the potential for misuse, highlighting the need for more effective content moderation and regulation.",
+  "generated_at": "2026-08-07T16:43:56.100Z",
+  "summary": "Today's AI news highlights significant advancements in AI technology, with companies like Cloudflare and OpenAI introducing new AI-powered tools and features. Research in AI-generated music and phages is also making progress, with potential applications in various fields. However, concerns about AI safety and security remain, with some companies facing lawsuits and criticism over their handling of sensitive data.",
+  "insight": "The increasing use of AI in various industries is leading to a growing need for more advanced and specialized AI models, which in turn is driving innovation and investment in the field.",
   "highlights": [
-    "Meta faces a $942 million fine for child safety issues, emphasizing the need for stricter AI regulation.",
-    "Alibaba's new business model for Qwen open-source AI could pave the way for more collaborative and community-driven AI development.",
-    "OpenAI's new AI smart speaker, designed in collaboration with Jony Ive, promises to revolutionize the way we interact with AI-powered devices."
+    "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "OpenAI shares preliminary cybersecurity evaluations for Astra",
+    "Stanford researchers use AI to generate phages against E. coli"
   ],
   "articles": [
     {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "description": "Meta's total fine has raked up to $942 million in this case",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
+    },
+    {
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "description": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "pubDate": "Fri, 07 Aug 2026 15:05:03 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Research"
+    },
+    {
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "description": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "pubDate": "Fri, 07 Aug 2026 14:33:59 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "description": "Clinicians and researchers say AI companies need to open up their safety data.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+      "pubDate": "Fri, 07 Aug 2026 13:49:37 +0000",
+      "image": "",
+      "source": "Ars Technica",
       "category": "Policy"
+    },
+    {
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "description": "TikTok owner training a model with 10 trillion parameters.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
     },
     {
       "title": "Alibaba tests new business model for Qwen open-source AI",
@@ -49,83 +109,23 @@
       "category": "Hardware"
     },
     {
-      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "description": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the si",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "description": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "pubDate": "2026-08-06T20:55:39.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6,18.717179294824,78.4,81.282820705176",
-      "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "Anthropic will design its own hardware to power Claude",
-      "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "pubDate": "Thu, 06 Aug 2026 20:03:44 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "pubDate": "Thu, 06 Aug 2026 20:17:36 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Why health AI interfaces must adapt to user expertise",
-      "description": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin dis",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-      "pubDate": "Thu, 06 Aug 2026 15:55:37 +0000",
-      "image": "",
-      "source": "AI News",
       "category": "General"
     },
     {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple ma",
+      "title": "Large genome models used to design new viruses",
+      "description": "The AI system makes genetically distant versions of a bacteria-killing virus.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
+      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "pubDate": "Thu, 06 Aug 2026 19:04:57 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
-      "image": "",
-      "source": "TechCrunch",
+      "source": "Ars Technica",
       "category": "Research"
     }
   ]
