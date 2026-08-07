@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T05:28:26.354Z",
-  "summary": "This week in AI news, OpenAI and Anthropic are making strides in AI development, with OpenAI's new smart speaker and Anthropic's custom AI chip design. Meanwhile, companies like Suno and Cloudflare are working to combat AI-generated spam and make AI more accessible. Researchers are also exploring the potential of AI in fields like weather forecasting and customer support.",
-  "insight": "The increasing focus on AI development and deployment is driving innovation, but also raises important questions about the potential risks and consequences of advanced AI systems, highlighting the need for responsible AI development and regulation.",
+  "generated_at": "2026-08-07T08:48:11.156Z",
+  "summary": "This week in AI, OpenAI's new smart speaker and Anthropic's custom AI chip design made headlines. AI advancements in weather forecasting, customer support, and e-commerce were also notable. Meanwhile, concerns about data centers, AI-generated music, and trade secrets lawsuits continue to grow.",
+  "insight": "The increasing focus on custom AI chip design by companies like Anthropic and NVIDIA signals a significant shift towards more efficient and specialized AI processing, which could lead to breakthroughs in various fields.",
   "highlights": [
     "OpenAI's new smart speaker is reportedly priced between $300 and $400",
-    "Anthropic is designing its own custom AI chips to improve efficiency",
-    "Suno is implementing watermarking technology to combat AI-generated music spam"
+    "Anthropic is designing its own custom AI chips for faster and more efficient processing",
+    "WeatherNext's AI model achieves breakthrough in forecasting cyclones"
   ],
   "articles": [
     {
@@ -16,7 +16,7 @@
       "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Hardware"
     },
     {
       "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
@@ -26,7 +26,7 @@
       "pubDate": "2026-08-06T20:55:39.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6,18.717179294824,78.4,81.282820705176",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "Hardware"
     },
     {
       "title": "Anthropic will design its own hardware to power Claude",
@@ -39,6 +39,16 @@
       "category": "Hardware"
     },
     {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Research"
+    },
+    {
       "title": "ChatGPT brings unlimited text chats to free users",
       "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
       "readTime": "1 min read",
@@ -46,6 +56,16 @@
       "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "LLMs"
     },
     {
@@ -59,53 +79,33 @@
       "category": "Policy"
     },
     {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
+      "title": "The left and right agree on one thing: no data centers",
+      "description": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers. \nGaby recently reported a fantastic piece about Her",
+      "readTime": "28 min read",
+      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "pubDate": "2026-08-06T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_DCD_0730.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "description": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "pubDate": "Thu, 06 Aug 2026 20:17:36 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "source": "Ars Technica",
+      "category": "Open Source"
     },
     {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scien",
+      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+      "description": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+      "pubDate": "Thu, 06 Aug 2026 16:15:30 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
+      "source": "Ars Technica",
       "category": "Open Source"
     },
     {
