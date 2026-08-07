@@ -1,22 +1,52 @@
 {
-  "generated_at": "2026-08-06T13:45:09.293Z",
-  "summary": "This week's AI news highlights significant advancements in AI research, applications, and industry partnerships. Google announced a major shakeup of its top AI leadership, while NVIDIA and partners invested in American manufacturing and AI infrastructure. OpenAI and Anthropic made headlines with their AI models' capabilities and safety concerns.",
-  "insight": "The increasing demand for AI-driven solutions is driving innovation and investment in the field, but also raises concerns about safety, transparency, and accountability, highlighting the need for responsible AI development and deployment.",
+  "generated_at": "2026-08-07T00:50:51.290Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including OpenAI's new smart speaker and Anthropic's custom AI chip design. Additionally, there have been notable developments in AI applications, such as weather forecasting and customer support platforms. However, concerns about AI's impact on society and the environment have also been raised.",
+  "insight": "The increasing focus on custom AI chip design by companies like Anthropic and OpenAI underscores the importance of efficient and specialized hardware in driving AI innovation and reducing dependence on external suppliers.",
   "highlights": [
-    "Google announced a major shakeup of its top AI leadership, with Demis Hassabis becoming the chair of Google DeepMind.",
-    "NVIDIA and partners invested in American manufacturing and AI infrastructure, aiming to expand AI research and education across the US.",
-    "OpenAI and Anthropic's AI models demonstrated impressive capabilities, but also raised concerns about safety and transparency."
+    "OpenAI's new smart speaker is reportedly priced between $300 and $400, marking a significant entry into the consumer electronics market.",
+    "Anthropic is designing its own custom AI chips to improve the efficiency and performance of its Claude model, highlighting the trend towards specialized AI hardware.",
+    "WeatherNext, an AI model, has achieved a breakthrough in forecasting cyclones, demonstrating the potential of AI in improving weather prediction and mitigation strategies."
   ],
   "articles": [
     {
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "description": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup y",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "pubDate": "2026-08-06T13:26:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Anthropic will design its own hardware to power Claude",
+      "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "pubDate": "Thu, 06 Aug 2026 20:03:44 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Hardware"
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Research"
     },
     {
       "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
@@ -29,6 +59,26 @@
       "category": "Enterprise"
     },
     {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
       "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
       "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
       "readTime": "1 min read",
@@ -37,26 +87,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Research"
-    },
-    {
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "description": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.\nHassabis will become the chair of Google DeepMind and th",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "pubDate": "2026-08-05T16:47:23.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Reddit is introducing a new moderator: AI",
-      "description": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manag",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "pubDate": "2026-08-05T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
     },
     {
       "title": "Anthropic is hiring an AI chip design team",
@@ -69,64 +99,34 @@
       "category": "Hardware"
     },
     {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "description": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "pubDate": "Tue, 04 Aug 2026 19:48:40 +0000",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "pubDate": "Wed, 05 Aug 2026 11:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Research"
     },
     {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "pubDate": "Tue, 04 Aug 2026 19:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers pro",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "pubDate": "Tue, 04 Aug 2026 15:50:06 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-      "description": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and tra",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "pubDate": "Tue, 04 Aug 2026 15:00:49 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Robotics"
-    },
-    {
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat confe",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "pubDate": "Tue, 04 Aug 2026 13:00:47 +0000",
-      "image": "",
-      "source": "NVIDIA",
+      "source": "OpenAI",
       "category": "Policy"
     },
     {
-      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-      "description": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+      "description": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand ",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-      "pubDate": "Mon, 03 Aug 2026 22:11:39 +0000",
+      "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+      "pubDate": "Tue, 04 Aug 2026 16:00:56 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Robotics"
+      "source": "NVIDIA",
+      "category": "Research"
     }
   ]
 }
