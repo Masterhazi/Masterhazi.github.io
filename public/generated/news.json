@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-08-07T08:48:11.156Z",
-  "summary": "This week in AI, OpenAI's new smart speaker and Anthropic's custom AI chip design made headlines. AI advancements in weather forecasting, customer support, and e-commerce were also notable. Meanwhile, concerns about data centers, AI-generated music, and trade secrets lawsuits continue to grow.",
-  "insight": "The increasing focus on custom AI chip design by companies like Anthropic and NVIDIA signals a significant shift towards more efficient and specialized AI processing, which could lead to breakthroughs in various fields.",
+  "generated_at": "2026-08-07T12:43:15.299Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including Meta's $942 million fine for child safety issues, Alibaba's new business model for Qwen open-source AI, and OpenAI's new AI smart speaker. Other notable developments include Anthropic's plans to design its own hardware, Suno's efforts to combat AI-generated music spam, and Google's ambitions to transform Google Maps into a comprehensive assistant.",
+  "insight": "The increasing focus on AI-generated content, such as music and text, raises important questions about authorship, ownership, and the potential for misuse, highlighting the need for more effective content moderation and regulation.",
   "highlights": [
-    "OpenAI's new smart speaker is reportedly priced between $300 and $400",
-    "Anthropic is designing its own custom AI chips for faster and more efficient processing",
-    "WeatherNext's AI model achieves breakthrough in forecasting cyclones"
+    "Meta faces a $942 million fine for child safety issues, emphasizing the need for stricter AI regulation.",
+    "Alibaba's new business model for Qwen open-source AI could pave the way for more collaborative and community-driven AI development.",
+    "OpenAI's new AI smart speaker, designed in collaboration with Jony Ive, promises to revolutionize the way we interact with AI-powered devices."
   ],
   "articles": [
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "description": "Meta's total fine has raked up to $942 million in this case",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "description": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s pl",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Open Source"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
@@ -36,16 +66,6 @@
       "pubDate": "Thu, 06 Aug 2026 20:03:44 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Hardware"
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
-      "image": "",
-      "source": "Google DeepMind",
       "category": "Research"
     },
     {
@@ -59,14 +79,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "description": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin dis",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "pubDate": "Thu, 06 Aug 2026 15:55:37 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
+      "source": "AI News",
+      "category": "General"
     },
     {
       "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
@@ -79,51 +99,31 @@
       "category": "Policy"
     },
     {
-      "title": "The left and right agree on one thing: no data centers",
-      "description": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers. \nGaby recently reported a fantastic piece about Her",
-      "readTime": "28 min read",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "pubDate": "2026-08-06T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_DCD_0730.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Suno hopes to go legit with watermarks for AI-generated music",
-      "description": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-      "pubDate": "Thu, 06 Aug 2026 20:17:36 +0000",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Open Source"
+      "source": "Google DeepMind",
+      "category": "Research"
     },
     {
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "description": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "pubDate": "Thu, 06 Aug 2026 16:15:30 +0000",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Open Source"
+      "source": "OpenAI",
+      "category": "LLMs"
     },
     {
-      "title": "Anthropic is hiring an AI chip design team",
-      "description": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficien",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "pubDate": "Wed, 05 Aug 2026 14:13:18 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "description": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "pubDate": "Wed, 05 Aug 2026 11:00:00 +0000",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Research"
