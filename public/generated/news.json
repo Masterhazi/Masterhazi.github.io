@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T01:00:17.331Z",
-  "summary": "This week's AI news highlights significant developments in AI model security, new AI-powered products, and advancements in AI research. OpenAI paused development of its Astra model due to security concerns, while other companies like Rippling and Airbnb are leveraging AI to improve their services. Researchers are also exploring the potential of AI in various fields, including cybersecurity and scientific discovery.",
-  "insight": "The increasing focus on AI model security and responsible AI development underscores the need for the industry to prioritize safeguards and ethics in AI research and application.",
+  "generated_at": "2026-08-08T04:48:19.617Z",
+  "summary": "This week's AI news highlights significant developments in AI model development, cybersecurity, and applications. OpenAI has paused development of its Astra model due to security concerns, while other companies are making strides in AI-powered search and customer support. Researchers are also exploring the potential risks and benefits of AI, including its impact on social media communities and youth mental health.",
+  "insight": "The increasing focus on AI safety and security is driving innovation in the field, with companies like OpenAI and Anthropic prioritizing responsible AI development and deployment.",
   "highlights": [
     "OpenAI pauses Astra model development due to security concerns",
-    "Rippling launches AI Spend Console to track employee AI spending",
-    "Airbnb debuts AI-powered search experience with a toggle"
+    "Shopify sees significant increase in AI-driven traffic and sales",
+    "Researchers explore potential risks and benefits of AI in various applications"
   ],
   "articles": [
     {
@@ -69,24 +69,14 @@
       "category": "Policy"
     },
     {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "Large genome models used to design new viruses",
-      "description": "The AI system makes genetically distant versions of a bacteria-killing virus.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-      "pubDate": "Thu, 06 Aug 2026 19:04:57 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "pubDate": "Thu, 06 Aug 2026 20:03:44 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Research"
+      "category": "Hardware"
     },
     {
       "title": "ChatGPT brings unlimited text chats to free users",
@@ -117,6 +107,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2276578156.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Research"
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
     },
     {
       "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
