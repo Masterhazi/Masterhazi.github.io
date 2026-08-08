@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-08T08:30:20.708Z",
-  "summary": "This week's AI news highlights significant developments in AI model security, new AI-powered products, and advancements in AI research. OpenAI has slowed down the development of its Astra model due to security concerns, while other companies are launching new AI-powered tools and services. Researchers are also making breakthroughs in AI model design and applications.",
-  "insight": "The increasing focus on AI model security and responsible AI development is a key theme in this week's news, with companies like OpenAI and Anthropic taking steps to address potential risks and ensure the safe deployment of AI models.",
+  "generated_at": "2026-08-08T12:30:16.565Z",
+  "summary": "Today's AI news highlights significant advancements in various fields, including weather forecasting, AI infrastructure, and cybersecurity. OpenAI's decision to pause development of its Astra model due to security concerns underscores the importance of responsible AI development. Meanwhile, companies like DeepMind and Anthropic are pushing the boundaries of AI capabilities.",
+  "insight": "The increasing focus on AI safety and security is a crucial aspect of the industry's growth, as companies like OpenAI and Anthropic prioritize responsible development and deployment of AI models.",
   "highlights": [
-    "OpenAI slows down Astra model development due to security concerns",
-    "New AI-powered products and services launched by companies like Rippling and Airbnb",
-    "Advances in AI research, including breakthroughs in AI model design and applications"
+    "DeepMind's WeatherNext model achieves breakthrough in forecasting cyclones",
+    "OpenAI pauses development of Astra model due to security concerns",
+    "Anthropic designs its own hardware to power Claude, reducing dependence on Nvidia"
   ],
   "articles": [
+    {
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "pubDate": "Sat, 08 Aug 2026 11:05:50 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr",
@@ -19,24 +29,14 @@
       "category": "LLMs"
     },
     {
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The an",
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "description": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "pubDate": "2026-08-07T18:40:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "What’s behind the Google AI shake-up",
-      "description": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Googl",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "pubDate": "2026-08-07T16:45:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Research"
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "pubDate": "Fri, 07 Aug 2026 17:36:22 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Hardware"
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -49,24 +49,34 @@
       "category": "Policy"
     },
     {
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "description": "Clinicians and researchers say AI companies need to open up their safety data.",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "description": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "pubDate": "Fri, 07 Aug 2026 13:49:37 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "pubDate": "Fri, 07 Aug 2026 15:05:03 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "General"
+      "source": "AI News",
+      "category": "Research"
     },
     {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "description": "Meta's total fine has racked up to $942 million in this case.",
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "description": "TikTok owner training a model with 10 trillion parameters.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
     },
     {
       "title": "Anthropic will design its own hardware to power Claude",
@@ -89,14 +99,14 @@
       "category": "LLMs"
     },
     {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple ma",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
+      "source": "Google DeepMind",
+      "category": "Research"
     },
     {
       "title": "The messy politics behind Google’s big AI shakeup",
@@ -106,24 +116,14 @@
       "pubDate": "2026-08-06T13:26:42.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2276578156.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Research"
+      "category": "Policy"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scien",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Research"
