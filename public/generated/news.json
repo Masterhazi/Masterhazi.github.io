@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-07T20:32:02.630Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including OpenAI's pause on a new model due to security concerns and the development of AI-powered smart speakers. Other notable stories include the use of AI in music generation, cybersecurity, and healthcare.",
-  "insight": "The increasing integration of AI in various industries is raising concerns about security, ethics, and job displacement, highlighting the need for responsible AI development and deployment.",
+  "generated_at": "2026-08-08T01:00:17.331Z",
+  "summary": "This week's AI news highlights significant developments in AI model security, new AI-powered products, and advancements in AI research. OpenAI paused development of its Astra model due to security concerns, while other companies like Rippling and Airbnb are leveraging AI to improve their services. Researchers are also exploring the potential of AI in various fields, including cybersecurity and scientific discovery.",
+  "insight": "The increasing focus on AI model security and responsible AI development underscores the need for the industry to prioritize safeguards and ethics in AI research and application.",
   "highlights": [
-    "OpenAI pauses development of new AI model due to security concerns",
-    "AI-powered smart speakers are being developed by OpenAI and other companies",
-    "AI is being used in music generation, cybersecurity, and healthcare, among other industries"
+    "OpenAI pauses Astra model development due to security concerns",
+    "Rippling launches AI Spend Console to track employee AI spending",
+    "Airbnb debuts AI-powered search experience with a toggle"
   ],
   "articles": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
     {
       "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
       "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The an",
@@ -29,54 +39,14 @@
       "category": "Research"
     },
     {
-      "title": "Stanford Evo 2 AI model generates phages against E. coli",
-      "description": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "pubDate": "Fri, 07 Aug 2026 15:05:03 +0000",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
       "image": "",
-      "source": "AI News",
-      "category": "Research"
-    },
-    {
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "description": "That cover art is almost certainly AI too. | Image: Fenix Flexin\t\n\nIt took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-theme",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "pubDate": "2026-08-07T20:01:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "description": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "pubDate": "Fri, 07 Aug 2026 17:36:22 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Hardware"
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "source": "OpenAI",
+      "category": "Policy"
     },
     {
       "title": "AI chatbots have failed people in crisis. Can that be fixed?",
@@ -86,27 +56,37 @@
       "pubDate": "Fri, 07 Aug 2026 13:49:37 +0000",
       "image": "",
       "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "description": "Meta's total fine has racked up to $942 million in this case.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Policy"
     },
     {
-      "title": "Alibaba tests new business model for Qwen open-source AI",
-      "description": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s pl",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-      "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
       "image": "",
-      "source": "AI News",
-      "category": "Open Source"
+      "source": "TechCrunch",
+      "category": "Hardware"
     },
     {
-      "title": "Anthropic will design its own hardware to power Claude",
-      "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "title": "Large genome models used to design new viruses",
+      "description": "The AI system makes genetically distant versions of a bacteria-killing virus.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "pubDate": "Thu, 06 Aug 2026 20:03:44 +0000",
+      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "pubDate": "Thu, 06 Aug 2026 19:04:57 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Hardware"
+      "category": "Research"
     },
     {
       "title": "ChatGPT brings unlimited text chats to free users",
@@ -119,14 +99,34 @@
       "category": "LLMs"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple ma",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "description": "Google CEO Sundar Pichai at Google I/O. | Photo by Benjamin Fanjoy/Getty Images\t\n\nIn the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, tim",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "pubDate": "2026-08-06T13:26:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2276578156.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Research"
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
     }
   ]
 }
