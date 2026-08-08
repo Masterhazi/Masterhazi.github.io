@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-08T16:22:38.152Z",
-  "summary": "This week's AI news highlights significant advancements in weather forecasting, AI model development, and cybersecurity. OpenAI's pause on its Astra model and DeepMind's WeatherNext model showcase the industry's focus on responsible AI development. Meanwhile, companies like Airbnb and Cloudflare are leveraging AI to improve their services.",
-  "insight": "The increasing focus on AI safety and security is a recurring theme across this week's news, with companies like OpenAI and Anthropic taking steps to address potential risks associated with their models.",
+  "generated_at": "2026-08-08T20:19:34.807Z",
+  "summary": "This week's AI news highlights significant advancements in AI research, applications, and ethics. OpenAI's acquisition of NextSlide and pause on Astra model development due to security concerns are notable. Meanwhile, DeepMind's WeatherNext model achieves a breakthrough in forecasting cyclones, and Anthropic designs its own hardware to power Claude.",
+  "insight": "The increasing focus on AI safety and security is a common thread across many of this week's stories, from OpenAI's pause on Astra to Anthropic's efforts to design its own hardware, highlighting the industry's growing recognition of the need for responsible AI development.",
   "highlights": [
+    "OpenAI acquires NextSlide and pauses Astra model development due to security concerns",
     "DeepMind's WeatherNext model achieves a breakthrough in forecasting cyclones",
-    "OpenAI pauses development of its Astra model due to security concerns",
-    "Airbnb debuts a new AI-powered search experience with a toggle"
+    "Anthropic designs its own hardware to power Claude, reducing dependence on Nvidia"
   ],
   "articles": [
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "description": "NextSlide says its team members are now working on ChatGPT.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
     {
       "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
       "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
@@ -29,6 +39,16 @@
       "category": "LLMs"
     },
     {
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The an",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "pubDate": "2026-08-07T18:40:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
       "description": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
       "readTime": "1 min read",
@@ -37,6 +57,16 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Hardware"
+    },
+    {
+      "title": "What’s behind the Google AI shake-up",
+      "description": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Googl",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "pubDate": "2026-08-07T16:45:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Open Source"
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -49,26 +79,6 @@
       "category": "Policy"
     },
     {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "description": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’r",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
       "description": "TikTok owner training a model with 10 trillion parameters.",
       "readTime": "1 min read",
@@ -76,17 +86,7 @@
       "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "Suno hopes to go legit with watermarks for AI-generated music",
-      "description": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-      "pubDate": "Thu, 06 Aug 2026 20:17:36 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Open Source"
+      "category": "LLMs"
     },
     {
       "title": "Anthropic will design its own hardware to power Claude",
