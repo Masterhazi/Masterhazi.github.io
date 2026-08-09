@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-09T01:04:05.548Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including OpenAI's acquisition of NextSlide and the development of new AI models. However, concerns about AI's environmental impact and cybersecurity threats also emerged. Companies like Airbnb and Omilia are leveraging AI to improve their services, while others like Anthropic and OpenAI are working to address security concerns.",
-  "insight": "The increasing use of AI in various industries is leading to a growing need for more efficient and secure AI infrastructure, with companies like Firebird and Cloudflare launching new AI-focused initiatives.",
+  "generated_at": "2026-08-09T04:56:58.298Z",
+  "summary": "Today's AI news highlights significant advancements and concerns in the field, including Amazon's planned data center, OpenAI's acquisition of NextSlide, and DeepMind's hurricane prediction breakthrough. The industry is also addressing security concerns, such as OpenAI's pause on its Astra model and Anthropic's AI-generated malware.",
+  "insight": "The increasing reliance on AI in various industries raises important questions about the balance between innovation and responsibility, as seen in the growing backlash against AI data centers and the need for more transparent AI safety data.",
   "highlights": [
-    "OpenAI acquires presentation startup NextSlide to enhance ChatGPT capabilities",
-    "Amazon's planned data center in Texas may become the largest climate polluter in the US",
-    "DeepMind's WeatherNext model achieves breakthrough in forecasting cyclones"
+    "Amazon's planned data center in Texas may become the largest source of climate pollution in the US",
+    "OpenAI acquires NextSlide, a presentation startup, to enhance its ChatGPT capabilities",
+    "DeepMind achieves a breakthrough in hurricane prediction with its open-source WeatherNext model"
   ],
   "articles": [
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
     {
       "title": "OpenAI acquires presentation startup NextSlide",
       "description": "NextSlide says its team members are now working on ChatGPT.",
@@ -29,16 +39,6 @@
       "category": "Research"
     },
     {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr",
       "readTime": "1 min read",
@@ -49,6 +49,16 @@
       "category": "LLMs"
     },
     {
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The an",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "pubDate": "2026-08-07T18:40:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
       "title": "What’s behind the Google AI shake-up",
       "description": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Googl",
       "readTime": "1 min read",
@@ -56,7 +66,7 @@
       "pubDate": "2026-08-07T16:45:14.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
+      "category": "Policy"
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -66,7 +76,17 @@
       "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Policy"
+      "category": "LLMs"
+    },
+    {
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "description": "TikTok owner training a model with 10 trillion parameters.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
     },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -97,26 +117,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple ma",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scien",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
