@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-08-09T12:32:43.940Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including breakthroughs in weather forecasting and the development of new AI models. However, concerns about AI safety and security also emerged, with companies like OpenAI and Anthropic taking steps to address these issues. Overall, the AI landscape continues to evolve rapidly, with both promising innovations and pressing challenges.",
-  "insight": "The increasing focus on AI safety and security underscores the need for responsible AI development and deployment, as the technology's potential benefits are accompanied by potential risks that must be carefully managed.",
+  "generated_at": "2026-08-09T16:24:25.602Z",
+  "summary": "This week in AI, significant developments include OpenAI's pause on a new model due to security concerns, DeepMind's breakthrough in hurricane prediction, and Amazon's planned data center potentially becoming a major climate polluter. These stories highlight the complex interplay between AI innovation, security, and environmental impact.",
+  "insight": "The increasing reliance on AI in various sectors, from weather forecasting to cybersecurity, underscores the need for robust safety measures and ethical considerations to mitigate potential risks and ensure beneficial outcomes.",
   "highlights": [
-    "OpenAI's decision to pause development of its Astra model due to security concerns highlights the importance of prioritizing AI safety.",
-    "DeepMind's WeatherNext model has achieved a breakthrough in forecasting cyclones, demonstrating the potential of AI to improve weather prediction and mitigate the impact of natural disasters.",
-    "The launch of new AI-powered products and services, such as Cloudflare's Kitesurf browser and Meta's Muse Code AI agent, showcases the growing range of applications for AI technology."
+    "OpenAI halts development of its Astra model due to cybersecurity concerns, emphasizing the importance of safety in AI development.",
+    "DeepMind achieves a significant breakthrough in hurricane prediction using its open-source WeatherNext model, demonstrating AI's potential in improving weather forecasting.",
+    "Amazon's planned data center in Texas is set to be powered by a new on-site power plant, which could become one of the largest sources of greenhouse gas emissions in the U.S., highlighting the environmental impact of large-scale AI operations."
   ],
   "articles": [
+    {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "pubDate": "Sun, 09 Aug 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "pubDate": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
     {
       "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
       "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
@@ -27,6 +47,26 @@
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The an",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "pubDate": "2026-08-07T18:40:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -49,6 +89,16 @@
       "category": "LLMs"
     },
     {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
       "title": "Anthropic will design its own hardware to power Claude",
       "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
       "readTime": "1 min read",
@@ -57,26 +107,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Hardware"
-    },
-    {
-      "title": "Large genome models used to design new viruses",
-      "description": "The AI system makes genetically distant versions of a bacteria-killing virus.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-      "pubDate": "Thu, 06 Aug 2026 19:04:57 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -97,36 +127,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "pubDate": "Wed, 05 Aug 2026 20:47:11 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
     }
   ]
 }
