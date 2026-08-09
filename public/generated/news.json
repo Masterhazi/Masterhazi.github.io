@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T04:56:58.298Z",
-  "summary": "Today's AI news highlights significant advancements and concerns in the field, including Amazon's planned data center, OpenAI's acquisition of NextSlide, and DeepMind's hurricane prediction breakthrough. The industry is also addressing security concerns, such as OpenAI's pause on its Astra model and Anthropic's AI-generated malware.",
-  "insight": "The increasing reliance on AI in various industries raises important questions about the balance between innovation and responsibility, as seen in the growing backlash against AI data centers and the need for more transparent AI safety data.",
+  "generated_at": "2026-08-09T08:32:47.530Z",
+  "summary": "This week in AI news, significant developments include Amazon's planned data center, which could become the largest climate polluter in the US. OpenAI has acquired NextSlide and slowed Astra model development due to security concerns. DeepMind's WeatherNext model has achieved a breakthrough in forecasting cyclones.",
+  "insight": "The increasing reliance on AI for various applications, from data centers to smart speakers, raises concerns about climate pollution, security, and responsible use, highlighting the need for balanced innovation and regulation.",
   "highlights": [
-    "Amazon's planned data center in Texas may become the largest source of climate pollution in the US",
-    "OpenAI acquires NextSlide, a presentation startup, to enhance its ChatGPT capabilities",
-    "DeepMind achieves a breakthrough in hurricane prediction with its open-source WeatherNext model"
+    "Amazon's data center could become the largest climate polluter in the US",
+    "OpenAI acquires NextSlide and prioritizes security in its Astra model development",
+    "DeepMind's WeatherNext model achieves a breakthrough in forecasting cyclones"
   ],
   "articles": [
     {
@@ -59,6 +59,16 @@
       "category": "LLMs"
     },
     {
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "description": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "pubDate": "Fri, 07 Aug 2026 17:36:22 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Hardware"
+    },
+    {
       "title": "What’s behind the Google AI shake-up",
       "description": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Googl",
       "readTime": "1 min read",
@@ -66,7 +76,7 @@
       "pubDate": "2026-08-07T16:45:14.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Policy"
+      "category": "General"
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -76,27 +86,27 @@
       "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "LLMs"
+      "category": "Policy"
     },
     {
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "description": "TikTok owner training a model with 10 trillion parameters.",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "description": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "pubDate": "Fri, 07 Aug 2026 15:05:03 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "AI News",
       "category": "Research"
     },
     {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "description": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s pl",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/hsp-gruppe",
-      "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
+      "source": "AI News",
+      "category": "Open Source"
     },
     {
       "title": "Anthropic will design its own hardware to power Claude",
@@ -116,16 +126,6 @@
       "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "LLMs"
     }
   ]
