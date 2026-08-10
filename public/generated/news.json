@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-08-10T16:44:33.710Z",
-  "summary": "This week's AI news highlights significant advancements in LLMs, AI infrastructure, and applications. OpenAI's CFO shares lessons on building an AI-native finance function, while Meta's new Glimmer model offers a glimpse into Mark Zuckerberg's superintelligence vision. Other notable developments include Anthropic's plans to design its own hardware and Cloudflare's launch of a browser for AI agents.",
-  "insight": "The increasing focus on responsible AI development and deployment is a common thread throughout this week's news, with companies like OpenAI and Anthropic prioritizing security and safety in their models and products.",
+  "generated_at": "2026-08-10T20:32:57.705Z",
+  "summary": "This week in AI, significant advancements were made in LLMs, with companies like Meta and OpenAI pushing the boundaries of AI capabilities. However, concerns about AI safety and security also rose to the forefront, with instances of AI models being used for malicious purposes. As AI continues to evolve, it's essential to strike a balance between innovation and responsibility.",
+  "insight": "The increasing use of AI in various industries has led to a growing need for AI-native finance functions, as seen in OpenAI's CFO Sarah Friar's lessons on building an AI-native finance function. This highlights the importance of integrating AI into core business operations to stay competitive.",
   "highlights": [
-    "OpenAI's CFO shares lessons on building an AI-native finance function",
-    "Meta's new Glimmer model offers a glimpse into Mark Zuckerberg's superintelligence vision",
-    "Anthropic plans to design its own hardware to power its Claude model"
+    "Meta's new Glimmer AI model offers a glimpse into Mark Zuckerberg's personal superintelligence vision",
+    "OpenAI's commitment to responsible AI infrastructure in Texas, as outlined in their letter to Governor Abbott",
+    "The launch of Firebird's AI factory in Armenia, marking a significant milestone in the global buildout of AI infrastructure"
   ],
   "articles": [
-    {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and acce",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
     {
       "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
       "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500",
@@ -27,6 +17,16 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and acce",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
     },
     {
       "title": "What building an AI-native finance function taught me",
@@ -39,6 +39,16 @@
       "category": "Enterprise"
     },
     {
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "description": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s  Superintelligence Labs has released the 30-billion-par",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "pubDate": "Mon, 10 Aug 2026 11:02:38 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Open Source"
+    },
+    {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "description": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
       "readTime": "1 min read",
@@ -49,14 +59,34 @@
       "category": "Policy"
     },
     {
-      "title": "These startups are chasing the next big thing in LLMs",
-      "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "description": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether yo",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "pubDate": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "pubDate": "2026-08-10T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
       "image": "",
-      "source": "MIT Technology Review",
+      "source": "TechCrunch",
       "category": "LLMs"
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
     },
     {
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
@@ -69,44 +99,14 @@
       "category": "Open Source"
     },
     {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "description": "NextSlide says its team members are now working on ChatGPT.",
+      "title": "Peer review is overwhelmed—can it survive in the AI era?",
+      "description": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "pubDate": "Sat, 08 Aug 2026 11:05:50 +0000",
+      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "pubDate": "Mon, 10 Aug 2026 11:00:47 +0000",
       "image": "",
       "source": "Ars Technica",
       "category": "Research"
-    },
-    {
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-      "description": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "pubDate": "Sat, 08 Aug 2026 10:24:54 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "What’s behind the Google AI shake-up",
@@ -119,14 +119,14 @@
       "category": "General"
     },
     {
-      "title": "Anthropic will design its own hardware to power Claude",
-      "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "description": "TikTok owner training a model with 10 trillion parameters.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "pubDate": "Thu, 06 Aug 2026 20:03:44 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Hardware"
+      "category": "LLMs"
     }
   ]
 }
