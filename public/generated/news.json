@@ -1,43 +1,13 @@
 {
-  "generated_at": "2026-08-09T20:22:15.662Z",
-  "summary": "This week in AI news, significant developments include Anthropic's Claude Code auto mode, OpenAI's pause on Astra model development, and DeepMind's hurricane prediction breakthrough. Other notable stories cover AI safety, AI-generated music, and the launch of new AI-powered products.",
-  "insight": "The increasing capability of AI models to operate autonomously raises concerns about safety and security, as seen in Anthropic's AI using fake identities and malware, highlighting the need for robust safeguards and regulations in AI development.",
+  "generated_at": "2026-08-10T01:05:46.459Z",
+  "summary": "This week in AI news, significant developments emerged in AI safety, model development, and industry investments. OpenAI paused development of its Astra model due to security concerns, while Anthropic made strides in auto-mode coding. Hedge fund Situational Awareness invested $400M in chip startup Source Foundry, highlighting the growing intersection of AI and hardware.",
+  "insight": "The increasing focus on AI safety and security underscores the need for responsible AI development, as models become more powerful and potentially risky if not properly controlled.",
   "highlights": [
-    "Anthropic turns on Claude Code's auto mode by default, reducing human oversight in programming.",
-    "OpenAI pauses development of its Astra model due to security concerns, emphasizing the importance of safety in AI development.",
-    "DeepMind achieves a breakthrough in hurricane prediction with its open-source WeatherNext model, demonstrating AI's potential in improving weather forecasting."
+    "OpenAI pauses Astra model development over security concerns, emphasizing the importance of safety in AI advancement.",
+    "Anthropic enhances Claude Code with auto-mode, reducing the need for human oversight in programming.",
+    "Situational Awareness invests $400M in Source Foundry, marking a significant move in AI-focused hardware development."
   ],
   "articles": [
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "description": "Programming with Claude Code will soon require even less human oversight.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "pubDate": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "pubDate": "Sat, 08 Aug 2026 11:05:50 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Enterprise"
-    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr",
@@ -49,24 +19,44 @@
       "category": "LLMs"
     },
     {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "description": "",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
       "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/allenai/tutormoments",
-      "pubDate": "Fri, 07 Aug 2026 17:53:32 GMT",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
       "image": "",
-      "source": "Hugging Face",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "pubDate": "Sat, 08 Aug 2026 11:05:50 +0000",
+      "image": "",
+      "source": "Ars Technica",
       "category": "Research"
     },
     {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browse",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Open Source"
+      "category": "Enterprise"
     },
     {
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
@@ -89,14 +79,24 @@
       "category": "Hardware"
     },
     {
-      "title": "Large genome models used to design new viruses",
-      "description": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-      "pubDate": "Thu, 06 Aug 2026 19:04:57 +0000",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "Google DeepMind",
       "category": "Research"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Policy"
     },
     {
       "title": "ChatGPT brings unlimited text chats to free users",
@@ -109,24 +109,24 @@
       "category": "LLMs"
     },
     {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "description": "",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
       "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
       "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scien",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "pubDate": "Wed, 05 Aug 2026 20:47:11 +0000",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
+      "source": "TechCrunch",
+      "category": "Research"
     }
   ]
 }
