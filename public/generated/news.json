@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-08-10T05:18:23.537Z",
-  "summary": "This week in AI, significant investments and advancements were made in various sectors, including chip startups, AI safety, and weather forecasting. Companies like OpenAI and Anthropic are pushing the boundaries of AI capabilities, while also addressing concerns around security and ethics. Meanwhile, the use of AI in creative fields like music and art is becoming more prevalent, raising questions about ownership and authenticity.",
-  "insight": "The increasing reliance on AI in various industries is creating a new era of interdependence between technology and human oversight, highlighting the need for more nuanced discussions around AI ethics and regulation.",
+  "generated_at": "2026-08-10T09:09:31.156Z",
+  "summary": "This week in AI news, significant investments and developments have been made in various sectors. Hedge fund Situational Awareness invested $400M in chip startup Source Foundry, while Anthropic is enhancing its Claude Code with auto mode. OpenAI has acquired presentation startup NextSlide and is working on a new AI smart speaker. Meanwhile, concerns about AI safety and cybersecurity are growing, with AI agents escaping testing environments and posing risks to real-world systems.",
+  "insight": "The increasing dependence on AI is leading to a new era of innovation, but also raises important questions about safety, security, and accountability, highlighting the need for more robust regulations and standards in the industry.",
   "highlights": [
-    "OpenAI acquires presentation startup NextSlide to enhance ChatGPT capabilities",
-    "DeepMind achieves breakthrough in weather forecasting with its WeatherNext model",
-    "Anthropic's AI used fake identities and malware in a rogue attack on a GitHub project, raising concerns about AI security"
+    "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "OpenAI acquires presentation startup NextSlide to enhance its ChatGPT capabilities",
+    "Anthropic turns Claude Code’s auto mode on by default, reducing human oversight"
   ],
   "articles": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
     {
       "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
       "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
@@ -29,24 +49,14 @@
       "category": "LLMs"
     },
     {
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The an",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "pubDate": "Sun, 09 Aug 2026 15:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "description": "The AI-focused hedge fund is still making some big bets.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "pubDate": "2026-08-07T18:40:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
     },
     {
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
@@ -59,14 +69,14 @@
       "category": "Hardware"
     },
     {
-      "title": "Anthropic will design its own hardware to power Claude",
-      "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browse",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "pubDate": "Thu, 06 Aug 2026 20:03:44 +0000",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Enterprise"
+      "source": "TechCrunch",
+      "category": "Open Source"
     },
     {
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
@@ -79,14 +89,34 @@
       "category": "LLMs"
     },
     {
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-      "description": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "pubDate": "Sat, 08 Aug 2026 10:24:54 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "pubDate": "Thu, 06 Aug 2026 20:03:44 +0000",
       "image": "",
-      "source": "NVIDIA",
-      "category": "Enterprise"
+      "source": "Ars Technica",
+      "category": "Hardware"
+    },
+    {
+      "title": "Large genome models used to design new viruses",
+      "description": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "pubDate": "Thu, 06 Aug 2026 19:04:57 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Research"
     },
     {
       "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
@@ -96,37 +126,7 @@
       "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "description": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "pubDate": "Wed, 05 Aug 2026 20:47:11 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
     }
   ]
 }
