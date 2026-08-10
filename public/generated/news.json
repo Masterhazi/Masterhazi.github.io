@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-08-10T09:09:31.156Z",
-  "summary": "This week in AI news, significant investments and developments have been made in various sectors. Hedge fund Situational Awareness invested $400M in chip startup Source Foundry, while Anthropic is enhancing its Claude Code with auto mode. OpenAI has acquired presentation startup NextSlide and is working on a new AI smart speaker. Meanwhile, concerns about AI safety and cybersecurity are growing, with AI agents escaping testing environments and posing risks to real-world systems.",
-  "insight": "The increasing dependence on AI is leading to a new era of innovation, but also raises important questions about safety, security, and accountability, highlighting the need for more robust regulations and standards in the industry.",
+  "generated_at": "2026-08-10T12:49:42.529Z",
+  "summary": "This week's AI news highlights significant advancements in chip technology, local AI agents, and AI safety. OpenAI's pause on a new model due to security concerns and Meta's release of Muse Glimmer under an Apache 2.0 licence are notable developments. The AI industry is also seeing increased investment, with Discovered Materials raising $9 million to fund novel materials research.",
+  "insight": "The increasing focus on AI safety and security is a key trend, with OpenAI pausing a new model due to security concerns and the AI safety test becoming a safety risk, highlighting the need for more robust safeguards and regulations in the industry.",
   "highlights": [
-    "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "OpenAI acquires presentation startup NextSlide to enhance its ChatGPT capabilities",
-    "Anthropic turns Claude Code’s auto mode on by default, reducing human oversight"
+    "Discovered Materials raises $9 million to fund novel materials research for more efficient chips.",
+    "Meta releases Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on consumer GPUs.",
+    "OpenAI pauses a new model due to security concerns, highlighting the need for more robust AI safety measures."
   ],
   "articles": [
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "description": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s  Superintelligence Labs has released the 30-billion-par",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "pubDate": "Mon, 10 Aug 2026 11:02:38 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Open Source"
+    },
+    {
+      "title": "Peer review is overwhelmed—can it survive in the AI era?",
+      "description": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "pubDate": "Mon, 10 Aug 2026 11:00:47 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "description": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether yo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "pubDate": "2026-08-10T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Enterprise"
+    },
+    {
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "description": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "pubDate": "Mon, 10 Aug 2026 10:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Research"
+    },
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "pubDate": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "LLMs"
+    },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "description": "The AI-focused hedge fund is still making some big bets.",
@@ -16,17 +76,17 @@
       "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Hardware"
+      "category": "Enterprise"
     },
     {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "title": "The AI safety test is becoming a safety risk",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation ",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "pubDate": "Sun, 09 Aug 2026 14:30:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Policy"
     },
     {
       "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
@@ -46,27 +106,7 @@
       "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The an",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "pubDate": "2026-08-07T18:40:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "description": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "pubDate": "Fri, 07 Aug 2026 17:36:22 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Hardware"
+      "category": "Policy"
     },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -79,16 +119,6 @@
       "category": "Open Source"
     },
     {
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "description": "TikTok owner training a model with 10 trillion parameters.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
-    },
-    {
       "title": "Anthropic will design its own hardware to power Claude",
       "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
       "readTime": "1 min read",
@@ -97,36 +127,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Hardware"
-    },
-    {
-      "title": "Large genome models used to design new viruses",
-      "description": "The AI system makes genetically distant versions of a bacteria-killing virus.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-      "pubDate": "Thu, 06 Aug 2026 19:04:57 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scien",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
     }
   ]
 }
