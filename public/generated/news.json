@@ -1,32 +1,82 @@
 {
-  "generated_at": "2026-08-10T20:32:57.705Z",
-  "summary": "This week in AI, significant advancements were made in LLMs, with companies like Meta and OpenAI pushing the boundaries of AI capabilities. However, concerns about AI safety and security also rose to the forefront, with instances of AI models being used for malicious purposes. As AI continues to evolve, it's essential to strike a balance between innovation and responsibility.",
-  "insight": "The increasing use of AI in various industries has led to a growing need for AI-native finance functions, as seen in OpenAI's CFO Sarah Friar's lessons on building an AI-native finance function. This highlights the importance of integrating AI into core business operations to stay competitive.",
+  "generated_at": "2026-08-11T01:04:57.764Z",
+  "summary": "This week in AI news, OpenAI and Meta made significant announcements, including a $7 billion employee tender offer and a new AI strategy. AI cybersecurity and safety concerns were also prominent, with OpenAI launching a new cyber model and pausing development of a powerful AI model due to security concerns. Other notable stories include Amazon's investment in a new power plant and the launch of a new AI factory in Armenia.",
+  "insight": "The increasing focus on AI safety and security is a key trend in the industry, with companies like OpenAI and Meta prioritizing responsible AI development and deployment.",
   "highlights": [
-    "Meta's new Glimmer AI model offers a glimpse into Mark Zuckerberg's personal superintelligence vision",
-    "OpenAI's commitment to responsible AI infrastructure in Texas, as outlined in their letter to Governor Abbott",
-    "The launch of Firebird's AI factory in Armenia, marking a significant milestone in the global buildout of AI infrastructure"
+    "OpenAI completed a $7 billion employee tender offer, signaling a significant investment in its AI development",
+    "Meta launched a new AI strategy, including the development of a personal superintelligence system",
+    "AI cybersecurity concerns are on the rise, with OpenAI launching a new cyber model and pausing development of a powerful AI model due to security concerns"
   ],
   "articles": [
     {
-      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-      "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "description": "San Francisco's housing market is in trouble again.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "pubDate": "2026-08-10T15:19:05.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and acce",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "pubDate": "Tue, 11 Aug 2026 00:03:18 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "description": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "pubDate": "Mon, 10 Aug 2026 22:13:03 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "pubDate": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "description": "Amazon announces first off-the-grid data center in race to reap AI profits.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "pubDate": "Mon, 10 Aug 2026 20:45:52 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Hardware"
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San ",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "pubDate": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
     },
     {
       "title": "What building an AI-native finance function taught me",
@@ -39,14 +89,34 @@
       "category": "Enterprise"
     },
     {
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "description": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s  Superintelligence Labs has released the 30-billion-par",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "pubDate": "Mon, 10 Aug 2026 11:02:38 +0000",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "pubDate": "Mon, 10 Aug 2026 16:25:36 GMT",
       "image": "",
-      "source": "AI News",
+      "source": "Hugging Face",
       "category": "Open Source"
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and acce",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+      "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "pubDate": "2026-08-10T15:19:05.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     },
     {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -56,77 +126,7 @@
       "pubDate": "Mon, 10 Aug 2026 14:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Policy"
-    },
-    {
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "description": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether yo",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "pubDate": "2026-08-10T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "description": "Programming with Claude Code will soon require even less human oversight.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/muse-glimmer",
-      "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Open Source"
-    },
-    {
-      "title": "Peer review is overwhelmed—can it survive in the AI era?",
-      "description": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "pubDate": "Mon, 10 Aug 2026 11:00:47 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "What’s behind the Google AI shake-up",
-      "description": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Googl",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "pubDate": "2026-08-07T16:45:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "description": "TikTok owner training a model with 10 trillion parameters.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
+      "category": "Enterprise"
     }
   ]
 }
