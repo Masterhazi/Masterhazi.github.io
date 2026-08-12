@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-08-12T09:03:49.366Z",
-  "summary": "This week's AI news highlights significant advancements in LLMs, cybersecurity, and AI applications. OpenAI's ChatGPT and Google's Gemini have both reached 1 billion users, while NVIDIA is expanding its AI infrastructure. Researchers are also exploring the potential of AI in mathematics and science.",
-  "insight": "The rapid growth of AI adoption is driving innovation in various fields, from chatbots to cybersecurity, and is transforming the way we approach complex problems like mathematics and science.",
+  "generated_at": "2026-08-12T12:49:53.144Z",
+  "summary": "This week's AI news highlights significant advancements in LLMs, cybersecurity, and AI applications. OpenAI's ChatGPT and Google's Gemini have both surpassed 1 billion users, while NVIDIA is expanding its AI infrastructure and Anthropic is making progress on unsolved math problems.",
+  "insight": "The increasing adoption of AI models like ChatGPT and Gemini is driving innovation in various industries, from healthcare to finance, and raising important questions about the role of AI in society.",
   "highlights": [
-    "OpenAI's ChatGPT and Google's Gemini reach 1 billion users, marking a significant milestone in AI adoption.",
-    "NVIDIA expands its AI infrastructure, including the launch of new cyber-trained AI models and partnerships with major investors.",
-    "Researchers make progress on unsolved mathematical problems using AI, highlighting the potential of AI in advancing scientific knowledge."
+    "OpenAI's ChatGPT and Google's Gemini have both reached 1 billion users, marking a significant milestone in AI adoption.",
+    "NVIDIA is expanding its AI infrastructure and partnering with major companies to mobilize over $500 billion in investments.",
+    "Anthropic's models have made progress on the Riemann hypothesis, one of the most famous unsolved problems in mathematics."
   ],
   "articles": [
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "description": "But will Gemini's surge survive slowing model releases?",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "pubDate": "Tue, 11 Aug 2026 19:48:12 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
-    },
     {
       "title": "ChatGPT and Gemini both just passed 1 billion users",
       "description": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X t",
@@ -25,6 +15,16 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
       "pubDate": "2026-08-11T19:41:42.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he'",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "pubDate": "2026-08-12T12:09:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "LLMs"
     },
@@ -39,6 +39,16 @@
       "category": "Enterprise"
     },
     {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "description": "But will Gemini's surge survive slowing model releases?",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "pubDate": "Tue, 11 Aug 2026 19:48:12 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more prog",
       "readTime": "1 min read",
@@ -49,34 +59,24 @@
       "category": "Research"
     },
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "description": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.  Throughout August, NVIDIA is celeb",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "pubDate": "Tue, 11 Aug 2026 13:00:25 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "NVIDIA",
       "category": "Open Source"
     },
     {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "description": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "pubDate": "2026-08-11T12:22:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "category": "LLMs"
     },
     {
       "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
@@ -106,7 +106,7 @@
       "pubDate": "Mon, 10 Aug 2026 11:02:38 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Hardware"
+      "category": "Open Source"
     },
     {
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
@@ -119,14 +119,14 @@
       "category": "Cybersecurity"
     },
     {
-      "title": "AI for science needs reasoning, not just data",
-      "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been disco",
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "description": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI\t\n\nSpaceXAI has introduced Grok Bot, an always-on AI agent service designed to be",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "pubDate": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "Research"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "pubDate": "2026-08-12T11:58:54.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
     }
   ]
 }
