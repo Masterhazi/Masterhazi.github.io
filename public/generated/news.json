@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T20:36:14.791Z",
-  "summary": "This week's AI news highlights significant advancements in LLMs, with Gemini and ChatGPT reaching 1 billion users. OpenAI launches a desktop app for Linux, and Anthropic makes progress on a major math problem. NVIDIA and Meta focus on open-source models and local AI agents.",
-  "insight": "The rapid growth of AI models like Gemini and ChatGPT underscores the increasing importance of AI in daily life, with potential applications in various industries and aspects of human interaction.",
+  "generated_at": "2026-08-12T01:12:36.548Z",
+  "summary": "This week in AI, significant advancements were made in LLMs, with models like Claude and Gemini achieving milestones. NVIDIA announced new partnerships and investments in AI infrastructure, while OpenAI expanded its Daybreak cybersecurity program.",
+  "insight": "The increasing adoption of AI in various industries is driving innovation, with companies like Meta and NVIDIA investing heavily in AI research and development, and startups like River AI securing large funding rounds.",
   "highlights": [
-    "Gemini and ChatGPT reach 1 billion users, marking a significant milestone in AI adoption.",
-    "OpenAI expands its offerings with a desktop app for Linux and testing ads in ChatGPT.",
-    "Anthropic's models make progress on the Riemann hypothesis, a long-standing math problem."
+    "Gemini becomes Google's fastest-growing product ever, hitting 1 billion users",
+    "NVIDIA announces partnerships with major investors to establish independent financing platforms for AI infrastructure",
+    "OpenAI launches ChatGPT desktop app for Linux and expands its Daybreak cybersecurity program"
   ],
   "articles": [
     {
@@ -17,6 +17,16 @@
       "image": "",
       "source": "Ars Technica",
       "category": "LLMs"
+    },
+    {
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion ",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "pubDate": "Wed, 12 Aug 2026 00:38:21 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "ChatGPT and Gemini both just passed 1 billion users",
@@ -49,14 +59,14 @@
       "category": "Research"
     },
     {
-      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-      "description": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power ",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "description": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say th",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-      "pubDate": "Tue, 11 Aug 2026 15:00:06 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "pubDate": "2026-08-11T14:45:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
     },
     {
       "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
@@ -67,6 +77,16 @@
       "image": "",
       "source": "NVIDIA",
       "category": "Open Source"
+    },
+    {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized rec",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     },
     {
       "title": "Claude will apply invisible watermarks to AI text and images",
@@ -86,37 +106,17 @@
       "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Enterprise"
+      "category": "LLMs"
     },
     {
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "description": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "pubDate": "Mon, 10 Aug 2026 22:13:03 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "description": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s  Superintelligence Labs has released the 30-billion-par",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "pubDate": "Mon, 10 Aug 2026 11:02:38 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Open Source"
+      "category": "Enterprise"
     },
     {
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
