@@ -1,112 +1,82 @@
 {
-  "generated_at": "2026-08-12T16:48:47.425Z",
-  "summary": "This week in AI, significant advancements were made in various sectors, including AI wearables, language models, and cybersecurity. Notably, Google's Gemini surpassed 1 billion users, while NVIDIA announced new partnerships and products. OpenAI also made headlines with its new desktop app for Linux and the testing of ads in ChatGPT.",
-  "insight": "The rapid growth of AI adoption is leading to increased investment and innovation, with companies like NVIDIA and OpenAI pushing the boundaries of what is possible with AI. However, this growth also raises important questions about the ethics and responsibility of AI development.",
+  "generated_at": "2026-08-12T20:35:13.229Z",
+  "summary": "This week in AI, significant advancements were made in various sectors, including AI coding, open-source access, and AI-powered enterprise solutions. Top stories include Cognition's potential $40B valuation and Thrive Holdings' $2B funding. AI safety concerns and regulation debates continue to rise.",
+  "insight": "The increasing adoption of AI in multiple industries underscores the need for standardized regulations and safety protocols to mitigate potential risks and ensure responsible AI development.",
   "highlights": [
-    "Google's Gemini reaches 1 billion users, marking a significant milestone for the company's AI efforts.",
-    "NVIDIA announces new partnerships and products, including the NVIDIA AI Factory Compute, which is becoming an investable asset class.",
-    "OpenAI launches a new desktop app for Linux and begins testing ads in ChatGPT, marking a new era for the company's revenue model."
+    "Cognition may raise at a $40B valuation, just months after securing $1B at $26B valuation.",
+    "Thrive Holdings raises $2B to expand AI solutions for enterprises, valuing the company at $12B.",
+    "AI safety concerns and open-source access debates intensify among experts, highlighting the need for balanced regulation."
   ],
   "articles": [
     {
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "description": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X t",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "pubDate": "2026-08-11T19:41:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "description": "But will Gemini's surge survive slowing model releases?",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "pubDate": "Tue, 11 Aug 2026 19:48:12 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "pubDate": "Wed, 12 Aug 2026 14:20:33 +0000",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "description": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "pubDate": "2026-08-12T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he'",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "pubDate": "2026-08-12T12:09:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "LLMs"
     },
     {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "pubDate": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
       "image": "",
-      "source": "OpenAI",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Enterprise"
     },
     {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more prog",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictur",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "pubDate": "2026-08-12T17:29:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potenti",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "pubDate": "Wed, 12 Aug 2026 16:51:57 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "MIT Technology Review",
       "category": "Research"
     },
     {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meet",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "pubDate": "Wed, 12 Aug 2026 16:46:02 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "description": "San Francisco's housing market is in trouble again.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "pubDate": "Tue, 11 Aug 2026 00:03:18 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
-      "description": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know th",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
-      "pubDate": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "image": "",
-      "source": "NVIDIA",
       "category": "Hardware"
+    },
+    {
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "description": "Maybe don’t let the AI shred next time. | Image: D’Addario\t\n\nAfter weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used a",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "pubDate": "2026-08-12T15:52:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     },
     {
       "title": "Google tests AMIE for clinical video consultations",
@@ -127,6 +97,36 @@
       "image": "",
       "source": "Google DeepMind",
       "category": "Research"
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He'",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "pubDate": "2026-08-12T12:09:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "pubDate": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "description": "But will Gemini's surge survive slowing model releases?",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "pubDate": "Tue, 11 Aug 2026 19:48:12 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
     }
   ]
 }
