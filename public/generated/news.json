@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:49:53.144Z",
-  "summary": "This week's AI news highlights significant advancements in LLMs, cybersecurity, and AI applications. OpenAI's ChatGPT and Google's Gemini have both surpassed 1 billion users, while NVIDIA is expanding its AI infrastructure and Anthropic is making progress on unsolved math problems.",
-  "insight": "The increasing adoption of AI models like ChatGPT and Gemini is driving innovation in various industries, from healthcare to finance, and raising important questions about the role of AI in society.",
+  "generated_at": "2026-08-12T16:48:47.425Z",
+  "summary": "This week in AI, significant advancements were made in various sectors, including AI wearables, language models, and cybersecurity. Notably, Google's Gemini surpassed 1 billion users, while NVIDIA announced new partnerships and products. OpenAI also made headlines with its new desktop app for Linux and the testing of ads in ChatGPT.",
+  "insight": "The rapid growth of AI adoption is leading to increased investment and innovation, with companies like NVIDIA and OpenAI pushing the boundaries of what is possible with AI. However, this growth also raises important questions about the ethics and responsibility of AI development.",
   "highlights": [
-    "OpenAI's ChatGPT and Google's Gemini have both reached 1 billion users, marking a significant milestone in AI adoption.",
-    "NVIDIA is expanding its AI infrastructure and partnering with major companies to mobilize over $500 billion in investments.",
-    "Anthropic's models have made progress on the Riemann hypothesis, one of the most famous unsolved problems in mathematics."
+    "Google's Gemini reaches 1 billion users, marking a significant milestone for the company's AI efforts.",
+    "NVIDIA announces new partnerships and products, including the NVIDIA AI Factory Compute, which is becoming an investable asset class.",
+    "OpenAI launches a new desktop app for Linux and begins testing ads in ChatGPT, marking a new era for the company's revenue model."
   ],
   "articles": [
     {
@@ -16,27 +16,7 @@
       "pubDate": "2026-08-11T19:41:42.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he'",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "pubDate": "2026-08-12T12:09:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion ",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "pubDate": "Wed, 12 Aug 2026 00:38:21 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Enterprise"
+      "category": "General"
     },
     {
       "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
@@ -49,6 +29,46 @@
       "category": "General"
     },
     {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "pubDate": "Wed, 12 Aug 2026 14:20:33 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "description": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "pubDate": "2026-08-12T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Hardware"
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he'",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "pubDate": "2026-08-12T12:09:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "pubDate": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more prog",
       "readTime": "1 min read",
@@ -59,26 +79,6 @@
       "category": "Research"
     },
     {
-      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "description": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.  Throughout August, NVIDIA is celeb",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-      "pubDate": "Tue, 11 Aug 2026 13:00:25 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Open Source"
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
       "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
       "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
       "readTime": "1 min read",
@@ -86,47 +86,47 @@
       "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and acce",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "Research"
     },
     {
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "description": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s  Superintelligence Labs has released the 30-billion-par",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "description": "San Francisco's housing market is in trouble again.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "pubDate": "Mon, 10 Aug 2026 11:02:38 +0000",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "pubDate": "Tue, 11 Aug 2026 00:03:18 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "description": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know th",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "pubDate": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
+    {
+      "title": "Google tests AMIE for clinical video consultations",
+      "description": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with pr",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "pubDate": "Wed, 12 Aug 2026 14:56:18 +0000",
       "image": "",
       "source": "AI News",
-      "category": "Open Source"
+      "category": "Research"
     },
     {
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "description": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "title": "Putting sign language AI into users’ hands",
+      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "pubDate": "Mon, 10 Aug 2026 10:00:00 GMT",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "pubDate": "Wed, 12 Aug 2026 14:01:59 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "description": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI\t\n\nSpaceXAI has introduced Grok Bot, an always-on AI agent service designed to be",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "pubDate": "2026-08-12T11:58:54.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
+      "source": "Google DeepMind",
+      "category": "Research"
     }
   ]
 }
