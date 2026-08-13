@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-13T12:51:20.198Z",
-  "summary": "This week in AI, significant advancements were made in various fields, including AI watermarks, AI agent token costs, and AI-powered CRM. Companies like Anthropic, Okta, and Automattic are pushing the boundaries of AI technology. Meanwhile, concerns about AI safety and regulation continue to grow.",
-  "insight": "The increasing use of AI watermarks and AI-powered tools is transforming the way we work and interact with technology, but it also raises important questions about accountability and transparency in AI development.",
+  "generated_at": "2026-08-13T16:47:05.926Z",
+  "summary": "This week in AI, significant advancements were made in various sectors. Companies like Nvidia and OpenAI are pushing the boundaries of AI capabilities, while others like Google and Microsoft are integrating AI into their products. The use of AI in music production, coding, and healthcare is becoming increasingly prevalent.",
+  "insight": "The integration of AI into various industries is not only improving efficiency but also raising concerns about job security and the potential for AI-generated content to replace human creators.",
   "highlights": [
-    "Anthropic's new watermarking system is catching users who try to use AI at work or in classes",
-    "Okta is reducing AI agent token costs with its identity-scoped Model Context Protocol tool",
-    "Automattic's AI-powered CRM, Mesh, is now available on Android"
+    "Nvidia's new plan to make its GPUs more valuable for AI buildouts",
+    "OpenAI's launch of a dedicated ChatGPT desktop app for Linux",
+    "Google's Gemini app surging to 1 billion users"
   ],
   "articles": [
     {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "description": "The mark flags anything Claude processed, even human writing it only edited.",
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "pubDate": "Thu, 13 Aug 2026 11:10:18 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "Hardware"
     },
     {
-      "title": "Okta targets AI agent token costs with MCP scoping",
-      "description": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and ",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "description": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-      "pubDate": "Thu, 13 Aug 2026 09:22:06 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "pubDate": "Thu, 13 Aug 2026 13:58:56 +0000",
       "image": "",
-      "source": "AI News",
+      "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "Enterprise"
     },
     {
@@ -49,14 +49,64 @@
       "category": "Enterprise"
     },
     {
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "description": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion ",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "pubDate": "Wed, 12 Aug 2026 22:02:25 +0000",
+      "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "pubDate": "Wed, 12 Aug 2026 00:38:21 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
+      "source": "NVIDIA",
+      "category": "Hardware"
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now genera",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "pubDate": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "pubDate": "Thu, 13 Aug 2026 15:30:52 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+      "description": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is al",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+      "pubDate": "Thu, 13 Aug 2026 13:00:33 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
@@ -69,64 +119,14 @@
       "category": "Research"
     },
     {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "description": "But will Gemini's surge survive slowing model releases?",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "pubDate": "Wed, 12 Aug 2026 16:57:58 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "pubDate": "Wed, 12 Aug 2026 16:14:36 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Open Source"
-    },
-    {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "description": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "pubDate": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "pubDate": "Tue, 11 Aug 2026 19:48:12 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictur",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "pubDate": "2026-08-12T17:29:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
-    },
-    {
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "description": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "pubDate": "2026-08-12T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more prog",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
+      "category": "General"
     }
   ]
 }
