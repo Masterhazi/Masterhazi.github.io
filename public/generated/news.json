@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-13T09:04:21.865Z",
-  "summary": "Today's AI news highlights significant advancements in AI technology, including Anthropic's watermarking system, Twitch's opt-out feature for training Amazon's AI, and NVIDIA's partnerships for AI financing. These developments demonstrate the growing importance of AI in various industries.",
-  "insight": "The increasing use of AI in different sectors, such as healthcare and finance, raises concerns about data privacy and security, emphasizing the need for robust regulations and guidelines to ensure responsible AI development and deployment.",
+  "generated_at": "2026-08-13T12:51:20.198Z",
+  "summary": "This week in AI, significant advancements were made in various fields, including AI watermarks, AI agent token costs, and AI-powered CRM. Companies like Anthropic, Okta, and Automattic are pushing the boundaries of AI technology. Meanwhile, concerns about AI safety and regulation continue to grow.",
+  "insight": "The increasing use of AI watermarks and AI-powered tools is transforming the way we work and interact with technology, but it also raises important questions about accountability and transparency in AI development.",
   "highlights": [
-    "Anthropic introduces watermarking system to track AI-generated text",
-    "Twitch allows users to opt-out of training Amazon's AI models",
-    "NVIDIA partners with investors to establish AI financing platforms"
+    "Anthropic's new watermarking system is catching users who try to use AI at work or in classes",
+    "Okta is reducing AI agent token costs with its identity-scoped Model Context Protocol tool",
+    "Automattic's AI-powered CRM, Mesh, is now available on Android"
   ],
   "articles": [
+    {
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "description": "The mark flags anything Claude processed, even human writing it only edited.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "pubDate": "Thu, 13 Aug 2026 11:10:18 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
@@ -19,44 +29,14 @@
       "category": "LLMs"
     },
     {
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "description": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "description": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and ",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "pubDate": "Wed, 12 Aug 2026 22:02:25 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "pubDate": "Thu, 13 Aug 2026 09:22:06 +0000",
       "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "description": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "pubDate": "Wed, 12 Aug 2026 21:43:21 +0000",
-      "image": "",
-      "source": "Ars Technica",
+      "source": "AI News",
       "category": "Enterprise"
-    },
-    {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "description": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "pubDate": "Wed, 12 Aug 2026 21:00:30 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
     },
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -69,24 +49,34 @@
       "category": "Enterprise"
     },
     {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictur",
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "description": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "pubDate": "2026-08-12T17:29:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Policy"
+      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "pubDate": "Wed, 12 Aug 2026 22:02:25 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
     },
     {
-      "title": "Scaling AI agents with trustworthy data",
-      "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potenti",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "pubDate": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
       "image": "",
-      "source": "MIT Technology Review",
+      "source": "TechCrunch",
       "category": "Research"
+    },
+    {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "pubDate": "Wed, 12 Aug 2026 16:57:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
     },
     {
       "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
@@ -99,34 +89,44 @@
       "category": "Open Source"
     },
     {
-      "title": "Putting sign language AI into users’ hands",
-      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "description": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
       "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "pubDate": "Wed, 12 Aug 2026 14:01:59 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "pubDate": "Wed, 12 Aug 2026 21:00:30 +0000",
       "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
+      "source": "Ars Technica",
+      "category": "Policy"
     },
     {
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion ",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictur",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "pubDate": "Wed, 12 Aug 2026 00:38:21 +0000",
-      "image": "",
-      "source": "NVIDIA",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "pubDate": "2026-08-12T17:29:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Policy"
+    },
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "description": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "pubDate": "2026-08-12T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Hardware"
     },
     {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more prog",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Research"
     }
   ]
 }
