@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T05:28:16.250Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including Anthropic's new watermarking system and OpenAI's launch of ChatGPT desktop app for Linux. Additionally, there have been notable developments in AI applications, such as Spotify's introduction of 'AI Persona' labels and NVIDIA's expansion of its Nemotron platform.",
-  "insight": "The increasing focus on AI watermarking and content verification underscores the growing need for transparency and accountability in AI-generated content, as companies like Anthropic and Spotify take steps to identify and label AI-generated materials.",
+  "generated_at": "2026-08-13T09:04:21.865Z",
+  "summary": "Today's AI news highlights significant advancements in AI technology, including Anthropic's watermarking system, Twitch's opt-out feature for training Amazon's AI, and NVIDIA's partnerships for AI financing. These developments demonstrate the growing importance of AI in various industries.",
+  "insight": "The increasing use of AI in different sectors, such as healthcare and finance, raises concerns about data privacy and security, emphasizing the need for robust regulations and guidelines to ensure responsible AI development and deployment.",
   "highlights": [
-    "Anthropic introduces watermarking for its AI models to prevent misuse.",
-    "OpenAI launches ChatGPT desktop app for Linux, expanding its reach.",
-    "Spotify introduces 'AI Persona' labels to distinguish AI-generated artist profiles."
+    "Anthropic introduces watermarking system to track AI-generated text",
+    "Twitch allows users to opt-out of training Amazon's AI models",
+    "NVIDIA partners with investors to establish AI financing platforms"
   ],
   "articles": [
     {
@@ -17,6 +17,36 @@
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
+    },
+    {
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "description": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "pubDate": "Wed, 12 Aug 2026 22:02:25 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "description": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "pubDate": "Wed, 12 Aug 2026 21:43:21 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "description": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "pubDate": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
     },
     {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
@@ -39,14 +69,34 @@
       "category": "Enterprise"
     },
     {
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "description": "Maybe don’t let the AI shred next time. | Image: D’Addario\t\n\nAfter weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used a",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictur",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "pubDate": "2026-08-12T15:52:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "pubDate": "2026-08-12T17:29:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
+      "category": "Policy"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potenti",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "pubDate": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "Research"
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "pubDate": "Wed, 12 Aug 2026 16:14:36 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "Open Source"
     },
     {
       "title": "Putting sign language AI into users’ hands",
@@ -59,44 +109,14 @@
       "category": "Research"
     },
     {
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He'",
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion ",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "pubDate": "2026-08-12T12:09:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "pubDate": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "pubDate": "Wed, 12 Aug 2026 00:38:21 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "description": "But will Gemini's surge survive slowing model releases?",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "pubDate": "Tue, 11 Aug 2026 19:48:12 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
+      "source": "NVIDIA",
+      "category": "Hardware"
     },
     {
       "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
@@ -107,26 +127,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more prog",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     }
   ]
 }
