@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-08-13T16:47:05.926Z",
-  "summary": "This week in AI, significant advancements were made in various sectors. Companies like Nvidia and OpenAI are pushing the boundaries of AI capabilities, while others like Google and Microsoft are integrating AI into their products. The use of AI in music production, coding, and healthcare is becoming increasingly prevalent.",
-  "insight": "The integration of AI into various industries is not only improving efficiency but also raising concerns about job security and the potential for AI-generated content to replace human creators.",
+  "generated_at": "2026-08-13T20:33:10.128Z",
+  "summary": "Major AI companies are making significant moves, with Databricks raising $5B and OpenAI introducing a new mode for its GPT-5.6 model. IBM is partnering with OpenAI to train consultants, while Anthropic is exploring AI safety concerns. Microsoft is simplifying its Copilot apps and Nvidia is planning to make its GPUs more valuable.",
+  "insight": "The increasing focus on AI safety and regulation is driving innovation in the industry, with companies like OpenAI and Anthropic leading the charge.",
   "highlights": [
-    "Nvidia's new plan to make its GPUs more valuable for AI buildouts",
-    "OpenAI's launch of a dedicated ChatGPT desktop app for Linux",
-    "Google's Gemini app surging to 1 billion users"
+    "Databricks raises $5B at a $190B valuation",
+    "OpenAI introduces Ultrafast mode for its GPT-5.6 model",
+    "IBM partners with OpenAI to train consultants on AI technologies"
   ],
   "articles": [
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "description": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "pubDate": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "pubDate": "Thu, 13 Aug 2026 15:30:52 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
     {
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
       "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
@@ -29,6 +89,16 @@
       "category": "Enterprise"
     },
     {
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "description": "The mark flags anything Claude processed, even human writing it only edited.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "pubDate": "Thu, 13 Aug 2026 11:10:18 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
       "readTime": "1 min read",
@@ -36,7 +106,17 @@
       "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Enterprise"
+      "category": "LLMs"
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
     },
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -47,86 +127,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion ",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "pubDate": "Wed, 12 Aug 2026 00:38:21 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now genera",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "pubDate": "Tue, 11 Aug 2026 18:49:12 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "pubDate": "Thu, 13 Aug 2026 15:30:52 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-      "description": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is al",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-      "pubDate": "Thu, 13 Aug 2026 13:00:33 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Hardware"
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "description": "But will Gemini's surge survive slowing model releases?",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "pubDate": "Tue, 11 Aug 2026 19:48:12 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
     }
   ]
 }
