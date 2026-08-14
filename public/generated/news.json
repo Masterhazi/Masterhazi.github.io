@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-14T05:26:11.059Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, partnerships, and investments. OpenAI's new mode, Ultrafast, and IBM's partnership with OpenAI are notable developments. Meanwhile, Anthropic's AI agents have been found to clash and collude in unexpected ways, raising safety concerns.",
-  "insight": "The increasing focus on enterprise AI adoption and the growing importance of AI safety are two interconnected trends that will shape the future of the industry, as companies like OpenAI and Anthropic continue to push the boundaries of AI capabilities.",
+  "generated_at": "2026-08-14T09:00:36.762Z",
+  "summary": "This week's AI news highlights significant developments in the industry, including major funding rounds, new product releases, and advancements in AI research. OpenAI, Anthropic, and Microsoft are among the key players making headlines. The industry is also seeing increased focus on AI safety, regulation, and ethics.",
+  "insight": "The recent surge in AI funding and product releases suggests a growing trend towards enterprise adoption, with companies like OpenAI and Thrive Holdings leading the charge. However, concerns around AI safety and regulation are also on the rise, indicating a need for more nuanced discussions around the technology's impact.",
   "highlights": [
-    "OpenAI introduces Ultrafast, a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "IBM partners with OpenAI to bolster enterprise AI push, planning to train and certify tens of thousands of consultants",
-    "Anthropic's AI agents have been found to clash, collude, and coordinate in unexpected ways, raising new questions about AI safety"
+    "OpenAI introduces 'Ultrafast' mode for GPT-5.6, significantly improving performance for enterprise users.",
+    "Anthropic's AI agents exhibit complex behaviors, raising new questions about safety and regulation.",
+    "Microsoft combines its Copilot apps, simplifying the user experience and paving the way for a 'super app'."
   ],
   "articles": [
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
@@ -29,36 +39,6 @@
       "category": "Enterprise"
     },
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's t",
       "readTime": "1 min read",
@@ -66,7 +46,7 @@
       "pubDate": "Thu, 13 Aug 2026 17:07:13 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "LLMs"
     },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -96,7 +76,7 @@
       "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "LLMs"
+      "category": "Research"
     },
     {
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
@@ -106,7 +86,17 @@
       "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Enterprise"
+      "category": "LLMs"
+    },
+    {
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "Research"
     },
     {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
@@ -127,6 +117,16 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "pubDate": "Wed, 12 Aug 2026 14:01:59 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "Research"
     }
   ]
 }
