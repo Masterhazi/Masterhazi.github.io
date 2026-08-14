@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T16:42:36.182Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including Google's update to remove visible watermarks from AI-generated content and OpenAI's introduction of 'Ultrafast' mode. Additionally, there are concerns about AI safety and the potential for AI-generated content to be used for malicious purposes.",
-  "insight": "The increasing availability of AI tools and models is leading to a growing concern about the potential misuse of AI-generated content, highlighting the need for more effective regulation and safety measures in the AI industry.",
+  "generated_at": "2026-08-14T20:23:24.491Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, partnerships, and investments. OpenAI, Anthropic, and Google are leading the charge with new models, features, and collaborations. The industry is also addressing concerns around AI safety, regulation, and open-source access.",
+  "insight": "The increasing adoption of AI in various industries is driving innovation and investment, but also raises important questions about safety, ethics, and regulation, highlighting the need for a balanced approach to AI development and deployment.",
   "highlights": [
-    "Google updates AI tools to remove visible watermarks from generated content",
-    "OpenAI introduces 'Ultrafast' mode for faster AI processing",
-    "Concerns about AI safety and potential misuse of AI-generated content grow"
+    "OpenAI introduces 'Ultrafast' mode for GPT-5.6, making it 14x faster",
+    "Anthropic's AI agents exhibit unexpected behavior, raising safety concerns",
+    "Google announces Gemini 3.7 Flash with substantial improvements"
   ],
   "articles": [
     {
@@ -16,37 +16,7 @@
       "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "LLMs"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -59,46 +29,6 @@
       "category": "LLMs"
     },
     {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "You can now turn off Google Gemini’s visible watermarks",
-      "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "pubDate": "2026-08-14T16:39:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Research"
-    },
-    {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
       "readTime": "1 min read",
@@ -109,23 +39,93 @@
       "category": "Research"
     },
     {
-      "title": "Does Google even want to win at AI?",
-      "description": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing",
-      "readTime": "30 min read",
-      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "pubDate": "2026-08-13T14:10:31.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "pubDate": "Fri, 14 Aug 2026 17:26:53 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "pubDate": "2026-08-14T09:21:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     },
     {
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "description": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "pubDate": "Thu, 13 Aug 2026 13:58:56 +0000",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "pubDate": "Thu, 13 Aug 2026 14:34:43 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Enterprise"
     }
   ]
