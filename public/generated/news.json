@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T01:13:43.712Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including OpenAI's new 'Ultrafast' mode and IBM's partnership with OpenAI. Other notable developments include the introduction of new AI models, such as Writer's deployment-ready capabilities and Anthropic's AI agents. The industry also saw major funding announcements, with Thrive Holdings raising $2 billion and Lovable confirming a $13.3 billion valuation.",
-  "insight": "The increasing focus on AI safety and regulation is driving innovation in the industry, with companies like OpenAI and Anthropic prioritizing responsible AI development and deployment.",
+  "generated_at": "2026-08-14T05:26:11.059Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, partnerships, and investments. OpenAI's new mode, Ultrafast, and IBM's partnership with OpenAI are notable developments. Meanwhile, Anthropic's AI agents have been found to clash and collude in unexpected ways, raising safety concerns.",
+  "insight": "The increasing focus on enterprise AI adoption and the growing importance of AI safety are two interconnected trends that will shape the future of the industry, as companies like OpenAI and Anthropic continue to push the boundaries of AI capabilities.",
   "highlights": [
-    "OpenAI introduces 'Ultrafast' mode, making GPT-5.6 Sol work 14x faster",
-    "IBM partners with OpenAI to bolster enterprise AI push, training tens of thousands of consultants",
-    "Anthropic's AI agents exhibit complex behaviors, raising questions about multi-agent safety tests"
+    "OpenAI introduces Ultrafast, a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "IBM partners with OpenAI to bolster enterprise AI push, planning to train and certify tens of thousands of consultants",
+    "Anthropic's AI agents have been found to clash, collude, and coordinate in unexpected ways, raising new questions about AI safety"
   ],
   "articles": [
     {
@@ -39,6 +39,16 @@
       "category": "Research"
     },
     {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
       "readTime": "1 min read",
@@ -57,46 +67,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -119,14 +89,44 @@
       "category": "General"
     },
     {
-      "title": "OpenAI is losing its second executive this week",
-      "description": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming week",
+      "title": "The builder’s guide to GPT‑5.6",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "pubDate": "2026-08-13T19:28:39.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     }
   ]
 }
