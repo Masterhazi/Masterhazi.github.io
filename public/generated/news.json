@@ -1,21 +1,31 @@
 {
-  "generated_at": "2026-08-14T09:00:36.762Z",
-  "summary": "This week's AI news highlights significant developments in the industry, including major funding rounds, new product releases, and advancements in AI research. OpenAI, Anthropic, and Microsoft are among the key players making headlines. The industry is also seeing increased focus on AI safety, regulation, and ethics.",
-  "insight": "The recent surge in AI funding and product releases suggests a growing trend towards enterprise adoption, with companies like OpenAI and Thrive Holdings leading the charge. However, concerns around AI safety and regulation are also on the rise, indicating a need for more nuanced discussions around the technology's impact.",
+  "generated_at": "2026-08-14T12:45:11.906Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, partnerships, and applications. Google and Apple are making strides in AI-powered health coaching and custom AI models. OpenAI is introducing new features and partnerships to bolster its enterprise AI push.",
+  "insight": "The increasing collaboration between tech giants and AI startups is driving innovation and shaping the future of AI, with a focus on improving efficiency, accuracy, and accessibility.",
   "highlights": [
-    "OpenAI introduces 'Ultrafast' mode for GPT-5.6, significantly improving performance for enterprise users.",
-    "Anthropic's AI agents exhibit complex behaviors, raising new questions about safety and regulation.",
-    "Microsoft combines its Copilot apps, simplifying the user experience and paving the way for a 'super app'."
+    "Google partners with Abbott to integrate continuous glucose monitoring data with AI-powered health coaching tools",
+    "OpenAI introduces 'Ultrafast' mode, making GPT-5.6 Sol work 14x faster, and partners with IBM to train and certify consultants",
+    "Apple trains a custom AI model for the China market with help from Alibaba, marking a rare cross-border partnership"
   ],
   "articles": [
     {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "title": "Google AI health coach to use Abbott glucose data",
+      "description": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of perso",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "pubDate": "Fri, 14 Aug 2026 10:00:00 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "AI News",
+      "category": "LLMs"
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "pubDate": "2026-08-14T09:21:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "Enterprise"
     },
     {
@@ -29,6 +39,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
       "readTime": "1 min read",
@@ -39,14 +59,24 @@
       "category": "Enterprise"
     },
     {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's t",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "pubDate": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "pubDate": "Thu, 13 Aug 2026 17:16:04 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
+      "source": "Hugging Face",
+      "category": "Open Source"
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "description": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "pubDate": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
     },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -57,6 +87,16 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
     },
     {
       "title": "Anthropic could be worth $2 trillion when it goes public",
@@ -76,7 +116,7 @@
       "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Research"
+      "category": "LLMs"
     },
     {
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
@@ -86,47 +126,7 @@
       "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "pubDate": "Thu, 13 Aug 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Research"
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "Enterprise"
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "pubDate": "Wed, 12 Aug 2026 14:01:59 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "Research"
     }
   ]
 }
