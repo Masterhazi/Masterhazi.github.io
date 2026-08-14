@@ -1,31 +1,51 @@
 {
-  "generated_at": "2026-08-14T12:45:11.906Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, partnerships, and applications. Google and Apple are making strides in AI-powered health coaching and custom AI models. OpenAI is introducing new features and partnerships to bolster its enterprise AI push.",
-  "insight": "The increasing collaboration between tech giants and AI startups is driving innovation and shaping the future of AI, with a focus on improving efficiency, accuracy, and accessibility.",
+  "generated_at": "2026-08-14T16:42:36.182Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including Google's update to remove visible watermarks from AI-generated content and OpenAI's introduction of 'Ultrafast' mode. Additionally, there are concerns about AI safety and the potential for AI-generated content to be used for malicious purposes.",
+  "insight": "The increasing availability of AI tools and models is leading to a growing concern about the potential misuse of AI-generated content, highlighting the need for more effective regulation and safety measures in the AI industry.",
   "highlights": [
-    "Google partners with Abbott to integrate continuous glucose monitoring data with AI-powered health coaching tools",
-    "OpenAI introduces 'Ultrafast' mode, making GPT-5.6 Sol work 14x faster, and partners with IBM to train and certify consultants",
-    "Apple trains a custom AI model for the China market with help from Alibaba, marking a rare cross-border partnership"
+    "Google updates AI tools to remove visible watermarks from generated content",
+    "OpenAI introduces 'Ultrafast' mode for faster AI processing",
+    "Concerns about AI safety and potential misuse of AI-generated content grow"
   ],
   "articles": [
     {
-      "title": "Google AI health coach to use Abbott glucose data",
-      "description": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of perso",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
-      "pubDate": "Fri, 14 Aug 2026 10:00:00 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
       "image": "",
-      "source": "AI News",
+      "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "LLMs"
     },
     {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "pubDate": "2026-08-14T09:21:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Enterprise"
     },
     {
@@ -49,54 +69,54 @@
       "category": "Enterprise"
     },
     {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "pubDate": "2026-08-14T16:39:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
     },
     {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "description": "",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
       "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "pubDate": "Thu, 13 Aug 2026 17:16:04 GMT",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
       "image": "",
-      "source": "Hugging Face",
+      "source": "TechCrunch",
       "category": "Open Source"
     },
     {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "description": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "pubDate": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
       "image": "",
-      "source": "Ars Technica",
+      "source": "Hugging Face",
+      "category": "Research"
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "Does Google even want to win at AI?",
+      "description": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing",
+      "readTime": "30 min read",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "pubDate": "2026-08-13T14:10:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "pubDate": "Thu, 13 Aug 2026 15:30:52 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
     },
     {
       "title": "Anthropic could be worth $2 trillion when it goes public",
@@ -106,26 +126,6 @@
       "pubDate": "Thu, 13 Aug 2026 13:58:56 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "Enterprise"
     }
   ]
