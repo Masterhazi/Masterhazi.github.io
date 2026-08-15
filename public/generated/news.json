@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-08-15T16:14:37.021Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, with a focus on open-source models, enterprise adoption, and concerns over AI safety. Major players like OpenAI, Google, and NVIDIA are making strides in AI development, while others are raising concerns over the potential risks and consequences of AI adoption.",
-  "insight": "The increasing trend of open-source AI models and enterprise adoption is driving innovation, but also raises important questions about AI safety, regulation, and the potential consequences of widespread AI adoption.",
+  "generated_at": "2026-08-15T20:12:54.346Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including new watermarking systems, AI-powered health coaching tools, and improved AI models. Companies like Anthropic, Google, and OpenAI are making strides in AI development, while others like Apple and Microsoft are forming partnerships to bolster their AI capabilities.",
+  "insight": "The increasing use of AI in various industries is leading to a rise in concerns about data privacy and security, with companies like Flock and Twitch facing backlash over their handling of user data.",
   "highlights": [
-    "OpenAI introduces 'Ultrafast' mode for GPT-5.6, making it 14x faster",
-    "Anthropic's AI agents exhibit unexpected behavior, raising safety concerns",
-    "Google announces Gemini 3.7 Flash, with substantial improvements over previous release"
+    "Anthropic's new watermarking system aims to prevent misuse of its AI model Claude.",
+    "Google's AI-powered health coaching tools are being integrated with Abbott's glucose monitoring data.",
+    "OpenAI's new 'Ultrafast' mode makes its GPT-5.6 model work 14 times faster."
   ],
   "articles": [
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "pubDate": "Fri, 14 Aug 2026 17:26:53 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
@@ -16,36 +36,26 @@
       "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "LLMs"
+      "category": "Enterprise"
     },
     {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
       "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Open Source"
     },
     {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
+      "source": "Hugging Face",
       "category": "Research"
     },
     {
@@ -59,34 +69,24 @@
       "category": "LLMs"
     },
     {
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "description": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universi",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
       "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-      "pubDate": "Fri, 14 Aug 2026 17:13:05 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Open Source"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "Research"
     },
     {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
+      "title": "Introducing Gemini 3.7 Flash",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "pubDate": "Thu, 13 Aug 2026 17:04:18 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
+      "source": "Google DeepMind",
+      "category": "Hardware"
     },
     {
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -99,14 +99,24 @@
       "category": "Hardware"
     },
     {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "description": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "pubDate": "2026-08-14T09:21:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "pubDate": "Thu, 13 Aug 2026 13:58:56 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Research"
     },
     {
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
@@ -116,16 +126,6 @@
       "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "Enterprise"
     }
   ]
