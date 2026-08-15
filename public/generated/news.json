@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T20:23:24.491Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, partnerships, and investments. OpenAI, Anthropic, and Google are leading the charge with new models, features, and collaborations. The industry is also addressing concerns around AI safety, regulation, and open-source access.",
-  "insight": "The increasing adoption of AI in various industries is driving innovation and investment, but also raises important questions about safety, ethics, and regulation, highlighting the need for a balanced approach to AI development and deployment.",
+  "generated_at": "2026-08-15T00:44:49.869Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including the release of new AI models and tools. Companies like OpenAI, Google, and NVIDIA are leading the charge in AI development, with a focus on improving efficiency and accessibility. However, concerns about AI safety and regulation continue to grow.",
+  "insight": "The increasing use of AI in various industries is leading to a rise in concerns about job displacement and the need for workers to develop new skills to remain relevant in an AI-driven economy.",
   "highlights": [
-    "OpenAI introduces 'Ultrafast' mode for GPT-5.6, making it 14x faster",
-    "Anthropic's AI agents exhibit unexpected behavior, raising safety concerns",
-    "Google announces Gemini 3.7 Flash with substantial improvements"
+    "OpenAI introduces 'Ultrafast' mode for its GPT-5.6 model, making it 14 times faster",
+    "Google announces Gemini 3.7 Flash, with substantial improvements over the previous version",
+    "NVIDIA partners with Universitas Gadjah Mada and Indosat to develop Indonesia's first university AI center"
   ],
   "articles": [
     {
@@ -19,6 +19,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
       "readTime": "1 min read",
@@ -29,24 +39,24 @@
       "category": "LLMs"
     },
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "description": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universi",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "pubDate": "Fri, 14 Aug 2026 17:13:05 +0000",
       "image": "",
-      "source": "TechCrunch",
+      "source": "NVIDIA",
       "category": "Research"
     },
     {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "pubDate": "2026-08-14T09:21:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Enterprise"
     },
     {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
@@ -59,44 +69,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "pubDate": "Fri, 14 Aug 2026 17:26:53 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "pubDate": "2026-08-14T09:21:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
+      "category": "Research"
     },
     {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
@@ -109,24 +89,44 @@
       "category": "Open Source"
     },
     {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "pubDate": "Thu, 13 Aug 2026 14:34:43 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "description": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "pubDate": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Hardware"
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
     }
   ]
 }
