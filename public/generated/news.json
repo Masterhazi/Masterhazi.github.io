@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-16T16:14:46.137Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including new features and models from major players like OpenAI and Anthropic. Watermarking and AI safety are also major concerns, with several companies introducing new measures to prevent misuse. Meanwhile, the AI industry continues to grow, with major investments and partnerships being announced.",
-  "insight": "The increasing focus on AI safety and watermarking suggests that the industry is becoming more aware of the potential risks and consequences of AI development, and is taking steps to mitigate them.",
+  "generated_at": "2026-08-16T20:12:57.412Z",
+  "summary": "This week's AI news highlights significant advancements and concerns in the industry. Anthropic's CEO discusses the crisis of trust in AI, while OpenAI introduces a new mode to speed up its model. Other notable stories include Google's update to remove visible watermarks and Meta's release of an open-weight AI model.",
+  "insight": "The increasing use of AI in various industries has led to a growing need for transparency and accountability, with companies like Anthropic and OpenAI taking steps to address these concerns.",
   "highlights": [
-    "OpenAI introduces 'Ultrafast' mode for GPT-5.6, making it 14x faster",
-    "Anthropic's new watermarking system sparks controversy among users",
-    "Google announces Gemini 3.7 Flash, with substantial improvements over previous version"
+    "Anthropic's CEO discusses the crisis of trust in AI and the need for transparency",
+    "OpenAI introduces a new mode to speed up its model, making it more accessible to enterprise users",
+    "Google updates its AI tool to remove visible watermarks, giving users more control over their generated content"
   ],
   "articles": [
     {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
@@ -29,16 +29,6 @@
       "category": "LLMs"
     },
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
-    },
-    {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "readTime": "1 min read",
@@ -49,14 +39,14 @@
       "category": "Enterprise"
     },
     {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
+      "source": "TechCrunch",
+      "category": "LLMs"
     },
     {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
@@ -69,14 +59,34 @@
       "category": "Enterprise"
     },
     {
-      "title": "The builder’s guide to GPT‑5.6",
-      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
+      "source": "TechCrunch",
+      "category": "Research"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "pubDate": "2026-08-14T16:39:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Hardware"
     },
     {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
@@ -89,14 +99,14 @@
       "category": "Open Source"
     },
     {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
+      "source": "Hugging Face",
+      "category": "Research"
     },
     {
       "title": "Anthropic could be worth $2 trillion when it goes public",
@@ -106,17 +116,7 @@
       "pubDate": "Thu, 13 Aug 2026 13:58:56 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "General"
     },
     {
       "title": "Claude's new Scarlet Letter watermark is invisible—for now",
