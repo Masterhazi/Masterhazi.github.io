@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T04:27:46.514Z",
-  "summary": "This week in AI, significant advancements were made in watermarking technology, with Anthropic and Google introducing new methods to identify AI-generated content. OpenAI and Anthropic are also engaged in a price war, while IBM partners with OpenAI to bolster its enterprise AI push. Meanwhile, concerns about AI safety and ethics continue to grow.",
-  "insight": "The increasing focus on watermarking and AI safety highlights the need for responsible AI development and deployment, as the technology becomes more pervasive in everyday life.",
+  "generated_at": "2026-08-16T08:19:12.134Z",
+  "summary": "This week in AI news, significant developments include Anthropic's new watermarking system, OpenAI's Ultrafast mode, and NVIDIA's plan to make GPUs more valuable. Other notable stories cover AI applications in various industries, such as education and entertainment.",
+  "insight": "The increasing focus on watermarking and identifying AI-generated content highlights the growing need for transparency and accountability in AI development and usage.",
   "highlights": [
-    "Anthropic introduces new watermarking system to identify AI-generated content",
-    "OpenAI and Anthropic engage in price war, releasing cheaper models",
-    "IBM partners with OpenAI to train and certify consultants on OpenAI's technologies"
+    "Anthropic introduces a new watermarking system to identify AI-generated content",
+    "OpenAI launches Ultrafast mode for its GPT-5.6 model, significantly improving performance",
+    "NVIDIA unveils a plan to maintain the value of its GPUs despite the rise of AI"
   ],
   "articles": [
     {
@@ -27,66 +27,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "Enterprise"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -127,6 +67,66 @@
       "image": "",
       "source": "Ars Technica",
       "category": "LLMs"
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "LLMs"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "description": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "pubDate": "Wed, 12 Aug 2026 22:02:25 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Research"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "pubDate": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Policy"
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
     }
   ]
 }
