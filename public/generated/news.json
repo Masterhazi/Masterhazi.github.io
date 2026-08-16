@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T20:12:54.346Z",
-  "summary": "This week's AI news highlights significant advancements in AI technology, including new watermarking systems, AI-powered health coaching tools, and improved AI models. Companies like Anthropic, Google, and OpenAI are making strides in AI development, while others like Apple and Microsoft are forming partnerships to bolster their AI capabilities.",
-  "insight": "The increasing use of AI in various industries is leading to a rise in concerns about data privacy and security, with companies like Flock and Twitch facing backlash over their handling of user data.",
+  "generated_at": "2026-08-16T00:48:40.198Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including new watermarking systems, improved AI models, and increased adoption in various industries. However, concerns about AI misuse and surveillance also emerged.",
+  "insight": "The increasing use of AI in various industries has led to a growing need for transparency and accountability, as evident from the introduction of watermarking systems and concerns about AI-generated content.",
   "highlights": [
-    "Anthropic's new watermarking system aims to prevent misuse of its AI model Claude.",
-    "Google's AI-powered health coaching tools are being integrated with Abbott's glucose monitoring data.",
-    "OpenAI's new 'Ultrafast' mode makes its GPT-5.6 model work 14 times faster."
+    "Anthropic's new watermarking system for Claude aims to prevent AI-generated content from being misused.",
+    "OpenAI's new 'Ultrafast' mode makes its GPT-5.6 model work 14x faster, targeting enterprise users.",
+    "Google's Gemini 3.7 Flash update brings substantial improvements to its AI-powered health coaching tools."
   ],
   "articles": [
     {
@@ -19,16 +19,6 @@
       "category": "LLMs"
     },
     {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "pubDate": "Fri, 14 Aug 2026 17:26:53 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "readTime": "1 min read",
@@ -36,27 +26,7 @@
       "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Research"
+      "category": "LLMs"
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -69,6 +39,16 @@
       "category": "LLMs"
     },
     {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
       "readTime": "1 min read",
@@ -79,24 +59,14 @@
       "category": "Research"
     },
     {
-      "title": "Introducing Gemini 3.7 Flash",
-      "description": "",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "description": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
       "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "pubDate": "Thu, 13 Aug 2026 17:04:18 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "pubDate": "Thu, 13 Aug 2026 17:00:13 +0000",
       "image": "",
-      "source": "Google DeepMind",
-      "category": "Hardware"
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Hardware"
+      "source": "Ars Technica",
+      "category": "LLMs"
     },
     {
       "title": "Anthropic could be worth $2 trillion when it goes public",
@@ -109,23 +79,53 @@
       "category": "LLMs"
     },
     {
-      "title": "The builder’s guide to GPT‑5.6",
-      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "description": "The mark flags anything Claude processed, even human writing it only edited.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "pubDate": "Thu, 13 Aug 2026 11:10:18 +0000",
       "image": "",
-      "source": "OpenAI",
-      "category": "Research"
+      "source": "Ars Technica",
+      "category": "LLMs"
     },
     {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
       "image": "",
-      "source": "OpenAI",
+      "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Enterprise"
     }
   ]
