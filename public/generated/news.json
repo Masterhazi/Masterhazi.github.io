@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-16T08:19:12.134Z",
-  "summary": "This week in AI news, significant developments include Anthropic's new watermarking system, OpenAI's Ultrafast mode, and NVIDIA's plan to make GPUs more valuable. Other notable stories cover AI applications in various industries, such as education and entertainment.",
-  "insight": "The increasing focus on watermarking and identifying AI-generated content highlights the growing need for transparency and accountability in AI development and usage.",
+  "generated_at": "2026-08-16T12:22:13.810Z",
+  "summary": "This week's AI news highlights significant advancements in AI safety, watermarking, and enterprise adoption. Anthropic's Claude introduces new watermarks, while OpenAI launches Ultrafast mode for GPT-5.6. Google and Meta make strides in AI-powered health coaching and open-source models.",
+  "insight": "The increasing focus on AI safety and watermarking suggests a growing concern about the potential misuse of AI-generated content, highlighting the need for more robust regulations and standards in the industry.",
   "highlights": [
-    "Anthropic introduces a new watermarking system to identify AI-generated content",
-    "OpenAI launches Ultrafast mode for its GPT-5.6 model, significantly improving performance",
-    "NVIDIA unveils a plan to maintain the value of its GPUs despite the rise of AI"
+    "Anthropic's Claude introduces new watermarks to prevent misuse",
+    "OpenAI launches Ultrafast mode for GPT-5.6, targeting enterprise users",
+    "Google and Meta advance AI-powered health coaching with new partnerships"
   ],
   "articles": [
+    {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers'",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "pubDate": "2026-08-16T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
@@ -19,6 +29,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "readTime": "1 min read",
@@ -26,7 +46,7 @@
       "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "Enterprise"
+      "category": "LLMs"
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -47,6 +67,26 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Research"
+    },
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's t",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "pubDate": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "description": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "pubDate": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "LLMs"
     },
     {
       "title": "Anthropic could be worth $2 trillion when it goes public",
@@ -76,7 +116,7 @@
       "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "LLMs"
+      "category": "Research"
     },
     {
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
@@ -86,46 +126,6 @@
       "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "description": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "pubDate": "Wed, 12 Aug 2026 22:02:25 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Research"
-    },
-    {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "pubDate": "Wed, 12 Aug 2026 20:10:40 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "Enterprise"
     }
   ]
