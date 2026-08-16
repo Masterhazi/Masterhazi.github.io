@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-16T12:22:13.810Z",
-  "summary": "This week's AI news highlights significant advancements in AI safety, watermarking, and enterprise adoption. Anthropic's Claude introduces new watermarks, while OpenAI launches Ultrafast mode for GPT-5.6. Google and Meta make strides in AI-powered health coaching and open-source models.",
-  "insight": "The increasing focus on AI safety and watermarking suggests a growing concern about the potential misuse of AI-generated content, highlighting the need for more robust regulations and standards in the industry.",
+  "generated_at": "2026-08-16T16:14:46.137Z",
+  "summary": "This week's AI news highlights significant advancements in AI technology, including new features and models from major players like OpenAI and Anthropic. Watermarking and AI safety are also major concerns, with several companies introducing new measures to prevent misuse. Meanwhile, the AI industry continues to grow, with major investments and partnerships being announced.",
+  "insight": "The increasing focus on AI safety and watermarking suggests that the industry is becoming more aware of the potential risks and consequences of AI development, and is taking steps to mitigate them.",
   "highlights": [
-    "Anthropic's Claude introduces new watermarks to prevent misuse",
-    "OpenAI launches Ultrafast mode for GPT-5.6, targeting enterprise users",
-    "Google and Meta advance AI-powered health coaching with new partnerships"
+    "OpenAI introduces 'Ultrafast' mode for GPT-5.6, making it 14x faster",
+    "Anthropic's new watermarking system sparks controversy among users",
+    "Google announces Gemini 3.7 Flash, with substantial improvements over previous version"
   ],
   "articles": [
     {
-      "title": "Rogue AI aren’t science fiction anymore",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers'",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "pubDate": "2026-08-16T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "LLMs"
     },
     {
@@ -24,36 +24,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "LLMs"
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "LLMs"
@@ -69,24 +39,64 @@
       "category": "Research"
     },
     {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's t",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "pubDate": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "Enterprise"
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "Enterprise"
     },
     {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "description": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "title": "The builder’s guide to GPT‑5.6",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "pubDate": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
       "image": "",
-      "source": "Ars Technica",
+      "source": "OpenAI",
       "category": "LLMs"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Open Source"
     },
     {
       "title": "Anthropic could be worth $2 trillion when it goes public",
@@ -99,6 +109,16 @@
       "category": "Enterprise"
     },
     {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
+    {
       "title": "Claude's new Scarlet Letter watermark is invisible—for now",
       "description": "The mark flags anything Claude processed, even human writing it only edited.",
       "readTime": "1 min read",
@@ -107,26 +127,6 @@
       "image": "",
       "source": "Ars Technica",
       "category": "LLMs"
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Research"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "Enterprise"
     }
   ]
 }
