@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-08-17T12:26:28.031Z",
+  "generated_at": "2026-08-17T16:17:38.001Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "pubDate": "Mon, 17 Aug 2026 15:16:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "description": "Wispr’s total funding is now over $361 million.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "pubDate": "Mon, 17 Aug 2026 13:10:05 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Securing the Infrastructure of Intelligence",
+      "description": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI ",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+      "pubDate": "Mon, 17 Aug 2026 12:34:51 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
     {
       "title": "Anthropic explains how Claude’s invisible text watermarks will work",
       "description": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announ",
@@ -22,6 +62,26 @@
       "pubDate": "Mon, 17 Aug 2026 09:00:00 +0000",
       "image": "",
       "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "The Defender’s Window",
+      "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/the-defenders-window",
+      "pubDate": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "pubDate": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "General"
     },
     {
@@ -60,66 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
       "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "pubDate": "2026-08-16T14:56:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Rogue AI aren’t science fiction anymore",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers'",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "pubDate": "2026-08-16T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "description": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "pubDate": "2026-08-15T20:45:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
