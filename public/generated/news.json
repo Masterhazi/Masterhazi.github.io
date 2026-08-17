@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-16T20:12:57.412Z",
-  "summary": "This week's AI news highlights significant advancements and concerns in the industry. Anthropic's CEO discusses the crisis of trust in AI, while OpenAI introduces a new mode to speed up its model. Other notable stories include Google's update to remove visible watermarks and Meta's release of an open-weight AI model.",
-  "insight": "The increasing use of AI in various industries has led to a growing need for transparency and accountability, with companies like Anthropic and OpenAI taking steps to address these concerns.",
+  "generated_at": "2026-08-17T00:45:31.782Z",
+  "summary": "This week's AI news highlights significant developments in the industry, including major acquisitions, advancements in AI safety, and new applications of AI technology. Stripe's potential acquisition of OpenRouter and SpaceX's acquisition of Cursor demonstrate the growing interest in AI startups. Meanwhile, Anthropic's CEO emphasizes the importance of trust in AI development, and researchers explore the potential risks and benefits of AI agents.",
+  "insight": "The increasing focus on AI safety and trust highlights a crucial aspect of the technology's development, as companies and researchers work to ensure that AI systems are reliable, transparent, and aligned with human values.",
   "highlights": [
-    "Anthropic's CEO discusses the crisis of trust in AI and the need for transparency",
-    "OpenAI introduces a new mode to speed up its model, making it more accessible to enterprise users",
-    "Google updates its AI tool to remove visible watermarks, giving users more control over their generated content"
+    "Stripe may acquire AI gateway startup OpenRouter for $7B+",
+    "Anthropic's CEO emphasizes the importance of trust in AI development",
+    "SpaceX officially closes its acquisition of AI coding startup Cursor"
   ],
   "articles": [
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "Enterprise"
+    },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
@@ -29,6 +39,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "description": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universi",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "pubDate": "Fri, 14 Aug 2026 17:13:05 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "Research"
+    },
+    {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "readTime": "1 min read",
@@ -36,6 +56,26 @@
       "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
       "image": "",
       "source": "Ars Technica",
+      "category": "Enterprise"
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "pubDate": "2026-08-14T09:21:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "Research"
+    },
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "Enterprise"
     },
     {
@@ -69,46 +109,6 @@
       "category": "Research"
     },
     {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Policy"
-    },
-    {
-      "title": "You can now turn off Google Gemini’s visible watermarks",
-      "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "pubDate": "2026-08-14T16:39:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "Hardware"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Open Source"
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Research"
-    },
-    {
       "title": "Anthropic could be worth $2 trillion when it goes public",
       "description": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
       "readTime": "1 min read",
@@ -116,16 +116,16 @@
       "pubDate": "Thu, 13 Aug 2026 13:58:56 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
+      "category": "Enterprise"
     },
     {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "description": "The mark flags anything Claude processed, even human writing it only edited.",
+      "title": "The builder’s guide to GPT‑5.6",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "pubDate": "Thu, 13 Aug 2026 11:10:18 +0000",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
       "image": "",
-      "source": "Ars Technica",
+      "source": "OpenAI",
       "category": "LLMs"
     }
   ]
