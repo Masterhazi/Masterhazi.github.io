@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-17T00:45:31.782Z",
-  "summary": "This week's AI news highlights significant developments in the industry, including major acquisitions, advancements in AI safety, and new applications of AI technology. Stripe's potential acquisition of OpenRouter and SpaceX's acquisition of Cursor demonstrate the growing interest in AI startups. Meanwhile, Anthropic's CEO emphasizes the importance of trust in AI development, and researchers explore the potential risks and benefits of AI agents.",
-  "insight": "The increasing focus on AI safety and trust highlights a crucial aspect of the technology's development, as companies and researchers work to ensure that AI systems are reliable, transparent, and aligned with human values.",
+  "generated_at": "2026-08-17T04:33:06.041Z",
+  "summary": "This week's AI news highlights significant developments in the industry, including OpenAI's disbanding of its preparedness team and Anthropic's efforts to improve AI safety. Other notable stories include the introduction of new AI models, advancements in natural language processing, and growing concerns about AI-generated content.",
+  "insight": "The increasing focus on AI safety and ethics is a key trend in this week's news, with multiple companies and researchers working to address the risks and challenges associated with AI development and deployment.",
   "highlights": [
-    "Stripe may acquire AI gateway startup OpenRouter for $7B+",
-    "Anthropic's CEO emphasizes the importance of trust in AI development",
-    "SpaceX officially closes its acquisition of AI coding startup Cursor"
+    "OpenAI disbands its preparedness team, raising concerns about AI safety and risk assessment.",
+    "Anthropic shares details on its new watermarking system, aiming to improve AI content transparency.",
+    "Google introduces a new feature to remove visible watermarks from AI-generated content, sparking debate about AI accountability."
   ],
   "articles": [
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "pubDate": "2026-08-16T21:32:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "LLMs"
+    },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
@@ -26,6 +36,16 @@
       "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "LLMs"
+    },
+    {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "pubDate": "2026-08-16T14:56:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "LLMs"
     },
     {
@@ -59,6 +79,16 @@
       "category": "Enterprise"
     },
     {
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "description": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches,",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "pubDate": "Fri, 14 Aug 2026 13:30:10 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "Research"
+    },
+    {
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
       "readTime": "1 min read",
@@ -67,16 +97,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "Research"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -107,26 +127,6 @@
       "image": "",
       "source": "TechCrunch",
       "category": "Research"
-    },
-    {
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "description": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "pubDate": "Thu, 13 Aug 2026 13:58:56 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Enterprise"
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "LLMs"
     }
   ]
 }
