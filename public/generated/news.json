@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-08-17T16:17:38.001Z",
+  "generated_at": "2026-08-17T20:16:51.808Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "pubDate": "Mon, 17 Aug 2026 19:46:21 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "What Flock’s defenders are missing",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "pubDate": "Mon, 17 Aug 2026 19:16:09 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "description": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "pubDate": "Mon, 17 Aug 2026 18:13:47 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "pubDate": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
@@ -82,46 +122,6 @@
       "pubDate": "Mon, 17 Aug 2026 05:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "pubDate": "2026-08-16T21:32:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
