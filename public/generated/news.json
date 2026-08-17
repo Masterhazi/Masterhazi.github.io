@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T04:33:06.041Z",
-  "summary": "This week's AI news highlights significant developments in the industry, including OpenAI's disbanding of its preparedness team and Anthropic's efforts to improve AI safety. Other notable stories include the introduction of new AI models, advancements in natural language processing, and growing concerns about AI-generated content.",
-  "insight": "The increasing focus on AI safety and ethics is a key trend in this week's news, with multiple companies and researchers working to address the risks and challenges associated with AI development and deployment.",
+  "generated_at": "2026-08-17T08:33:43.824Z",
+  "summary": "This week's AI news highlights significant developments in the field, including OpenAI's disbandment of its preparedness team and Anthropic's efforts to address AI safety concerns. Major acquisitions and partnerships, such as Stripe's acquisition of OpenRouter and IBM's partnership with OpenAI, demonstrate the growing importance of AI in various industries.",
+  "insight": "The increasing focus on AI safety and regulation is driving innovation in the field, with companies like Anthropic and OpenAI working to develop more transparent and trustworthy AI models.",
   "highlights": [
-    "OpenAI disbands its preparedness team, raising concerns about AI safety and risk assessment.",
-    "Anthropic shares details on its new watermarking system, aiming to improve AI content transparency.",
-    "Google introduces a new feature to remove visible watermarks from AI-generated content, sparking debate about AI accountability."
+    "OpenAI disbanded its preparedness team, sparking concerns about AI safety and regulation.",
+    "Stripe's acquisition of OpenRouter for $7B+ highlights the growing importance of AI in the tech industry.",
+    "Anthropic's efforts to address AI safety concerns, including the development of new watermarking technologies, demonstrate the company's commitment to responsible AI development."
   ],
   "articles": [
     {
@@ -39,16 +39,6 @@
       "category": "LLMs"
     },
     {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "pubDate": "2026-08-16T14:56:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
       "readTime": "1 min read",
@@ -59,6 +49,16 @@
       "category": "LLMs"
     },
     {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "pubDate": "Fri, 14 Aug 2026 17:26:53 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "Policy"
+    },
+    {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
       "description": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universi",
       "readTime": "1 min read",
@@ -66,7 +66,7 @@
       "pubDate": "Fri, 14 Aug 2026 17:13:05 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "Research"
+      "category": "Open Source"
     },
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
@@ -96,16 +96,16 @@
       "pubDate": "2026-08-14T09:21:17.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "Research"
+      "category": "General"
     },
     {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "title": "OpenAI is losing its second executive this week",
+      "description": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming week",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
-      "image": "",
-      "source": "TechCrunch",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "pubDate": "2026-08-13T19:28:39.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "LLMs"
     },
     {
