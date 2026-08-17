@@ -1,13 +1,39 @@
 {
-  "generated_at": "2026-08-17T08:33:43.824Z",
-  "summary": "This week's AI news highlights significant developments in the field, including OpenAI's disbandment of its preparedness team and Anthropic's efforts to address AI safety concerns. Major acquisitions and partnerships, such as Stripe's acquisition of OpenRouter and IBM's partnership with OpenAI, demonstrate the growing importance of AI in various industries.",
-  "insight": "The increasing focus on AI safety and regulation is driving innovation in the field, with companies like Anthropic and OpenAI working to develop more transparent and trustworthy AI models.",
-  "highlights": [
-    "OpenAI disbanded its preparedness team, sparking concerns about AI safety and regulation.",
-    "Stripe's acquisition of OpenRouter for $7B+ highlights the growing importance of AI in the tech industry.",
-    "Anthropic's efforts to address AI safety concerns, including the development of new watermarking technologies, demonstrate the company's commitment to responsible AI development."
-  ],
+  "generated_at": "2026-08-17T12:26:28.031Z",
+  "summary": "",
+  "insight": "",
+  "highlights": [],
   "articles": [
+    {
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "description": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "pubDate": "2026-08-17T10:57:13.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "What happens when a kid’s robot best friend dies?",
+      "description": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dr",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "pubDate": "Mon, 17 Aug 2026 09:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
       "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and ",
@@ -16,7 +42,7 @@
       "pubDate": "2026-08-16T21:32:56.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "LLMs"
+      "category": "General"
     },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -26,7 +52,17 @@
       "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "Enterprise"
+      "category": "General"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
     },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -36,7 +72,47 @@
       "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
+      "category": "General"
+    },
+    {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "pubDate": "2026-08-16T14:56:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers'",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "pubDate": "2026-08-16T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "description": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "pubDate": "2026-08-15T20:45:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
     },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -46,87 +122,7 @@
       "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "LLMs"
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "pubDate": "Fri, 14 Aug 2026 17:26:53 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Policy"
-    },
-    {
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "description": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universi",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-      "pubDate": "Fri, 14 Aug 2026 17:13:05 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "Open Source"
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "description": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches,",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-      "pubDate": "Fri, 14 Aug 2026 13:30:10 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "Research"
-    },
-    {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "pubDate": "2026-08-14T09:21:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
-    },
-    {
-      "title": "OpenAI is losing its second executive this week",
-      "description": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming week",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "pubDate": "2026-08-13T19:28:39.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "LLMs"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Enterprise"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-age",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "Research"
     }
   ]
 }
