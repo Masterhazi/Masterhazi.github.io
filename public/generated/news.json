@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-08-18T16:21:26.422Z",
+  "generated_at": "2026-08-18T20:14:11.855Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a pos",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "pubDate": "2026-08-18T19:48:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&strip=all&crop=0,0,100,78.26399746371",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its r",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "pubDate": "2026-08-18T19:28:30.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Strengthening Democratic Oversight in National Security",
+      "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "pubDate": "Tue, 18 Aug 2026 19:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "pubDate": "Tue, 18 Aug 2026 18:09:38 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "pubDate": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "pubDate": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
       "description": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
@@ -62,66 +122,6 @@
       "pubDate": "Tue, 18 Aug 2026 13:00:04 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Firefox’s Smart Window promises a better AI browser",
-      "description": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Win",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "pubDate": "2026-08-18T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Google’s Pet Memory forgot who my cats are",
-      "description": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifi",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "pubDate": "2026-08-18T12:01:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "description": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management sys",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/chatgpt-for-teens",
-      "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "description": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "pubDate": "2026-08-18T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
