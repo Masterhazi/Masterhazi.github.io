@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-18T20:14:11.855Z",
+  "generated_at": "2026-08-19T00:44:37.771Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "pubDate": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a pos",
@@ -25,7 +35,7 @@
       "category": "General"
     },
     {
-      "title": "Strengthening Democratic Oversight in National Security",
+      "title": "Strengthening democratic oversight in national security",
       "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
       "readTime": "1 min read",
       "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -112,16 +122,6 @@
       "pubDate": "Tue, 18 Aug 2026 13:45:40 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "description": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "pubDate": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
