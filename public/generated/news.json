@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-08-20T12:30:36.929Z",
+  "generated_at": "2026-08-20T16:24:15.743Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "pubDate": "Thu, 20 Aug 2026 16:07:26 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable po",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "description": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from A",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "pubDate": "2026-08-20T15:45:55.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "description": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominen",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "pubDate": "Thu, 20 Aug 2026 15:42:39 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+      "description": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locat",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "pubDate": "Thu, 20 Aug 2026 14:05:18 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathem",
+      "readTime": "32 min read",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "pubDate": "2026-08-20T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "pubDate": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "description": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, startin",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "pubDate": "Thu, 20 Aug 2026 13:00:24 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
     {
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
       "description": "Meta said its Muse Spark model is powering the dictation feature.",
@@ -12,6 +92,16 @@
       "pubDate": "Thu, 20 Aug 2026 12:11:57 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "description": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "pubDate": "2026-08-20T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
     },
     {
@@ -32,96 +122,6 @@
       "pubDate": "Thu, 20 Aug 2026 09:47:22 +0000",
       "image": "",
       "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "description": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "pubDate": "Thu, 20 Aug 2026 09:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-      "description": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a minist",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-      "pubDate": "Thu, 20 Aug 2026 09:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "A third of ChatGPT ads appear in irrelevant conversations",
-      "description": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility pl",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-      "pubDate": "Thu, 20 Aug 2026 08:07:40 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "AI data centre regulation just got a template that needs no new law",
-      "description": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer’s permit file, that developer has to sign a contract accept",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-      "pubDate": "Thu, 20 Aug 2026 08:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-      "description": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent bu",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
-      "pubDate": "Thu, 20 Aug 2026 07:35:07 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real an",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "pubDate": "Wed, 19 Aug 2026 23:32:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "pubDate": "Wed, 19 Aug 2026 21:51:23 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "description": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "pubDate": "Wed, 19 Aug 2026 20:04:41 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
