@@ -1,9 +1,79 @@
 {
-  "generated_at": "2026-08-20T16:24:15.743Z",
+  "generated_at": "2026-08-20T20:19:20.200Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search se",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "pubDate": "Thu, 20 Aug 2026 19:15:05 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "pubDate": "Thu, 20 Aug 2026 18:20:35 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Grok keeps sending gibberish responses to users",
+      "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "pubDate": "Thu, 20 Aug 2026 17:32:16 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "pubDate": "Thu, 20 Aug 2026 17:18:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "pubDate": "Thu, 20 Aug 2026 16:52:57 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "pubDate": "Thu, 20 Aug 2026 16:46:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
       "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
@@ -16,7 +86,7 @@
     },
     {
       "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable po",
+      "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable pow",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
       "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
@@ -26,7 +96,7 @@
     },
     {
       "title": "It’s Greg Brockman’s OpenAI now",
-      "description": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from A",
+      "description": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Ap",
       "readTime": "1 min read",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "pubDate": "2026-08-20T15:45:55.000Z",
@@ -52,76 +122,6 @@
       "pubDate": "Thu, 20 Aug 2026 14:05:18 +0000",
       "image": "",
       "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathem",
-      "readTime": "32 min read",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "pubDate": "2026-08-20T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "pubDate": "Thu, 20 Aug 2026 13:00:35 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-      "description": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, startin",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-      "pubDate": "Thu, 20 Aug 2026 13:00:24 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "description": "Meta said its Muse Spark model is powering the dictation feature.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "pubDate": "Thu, 20 Aug 2026 12:11:57 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "description": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "pubDate": "2026-08-20T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "description": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection a",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "pubDate": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models",
-      "description": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multipl",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "pubDate": "Thu, 20 Aug 2026 09:47:22 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
       "category": "General"
     }
   ]
