@@ -1,9 +1,59 @@
 {
-  "generated_at": "2026-08-20T08:27:56.878Z",
+  "generated_at": "2026-08-20T12:30:36.929Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "description": "Meta said its Muse Spark model is powering the dictation feature.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "pubDate": "Thu, 20 Aug 2026 12:11:57 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "description": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection a",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "pubDate": "Thu, 20 Aug 2026 10:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "description": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multipl",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "pubDate": "Thu, 20 Aug 2026 09:47:22 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "description": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "pubDate": "Thu, 20 Aug 2026 09:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "description": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a minist",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+      "pubDate": "Thu, 20 Aug 2026 09:00:00 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
     {
       "title": "A third of ChatGPT ads appear in irrelevant conversations",
       "description": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility pl",
@@ -72,56 +122,6 @@
       "pubDate": "Wed, 19 Aug 2026 20:04:41 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "pubDate": "Wed, 19 Aug 2026 19:11:40 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google Gemini is getting a dedicated student hub",
-      "description": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "pubDate": "2026-08-19T19:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getti",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
