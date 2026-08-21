@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-21T08:29:56.283Z",
+  "generated_at": "2026-08-21T12:29:32.125Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "General"
+    },
+    {
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "description": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "pubDate": "Fri, 21 Aug 2026 11:00:53 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "description": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "pubDate": "Fri, 21 Aug 2026 08:41:29 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
     {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
       "pubDate": "Thu, 20 Aug 2026 17:32:16 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "pubDate": "Thu, 20 Aug 2026 17:18:58 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "pubDate": "Thu, 20 Aug 2026 16:52:57 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "Ramp launches its own AI model router, called Router",
-      "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "pubDate": "Thu, 20 Aug 2026 16:46:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
