@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-21T12:29:32.125Z",
+  "generated_at": "2026-08-21T16:22:35.842Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "description": "There's about to be a big fight to secure access to space.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scan",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
@@ -42,6 +62,16 @@
       "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
       "category": "General"
     },
     {
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
       "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "pubDate": "Thu, 20 Aug 2026 19:15:05 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "pubDate": "Thu, 20 Aug 2026 18:20:35 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Grok keeps sending gibberish responses to users",
-      "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "pubDate": "Thu, 20 Aug 2026 17:32:16 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
