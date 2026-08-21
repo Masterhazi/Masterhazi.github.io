@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-21T16:22:35.842Z",
+  "generated_at": "2026-08-21T20:16:24.309Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "description": "There's about to be a big fight to secure access to space.",
@@ -22,6 +32,16 @@
       "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "description": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube\t\n\nOver the past few days, a number of prominent filmmaking content creators including Matti H",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "pubDate": "2026-08-21T13:37:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
     },
     {
@@ -102,26 +122,6 @@
       "pubDate": "2026-08-20T21:50:22.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "description": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "pubDate": "Thu, 20 Aug 2026 20:53:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search se",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
