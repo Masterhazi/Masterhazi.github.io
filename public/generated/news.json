@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-22T12:21:48.137Z",
+  "generated_at": "2026-08-22T16:14:23.600Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpe",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restrict",
@@ -92,16 +102,6 @@
       "pubDate": "Fri, 21 Aug 2026 11:00:53 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "description": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "pubDate": "Fri, 21 Aug 2026 08:41:29 +0000",
-      "image": "",
-      "source": "AI News",
       "category": "General"
     },
     {
