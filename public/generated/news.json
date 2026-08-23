@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-23T12:22:26.417Z",
+  "generated_at": "2026-08-23T16:15:58.467Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illega",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
@@ -102,26 +122,6 @@
       "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "description": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube\t\n\nOver the past few days, a number of prominent filmmaking content creators including Matti H",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "pubDate": "2026-08-21T13:37:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
-      "image": "",
-      "source": "Google DeepMind",
       "category": "General"
     }
   ]
