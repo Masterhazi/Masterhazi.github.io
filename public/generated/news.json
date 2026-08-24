@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-24T08:38:11.304Z",
+  "generated_at": "2026-08-24T12:31:08.788Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "description": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human la",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "pubDate": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
@@ -112,16 +122,6 @@
       "pubDate": "2026-08-21T21:25:50.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
