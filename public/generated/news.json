@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T00:46:19.470Z",
+  "generated_at": "2026-08-25T04:31:09.212Z",
   "summary": "",
   "insight": "",
   "highlights": [],
@@ -12,6 +12,16 @@
       "pubDate": "Tue, 25 Aug 2026 00:23:12 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/gradio-workflow-guide",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
       "category": "General"
     },
     {
@@ -65,6 +75,16 @@
       "category": "General"
     },
     {
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "description": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the fundi",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "pubDate": "Mon, 24 Aug 2026 15:53:53 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
       "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valu",
       "readTime": "1 min read",
@@ -102,26 +122,6 @@
       "pubDate": "Mon, 24 Aug 2026 15:00:19 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "pubDate": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
-      "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbo",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "pubDate": "Mon, 24 Aug 2026 14:20:19 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
       "category": "General"
     }
   ]
