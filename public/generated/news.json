@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-24T20:20:24.576Z",
+  "generated_at": "2026-08-25T00:46:19.470Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "pubDate": "Tue, 25 Aug 2026 00:23:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "pubDate": "Mon, 24 Aug 2026 21:45:53 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "description": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "pubDate": "Mon, 24 Aug 2026 21:24:17 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
       "description": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
       "pubDate": "Mon, 24 Aug 2026 14:20:19 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts aris",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "pubDate": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "description": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/gpt-5-6-in-kiro",
-      "pubDate": "Mon, 24 Aug 2026 12:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "description": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human la",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "pubDate": "Mon, 24 Aug 2026 09:00:00 +0000",
       "image": "",
       "source": "MIT Technology Review",
       "category": "General"
