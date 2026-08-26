@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-26T00:47:59.727Z",
+  "generated_at": "2026-08-26T04:32:00.380Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "pubDate": "Wed, 26 Aug 2026 03:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
       "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
@@ -55,6 +65,16 @@
       "category": "General"
     },
     {
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "description": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "pubDate": "Tue, 25 Aug 2026 15:46:06 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
       "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
       "description": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased v",
       "readTime": "1 min read",
@@ -102,26 +122,6 @@
       "pubDate": "Tue, 25 Aug 2026 14:22:04 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "description": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "pubDate": "2026-08-25T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
-      "description": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "pubDate": "Tue, 25 Aug 2026 13:00:11 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
