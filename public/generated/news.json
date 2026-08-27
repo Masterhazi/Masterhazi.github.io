@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-26T22:36:59.758Z",
+  "generated_at": "2026-08-27T06:18:42.044Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "pubDate": "Thu, 27 Aug 2026 00:24:57 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "pubDate": "Wed, 26 Aug 2026 23:47:18 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
       "description": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, A",
@@ -15,7 +35,7 @@
       "category": "General"
     },
     {
-      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
       "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
@@ -36,7 +56,7 @@
     },
     {
       "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "description": "Reuters report shows Meta's challenges replacing people with AI agents.",
+      "description": "Report shows Meta's challenges replacing people with AI agents.",
       "readTime": "1 min read",
       "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
       "pubDate": "Wed, 26 Aug 2026 21:25:27 +0000",
@@ -102,26 +122,6 @@
       "pubDate": "Wed, 26 Aug 2026 19:00:00 +0000",
       "image": "",
       "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "pubDate": "Wed, 26 Aug 2026 17:01:00 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "General"
-    },
-    {
-      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-      "description": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "pubDate": "2026-08-26T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
