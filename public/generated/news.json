@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-28T03:56:29.612Z",
+  "generated_at": "2026-08-28T15:50:53.020Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Meta tweaks AI glasses to block some creepy recordings, but privacy risks remain",
+      "description": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+      "pubDate": "Fri, 28 Aug 2026 15:42:24 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washing",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "pubDate": "Fri, 28 Aug 2026 12:46:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "pubDate": "Fri, 28 Aug 2026 12:21:06 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "description": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a batt",
@@ -12,6 +42,16 @@
       "pubDate": "2026-08-28T03:14:06.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "pubDate": "Fri, 28 Aug 2026 02:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "General"
     },
     {
@@ -26,7 +66,7 @@
     },
     {
       "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "description": "Standardized driver interface  aims to let devices talk to AI and each other.",
+      "description": "Standardized driver interface aims to let devices talk to AI and each other.",
       "readTime": "1 min read",
       "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
       "pubDate": "Thu, 27 Aug 2026 22:15:43 +0000",
@@ -82,46 +122,6 @@
       "pubDate": "Thu, 27 Aug 2026 18:57:08 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "pubDate": "Thu, 27 Aug 2026 17:43:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "pubDate": "2026-08-27T16:15:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "pubDate": "Thu, 27 Aug 2026 16:11:32 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "General"
-    },
-    {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling par",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
