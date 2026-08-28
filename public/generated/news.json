@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-08-27T18:40:09.264Z",
+  "generated_at": "2026-08-28T03:56:29.612Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "description": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a batt",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "pubDate": "2026-08-28T03:14:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "pubDate": "Thu, 27 Aug 2026 23:16:45 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "description": "Standardized driver interface  aims to let devices talk to AI and each other.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "pubDate": "Thu, 27 Aug 2026 22:15:43 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+      "description": "xAI accused of training Grok on real and AI-generated child pornography.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+      "pubDate": "Thu, 27 Aug 2026 20:52:31 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "description": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "pubDate": "Thu, 27 Aug 2026 19:55:22 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "description": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "pubDate": "2026-08-27T19:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "description": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+      "pubDate": "Thu, 27 Aug 2026 18:57:08 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off",
@@ -42,86 +122,6 @@
       "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "description": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "pubDate": "Thu, 27 Aug 2026 14:56:52 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "description": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to",
-      "readTime": "7 min read",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "pubDate": "Thu, 27 Aug 2026 14:30:00 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "General"
-    },
-    {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "pubDate": "Thu, 27 Aug 2026 14:27:04 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "description": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "pubDate": "Thu, 27 Aug 2026 14:01:42 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "description": "Presented by Gravitee \n\nAgent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.\nThat’s because enterprises don't deploy a sing",
-      "readTime": "4 min read",
-      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "pubDate": "Thu, 27 Aug 2026 14:01:00 GMT",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "General"
-    },
-    {
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "description": "227 install commands were found in corporate docs pointing at code nobody owns.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "pubDate": "Thu, 27 Aug 2026 14:00:13 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI’s executive exodus has one big winner",
-      "description": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to ",
-      "readTime": "32 min read",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "pubDate": "2026-08-27T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "How much of a problem is AI’s water use?",
-      "description": "AI’s water footprint is growing, but location and cooling technology make a difference.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-      "pubDate": "Thu, 27 Aug 2026 13:57:08 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
