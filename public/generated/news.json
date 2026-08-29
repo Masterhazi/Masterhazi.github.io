@@ -1,11 +1,61 @@
 {
-  "generated_at": "2026-08-28T15:50:53.020Z",
+  "generated_at": "2026-08-29T00:17:14.351Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Meta tweaks AI glasses to block some creepy recordings, but privacy risks remain",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "description": "There's a lot of capital pouring into the business of giving models away.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "pubDate": "Fri, 28 Aug 2026 18:19:40 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "description": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "pubDate": "Fri, 28 Aug 2026 18:07:55 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "description": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any p",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "pubDate": "2026-08-28T16:28:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
       "description": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
       "readTime": "1 min read",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
@@ -55,6 +105,16 @@
       "category": "General"
     },
     {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "pubDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
       "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
       "readTime": "1 min read",
@@ -62,66 +122,6 @@
       "pubDate": "Thu, 27 Aug 2026 23:16:45 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "description": "Standardized driver interface aims to let devices talk to AI and each other.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "pubDate": "Thu, 27 Aug 2026 22:15:43 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-      "description": "xAI accused of training Grok on real and AI-generated child pornography.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-      "pubDate": "Thu, 27 Aug 2026 20:52:31 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "description": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "pubDate": "Thu, 27 Aug 2026 19:55:22 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "description": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "pubDate": "2026-08-27T19:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-      "description": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-      "pubDate": "Thu, 27 Aug 2026 18:57:08 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
