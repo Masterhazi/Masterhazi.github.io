@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-29T10:37:08.855Z",
+  "generated_at": "2026-08-29T15:58:52.943Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are al",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "pubDate": "2026-08-29T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0,0,85.33125,89.314310632479",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
@@ -102,26 +122,6 @@
       "pubDate": "2026-08-28T03:14:06.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "pubDate": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "pubDate": "Fri, 28 Aug 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
       "category": "General"
     }
   ]
