@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-29T15:58:52.943Z",
+  "generated_at": "2026-08-29T19:14:56.389Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighte",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "pubDate": "2026-08-29T18:19:53.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discover",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
@@ -92,36 +122,6 @@
       "pubDate": "Fri, 28 Aug 2026 12:46:12 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "pubDate": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "description": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a batt",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "pubDate": "2026-08-28T03:14:06.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
