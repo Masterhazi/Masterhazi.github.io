@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-30T15:47:09.158Z",
+  "generated_at": "2026-08-30T18:57:26.965Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "pubDate": "Sun, 30 Aug 2026 16:54:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
       "description": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune",
@@ -112,16 +122,6 @@
       "pubDate": "Fri, 28 Aug 2026 18:19:40 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "description": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-      "pubDate": "Fri, 28 Aug 2026 18:07:55 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
