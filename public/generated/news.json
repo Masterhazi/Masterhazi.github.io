@@ -1,21 +1,101 @@
 {
-  "generated_at": "2026-08-31T10:18:31.249Z",
+  "generated_at": "2026-08-31T18:30:48.130Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "description": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last mo",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "pubDate": "Mon, 31 Aug 2026 10:00:34 +0000",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "pubDate": "Mon, 31 Aug 2026 18:00:00 +0000",
       "image": "",
-      "source": "Ars Technica",
+      "source": "MIT Technology Review",
       "category": "General"
     },
     {
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "description": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Debian won’t ban AI code from its Linux distribution",
+      "description": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledg",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "pubDate": "2026-08-31T15:34:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "pubDate": "Mon, 31 Aug 2026 15:15:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "description": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech po",
+      "readTime": "46 min read",
+      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "pubDate": "2026-08-31T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "description": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "pubDate": "2026-08-31T13:27:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "description": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez\t\n\nInstagram is finally taking steps to address the rise of fake AI-influe",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "pubDate": "2026-08-31T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "description": "Circleback is also introducing new pricing plans starting from $14 per month.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "pubDate": "Mon, 31 Aug 2026 12:56:46 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "pubDate": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
       "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
@@ -40,88 +120,8 @@
       "readTime": "1 min read",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
       "pubDate": "2026-08-30T15:35:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291175333.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "pubDate": "Sun, 30 Aug 2026 15:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "description": "The company is testing robots on tasks that can performed by technicians.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "pubDate": "Sun, 30 Aug 2026 11:03:47 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "description": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\"",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "pubDate": "2026-08-29T18:19:53.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discover",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are al",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "pubDate": "2026-08-29T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0,0,85.33125,89.314310632479",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
