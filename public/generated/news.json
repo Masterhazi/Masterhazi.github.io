@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-08-31T18:30:48.130Z",
+  "generated_at": "2026-08-31T23:31:01.149Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "pubDate": "Mon, 31 Aug 2026 20:13:45 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "pubDate": "Mon, 31 Aug 2026 19:16:59 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "pubDate": "Mon, 31 Aug 2026 18:35:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "description": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "Hugging Face hack could indicate cultural issues at OpenAI",
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last mo",
@@ -55,6 +95,16 @@
       "category": "General"
     },
     {
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "description": "Explosive growth comes with a new regulatory burden in the European Union.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "pubDate": "Mon, 31 Aug 2026 13:41:40 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
       "title": "ChatGPT to face tougher regulation in the EU",
       "description": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's",
       "readTime": "1 min read",
@@ -71,56 +121,6 @@
       "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
       "pubDate": "2026-08-31T13:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-      "description": "Circleback is also introducing new pricing plans starting from $14 per month.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "pubDate": "Mon, 31 Aug 2026 12:56:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "pubDate": "Mon, 31 Aug 2026 04:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "pubDate": "Mon, 31 Aug 2026 02:34:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "pubDate": "Sun, 30 Aug 2026 16:54:25 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "description": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "pubDate": "2026-08-30T15:35:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291175333.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     }
