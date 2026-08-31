@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-31T02:36:33.290Z",
+  "generated_at": "2026-08-31T10:18:31.249Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "description": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "pubDate": "Mon, 31 Aug 2026 10:00:34 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
       "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
@@ -110,16 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
