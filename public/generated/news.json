@@ -1,12 +1,112 @@
 {
-  "generated_at": "2026-09-01T15:49:38.028Z",
+  "generated_at": "2026-09-01T19:03:34.888Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "description": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" We",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "pubDate": "2026-09-01T19:02:54.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "description": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a fili",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "pubDate": "2026-09-01T18:19:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "pubDate": "Tue, 01 Sep 2026 17:08:51 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "General"
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "pubDate": "Tue, 01 Sep 2026 16:31:04 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "John Deere launched an AI chatbot for farmers",
+      "description": "John Deere is testing a new  \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own da",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "pubDate": "2026-09-01T16:00:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Google Pics is like Canva, but with even more AI",
+      "description": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google\t\n\nGoogle has a new suite of creative design tools for Workspace users called Goo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "pubDate": "2026-09-01T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trig",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "pubDate": "Tue, 01 Sep 2026 15:51:55 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
       "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+      "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
       "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
@@ -22,106 +122,6 @@
       "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "description": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video ga",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "pubDate": "2026-09-01T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "pubDate": "Tue, 01 Sep 2026 00:13:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/webgpu-kernels",
-      "pubDate": "Tue, 01 Sep 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "pubDate": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "pubDate": "Mon, 31 Aug 2026 19:16:59 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "pubDate": "Mon, 31 Aug 2026 18:35:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "description": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last mo",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "pubDate": "Mon, 31 Aug 2026 18:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "description": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Debian won’t ban AI code from its Linux distribution",
-      "description": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledg",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "pubDate": "2026-08-31T15:34:58.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
