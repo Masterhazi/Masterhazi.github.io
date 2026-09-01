@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-01T09:02:26.959Z",
+  "generated_at": "2026-09-01T15:49:38.028Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "description": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video ga",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "pubDate": "2026-09-01T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
@@ -12,6 +42,16 @@
       "pubDate": "Tue, 01 Sep 2026 00:13:00 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "pubDate": "Tue, 01 Sep 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
       "category": "General"
     },
     {
@@ -81,46 +121,6 @@
       "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
       "pubDate": "2026-08-31T15:34:58.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "pubDate": "Mon, 31 Aug 2026 15:15:25 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "description": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech po",
-      "readTime": "46 min read",
-      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "pubDate": "2026-08-31T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "description": "Explosive growth comes with a new regulatory burden in the European Union.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "pubDate": "Mon, 31 Aug 2026 13:41:40 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "description": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "pubDate": "2026-08-31T13:27:36.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     }
