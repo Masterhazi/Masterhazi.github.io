@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-08-31T23:31:01.149Z",
+  "generated_at": "2026-09-01T02:50:06.505Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "pubDate": "Tue, 01 Sep 2026 00:13:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
@@ -45,7 +55,7 @@
       "category": "General"
     },
     {
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last mo",
       "readTime": "1 min read",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -111,16 +121,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
       "pubDate": "2026-08-31T13:27:36.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Instagram cracks down on AI accounts pretending to be human",
-      "description": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez\t\n\nInstagram is finally taking steps to address the rise of fake AI-influe",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "pubDate": "2026-08-31T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     }
