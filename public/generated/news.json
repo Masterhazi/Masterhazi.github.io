@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-01T22:14:13.544Z",
+  "generated_at": "2026-09-02T02:10:08.526Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "pubDate": "2026-09-01T22:50:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
       "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valu",
@@ -12,6 +22,16 @@
       "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+      "description": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "pubDate": "2026-09-01T22:01:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
     },
     {
@@ -35,7 +55,7 @@
       "category": "General"
     },
     {
-      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
       "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
@@ -55,6 +75,16 @@
       "category": "General"
     },
     {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "description": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shor",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "pubDate": "2026-09-01T20:45:49.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
       "title": "Anthropic’s new Fable release is cheaper, less restrictive",
       "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
       "readTime": "1 min read",
@@ -65,6 +95,26 @@
       "category": "General"
     },
     {
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "description": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" We",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "pubDate": "2026-09-01T19:02:54.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "description": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a fili",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "pubDate": "2026-09-01T18:19:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
       "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
       "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
       "readTime": "1 min read",
@@ -72,56 +122,6 @@
       "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Introducing agentic video understanding with Gemini",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "pubDate": "Tue, 01 Sep 2026 17:08:51 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "General"
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/ai-native-company-workflows",
-      "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "pubDate": "Tue, 01 Sep 2026 16:31:04 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "John Deere launched an AI chatbot for farmers",
-      "description": "John Deere is testing a new  \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own da",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "pubDate": "2026-09-01T16:00:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
