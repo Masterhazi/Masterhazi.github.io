@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-03T02:16:51.324Z",
+  "generated_at": "2026-09-03T08:25:33.129Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/train-to-paint-with-code",
+      "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
@@ -112,16 +122,6 @@
       "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testi",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "pubDate": "2026-09-02T16:40:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
