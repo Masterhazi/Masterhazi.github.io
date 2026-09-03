@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-03T18:59:53.397Z",
+  "generated_at": "2026-09-03T22:04:02.213Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
       "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
@@ -16,7 +26,7 @@
     },
     {
       "title": "Meta is paying to peek at how you use their latest AI model",
-      "description": "Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Sp",
+      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the dev",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
       "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
@@ -112,16 +122,6 @@
       "pubDate": "Thu, 03 Sep 2026 15:50:31 +0000",
       "image": "",
       "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started re",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "pubDate": "2026-09-03T15:35:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
