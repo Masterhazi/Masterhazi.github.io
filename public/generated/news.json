@@ -1,9 +1,99 @@
 {
-  "generated_at": "2026-09-03T08:25:33.129Z",
+  "generated_at": "2026-09-03T15:32:53.261Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "pubDate": "Thu, 03 Sep 2026 15:02:08 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "General"
+    },
+    {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "description": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and pred",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Google says its AI weather model is getting better",
+      "description": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.\nIn the announcement today, the comp",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "pubDate": "2026-09-03T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "description": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "pubDate": "Thu, 03 Sep 2026 13:34:13 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/Hcompany/neomme",
+      "pubDate": "Thu, 03 Sep 2026 13:13:48 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "description": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s c",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "pubDate": "Thu, 03 Sep 2026 13:00:35 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/funes",
+      "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
     {
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "description": "",
@@ -30,96 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "pubDate": "Wed, 02 Sep 2026 22:24:09 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasonin",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "pubDate": "2026-09-02T20:11:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "description": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "pubDate": "Wed, 02 Sep 2026 18:13:54 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "description": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "pubDate": "Wed, 02 Sep 2026 17:58:33 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came f",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "pubDate": "2026-09-02T17:52:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applicati",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applicati",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "pubDate": "Wed, 02 Sep 2026 17:09:57 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
