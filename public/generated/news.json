@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-04T02:17:04.319Z",
+  "generated_at": "2026-09-04T08:25:14.388Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
       "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
@@ -82,16 +92,6 @@
       "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
-      "description": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
-      "pubDate": "Thu, 03 Sep 2026 16:07:18 +0000",
-      "image": "",
-      "source": "AI News",
       "category": "General"
     },
     {
