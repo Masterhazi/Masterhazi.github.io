@@ -1,9 +1,99 @@
 {
-  "generated_at": "2026-09-04T08:25:14.388Z",
+  "generated_at": "2026-09-04T15:30:43.627Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "pubDate": "Fri, 04 Sep 2026 14:47:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "pubDate": "Fri, 04 Sep 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "description": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the i",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "pubDate": "2026-09-04T13:34:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Instagram’s AI detection is a mess (again)",
+      "description": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "pubDate": "2026-09-04T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Why AI food looks like that",
+      "description": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "pubDate": "2026-09-04T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "pubDate": "2026-09-04T10:44:15.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new front",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "pubDate": "2026-09-04T10:41:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "This NAS company wants to run your local smart home",
+      "description": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgr",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "pubDate": "2026-09-04T09:41:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "description": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a n",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "pubDate": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
       "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
@@ -32,96 +122,6 @@
       "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the dev",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "description": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-      "pubDate": "Thu, 03 Sep 2026 18:10:19 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "pubDate": "Thu, 03 Sep 2026 18:01:45 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, scienc",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "pubDate": "2026-09-03T18:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "description": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "pubDate": "Thu, 03 Sep 2026 16:00:59 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nL",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "pubDate": "2026-09-03T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "description": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "pubDate": "2026-09-03T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
