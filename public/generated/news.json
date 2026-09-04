@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-03T22:04:02.213Z",
+  "generated_at": "2026-09-04T02:17:04.319Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
       "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
@@ -112,16 +122,6 @@
       "pubDate": "2026-09-03T16:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA to acquire Hugging Face for $12.93B",
-      "description": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository’s platform and infrastructure. The transaction targets platform growth and in",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
-      "pubDate": "Thu, 03 Sep 2026 15:50:31 +0000",
-      "image": "",
-      "source": "AI News",
       "category": "General"
     }
   ]
