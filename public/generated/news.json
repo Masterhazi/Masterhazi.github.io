@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-04T21:58:55.406Z",
+  "generated_at": "2026-09-05T02:12:59.663Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "description": "The round is being raised just months after the robot data startup exited from stealth.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their ow",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "pubDate": "Fri, 04 Sep 2026 22:17:36 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
@@ -92,36 +122,6 @@
       "pubDate": "Fri, 04 Sep 2026 16:04:08 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "pubDate": "Fri, 04 Sep 2026 14:47:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "pubDate": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "description": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the i",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "pubDate": "2026-09-04T13:34:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
