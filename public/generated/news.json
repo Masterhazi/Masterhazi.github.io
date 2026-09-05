@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-05T14:18:27.520Z",
+  "generated_at": "2026-09-05T17:49:36.958Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "description": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from repo",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "pubDate": "2026-09-05T11:15:55.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "description": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -112,16 +122,6 @@
       "pubDate": "2026-09-04T16:05:57.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "description": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launc",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "pubDate": "Fri, 04 Sep 2026 16:04:08 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
