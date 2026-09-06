@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-06T17:54:32.730Z",
+  "generated_at": "2026-09-06T21:52:11.887Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "pubDate": "Sun, 06 Sep 2026 16:45:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "An Alien Mind",
       "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
@@ -102,26 +122,6 @@
       "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Architecting memory and storage in the AI era",
-      "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assist",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "pubDate": "Fri, 04 Sep 2026 18:39:19 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "description": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital au",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "pubDate": "2026-09-04T17:51:35.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
