@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-05T21:49:20.731Z",
+  "generated_at": "2026-09-06T02:08:32.602Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
       "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
@@ -112,16 +122,6 @@
       "pubDate": "Fri, 04 Sep 2026 17:18:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "description": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "pubDate": "Fri, 04 Sep 2026 16:22:18 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
