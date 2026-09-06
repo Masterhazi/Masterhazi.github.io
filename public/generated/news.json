@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-06T14:41:36.049Z",
+  "generated_at": "2026-09-06T17:54:32.730Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "An Alien Mind",
+      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/an-alien-mind",
+      "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
@@ -102,26 +122,6 @@
       "pubDate": "2026-09-04T17:51:35.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "description": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "pubDate": "Fri, 04 Sep 2026 17:18:12 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "What will Apple’s John Ternus era look like?",
-      "description": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launc",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "pubDate": "Fri, 04 Sep 2026 17:18:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
