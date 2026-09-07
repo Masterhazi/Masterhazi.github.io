@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-06T21:52:11.887Z",
+  "generated_at": "2026-09-07T02:05:47.728Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "description": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI bega",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "pubDate": "2026-09-06T23:36:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
@@ -42,16 +52,6 @@
       "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     },
     {
