@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-07T08:46:57.569Z",
+  "generated_at": "2026-09-07T16:56:21.040Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "description": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global r",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "pubDate": "Mon, 07 Sep 2026 13:01:23 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "description": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "pubDate": "Mon, 07 Sep 2026 11:00:03 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "Supporting independent journalism in Ukraine",
       "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
@@ -102,26 +122,6 @@
       "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their ow",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "pubDate": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
