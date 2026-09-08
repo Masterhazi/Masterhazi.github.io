@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T02:17:29.892Z",
+  "generated_at": "2026-09-08T08:27:35.408Z",
   "summary": "",
   "insight": "",
   "highlights": [],
@@ -12,6 +12,16 @@
       "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "description": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global r",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "pubDate": "Mon, 07 Sep 2026 13:01:23 +0000",
+      "image": "",
+      "source": "AI News",
       "category": "General"
     },
     {
@@ -112,16 +122,6 @@
       "pubDate": "2026-09-05T11:15:55.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
