@@ -1,9 +1,99 @@
 {
-  "generated_at": "2026-09-09T18:57:40.615Z",
+  "generated_at": "2026-09-09T22:08:15.960Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Suno releases its first AI music model made with record industry help",
+      "description": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of da",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "pubDate": "2026-09-09T21:42:19.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "description": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t\n\nOpenAI's announcement Tuesday that it has solved one of mathem",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "pubDate": "2026-09-09T21:16:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "description": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recogn",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "pubDate": "2026-09-09T20:44:43.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "description": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "description": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "pubDate": "Wed, 09 Sep 2026 20:06:28 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "description": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "description": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later th",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "pubDate": "2026-09-09T19:30:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "pubDate": "Wed, 09 Sep 2026 19:21:48 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
       "description": "The update uses Apple Intelligence to make better sense of your health data.",
@@ -30,96 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
       "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Microsoft has new AI privacy rules for schools",
-      "description": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. \nIn a new agreement with th",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-      "pubDate": "2026-09-09T17:07:48.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "description": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "pubDate": "Wed, 09 Sep 2026 17:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "description": "\"We really do earnestly believe AI could kill all humans!\"",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-      "pubDate": "Wed, 09 Sep 2026 16:59:40 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Google's AI genome system evaluates every possible one-base change",
-      "description": "Most one-base changes to the human genome do nothing, but a few are significant.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-      "pubDate": "Wed, 09 Sep 2026 16:34:18 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Superintelligence is coming. Should we let it?",
-      "description": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "pubDate": "Wed, 09 Sep 2026 16:05:35 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "description": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations acr",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-      "pubDate": "Wed, 09 Sep 2026 16:00:42 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-      "description": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-      "pubDate": "Wed, 09 Sep 2026 15:50:13 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "pubDate": "Wed, 09 Sep 2026 15:36:24 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "pubDate": "Wed, 09 Sep 2026 15:13:12 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
