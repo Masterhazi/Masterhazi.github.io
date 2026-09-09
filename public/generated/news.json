@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-09-09T08:30:18.387Z",
+  "generated_at": "2026-09-09T15:38:49.207Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "description": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some ",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "pubDate": "Wed, 09 Sep 2026 03:10:08 +0000",
+      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "pubDate": "Wed, 09 Sep 2026 15:36:24 GMT",
       "image": "",
-      "source": "MIT Technology Review",
+      "source": "Hugging Face",
       "category": "General"
     },
     {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "pubDate": "Tue, 08 Sep 2026 21:11:46 +0000",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "pubDate": "Wed, 09 Sep 2026 15:13:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "pubDate": "Wed, 09 Sep 2026 15:02:47 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "description": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and aft",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "pubDate": "Wed, 09 Sep 2026 14:51:45 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "description": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "pubDate": "Wed, 09 Sep 2026 14:18:34 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "description": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "description": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "description": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only availab",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "pubDate": "2026-09-09T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "description": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "pubDate": "Wed, 09 Sep 2026 12:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "pubDate": "Wed, 09 Sep 2026 12:05:34 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Students who use AI generally score worse at school",
+      "description": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "pubDate": "2026-09-09T12:05:01.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "description": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "pubDate": "Wed, 09 Sep 2026 11:00:10 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "description": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "description": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesd",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "pubDate": "2026-09-08T20:53:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "description": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "pubDate": "2026-09-08T20:16:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of wh",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "description": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the l",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "pubDate": "2026-09-08T19:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-      "description": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-      "pubDate": "Tue, 08 Sep 2026 18:43:09 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Update to Google’s AI weather model improves forecast accuracy",
-      "description": "Like traditional weather models, it benefits from an expanded set of inputs.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-      "pubDate": "Tue, 08 Sep 2026 18:00:56 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "description": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customer",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "pubDate": "2026-09-08T17:27:31.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
