@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-09T02:20:40.947Z",
+  "generated_at": "2026-09-09T08:30:18.387Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "description": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some ",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "pubDate": "Wed, 09 Sep 2026 03:10:08 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
     {
       "title": "Why this month's Microsoft patch release is a doozy",
       "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
@@ -112,16 +122,6 @@
       "pubDate": "2026-09-08T17:27:31.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "General"
     }
   ]
