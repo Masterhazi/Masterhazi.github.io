@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-09-10T15:34:40.175Z",
+  "generated_at": "2026-09-10T18:51:02.546Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "description": "\"Bankruptcy cannot become the new land grab for AI.”",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "pubDate": "Thu, 10 Sep 2026 18:14:14 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "description": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster act",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "pubDate": "Thu, 10 Sep 2026 16:34:43 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
+      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "description": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant rep",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "pubDate": "Thu, 10 Sep 2026 16:30:35 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-promo-skildai-corp-blog-1600x900-one.mp4",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "description": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as drive",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+      "pubDate": "Thu, 10 Sep 2026 16:00:04 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "description": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on trac",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "pubDate": "2026-09-10T15:38:19.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Now everyone can put data to work",
       "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
@@ -40,86 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
       "pubDate": "Thu, 10 Sep 2026 14:17:37 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Why the current tech backlash feels different",
-      "description": "This interview has been lightly edited for length and clarity. \nNick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senio",
-      "readTime": "47 min read",
-      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "pubDate": "2026-09-10T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "description": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growi",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-      "pubDate": "Thu, 10 Sep 2026 13:00:21 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-      "description": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
-      "pubDate": "Thu, 10 Sep 2026 13:00:18 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "description": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images\t\n\nAnother researcher is challenging OpenAI about the",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "pubDate": "2026-09-10T11:00:57.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Powering AI is an architecture problem",
-      "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds.",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "JD.com expands physical AI in logistics with 3 million robots",
-      "description": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 mill",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-      "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "description": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "pubDate": "Thu, 10 Sep 2026 00:00:37 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
