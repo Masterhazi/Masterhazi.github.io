@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-11T15:36:33.585Z",
+  "generated_at": "2026-09-11T18:54:00.093Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "description": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The compan",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "description": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attac",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "pubDate": "2026-09-11T16:09:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
       "description": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported",
@@ -25,13 +55,13 @@
       "category": "General"
     },
     {
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "description": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery f",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-      "pubDate": "Fri, 11 Sep 2026 12:00:18 +0000",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
       "image": "",
-      "source": "AI News",
+      "source": "OpenAI",
       "category": "General"
     },
     {
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "pubDate": "Thu, 10 Sep 2026 19:50:04 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously prov",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "pubDate": "2026-09-10T19:44:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-      "description": "\"Bankruptcy cannot become the new land grab for AI.”",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "pubDate": "Thu, 10 Sep 2026 18:14:14 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
