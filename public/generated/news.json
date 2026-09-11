@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:08:01.590Z",
+  "generated_at": "2026-09-11T02:15:08.092Z",
   "summary": "",
   "insight": "",
   "highlights": [],
@@ -22,6 +22,16 @@
       "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "description": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Sur",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "pubDate": "2026-09-10T21:25:21.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
     },
     {
@@ -92,16 +102,6 @@
       "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Supply chains detect fast, act slow: How AI agents fix it",
-      "description": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster act",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-      "pubDate": "Thu, 10 Sep 2026 16:34:43 +0000",
-      "image": "",
-      "source": "AI News",
       "category": "General"
     },
     {
