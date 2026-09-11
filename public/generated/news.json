@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-11T08:26:42.124Z",
+  "generated_at": "2026-09-11T15:36:33.585Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "description": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "pubDate": "2026-09-11T14:25:21.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "description": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "pubDate": "Fri, 11 Sep 2026 13:02:35 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "description": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery f",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "pubDate": "Fri, 11 Sep 2026 12:00:18 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -92,36 +122,6 @@
       "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "description": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant rep",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "pubDate": "Thu, 10 Sep 2026 16:30:35 +0000",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-promo-skildai-corp-blog-1600x900-one.mp4",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "description": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as drive",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-      "pubDate": "Thu, 10 Sep 2026 16:00:04 +0000",
-      "image": "",
-      "source": "NVIDIA",
       "category": "General"
     }
   ]
