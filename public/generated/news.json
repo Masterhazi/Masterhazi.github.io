@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-09-11T22:07:25.390Z",
+  "generated_at": "2026-09-12T02:22:03.748Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-      "description": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options t",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
@@ -55,7 +75,7 @@
       "category": "General"
     },
     {
-      "title": "Roundtables: Will AI really kill us all?",
+      "title": "Roundtables: AI’s apocalypse crisis",
       "description": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Joi",
       "readTime": "1 min read",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
@@ -102,26 +122,6 @@
       "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "description": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attac",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "pubDate": "2026-09-11T16:09:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-      "description": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "pubDate": "2026-09-11T14:25:21.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
