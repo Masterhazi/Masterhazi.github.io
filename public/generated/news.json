@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:15:22.604Z",
+  "generated_at": "2026-09-12T14:42:40.355Z",
   "summary": "",
   "insight": "",
   "highlights": [],
@@ -12,6 +12,36 @@
       "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
       "image": "",
       "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Trump is giving data centers a pass to pollute",
+      "description": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "pubDate": "2026-09-12T14:41:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "I spent $4,000 on a robot dog from China",
+      "description": "Unitree might be the world’s most important robotics company.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "pubDate": "Sat, 12 Sep 2026 11:00:53 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "description": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a le",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "pubDate": "2026-09-12T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
     },
     {
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "description": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "pubDate": "Fri, 11 Sep 2026 19:34:09 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "description": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The compan",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
