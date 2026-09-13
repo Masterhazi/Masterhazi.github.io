@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:22:20.250Z",
+  "generated_at": "2026-09-13T18:26:35.390Z",
   "summary": "",
   "insight": "",
   "highlights": [],
@@ -12,6 +12,16 @@
       "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
       "image": "",
       "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s econ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "General"
     },
     {
@@ -112,16 +122,6 @@
       "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "description": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a rep",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "pubDate": "2026-09-11T20:44:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
