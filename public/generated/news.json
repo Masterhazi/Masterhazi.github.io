@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:26:35.390Z",
+  "generated_at": "2026-09-13T21:58:44.321Z",
   "summary": "",
   "insight": "",
   "highlights": [],
@@ -12,6 +12,26 @@
       "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
       "image": "",
       "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "pubDate": "2026-09-13T19:41:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "General"
     },
     {
@@ -100,26 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options t",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
