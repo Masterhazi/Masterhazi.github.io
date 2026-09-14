@@ -1,12 +1,112 @@
 {
-  "generated_at": "2026-09-14T17:18:54.647Z",
+  "generated_at": "2026-09-14T22:52:46.252Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development shou",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "pubDate": "2026-09-14T21:21:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "pubDate": "Mon, 14 Sep 2026 21:04:32 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "description": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Ge",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "pubDate": "2026-09-14T20:03:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "description": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "pubDate": "Mon, 14 Sep 2026 19:45:13 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "description": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "pubDate": "Mon, 14 Sep 2026 19:38:46 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "description": "This is also the last version of macOS to support Rosetta for Intel apps.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "pubDate": "Mon, 14 Sep 2026 19:28:42 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "description": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "pubDate": "Mon, 14 Sep 2026 19:06:13 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted ",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "pubDate": "Mon, 14 Sep 2026 17:54:22 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
       "title": "With iOS 27, I’m actually using Siri again",
-      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
       "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
@@ -22,106 +122,6 @@
       "pubDate": "Mon, 14 Sep 2026 17:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourish",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "description": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the fir",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "pubDate": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
-      "description": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serve",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
-      "pubDate": "Mon, 14 Sep 2026 15:30:41 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "description": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the ",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "pubDate": "Mon, 14 Sep 2026 15:00:52 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't mis",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "pubDate": "Mon, 14 Sep 2026 15:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "description": "Fathom said that it has over 400,000 monthly active users.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "description": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's mo",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "pubDate": "Mon, 14 Sep 2026 14:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "description": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "pubDate": "Mon, 14 Sep 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "pubDate": "Mon, 14 Sep 2026 13:55:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "description": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "pubDate": "2026-09-14T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
