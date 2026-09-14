@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-14T02:37:13.906Z",
+  "generated_at": "2026-09-14T09:25:21.379Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "description": "Deloitte’s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at ",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "pubDate": "Mon, 14 Sep 2026 08:04:35 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "description": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI,",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "pubDate": "Mon, 14 Sep 2026 07:56:45 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
+      "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "description": "Live translation has long been one of travel’s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox G",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "pubDate": "Mon, 14 Sep 2026 07:39:28 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -92,36 +122,6 @@
       "pubDate": "2026-09-12T14:41:27.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "I spent $4,000 on a robot dog from China",
-      "description": "Unitree might be the world’s most important robotics company.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "pubDate": "Sat, 12 Sep 2026 11:00:53 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI just wants to win",
-      "description": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a le",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "pubDate": "2026-09-12T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
