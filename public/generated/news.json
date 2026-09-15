@@ -1,9 +1,109 @@
 {
-  "generated_at": "2026-09-15T15:57:59.864Z",
+  "generated_at": "2026-09-15T19:31:55.672Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "description": "Robots can start working outside physical cages and without safety barriers.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "pubDate": "Tue, 15 Sep 2026 18:33:02 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "pubDate": "Tue, 15 Sep 2026 18:29:20 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "description": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is t",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "pubDate": "Tue, 15 Sep 2026 17:47:51 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "pubDate": "Tue, 15 Sep 2026 17:42:59 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "pubDate": "Tue, 15 Sep 2026 17:05:57 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "General"
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "description": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power cons",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "pubDate": "Tue, 15 Sep 2026 16:55:59 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "description": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center ev",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "pubDate": "Tue, 15 Sep 2026 16:55:40 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "pubDate": "Tue, 15 Sep 2026 16:00:44 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
     {
       "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
       "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
@@ -22,106 +122,6 @@
       "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta’s new One subscriptions put a price on social media and AI",
-      "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the n",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "pubDate": "2026-09-15T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "pubDate": "Tue, 15 Sep 2026 14:42:37 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "description": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and B",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "pubDate": "Tue, 15 Sep 2026 14:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "description": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "description": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSafe is bringing its AI-powered proactive s",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "pubDate": "2026-09-15T13:36:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "description": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "pubDate": "Tue, 15 Sep 2026 12:00:41 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
-      "description": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this L",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
-      "pubDate": "Tue, 15 Sep 2026 11:15:57 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "description": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long ",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "pubDate": "Tue, 15 Sep 2026 10:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
       "category": "General"
     }
   ]
