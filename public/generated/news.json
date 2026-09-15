@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-15T02:40:43.804Z",
+  "generated_at": "2026-09-15T09:05:32.690Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "description": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly b",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "pubDate": "Tue, 15 Sep 2026 07:14:47 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
     {
       "title": "Jensen Huang took a call from Trump, and showed off something else, too",
       "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
@@ -112,16 +122,6 @@
       "pubDate": "Mon, 14 Sep 2026 19:06:13 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted ",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "pubDate": "Mon, 14 Sep 2026 17:54:22 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
       "category": "General"
     }
   ]
