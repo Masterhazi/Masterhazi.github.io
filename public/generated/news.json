@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-09-15T19:31:55.672Z",
+  "generated_at": "2026-09-15T22:34:42.011Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
@@ -102,26 +122,6 @@
       "pubDate": "Tue, 15 Sep 2026 16:00:44 GMT",
       "image": "",
       "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
