@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-09-15T09:05:32.690Z",
+  "generated_at": "2026-09-15T15:57:59.864Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-      "description": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly b",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
       "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-      "pubDate": "Tue, 15 Sep 2026 07:14:47 +0000",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Meta’s new One subscriptions put a price on social media and AI",
+      "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the n",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "pubDate": "2026-09-15T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "pubDate": "Tue, 15 Sep 2026 14:42:37 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "description": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and B",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "pubDate": "Tue, 15 Sep 2026 14:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "description": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "description": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSafe is bringing its AI-powered proactive s",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "pubDate": "2026-09-15T13:36:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "description": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "pubDate": "Tue, 15 Sep 2026 12:00:41 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+      "description": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this L",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+      "pubDate": "Tue, 15 Sep 2026 11:15:57 +0000",
       "image": "",
       "source": "AI News",
       "category": "General"
     },
     {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "description": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long ",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "pubDate": "Tue, 15 Sep 2026 01:50:48 +0000",
+      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "pubDate": "Tue, 15 Sep 2026 10:00:00 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "description": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI developm",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "pubDate": "2026-09-14T22:59:41.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development shou",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "pubDate": "2026-09-14T21:21:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "pubDate": "Mon, 14 Sep 2026 21:04:32 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "description": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Ge",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "pubDate": "2026-09-14T20:03:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "description": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "pubDate": "Mon, 14 Sep 2026 19:45:13 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-      "description": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-      "pubDate": "Mon, 14 Sep 2026 19:38:46 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "description": "This is also the last version of macOS to support Rosetta for Intel apps.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-      "pubDate": "Mon, 14 Sep 2026 19:28:42 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "description": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "pubDate": "Mon, 14 Sep 2026 19:06:13 +0000",
-      "image": "",
-      "source": "Ars Technica",
+      "source": "MIT Technology Review",
       "category": "General"
     }
   ]
