@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-09-16T15:50:58.783Z",
+  "generated_at": "2026-09-16T19:14:23.404Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "pubDate": "Wed, 16 Sep 2026 18:25:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "description": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "pubDate": "2026-09-16T17:20:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Google will now let any AI agent run your smart home",
+      "description": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle is opening up its smart home to AI ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "pubDate": "2026-09-16T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "pubDate": "Wed, 16 Sep 2026 16:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "description": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with ot",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "pubDate": "2026-09-16T16:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Helping older adults use AI in everyday life",
       "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -60,66 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
       "pubDate": "Wed, 16 Sep 2026 14:24:58 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "description": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "pubDate": "Wed, 16 Sep 2026 14:15:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "description": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "description": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "pubDate": "Wed, 16 Sep 2026 13:23:02 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "description": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center.  Today, Emerald A",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-      "pubDate": "Wed, 16 Sep 2026 13:00:33 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/reimagining-advertising-with-ai",
-      "pubDate": "Wed, 16 Sep 2026 13:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
