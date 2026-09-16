@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-16T02:35:19.389Z",
+  "generated_at": "2026-09-16T08:57:46.393Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality wit",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+      "pubDate": "Wed, 16 Sep 2026 05:00:42 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Adobe-Express-UKairpollution-4.mp4",
+      "source": "NVIDIA",
+      "category": "General"
+    },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
@@ -112,16 +122,6 @@
       "pubDate": "Tue, 15 Sep 2026 17:05:57 +0000",
       "image": "",
       "source": "Google DeepMind",
-      "category": "General"
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
