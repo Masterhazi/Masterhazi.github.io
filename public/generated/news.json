@@ -1,9 +1,59 @@
 {
-  "generated_at": "2026-09-16T19:14:23.404Z",
+  "generated_at": "2026-09-16T22:30:47.370Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "description": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "pubDate": "Wed, 16 Sep 2026 22:02:46 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transpar",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "description": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the sto",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "pubDate": "2026-09-16T20:59:13.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "description": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot c",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "pubDate": "2026-09-16T20:40:46.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "pubDate": "Wed, 16 Sep 2026 20:12:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
       "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
@@ -22,6 +72,16 @@
       "pubDate": "2026-09-16T17:20:29.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "pubDate": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "General"
     },
     {
@@ -62,66 +122,6 @@
       "pubDate": "2026-09-16T16:30:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "pubDate": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "description": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
-      "pubDate": "Wed, 16 Sep 2026 15:00:48 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before Septembe",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
-      "description": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targ",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
-      "pubDate": "Wed, 16 Sep 2026 14:47:32 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "The sexy AI-powered dating app scams are here",
-      "description": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. Acco",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "pubDate": "2026-09-16T14:45:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "description": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make th",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "pubDate": "Wed, 16 Sep 2026 14:24:58 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
