@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-15T22:34:42.011Z",
+  "generated_at": "2026-09-16T02:35:19.389Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incr",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "pubDate": "2026-09-15T23:34:25.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "description": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance t",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "pubDate": "Tue, 15 Sep 2026 22:24:34 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
       "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil",
@@ -92,36 +122,6 @@
       "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-      "description": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power cons",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
-      "pubDate": "Tue, 15 Sep 2026 16:55:59 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "description": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center ev",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
-      "pubDate": "Tue, 15 Sep 2026 16:55:40 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "pubDate": "Tue, 15 Sep 2026 16:00:44 GMT",
-      "image": "",
-      "source": "Hugging Face",
       "category": "General"
     }
   ]
