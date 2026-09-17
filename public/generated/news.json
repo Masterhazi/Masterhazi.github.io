@@ -1,9 +1,59 @@
 {
-  "generated_at": "2026-09-17T15:56:56.358Z",
+  "generated_at": "2026-09-17T19:29:54.063Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "description": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "pubDate": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "pubDate": "Thu, 17 Sep 2026 17:15:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "description": "Model maker commits to new framework for reporting misaligned models.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "pubDate": "Thu, 17 Sep 2026 16:18:34 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
@@ -72,56 +122,6 @@
       "pubDate": "Thu, 17 Sep 2026 13:00:55 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "description": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "pubDate": "2026-09-17T11:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268747_AI_safety_RJIANG3.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
-      "description": "The Adecco Group is rolling out Salesforce’s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group announced on September 15.",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
-      "pubDate": "Thu, 17 Sep 2026 11:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "Lidl deploys driverless truck for store deliveries in Germany",
-      "description": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution cen",
-      "readTime": "1 min read",
-      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
-      "pubDate": "Thu, 17 Sep 2026 10:00:00 +0000",
-      "image": "",
-      "source": "AI News",
-      "category": "General"
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
