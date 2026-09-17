@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-17T02:39:18.013Z",
+  "generated_at": "2026-09-17T09:03:25.832Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "pubDate": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Al Gore says the real AI risk isn’t data centers",
       "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the tech",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
@@ -91,36 +121,6 @@
       "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "pubDate": "2026-09-16T17:20:29.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "pubDate": "Wed, 16 Sep 2026 17:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google will now let any AI agent run your smart home",
-      "description": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle is opening up its smart home to AI ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "pubDate": "2026-09-16T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     }
