@@ -1,9 +1,79 @@
 {
-  "generated_at": "2026-09-18T18:45:48.924Z",
+  "generated_at": "2026-09-18T22:06:50.803Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "pubDate": "2026-09-18T21:07:24.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "description": "But the military's overall use of AI seems to be accelerating.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "pubDate": "Fri, 18 Sep 2026 20:26:33 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what t",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "description": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "pubDate": "Fri, 18 Sep 2026 19:20:50 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "pubDate": "Fri, 18 Sep 2026 18:49:30 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "description": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down appro",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "pubDate": "2026-09-18T18:29:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
       "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
@@ -50,76 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
       "pubDate": "Fri, 18 Sep 2026 17:06:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Gavin Newsom is pushing for an AI kill switch",
-      "description": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new execu",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-      "pubDate": "2026-09-18T17:04:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "pubDate": "Fri, 18 Sep 2026 16:35:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "What Hollywood thinks about existential AI warnings",
-      "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge r",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "pubDate": "2026-09-18T16:35:19.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "description": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5,",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "pubDate": "2026-09-18T15:30:16.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "pubDate": "Fri, 18 Sep 2026 15:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "pubDate": "Fri, 18 Sep 2026 15:22:48 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
