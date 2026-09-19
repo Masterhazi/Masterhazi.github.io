@@ -1,11 +1,61 @@
 {
-  "generated_at": "2026-09-18T22:06:50.803Z",
+  "generated_at": "2026-09-19T02:26:38.395Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
       "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
@@ -72,56 +122,6 @@
       "pubDate": "2026-09-18T18:29:17.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping li",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "description": "The Federal Register website briefly used an open source Chinese AI search tool.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-      "pubDate": "Fri, 18 Sep 2026 17:28:50 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "description": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The pro",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "pubDate": "Fri, 18 Sep 2026 17:09:56 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "description": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The pro",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "pubDate": "Fri, 18 Sep 2026 17:06:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
