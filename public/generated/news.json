@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-19T18:19:10.898Z",
+  "generated_at": "2026-09-19T21:58:41.148Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "pubDate": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Google’s Gemini is the latest AI model to hack other companies",
       "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
@@ -100,26 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
       "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
