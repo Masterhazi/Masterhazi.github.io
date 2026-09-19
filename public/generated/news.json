@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-09-19T15:05:48.626Z",
+  "generated_at": "2026-09-19T18:19:10.898Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happe",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "pubDate": "2026-09-19T15:25:03.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "AI safety conversations have gotten unbelievable",
       "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
       "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
@@ -82,46 +122,6 @@
       "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "pubDate": "2026-09-18T21:07:24.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-      "description": "But the military's overall use of AI seems to be accelerating.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "pubDate": "Fri, 18 Sep 2026 20:26:33 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
