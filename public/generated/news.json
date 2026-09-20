@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-19T21:58:41.148Z",
+  "generated_at": "2026-09-20T02:36:53.098Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "description": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "pubDate": "2026-09-19T20:44:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
@@ -110,16 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
       "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
