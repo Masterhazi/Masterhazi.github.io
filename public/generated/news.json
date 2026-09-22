@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-09-22T08:55:36.127Z",
+  "generated_at": "2026-09-22T16:00:10.255Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "description": "",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now ",
       "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/omlx",
-      "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
     },
     {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "pubDate": "Mon, 21 Sep 2026 22:24:38 +0000",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "pubDate": "Tue, 22 Sep 2026 14:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "description": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "pubDate": "Tue, 22 Sep 2026 14:15:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "description": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "description": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cr",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "pubDate": "Tue, 22 Sep 2026 13:42:05 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
+      "description": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
+      "pubDate": "Tue, 22 Sep 2026 13:33:16 +0000",
       "image": "",
       "source": "Ars Technica",
       "category": "General"
     },
     {
-      "title": "California tightens rules on AI data center energy and water use",
-      "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The",
+      "title": "Everyone can find a reason to dislike data center construction",
+      "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "pubDate": "2026-09-21T20:29:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "description": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "pubDate": "Tue, 22 Sep 2026 12:23:05 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "description": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open fr",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "pubDate": "Tue, 22 Sep 2026 12:00:41 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "description": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge\t\n\nMeta has issued a patch for its Muse mac",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "pubDate": "2026-09-22T11:53:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     },
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "description": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company’s",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "pubDate": "Tue, 22 Sep 2026 11:34:39 +0000",
       "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, Octo",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new e",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "description": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builde",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-      "pubDate": "Mon, 21 Sep 2026 18:00:07 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doo",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "description": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "pubDate": "Mon, 21 Sep 2026 16:57:26 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "description": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omd",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-      "pubDate": "Mon, 21 Sep 2026 16:00:46 +0000",
-      "image": "",
-      "source": "NVIDIA",
+      "source": "AI News",
       "category": "General"
     }
   ]
