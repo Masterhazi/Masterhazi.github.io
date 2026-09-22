@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-22T02:36:37.760Z",
+  "generated_at": "2026-09-22T08:55:36.127Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/omlx",
+      "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
       "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
@@ -110,16 +120,6 @@
       "readTime": "1 min read",
       "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
       "pubDate": "Mon, 21 Sep 2026 16:00:46 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "description": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, resea",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-      "pubDate": "Mon, 21 Sep 2026 16:00:10 +0000",
       "image": "",
       "source": "NVIDIA",
       "category": "General"
