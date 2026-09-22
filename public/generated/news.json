@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-21T22:56:43.543Z",
+  "generated_at": "2026-09-22T02:36:37.760Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
@@ -112,16 +122,6 @@
       "pubDate": "Mon, 21 Sep 2026 16:00:10 +0000",
       "image": "",
       "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "description": "The president offered few details on what his proposed new AI Force would do.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-      "pubDate": "Mon, 21 Sep 2026 15:37:56 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
