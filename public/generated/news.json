@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-23T02:36:56.300Z",
+  "generated_at": "2026-09-23T08:57:53.824Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "description": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 1",
+      "readTime": "1 min read",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "pubDate": "Wed, 23 Sep 2026 07:44:17 +0000",
+      "image": "",
+      "source": "AI News",
+      "category": "General"
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
       "description": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessi",
@@ -102,26 +122,6 @@
       "pubDate": "Tue, 22 Sep 2026 19:28:23 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "pubDate": "Tue, 22 Sep 2026 19:09:11 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "General"
     }
   ]
