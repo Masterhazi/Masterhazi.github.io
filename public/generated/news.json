@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-26T15:26:51.685Z",
+  "generated_at": "2026-09-26T18:54:07.513Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "description": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most pow",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "pubDate": "2026-09-26T16:34:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
@@ -112,16 +122,6 @@
       "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "pubDate": "Fri, 25 Sep 2026 18:48:33 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
