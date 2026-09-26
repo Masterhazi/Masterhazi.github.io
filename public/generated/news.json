@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-26T18:54:07.513Z",
+  "generated_at": "2026-09-26T22:16:46.087Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "description": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most pow",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "pubDate": "2026-09-26T16:34:59.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "pubDate": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "General"
     },
     {
@@ -22,16 +22,6 @@
       "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "description": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.\nMatthew last joined us on the show about two ",
-      "readTime": "71 min read",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "pubDate": "2026-09-26T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     },
     {
@@ -122,6 +112,16 @@
       "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
       "image": "",
       "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "pubDate": "Fri, 25 Sep 2026 18:48:33 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "General"
     }
   ]
