@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-26T22:16:46.087Z",
+  "generated_at": "2026-09-27T02:46:21.711Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
       "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
@@ -15,6 +25,16 @@
       "category": "General"
     },
     {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "description": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most pow",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "pubDate": "2026-09-26T16:34:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
       "readTime": "1 min read",
@@ -22,6 +42,16 @@
       "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "description": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.\nMatthew last joined us on the show about two ",
+      "readTime": "71 min read",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "pubDate": "2026-09-26T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
     },
     {
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
       "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "description": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-      "pubDate": "Fri, 25 Sep 2026 19:11:05 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/proaction",
-      "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "pubDate": "Fri, 25 Sep 2026 18:48:33 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
