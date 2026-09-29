@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-29T00:05:19.908Z",
+  "generated_at": "2026-09-29T10:16:40.061Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential r",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "pubDate": "Tue, 29 Sep 2026 00:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "OpenAI reportedly ditches model over safety concerns",
       "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
@@ -85,43 +105,23 @@
       "category": "General"
     },
     {
-      "title": "OpenAI’s AI agents need to catch up",
-      "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, ",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "pubDate": "2026-09-28T18:45:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to the probl",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
     },
     {
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided tr",
+      "title": "How we will do better for Australia",
+      "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "pubDate": "2026-09-28T18:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
       "image": "",
-      "source": "TechCrunch",
+      "source": "OpenAI",
       "category": "General"
     }
   ]
