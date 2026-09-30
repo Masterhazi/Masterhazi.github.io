@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-29T23:17:46.966Z",
+  "generated_at": "2026-09-30T03:13:22.883Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "pubDate": "Tue, 29 Sep 2026 23:30:55 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Trump orders US government to call AI ‘Super Intelligence’",
       "description": "Image: Carolyn Van Houten/The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, offic",
@@ -65,10 +75,10 @@
       "category": "General"
     },
     {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
       "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
       "image": "",
       "source": "TechCrunch",
@@ -112,16 +122,6 @@
       "pubDate": "2026-09-29T17:35:03.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
