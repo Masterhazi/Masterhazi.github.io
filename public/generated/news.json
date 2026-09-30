@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-30T03:13:22.883Z",
+  "generated_at": "2026-09-30T10:07:51.562Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timelin",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "pubDate": "2026-09-30T00:19:13.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
       "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
@@ -16,7 +26,7 @@
     },
     {
       "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "description": "Image: Carolyn Van Houten/The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, offic",
+      "description": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, off",
       "readTime": "1 min read",
       "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
       "pubDate": "2026-09-29T22:25:45.000Z",
@@ -112,16 +122,6 @@
       "pubDate": "Tue, 29 Sep 2026 17:45:51 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "description": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen inter",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "pubDate": "2026-09-29T17:35:03.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
