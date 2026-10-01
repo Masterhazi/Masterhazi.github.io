@@ -1,17 +1,77 @@
 {
-  "generated_at": "2026-10-01T17:47:06.327Z",
+  "generated_at": "2026-10-01T23:35:53.006Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "description": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffi",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "pubDate": "2026-10-01T17:12:21.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "pubDate": "Thu, 01 Oct 2026 21:08:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "description": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "pubDate": "Thu, 01 Oct 2026 20:11:55 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "description": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharin",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "pubDate": "2026-10-01T19:47:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites l",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "pubDate": "Thu, 01 Oct 2026 19:18:03 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "General"
     },
     {
@@ -62,66 +122,6 @@
       "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/allenai/olmocore3",
-      "pubDate": "Thu, 01 Oct 2026 15:01:43 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "description": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images\t\n\nAt OpenAI's annual DevDay conference, the company",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "pubDate": "2026-10-01T14:36:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "pubDate": "Thu, 01 Oct 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-      "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. \nThe idea was to build the wor",
-      "readTime": "33 min read",
-      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "pubDate": "2026-10-01T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Fall Into 25 New Games on GeForce NOW This October",
-      "description": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play thi",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
-      "pubDate": "Thu, 01 Oct 2026 13:00:54 +0000",
-      "image": "",
-      "source": "NVIDIA",
       "category": "General"
     }
   ]
