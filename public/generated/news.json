@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-10-03T15:29:36.494Z",
+  "generated_at": "2026-10-03T18:55:29.621Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi I",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "pubDate": "2026-10-03T16:49:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
       "description": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into ma",
@@ -92,36 +122,6 @@
       "pubDate": "2026-10-02T20:08:40.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "description": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "pubDate": "Fri, 02 Oct 2026 18:39:36 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and b",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
