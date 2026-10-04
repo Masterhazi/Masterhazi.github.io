@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-10-04T10:20:08.088Z",
+  "generated_at": "2026-10-04T16:13:53.643Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "description": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "pubDate": "2026-10-04T15:21:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "description": "This new task force is Trump's latest response to the debate over AI safety.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "pubDate": "Sun, 04 Oct 2026 15:15:10 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
@@ -92,36 +122,6 @@
       "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "description": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a c",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "pubDate": "2026-10-02T21:08:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "description": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-      "pubDate": "Fri, 02 Oct 2026 20:30:27 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "description": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "pubDate": "2026-10-02T20:08:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
