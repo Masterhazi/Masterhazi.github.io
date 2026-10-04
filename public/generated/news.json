@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-03T22:34:56.453Z",
+  "generated_at": "2026-10-04T03:35:28.654Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
@@ -12,6 +22,16 @@
       "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi I",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "pubDate": "2026-10-03T16:49:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
     },
     {
@@ -102,26 +122,6 @@
       "pubDate": "Fri, 02 Oct 2026 20:30:27 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "description": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "pubDate": "2026-10-02T20:08:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
