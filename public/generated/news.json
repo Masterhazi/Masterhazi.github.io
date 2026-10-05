@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-10-05T03:17:05.992Z",
+  "generated_at": "2026-10-05T11:02:11.856Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Building advertising for the way people use AI",
+      "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "pubDate": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Our minds aren’t equipped to handle AI",
+      "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "pubDate": "2026-10-05T10:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "description": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the st",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "pubDate": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "description": "AI slop seems to be overwhelming bug bounty programs.",
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "description": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into ma",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "pubDate": "2026-10-03T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editori",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "pubDate": "2026-10-03T14:31:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
