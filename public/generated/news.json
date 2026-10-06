@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-10-06T17:40:18.075Z",
+  "generated_at": "2026-10-06T23:29:36.361Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "description": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "pubDate": "2026-10-06T23:26:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "description": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "description": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "pubDate": "Tue, 06 Oct 2026 20:50:32 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "General"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "pubDate": "Tue, 06 Oct 2026 18:22:45 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Mirror Particle is building a ‘world model’ of human behavior",
       "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short ",
@@ -42,86 +122,6 @@
       "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "pubDate": "Tue, 06 Oct 2026 15:25:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "description": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "pubDate": "Tue, 06 Oct 2026 14:33:16 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Pinterest’s AI now turns beauty Pins into action plans",
-      "description": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "pubDate": "Tue, 06 Oct 2026 14:00:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-      "description": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to j",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-      "pubDate": "Tue, 06 Oct 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "description": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "pubDate": "2026-10-06T13:19:01.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "description": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.  Open models give telcos the ability to trust, control and cus",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-      "pubDate": "Tue, 06 Oct 2026 13:00:19 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "description": "The reports of OpenAI agents harming third-party sites keep coming.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "pubDate": "Tue, 06 Oct 2026 12:21:53 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-      "description": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge\t\n\nAn unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-      "pubDate": "2026-10-06T10:53:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
