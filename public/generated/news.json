@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-07T03:31:43.293Z",
+  "generated_at": "2026-10-07T10:44:39.272Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "description": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptabl",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "pubDate": "2026-10-07T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "description": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families",
@@ -112,16 +122,6 @@
       "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
