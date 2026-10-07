@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-10-07T10:44:39.272Z",
+  "generated_at": "2026-10-07T18:12:35.939Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "description": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptabl",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "pubDate": "2026-10-07T09:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "description": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "pubDate": "2026-10-06T23:26:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "pubDate": "Wed, 07 Oct 2026 18:00:19 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
     },
     {
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "description": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "description": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "pubDate": "Tue, 06 Oct 2026 20:50:32 +0000",
+      "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "pubDate": "Wed, 07 Oct 2026 17:57:39 +0000",
       "image": "",
       "source": "Ars Technica",
       "category": "General"
     },
     {
-      "title": "How AI decision models could change content moderation",
-      "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "description": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark m",
       "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "General"
-    },
-    {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "pubDate": "Tue, 06 Oct 2026 18:22:45 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "We can’t just change the definition of ‘recording’",
-      "description": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "pubDate": "2026-10-06T16:29:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "pubDate": "2026-10-07T17:46:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     },
     {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "title": "Multimodal open d1 decision models for the edge",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://openai.com/index/atlassian-partnership",
-      "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "pubDate": "Wed, 07 Oct 2026 16:54:33 GMT",
       "image": "",
-      "source": "OpenAI",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "pubDate": "Wed, 07 Oct 2026 16:53:46 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "ChatGPT is getting college planning tools",
+      "description": "A preview of OpenAI’s College Planner. | Image: OpenAI\t\n\nOpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminder",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "pubDate": "2026-10-07T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/College-planner_updated.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Muse launches on the iPad",
+      "description": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the i",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "pubDate": "2026-10-07T15:37:23.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/muse.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "pubDate": "Wed, 07 Oct 2026 15:07:08 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "pubDate": "Wed, 07 Oct 2026 14:41:38 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "description": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to co",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "pubDate": "2026-10-07T14:40:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "pubDate": "Wed, 07 Oct 2026 14:36:23 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "pubDate": "Wed, 07 Oct 2026 14:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
       "category": "General"
     }
   ]
