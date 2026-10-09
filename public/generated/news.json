@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-10-09T17:47:34.467Z",
+  "generated_at": "2026-10-09T23:45:18.460Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "description": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "pubDate": "Fri, 09 Oct 2026 22:04:07 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "description": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement relea",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "pubDate": "2026-10-09T21:15:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "description": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "pubDate": "Fri, 09 Oct 2026 19:43:50 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" \nThose were among the descriptions more than three dozen mathematicians reached for in conversations with",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "pubDate": "2026-10-09T19:09:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "description": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "pubDate": "Fri, 09 Oct 2026 18:44:06 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "description": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu\t\n\nNikon says the video that originally won first place in its Small World in Motion contest \"did not",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "pubDate": "2026-10-09T18:06:57.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
       "description": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled communi",
@@ -42,86 +122,6 @@
       "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Impactful scheduling for GPU clusters",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "description": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your p",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "description": "Instinct’s agent is always just a text away.\t\n\nBefore there were cute little guys, there was Instinct.\nIn August, the startup got its AI agent to market with an unusual playbook: i",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "pubDate": "2026-10-09T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"\nIn a post on X on Friday, the ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "pubDate": "2026-10-09T09:48:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "description": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. Th",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/sophos",
-      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "description": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to ",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "pubDate": "Fri, 09 Oct 2026 00:08:24 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
       "category": "General"
     }
   ]
