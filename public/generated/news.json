@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-09T23:45:18.460Z",
+  "generated_at": "2026-10-10T03:35:47.434Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
       "description": "One damaged data center has supercomputers used for training Yandex’s AI model.",
@@ -110,16 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
       "pubDate": "Fri, 09 Oct 2026 16:45:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in ret",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
