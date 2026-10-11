@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-10-11T17:07:31.852Z",
+  "generated_at": "2026-10-11T23:20:53.547Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "description": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "description": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "pubDate": "2026-10-11T18:33:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
       "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
@@ -92,36 +122,6 @@
       "pubDate": "2026-10-10T14:41:16.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "description": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "pubDate": "2026-10-10T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "description": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "pubDate": "Fri, 09 Oct 2026 22:04:07 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
