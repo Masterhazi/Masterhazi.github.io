@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-12T20:39:58.830Z",
+  "generated_at": "2026-10-13T04:46:22.369Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "description": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "pubDate": "Mon, 12 Oct 2026 20:59:50 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
       "description": "“I may have information regarding this case,\" Claude AI told Philly police.",
@@ -112,16 +122,6 @@
       "pubDate": "2026-10-12T13:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "description": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll bel",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "pubDate": "Mon, 12 Oct 2026 12:47:59 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
