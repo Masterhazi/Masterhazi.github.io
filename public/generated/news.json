@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-10-13T20:56:24.993Z",
+  "generated_at": "2026-10-14T02:54:26.161Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "readTime": "1 min read",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
+      "image": "",
+      "source": "Google DeepMind",
+      "category": "General"
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-comp",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks i",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
       "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "description": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan,",
+      "description": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alf",
       "readTime": "1 min read",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
       "pubDate": "2026-10-13T20:45:25.000Z",
@@ -72,56 +122,6 @@
       "pubDate": "Tue, 13 Oct 2026 18:23:33 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Facebook is giving users more control over their algorithm",
-      "description": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "pubDate": "Tue, 13 Oct 2026 18:05:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-      "description": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-f",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "pubDate": "2026-10-13T18:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable star",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "pubDate": "Tue, 13 Oct 2026 17:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have ne",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "pubDate": "Tue, 13 Oct 2026 17:18:25 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "pubDate": "Tue, 13 Oct 2026 17:05:48 GMT",
-      "image": "",
-      "source": "Hugging Face",
       "category": "General"
     }
   ]
