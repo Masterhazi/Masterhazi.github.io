@@ -1,11 +1,31 @@
 {
-  "generated_at": "2026-10-14T02:54:26.161Z",
+  "generated_at": "2026-10-14T09:11:16.687Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "description": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "pubDate": "Wed, 14 Oct 2026 06:04:15 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "description": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "pubDate": "Wed, 14 Oct 2026 06:00:28 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/linker-vision.mp4",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
       "readTime": "1 min read",
       "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
@@ -16,7 +36,7 @@
     },
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-comp",
+      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-compu",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
@@ -102,26 +122,6 @@
       "pubDate": "2026-10-13T19:00:48.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "pubDate": "Tue, 13 Oct 2026 18:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "description": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "pubDate": "Tue, 13 Oct 2026 18:23:33 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
