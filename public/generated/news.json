@@ -1,127 +1,127 @@
 {
-  "generated_at": "2026-10-14T09:11:16.687Z",
+  "generated_at": "2026-10-14T16:15:36.170Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
-      "description": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
-      "pubDate": "Wed, 14 Oct 2026 06:04:15 +0000",
-      "image": "",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "description": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-      "pubDate": "Wed, 14 Oct 2026 06:00:28 +0000",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/linker-vision.mp4",
-      "source": "NVIDIA",
-      "category": "General"
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
-      "image": "",
-      "source": "Google DeepMind",
-      "category": "General"
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-compu",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks i",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "description": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alf",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "pubDate": "2026-10-13T20:45:25.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "pubDate": "Tue, 13 Oct 2026 20:36:44 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "description": "",
       "readTime": "1 min read",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
+      "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "pubDate": "Wed, 14 Oct 2026 16:12:42 GMT",
       "image": "",
-      "source": "Google DeepMind",
+      "source": "Hugging Face",
       "category": "General"
     },
     {
-      "title": "Shopify opens its catalog up to more AI agents",
-      "description": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty I",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "description": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learnin",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "pubDate": "2026-10-13T19:42:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "pubDate": "2026-10-14T16:05:21.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     },
     {
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "description": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from ",
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "description": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk.\nSquare says the Kiosk, which has ",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "pubDate": "2026-10-13T19:00:48.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Android is using AI to suss out scammers in Google Messages",
+      "description": "Begone, Bot. | Image: Google / Android\t\n\nAndroid is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "description": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting h",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "pubDate": "2026-10-14T15:19:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "pubDate": "Wed, 14 Oct 2026 15:13:24 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "pubDate": "Wed, 14 Oct 2026 15:08:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Epic’s new games launcher is ‘vibe coded’",
+      "description": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has bee",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "pubDate": "2026-10-14T13:55:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "pubDate": "Wed, 14 Oct 2026 12:55:06 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "description": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "pubDate": "Wed, 14 Oct 2026 11:00:30 +0000",
+      "image": "",
+      "source": "Ars Technica",
       "category": "General"
     }
   ]
