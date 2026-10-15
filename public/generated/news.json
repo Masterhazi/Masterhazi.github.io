@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-10-15T02:33:40.081Z",
+  "generated_at": "2026-10-15T08:44:03.171Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "description": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "pubDate": "Thu, 15 Oct 2026 05:00:12 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "description": "Figma is also releasing its code layers feature in open beta.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
       "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accel",
@@ -102,26 +122,6 @@
       "pubDate": "2026-10-14T18:22:56.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Researchers use AI to design proteins that cut up other proteins",
-      "description": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "pubDate": "Wed, 14 Oct 2026 17:10:15 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
