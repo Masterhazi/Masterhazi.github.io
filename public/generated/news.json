@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-17T14:44:31.716Z",
+  "generated_at": "2026-10-17T18:05:14.429Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "description": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the foll",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "pubDate": "2026-10-17T15:04:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Websites are closing their doors to AI agents",
       "description": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a ",
@@ -112,16 +122,6 @@
       "pubDate": "Fri, 16 Oct 2026 15:41:00 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
