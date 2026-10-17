@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-10-17T18:05:14.429Z",
+  "generated_at": "2026-10-17T21:55:24.530Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "description": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Sta",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "pubDate": "Sat, 17 Oct 2026 21:00:13 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "pubDate": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
       "description": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the foll",
@@ -22,16 +62,6 @@
       "pubDate": "2026-10-17T13:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     },
     {
@@ -92,36 +122,6 @@
       "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks lik",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual rea",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "description": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "pubDate": "Fri, 16 Oct 2026 15:41:00 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
