@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-18T18:24:06.940Z",
+  "generated_at": "2026-10-18T22:07:30.883Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "pubDate": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "description": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "pubDate": "2026-10-18T18:28:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "description": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karande",
+      "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company cou",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
@@ -102,26 +122,6 @@
       "pubDate": "Fri, 16 Oct 2026 20:20:07 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated secto",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "description": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative ",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
       "category": "General"
     }
   ]
