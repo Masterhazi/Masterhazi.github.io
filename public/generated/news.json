@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-10-18T15:10:06.327Z",
+  "generated_at": "2026-10-18T18:24:06.940Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "description": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karande",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "description": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "pubDate": "Sun, 18 Oct 2026 16:25:19 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
@@ -102,26 +122,6 @@
       "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
       "image": "",
       "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks lik",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
