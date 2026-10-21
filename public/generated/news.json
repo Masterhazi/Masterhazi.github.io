@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-10-20T22:51:54.380Z",
+  "generated_at": "2026-10-21T02:41:56.700Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughou",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "pubDate": "2026-10-20T23:04:19.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "description": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "description": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't ",
@@ -102,26 +122,6 @@
       "pubDate": "Tue, 20 Oct 2026 18:22:54 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "pubDate": "Tue, 20 Oct 2026 18:17:47 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "description": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Techni",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "pubDate": "2026-10-20T18:07:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
