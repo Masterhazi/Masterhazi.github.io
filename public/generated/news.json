@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-10-22T02:46:07.254Z",
+  "generated_at": "2026-10-22T09:03:59.732Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "description": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves somethin",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "pubDate": "Thu, 22 Oct 2026 08:41:18 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "pubDate": "Thu, 22 Oct 2026 07:51:31 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "description": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by o",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "pubDate": "Thu, 22 Oct 2026 05:00:56 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "description": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tool",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "pubDate": "Thu, 22 Oct 2026 05:00:27 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/CDF-visual-Oct20.mp4",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "description": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. ",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/dsx-power/",
+      "pubDate": "Thu, 22 Oct 2026 05:00:25 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "description": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where colla",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+      "pubDate": "Thu, 22 Oct 2026 05:00:23 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "description": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A gl",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+      "pubDate": "Thu, 22 Oct 2026 05:00:19 +0000",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Vaisala-Xweather-Nvidia-StormScope.mp4",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "description": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+      "pubDate": "Thu, 22 Oct 2026 05:00:02 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
@@ -42,86 +122,6 @@
       "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "pubDate": "Wed, 21 Oct 2026 20:27:41 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "description": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "pubDate": "2026-10-21T19:53:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "The new human-crafted Apple Music brand matters in an AI world",
-      "description": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-      "pubDate": "Wed, 21 Oct 2026 19:44:40 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, w",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "pubDate": "Wed, 21 Oct 2026 19:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Walmart is inviting AI agents to shop for you",
-      "description": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve an",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "pubDate": "2026-10-21T19:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "description": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "pubDate": "Wed, 21 Oct 2026 18:51:42 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
