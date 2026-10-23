@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-23T02:43:58.321Z",
+  "generated_at": "2026-10-23T08:58:29.221Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Kazakhstan Expands Compute for Its AI Future",
       "description": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.  Togeth",
@@ -22,6 +32,16 @@
       "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "description": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "General"
     },
     {
@@ -100,26 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "description": "Fast, focused, low-cost decisions for any application.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/decisions-api",
-      "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Canva releases its first image generation model",
-      "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
