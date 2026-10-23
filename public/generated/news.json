@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-10-23T08:58:29.221Z",
+  "generated_at": "2026-10-23T16:11:15.487Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "description": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earl",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "pubDate": "2026-10-23T14:47:41.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Retro gaming is being overrun with AI",
+      "description": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "pubDate": "2026-10-23T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
@@ -16,7 +46,7 @@
     },
     {
       "title": "Kazakhstan Expands Compute for Its AI Future",
-      "description": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.  Togeth",
+      "description": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications. The ann",
       "readTime": "1 min read",
       "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "pubDate": "Fri, 23 Oct 2026 02:00:13 +0000",
@@ -42,6 +72,16 @@
       "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "image": "",
       "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
       "category": "General"
     },
     {
@@ -82,46 +122,6 @@
       "pubDate": "Thu, 22 Oct 2026 21:17:29 +0000",
       "image": "",
       "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "description": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren'",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "pubDate": "2026-10-22T20:32:05.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Meta turns Muse sharing back on",
-      "description": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "pubDate": "2026-10-22T20:24:04.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "description": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvid",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "pubDate": "2026-10-22T19:45:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
