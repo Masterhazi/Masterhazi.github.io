@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-10-24T15:07:31.679Z",
+  "generated_at": "2026-10-24T18:28:41.735Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 e",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Here are the top AI agents that can live in your text messages",
       "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -102,26 +122,6 @@
       "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "description": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, sp",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "pubDate": "2026-10-23T16:52:55.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/allenai/litpivot",
-      "pubDate": "Fri, 23 Oct 2026 16:15:50 GMT",
-      "image": "",
-      "source": "Hugging Face",
       "category": "General"
     }
   ]
