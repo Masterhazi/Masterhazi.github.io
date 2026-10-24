@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-10-24T18:28:41.735Z",
+  "generated_at": "2026-10-24T22:09:03.516Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, cry",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "pubDate": "2026-10-24T21:29:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires a",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "pubDate": "2026-10-24T18:32:21.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Block’s new voice model sounds eerily human",
       "description": "Block said that the voice model can run locally on a MacBook M4 Max",
@@ -92,36 +122,6 @@
       "pubDate": "Fri, 23 Oct 2026 19:06:23 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "description": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "pubDate": "Fri, 23 Oct 2026 17:18:31 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "The iPhone Duo should have been an iPad",
-      "description": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a b",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "pubDate": "2026-10-23T17:00:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "General"
     }
   ]
