@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-10-27T23:24:06.853Z",
+  "generated_at": "2026-10-28T03:17:07.787Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "pubDate": "Wed, 28 Oct 2026 01:15:28 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "pubDate": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "The data center boom has an upside: innovation for the US grid",
       "description": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
@@ -102,26 +122,6 @@
       "pubDate": "Tue, 27 Oct 2026 17:16:52 GMT",
       "image": "",
       "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "pubDate": "Tue, 27 Oct 2026 17:08:08 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "description": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "pubDate": "2026-10-27T16:51:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
