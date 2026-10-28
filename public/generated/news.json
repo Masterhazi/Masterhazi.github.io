@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-28T03:17:07.787Z",
+  "generated_at": "2026-10-28T10:13:08.137Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "pubDate": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
     {
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
@@ -112,16 +122,6 @@
       "pubDate": "2026-10-27T17:30:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "pubDate": "Tue, 27 Oct 2026 17:16:52 GMT",
-      "image": "",
-      "source": "Hugging Face",
       "category": "General"
     }
   ]
