@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-29T03:41:41.377Z",
+  "generated_at": "2026-10-29T10:36:19.851Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "AI has come for Arizona’s water",
+      "description": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbot",
+      "readTime": "50 min read",
+      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "pubDate": "2026-10-29T10:00:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
       "description": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don",
@@ -112,16 +122,6 @@
       "pubDate": "Wed, 28 Oct 2026 18:47:27 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "description": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assist",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "pubDate": "2026-10-28T18:36:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
