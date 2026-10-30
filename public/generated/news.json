@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-30T03:44:31.538Z",
+  "generated_at": "2026-10-30T10:38:20.781Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "description": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyri",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "pubDate": "2026-10-30T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
@@ -15,7 +25,7 @@
       "category": "General"
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO sa",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
@@ -110,16 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
       "pubDate": "Thu, 29 Oct 2026 17:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "pubDate": "Thu, 29 Oct 2026 16:42:32 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
