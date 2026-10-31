@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-10-31T16:36:04.236Z",
+  "generated_at": "2026-10-31T22:57:14.163Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the t",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "pubDate": "Sat, 31 Oct 2026 21:36:07 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "pubDate": "Sat, 31 Oct 2026 21:17:03 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
       "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
@@ -12,6 +42,16 @@
       "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
       "image": "",
       "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "description": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "pubDate": "2026-10-31T16:05:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4,0,96,94.899920311255",
+      "source": "The Verge",
       "category": "General"
     },
     {
@@ -82,46 +122,6 @@
       "pubDate": "Fri, 30 Oct 2026 21:26:59 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Cracks are emerging in the AI spending boom",
-      "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "pubDate": "Fri, 30 Oct 2026 21:17:40 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "description": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "pubDate": "Fri, 30 Oct 2026 21:09:54 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data cente",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "pubDate": "2026-10-30T20:48:43.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "description": "People who love AI don't always love telling others they used it.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-      "pubDate": "Fri, 30 Oct 2026 20:40:13 +0000",
-      "image": "",
-      "source": "Ars Technica",
       "category": "General"
     }
   ]
