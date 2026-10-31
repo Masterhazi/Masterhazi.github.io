@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-31T10:04:25.205Z",
+  "generated_at": "2026-10-31T16:36:04.236Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
@@ -112,16 +122,6 @@
       "pubDate": "Fri, 30 Oct 2026 20:40:13 +0000",
       "image": "",
       "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "description": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtab",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "pubDate": "2026-10-30T20:26:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
