@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-02T03:39:39.911Z",
+  "generated_at": "2026-11-02T11:53:37.835Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The agentic web is here",
+      "description": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific A",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "pubDate": "Mon, 02 Nov 2026 09:35:19 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "description": "Data centers are deeply unpopular. But what if we called them something else?",
@@ -110,16 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "pubDate": "Fri, 30 Oct 2026 21:54:34 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "pubDate": "Fri, 30 Oct 2026 21:52:03 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
