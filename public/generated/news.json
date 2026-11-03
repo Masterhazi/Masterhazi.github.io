@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-11-02T21:10:47.210Z",
+  "generated_at": "2026-11-03T04:44:37.291Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "pubDate": "Tue, 03 Nov 2026 03:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "description": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "pubDate": "Tue, 03 Nov 2026 01:49:52 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a ne",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "description": "The one-year-old startup is now valued at $300 million.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "pubDate": "Mon, 02 Nov 2026 23:13:53 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which ",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "pubDate": "Mon, 02 Nov 2026 22:14:50 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "pubDate": "Mon, 02 Nov 2026 19:25:59 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
     {
       "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, l",
@@ -16,7 +76,7 @@
     },
     {
       "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "description": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently ",
+      "description": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently",
       "readTime": "1 min read",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
       "pubDate": "2026-11-02T18:56:02.000Z",
@@ -55,73 +115,13 @@
       "category": "General"
     },
     {
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "description": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also le",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "pubDate": "2026-11-02T17:51:19.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "description": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do ",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "pubDate": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "description": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "pubDate": "Mon, 02 Nov 2026 16:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "description": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "pubDate": "Mon, 02 Nov 2026 16:23:21 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "pubDate": "Mon, 02 Nov 2026 15:00:00 GMT",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "description": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "description": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
