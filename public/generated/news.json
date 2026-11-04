@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-11-04T04:07:27.701Z",
+  "generated_at": "2026-11-04T15:53:12.295Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+      "description": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i ac",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "pubDate": "2026-11-04T14:46:01.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quot",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "description": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Google hasn’t figured out how to make AI pay like its search engine",
+      "description": "Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images\t\n\nSearch queries are growing at their fastest rate in five years, Google parent Alphabet said in its e",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "pubDate": "2026-11-04T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
     {
       "title": "The biggest modding site in PC gaming is taking a stance on AI",
       "description": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used i",
@@ -62,66 +122,6 @@
       "pubDate": "Tue, 03 Nov 2026 21:05:55 +0000",
       "image": "",
       "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Those Jeff Bezos hair transplant photos are very fake",
-      "description": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge\t\n\nAmazon founder Jeff Bezos and actor Jason Statham have a di",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "pubDate": "2026-11-03T21:01:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "description": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-      "pubDate": "Tue, 03 Nov 2026 20:39:55 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "description": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's ne",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "pubDate": "2026-11-03T20:16:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "description": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "pubDate": "Tue, 03 Nov 2026 19:34:43 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "description": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "pubDate": "Tue, 03 Nov 2026 18:42:16 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-      "description": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new add",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "pubDate": "2026-11-03T18:31:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
