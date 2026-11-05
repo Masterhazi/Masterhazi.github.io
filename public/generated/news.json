@@ -1,125 +1,125 @@
 {
-  "generated_at": "2026-11-05T04:28:17.565Z",
+  "generated_at": "2026-11-05T15:57:54.904Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "pubDate": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "The hidden supply chain costs of the AI boom",
+      "description": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From?",
+      "readTime": "35 min read",
+      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "pubDate": "2026-11-05T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "description": "BERLIN, GERMANY - JANUARY 16: In this photo illustration the logo of the music streaming service SoundCloud is displayed on a smartphone on January 16, 2019 in Berlin, Germany. (Ph",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "pubDate": "2026-11-05T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1083228772.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "description": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "pubDate": "Thu, 05 Nov 2026 14:42:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "description": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard En",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "pubDate": "Thu, 05 Nov 2026 14:00:34 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "description": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "description": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "description": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "pubDate": "Thu, 05 Nov 2026 12:00:41 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "description": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "description": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI dat",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "pubDate": "2026-11-05T10:45:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "pubDate": "Thu, 05 Nov 2026 02:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the compan",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "pubDate": "2026-11-04T22:42:15.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by rea",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "pubDate": "2026-11-04T21:45:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "description": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-      "pubDate": "Wed, 04 Nov 2026 20:55:50 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Gemini for Home now plugs into AT&T’s smart security system",
-      "description": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "pubDate": "2026-11-04T20:23:24.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increa",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
