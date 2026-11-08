@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-08T10:56:27.312Z",
+  "generated_at": "2026-11-08T17:25:59.663Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "description": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "pubDate": "2026-11-08T17:23:19.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
@@ -112,16 +122,6 @@
       "pubDate": "2026-11-06T20:02:22.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
