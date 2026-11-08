@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-11-08T17:25:59.663Z",
+  "generated_at": "2026-11-08T23:19:41.941Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "description": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "pubDate": "2026-11-08T22:54:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "description": "In a memo to the company, Huang admitted that he had an affair.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "pubDate": "Sun, 08 Nov 2026 21:00:11 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "description": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dot",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "pubDate": "2026-11-08T19:18:19.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Elvis and Eminem rights holders are suing Suno",
       "description": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company",
@@ -91,36 +121,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "pubDate": "2026-11-06T23:46:18.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlis",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "pubDate": "2026-11-06T23:00:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "All the latest updates on AI data centers",
-      "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up",
-      "readTime": "11 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "pubDate": "2026-11-06T20:02:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     }
