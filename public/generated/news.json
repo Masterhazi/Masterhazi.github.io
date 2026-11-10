@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-11-09T23:55:16.389Z",
+  "generated_at": "2026-11-10T05:25:43.664Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "pubDate": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a questi",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "pubDate": "2026-11-10T00:28:49.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "What could China get from Jensen Huang?",
       "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has c",
@@ -26,7 +46,7 @@
     },
     {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "description": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "pubDate": "Mon, 09 Nov 2026 23:28:37 +0000",
@@ -102,26 +122,6 @@
       "pubDate": "2026-11-09T19:09:58.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "pubDate": "Mon, 09 Nov 2026 19:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "description": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s ",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "pubDate": "Mon, 09 Nov 2026 18:09:52 +0000",
-      "image": "",
-      "source": "TechCrunch",
       "category": "General"
     }
   ]
