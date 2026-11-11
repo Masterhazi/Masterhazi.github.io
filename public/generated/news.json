@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-11-10T21:39:27.453Z",
+  "generated_at": "2026-11-11T03:56:03.578Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "description": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "pubDate": "Wed, 11 Nov 2026 03:00:20 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "description": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "pubDate": "Tue, 10 Nov 2026 22:35:01 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
     {
       "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
       "description": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
@@ -15,8 +45,8 @@
       "category": "General"
     },
     {
-      "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
-      "description": "OpenAI has not yet said what its plans are for the future of travel. But \nSonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
       "pubDate": "Tue, 10 Nov 2026 18:49:52 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "description": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\"",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "pubDate": "2026-11-10T18:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "description": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the develope",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "pubDate": "2026-11-10T17:32:47.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retriev",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
