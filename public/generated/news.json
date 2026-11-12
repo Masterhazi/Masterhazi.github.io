@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-11-12T01:44:50.160Z",
+  "generated_at": "2026-11-12T12:00:14.816Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "pubDate": "Thu, 12 Nov 2026 09:30:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "description": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "pubDate": "Thu, 12 Nov 2026 03:13:10 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "description": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/children-first-declaration",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -46,7 +76,7 @@
     },
     {
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a sepa",
+      "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a sepa",
       "readTime": "1 min read",
       "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "pubDate": "2026-11-11T22:44:36.000Z",
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
       "pubDate": "Wed, 11 Nov 2026 20:02:14 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "description": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according t",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "pubDate": "Wed, 11 Nov 2026 19:54:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "pubDate": "Wed, 11 Nov 2026 19:34:55 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "pubDate": "Wed, 11 Nov 2026 19:22:22 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
