@@ -1,11 +1,51 @@
 {
-  "generated_at": "2026-11-13T18:59:45.205Z",
+  "generated_at": "2026-11-14T00:34:52.192Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
     {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "description": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "pubDate": "Fri, 13 Nov 2026 21:20:47 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "pubDate": "2026-11-13T20:45:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
@@ -82,46 +122,6 @@
       "pubDate": "2026-11-13T14:47:16.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "description": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "pubDate": "Fri, 13 Nov 2026 14:05:22 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "description": "Let’s get to work. | Photo: Allison Johnson / The Verge\t\n\nNormally, the products I test don't offer to help me write up my experience with them. Duet is different.\nClaude Duet is A",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "pubDate": "2026-11-13T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "description": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.  Health systems and startups are putting it to wo",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-      "pubDate": "Fri, 13 Nov 2026 13:00:42 +0000",
-      "image": "",
-      "source": "NVIDIA",
       "category": "General"
     }
   ]
