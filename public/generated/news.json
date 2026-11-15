@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-15T11:50:40.006Z",
+  "generated_at": "2026-11-15T18:17:35.301Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership cri",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "pubDate": "2026-11-15T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fun",
@@ -110,16 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
