@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-11-15T23:39:57.331Z",
+  "generated_at": "2026-11-16T04:00:26.877Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "description": "Apple's new app for a study will answer everyday medical questions",
+      "readTime": "1 min read",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "pubDate": "Mon, 16 Nov 2026 01:30:00 +0000",
+      "image": "",
+      "source": "TechCrunch",
+      "category": "General"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "description": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The com",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "pubDate": "2026-11-16T01:26:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "description": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI an",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "pubDate": "Mon, 16 Nov 2026 00:00:28 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
@@ -90,36 +120,6 @@
       "readTime": "1 min read",
       "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "pubDate": "Sat, 14 Nov 2026 21:41:22 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "pubDate": "Sat, 14 Nov 2026 17:30:00 +0000",
-      "image": "",
-      "source": "TechCrunch",
-      "category": "General"
-    },
-    {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "readTime": "1 min read",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "pubDate": "Sat, 14 Nov 2026 16:34:15 +0000",
       "image": "",
       "source": "TechCrunch",
       "category": "General"
