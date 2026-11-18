@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-11-18T05:20:12.495Z",
+  "generated_at": "2026-11-18T16:51:33.161Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "description": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia\t\n\nThis summer, Op",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "pubDate": "2026-11-18T15:44:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "pubDate": "Wed, 18 Nov 2026 15:00:23 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "description": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apa",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "pubDate": "Wed, 18 Nov 2026 14:42:44 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "description": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Window",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "pubDate": "Wed, 18 Nov 2026 14:00:31 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "description": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "pubDate": "2026-11-18T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "description": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "pubDate": "2026-11-18T13:01:05.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Suno now lets you make AI videos for your AI music",
+      "description": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno\t\n\nSuno has introduced image and video generation in its latest effort to expand b",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "pubDate": "2026-11-18T11:16:53.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "description": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “p",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "pubDate": "Wed, 18 Nov 2026 10:20:30 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
     {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
@@ -15,113 +95,33 @@
       "category": "General"
     },
     {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "description": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might mak",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "pubDate": "2026-11-17T23:41:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "description": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible a",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "pubDate": "2026-11-17T21:40:59.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "description": "Open AI CEO Sam Altman does a television interview | Getty Images\t\n\nInstagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most promi",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "pubDate": "2026-11-17T21:00:55.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "description": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "pubDate": "Tue, 17 Nov 2026 20:32:55 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "description": "You can now switch from the “Chat” toggle to “Tasks.” | Image: Google\t\n\nGoogle is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "pubDate": "2026-11-17T18:58:01.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
       "image": "",
       "source": "OpenAI",
       "category": "General"
     },
     {
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "description": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "pubDate": "Tue, 17 Nov 2026 16:50:10 +0000",
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
       "image": "",
-      "source": "Ars Technica",
+      "source": "Hugging Face",
       "category": "General"
     },
     {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "description": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "description": "",
       "readTime": "1 min read",
-      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "pubDate": "2026-11-17T16:19:03.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "description": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wal",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "pubDate": "2026-11-17T16:09:57.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-      "description": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "pubDate": "Tue, 17 Nov 2026 15:28:59 +0000",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
       "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Research Reports",
-      "description": "To access a report, click on the corresponding image below.",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "pubDate": "Tue, 17 Nov 2026 14:39:46 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
+      "source": "Hugging Face",
       "category": "General"
     }
   ]
