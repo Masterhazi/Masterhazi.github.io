@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-11-17T23:16:24.212Z",
+  "generated_at": "2026-11-18T05:20:12.495Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "pubDate": "Wed, 18 Nov 2026 00:27:29 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "description": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might mak",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "pubDate": "2026-11-17T23:41:18.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
       "description": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible a",
@@ -102,26 +122,6 @@
       "pubDate": "Tue, 17 Nov 2026 14:39:46 +0000",
       "image": "",
       "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "description": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "pubDate": "Tue, 17 Nov 2026 14:00:29 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "description": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researc",
-      "readTime": "1 min read",
-      "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "pubDate": "Tue, 17 Nov 2026 14:00:10 +0000",
-      "image": "",
-      "source": "NVIDIA",
       "category": "General"
     }
   ]
