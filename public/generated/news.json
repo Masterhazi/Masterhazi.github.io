@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-19T22:50:28.891Z",
+  "generated_at": "2026-11-20T05:01:37.314Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
-    {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's accordin",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "pubDate": "2026-11-19T22:31:41.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "description": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images\t\n\n\"We've got this,\" Colette Kress, inte",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "pubDate": "2026-11-19T21:59:35.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
     {
       "title": "Meta’s Muse Charm might cost $300",
       "description": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revea",
@@ -86,7 +66,7 @@
     },
     {
       "title": "Anthropic starts trading on Wall Street",
-      "description": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images\t\n\nAnthropic has officially gone public. It ",
+      "description": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo by Michael Nagle/Bloomberg via Getty Images\t\n\nAnthropic has officially gone public. It ",
       "readTime": "1 min read",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
       "pubDate": "2026-11-19T16:52:01.000Z",
@@ -122,6 +102,26 @@
       "pubDate": "Thu, 19 Nov 2026 14:00:12 +0000",
       "image": "",
       "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "description": "Siri Recap can be turned on or off manually from the wrist.\t\n\nWas it worth it?\nI've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "pubDate": "2026-11-19T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Canva adds an AI ‘off’ button",
+      "description": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending M",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "pubDate": "2026-11-19T12:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
       "category": "General"
     }
   ]
