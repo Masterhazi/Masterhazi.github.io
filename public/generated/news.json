@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-21T18:30:11.622Z",
+  "generated_at": "2026-11-21T23:59:53.806Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "description": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventua",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "pubDate": "2026-11-21T20:03:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Can Anthropic afford to put safety first?",
       "description": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.\nThe AI lab behind",
@@ -110,16 +120,6 @@
       "readTime": "1 min read",
       "link": "https://openai.com/index/combatting-adversarial-distillation",
       "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "image": "",
       "source": "OpenAI",
       "category": "General"
