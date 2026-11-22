@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-22T15:48:55.834Z",
+  "generated_at": "2026-11-22T21:25:41.214Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "description": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "pubDate": "2026-11-22T17:25:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "The vibe-coding revolution is coming to all the gadgets",
       "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arriv",
@@ -12,6 +22,16 @@
       "pubDate": "2026-11-22T13:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
       "category": "General"
     },
     {
@@ -101,26 +121,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "pubDate": "2026-11-20T16:34:13.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "The week everything fell apart",
-      "description": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running.",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-      "pubDate": "2026-11-20T14:06:59.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "description": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal\t\n\nSignal is restricting the ability ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "pubDate": "2026-11-20T12:30:47.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     }
