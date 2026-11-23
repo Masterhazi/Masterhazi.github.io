@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-22T21:25:41.214Z",
+  "generated_at": "2026-11-23T04:56:25.609Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chas",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "pubDate": "2026-11-22T22:48:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
       "description": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit",
@@ -112,16 +122,6 @@
       "pubDate": "Fri, 20 Nov 2026 18:15:15 +0000",
       "image": "",
       "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "description": "Anthropic went public on November 19th, 2026. | Photo: Getty Images\t\n\nAnthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most n",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "pubDate": "2026-11-20T16:34:13.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
