@@ -1,9 +1,119 @@
 {
-  "generated_at": "2026-11-24T04:31:36.365Z",
+  "generated_at": "2026-11-24T19:14:35.119Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "description": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "pubDate": "Tue, 24 Nov 2026 18:47:57 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "description": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "pubDate": "2026-11-24T18:15:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "description": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "pubDate": "Tue, 24 Nov 2026 17:34:34 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "description": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "pubDate": "2026-11-24T17:17:09.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "pubDate": "Tue, 24 Nov 2026 16:34:13 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "description": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "pubDate": "2026-11-24T16:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "description": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent t",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "pubDate": "2026-11-24T16:09:23.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. No",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "pubDate": "Tue, 24 Nov 2026 15:15:16 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
+    {
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "description": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "pubDate": "Tue, 24 Nov 2026 14:56:50 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "description": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "pubDate": "Tue, 24 Nov 2026 12:30:05 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://openai.com/index/ifood",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "image": "",
+      "source": "OpenAI",
+      "category": "General"
+    },
     {
       "title": "Trump engineered a risky comeback for Jensen Huang",
       "description": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to su",
@@ -12,116 +122,6 @@
       "pubDate": "2026-11-23T22:25:12.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an invest",
-      "readTime": "5 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "pubDate": "2026-11-23T22:10:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "description": "Too big to fail, the sequel. | Image: The Verge; Getty Images\t\n\nI suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of ba",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "pubDate": "2026-11-23T22:09:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "description": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "pubDate": "Mon, 23 Nov 2026 21:30:44 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/introducing-shirudo",
-      "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
-      "image": "",
-      "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "description": "People protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty ",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "pubDate": "2026-11-23T21:09:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "description": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "pubDate": "2026-11-23T20:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "description": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resi",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-      "pubDate": "2026-11-23T19:57:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-      "description": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage t",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-      "pubDate": "2026-11-23T19:04:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-      "description": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-      "pubDate": "2026-11-23T18:26:47.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic n",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "pubDate": "Mon, 23 Nov 2026 17:36:08 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/allenai/robotrack",
-      "pubDate": "Mon, 23 Nov 2026 17:20:37 GMT",
-      "image": "",
-      "source": "Hugging Face",
       "category": "General"
     }
   ]
