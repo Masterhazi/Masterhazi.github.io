@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-11-24T19:14:35.119Z",
+  "generated_at": "2026-11-25T03:16:12.092Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "What's going on with the Riemann hypothesis?",
+      "description": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "pubDate": "Tue, 24 Nov 2026 20:34:53 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "description": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "pubDate": "2026-11-24T20:02:03.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
       "description": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
@@ -95,33 +115,13 @@
       "category": "General"
     },
     {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "description": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
       "readTime": "1 min read",
-      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "pubDate": "Tue, 24 Nov 2026 12:30:05 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/ifood",
-      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT",
       "image": "",
       "source": "OpenAI",
-      "category": "General"
-    },
-    {
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "description": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to su",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "pubDate": "2026-11-23T22:25:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
       "category": "General"
     }
   ]
