@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-11-25T03:16:12.092Z",
+  "generated_at": "2026-11-25T13:45:28.561Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "description": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to re",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "pubDate": "2026-11-25T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
+    {
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "description": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "readTime": "1 min read",
+      "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "pubDate": "Wed, 25 Nov 2026 12:00:28 +0000",
+      "image": "",
+      "source": "Ars Technica",
+      "category": "General"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "pubDate": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "AI is straining America’s open records systems",
+      "description": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and",
+      "readTime": "1 min read",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "pubDate": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "image": "",
+      "source": "MIT Technology Review",
+      "category": "General"
+    },
     {
       "title": "What's going on with the Riemann hypothesis?",
       "description": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
@@ -82,46 +122,6 @@
       "pubDate": "2026-11-24T16:30:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "description": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent t",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "pubDate": "2026-11-24T16:09:23.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. No",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "pubDate": "Tue, 24 Nov 2026 15:15:16 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-      "description": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-      "pubDate": "Tue, 24 Nov 2026 14:56:50 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "readTime": "1 min read",
-      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT",
-      "image": "",
-      "source": "OpenAI",
       "category": "General"
     }
   ]
