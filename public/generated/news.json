@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-11-26T06:19:52.274Z",
+  "generated_at": "2026-11-26T17:59:47.496Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "description": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. ",
+      "readTime": "1 min read",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "pubDate": "Thu, 26 Nov 2026 14:00:22 +0000",
+      "image": "",
+      "source": "NVIDIA",
+      "category": "General"
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "pubDate": "Thu, 26 Nov 2026 11:37:17 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "description": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly iden",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "pubDate": "2026-11-26T09:54:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "description": "",
       "readTime": "1 min read",
       "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "pubDate": "Thu, 26 Nov 2026 05:05:36 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 GMT",
       "image": "",
       "source": "Hugging Face",
       "category": "General"
@@ -82,46 +122,6 @@
       "pubDate": "2026-11-25T13:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "AI may soon change what it means to be a theoretical physicist",
-      "description": "Frontier AI is already solving problems that once took top physicists a full day.",
-      "readTime": "1 min read",
-      "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "pubDate": "Wed, 25 Nov 2026 12:00:28 +0000",
-      "image": "",
-      "source": "Ars Technica",
-      "category": "General"
-    },
-    {
-      "title": "An Indic Voice Agent with CUGA",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "pubDate": "Wed, 25 Nov 2026 10:22:09 GMT",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "General"
-    },
-    {
-      "title": "AI is straining America’s open records systems",
-      "description": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and",
-      "readTime": "1 min read",
-      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "pubDate": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "image": "",
-      "source": "MIT Technology Review",
-      "category": "General"
-    },
-    {
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "description": "",
-      "readTime": "1 min read",
-      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "pubDate": "Wed, 25 Nov 2026 00:00:00 GMT",
-      "image": "",
-      "source": "Hugging Face",
       "category": "General"
     }
   ]
