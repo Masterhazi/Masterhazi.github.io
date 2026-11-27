@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-27T02:33:41.292Z",
+  "generated_at": "2026-11-27T13:20:56.850Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "description": "",
+      "readTime": "1 min read",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "image": "",
+      "source": "Hugging Face",
+      "category": "General"
+    },
     {
       "title": "Come for the Games, Stay for the Community With GeForce NOW",
       "description": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. ",
@@ -111,16 +121,6 @@
       "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
       "pubDate": "2026-11-25T14:12:33.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Has vibe coding made open source the new normal for synths?",
-      "description": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to re",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-      "pubDate": "2026-11-25T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     }
