@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-27T13:20:56.850Z",
+  "generated_at": "2026-11-27T23:50:57.866Z",
   "summary": "",
   "insight": "",
   "highlights": [],
   "articles": [
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "description": "Widgets, your way. | Photo: Allison Johnson / The Verge\t\n\nAside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus.\nWhat I need ",
+      "readTime": "1 min read",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "pubDate": "2026-11-27T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "General"
+    },
     {
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
       "description": "",
@@ -111,16 +121,6 @@
       "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
       "pubDate": "2026-11-25T16:00:59.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "General"
-    },
-    {
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "description": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse",
-      "readTime": "1 min read",
-      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "pubDate": "2026-11-25T14:12:33.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge",
       "category": "General"
     }
